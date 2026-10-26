@@ -1,0 +1,6 @@
+{
+  // Asesor IA de la versión web. Secretos (no van acá): `npx wrangler secret put ANTHROPIC_API_KEY` y `... CLAVE_ACCESO`.
+  "name": "autostore-asesor",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01"
+}

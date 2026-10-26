@@ -780,17 +780,23 @@ function agregar(t,txt,src,box="chM"){const d=document.createElement("div");d.cl
   if(t==="a"&&src&&src.length)d.insertAdjacentHTML("beforeend",`<span class="src">Fichas consultadas: ${src.map(s=>esc(s.replace(/\.(pdf|txt)$/,""))).join(" · ")}</span>`);
   if(t==="a"&&Array.isArray(src)){d.insertAdjacentHTML("beforeend",'<button class="cp">Copiar respuesta</button>');d.querySelector(".cp").onclick=()=>copiar(txt.replace(/\*\*/g,"*"),"✓ Respuesta copiada")}
   $(box).append(d);$(box).scrollTop=1e9;return d}
+// versión web (GitHub Pages): el chat lo atiende el Worker de Cloudflare, protegido con contraseña
+const WEB=location.hostname.endsWith("github.io"),API=WEB?"https://autostore-asesor.WORKERS_SUB.workers.dev":"";
+function claveWeb(){if(!WEB)return"";let c="";try{c=localStorage.getItem("autostore_clave")||""}catch(e){}
+  if(!c){c=(prompt("Contraseña del Asesor IA")||"").trim();try{localStorage.setItem("autostore_clave",c)}catch(e){}}return c}
 async function preguntar(texto,historial,ctxId,comparar){
   const ediciones={};Object.entries(ED.mod).forEach(([id,m])=>ediciones[id]={pvp:m.pvp,bono:m.bono});ED.del.forEach(id=>ediciones[id]={...(ediciones[id]||{}),eliminado:true});
-  let r;try{r=await fetch("/api/chat",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({pregunta:texto,historial,comparar:comparar||null,contexto_id:Number.isInteger(ctxId)?ctxId:null,interno:!document.body.classList.contains("cliente"),ediciones,calidad:($("chQ")||{}).value||"preciso",usados:U.map(x=>({marca:x.marca,modelo:x.modelo,version:x.version,anio:x.anio,km:x.km,combustible:x.combustible,color:x.color,precio:x.precio,tipo:x.tipo,accesorios:x.accesorios,demo:!!x.demo}))})})}
-  catch(e){throw new Error("No se pudo conectar. Abrí la lista con INICIAR_LISTA.bat (necesita el servidor local).")}
-  const j=await r.json().catch(()=>({}));if(!r.ok)throw new Error(j.error||"Error "+r.status);return j}
+  let r;try{r=await fetch(API+"/api/chat",{method:"POST",headers:{"Content-Type":"application/json","x-clave":claveWeb()},body:JSON.stringify({pregunta:texto,historial,comparar:comparar||null,contexto_id:Number.isInteger(ctxId)?ctxId:null,interno:!document.body.classList.contains("cliente"),ediciones,calidad:($("chQ")||{}).value||"preciso",usados:U.map(x=>({marca:x.marca,modelo:x.modelo,version:x.version,anio:x.anio,km:x.km,combustible:x.combustible,color:x.color,precio:x.precio,tipo:x.tipo,accesorios:x.accesorios,demo:!!x.demo}))})})}
+  catch(e){if(WEB)throw new Error("No se pudo conectar con el asesor. Revisá la conexión a internet.");throw new Error("No se pudo conectar. Abrí la lista con INICIAR_LISTA.bat (necesita el servidor local).")}
+  const j=await r.json().catch(()=>({}));
+  if(r.status===401){try{localStorage.removeItem("autostore_clave")}catch(e){}throw new Error("Contraseña incorrecta. Volvé a preguntar para ingresarla de nuevo.")}
+  if(!r.ok)throw new Error(j.error||"Error "+r.status);return j}
 const fmtUsd=n=>"US$ "+(n<0.01?n.toFixed(4):n.toFixed(3));
-function mostrarGasto(j){const g=j.gasto;if(!g)return;
+function mostrarGasto(j){const g=j.gasto;if(!g){if(j.usd!=null)$("chG").textContent=$("ccG").textContent=`Esta consulta ≈ ${fmtUsd(j.usd)}`;return}
   $("chG").textContent=$("ccG").textContent=(j.usd!=null?`Esta consulta ≈ ${fmtUsd(j.usd)} · `:"")+`hoy ${fmtUsd(g.hoy)} (${g.consultas_hoy}) · este mes ${fmtUsd(g.mes)} (${g.consultas_mes})`}
-fetch("/api/estado").then(r=>r.json()).then(j=>mostrarGasto({gasto:j.gasto})).catch(()=>{});
+if(!WEB)fetch("/api/estado").then(r=>r.json()).then(j=>mostrarGasto({gasto:j.gasto})).catch(()=>{});
 // si el servidor se apaga con la página abierta, las fotos dejan de cargar: avisar una vez
-let avisoSrv=false;addEventListener("error",e=>{if(e.target.tagName!=="IMG"||avisoSrv)return;
+let avisoSrv=false;addEventListener("error",e=>{if(WEB||e.target.tagName!=="IMG"||avisoSrv)return;
   fetch("/api/estado").catch(()=>{avisoSrv=true;toast("⚠ El servidor de la lista está apagado: abrí INICIAR_LISTA.bat y recargá la página")})},true);
 async function enviar(){
   const t=$("chIn").value.trim();if(!t||$("chGo").disabled)return;$("chIn").value="";agregar("u",t);

@@ -112,20 +112,7 @@ def tabla_precios(ediciones, interno):
         filas.append(f"[{r['id']}] {r['marca']} | {r['modelo']} | {r['version']} | PVP {pvp}" + (f" | bono {bono}" if bono else "") + f" | final {pvp - bono}{extra}{est}{nota}")
     return "\n".join(filas)
 
-SISTEMA = """Sos el asesor de ventas de AutoStore (Colonia del Sacramento, Uruguay; Grupo Santa Rosa). Le respondés a Fernando, el vendedor, que te consulta en vivo mientras atiende a un cliente (en el salón o por teléfono). Tus respuestas tienen que poder leerse en voz alta en pocos segundos.
-
-REGLAS:
-1. Respondé SOLO con lo que está en la LISTA DE PRECIOS y en las FICHAS TÉCNICAS que figuran más abajo. No inventes equipamiento, cifras ni precios. Si el dato no está, decí claramente «eso no figura en la ficha que tengo» y sugerí confirmarlo con el importador (nunca lo supongas).
-2. Precios: todos son USD con IVA y sujetos a cambio. «Final» = PVP menos el bono del mes. Si el cliente pregunta cuánto sale, dá el precio final y aclará el bono si lo hay. Las versiones marcadas «Sin stock» o «Consultar» mencionalas.
-3. Si la pregunta es por un modelo con varias versiones (por ejemplo Luxury y Premium), respondé por versión: «Luxury: sí / Premium: no». Si una característica depende de la versión, decilo.
-4. Si no queda claro de qué modelo hablan y no hay vehículo abierto, preguntá cuál. Si hay un vehículo abierto en pantalla, asumí que habla de ese.
-5. Respondé en español rioplatense, corto y directo (2 a 6 líneas; viñetas si ayudan). Al final, si usaste una ficha, nombrala entre paréntesis, por ejemplo (ficha Omoda 5 SHS).
-6. Podés comparar modelos de la lista, sugerir alternativas por presupuesto o tipo (SUV, pick-up, eléctrico, híbrido), y armar un resumen listo para mandar por WhatsApp si te lo piden.
-7. No tenés datos de leasing, CIF ni costos internos (no se te pasan a propósito: el cliente puede estar escuchando). Si te los piden, decí que se consultan en la lista, en las columnas internas.
-8. No des consejo financiero ni prometas plazos de entrega, descuentos o tasas: eso lo confirma AutoStore.
-9. El 'bono' y la 'animación' son lo mismo. Los modelos 'Pro', 'Luxury', 'Elite', etc. son versiones del mismo modelo, no modelos distintos.
-10. Algunas fichas dicen «ARMADA CON FUENTES DE INTERNET»: son datos del fabricante o importador juntados de la web, no el folleto de Santa Rosa. Si usás un dato de ahí y la confianza es media o baja, aclaralo («según la ficha de internet, conviene confirmarlo»).
-11. Si hay versiones EN COMPARACIÓN, respondé comparándolas entre sí (por nombre corto de cada una), con las diferencias que importan para decidir: precio final, motor/potencia, consumo o autonomía, espacio, seguridad y equipamiento. Si te piden recomendar, decí para qué tipo de cliente conviene cada una."""
+SISTEMA = open(os.path.join(AQUI, "asesor_sistema.txt"), encoding="utf-8").read()   # mismas reglas que usa el Worker de la versión web
 
 # USD por millón de tokens: (entrada, salida, lectura de caché, escritura de caché 5 min). Fuente: tabla de modelos de Anthropic.
 PRECIOS = {"claude-sonnet-5-5": (2.00, 10.00, 0.20, 2.50), "claude-haiku-5-5": (0.10, 0.50, 0.01, 0.125),

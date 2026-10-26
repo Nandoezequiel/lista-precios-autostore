@@ -1,0 +1,222 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+ESPECIFICACIONES: combustible PHEV (híbrido enchufable), motor 1.5T. 2WD: transmisión DHT-1, 540 Nm / 240 kW, rendimiento mixto 6,0 L/100 km, neumáticos 18-265-60. 4WD: transmisión DHT-3, 760 Nm / 268 kW, rendimiento mixto 6,3 L/100 km, neumáticos 19-255-60. Dimensiones: largo 4800 mm, ancho 1950 mm, alto 1843 mm.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+
+
+## Motor / Transmisión
+
+
+
+## Tipo de combustible
+
+  (Motor 1.5T 1.5T)
+
+  (Transmisión DHT-1 DHT-3)
+
+  (Potencia combinada 540 Nm / 240 kW 760 Nm / 268 kW)
+
+  (Rendimiento mixto 6.0 L/100Km 6.3 L/100Km)
+
+
+
+## Chasis y dirección
+
+- Suspensión delantera independiente MacPherson: en todas
+
+- Suspensión trasera independiente multibrazo: en todas
+
+- Dirección asistida eléctrica (EPS): en todas
+
+- Dirección asistida sensible a la velocidad: en todas
+
+- Modo de asistencia de dirección ajustable (Sport/Comfort/Light), con memoria: en todas
+
+- Freno de estacionamiento electrónico: en todas
+
+- Auto Hold: en todas
+
+- Control de par de frenado (BTC) Tracción integral mediante motor eléctrico: en todas
+
+  (Bloqueo de diferencial trasero con control electrónico)
+
+  (Selector de cambios montado en la columna de dirección)
+
+  (Discos ventilados delanteros / discos ventilados traseros)
+
+  (Soporte exterior para rueda de auxilio)
+
+  (Neumático 2WD: 18-265-60)
+
+  (Neumático 4WD: 19-255-60)
+
+
+
+## Exterior
+
+  (Portón trasero manual)
+
+  (Limpiaparabrisas delantero sin estructura metálica)
+
+  (Limpiaparabrisas con sensor de lluvia)
+
+  (Techo solar panorámico)
+
+  (Antena tipo aleta de tiburón)
+
+  (Molduras de marco de ventanas en negro brillante)
+
+  (Barras de techo)
+
+  (Gasolina: parrilla vertical + faros cuadrados;)
+
+  (HEV/PHEV: diseño renovado PHEV nacional)
+
+  (Moldura de guardabarros)
+
+  (Descarga Vehicle-to-Load (V2L) (solo PHEV))
+
+  (Arranque remoto (llave))
+
+
+
+## Interior
+
+  (Volante multifunción)
+
+  (Volante de cuero de microfibra)
+
+  (Ajuste manual del volante en 4 direcciones)
+
+  (Asidero de asistencia en pilar B)
+
+  (Asidero en el tablero del lado del acompañante)
+
+  (Porta anteojos superior)
+
+  (Carga inalámbrica (50 W))
+
+  (Toma de corriente delantera de 12 V)
+
+  (Cortinilla solar trasera)
+
+  (Tablero / revestimientos de puertas de tacto suave)
+
+  (Luz para camping)
+
+  (Estribos estándar de plástico)
+
+  (Asideros superiores de asistencia (excepto conductor))
+
+  (Apoyabrazos central delantero abatible)
+
+  (Portavasos delanteros en consola)
+
+  (Consola central refrigerada mediante el aire acondicionado)
+
+  (Espejo de cortesía + iluminación puntual)
+
+  (Asidero del pilar A (solo acompañante))
+
+  (Toma de corriente de 12 V en el compartimento de equipaje)
+
+  (Toma de 220 V (descarga en habitáculo, 2,2 kW) (PHEV))
+
+  (Toma de 220 V compatible con mercados extranjeros)
+
+  (Ganchos fijos para carga)
+
+
+
+## Asientos
+
+  (Asientos de cuero)
+
+  (Asiento del conductor con ajuste eléctrico de 6 posiciones)
+
+  (Asiento del conductor con ajuste eléctrico de 8 posiciones)
+
+  (Asiento del acompañante con ajuste manual de 4 posiciones)
+
+  (Asiento del acompañante con ajuste eléctrico de 4 posiciones)
+
+  (Ventilación de asientos delanteros (cojín + respaldo))
+
+  (Soporte lumbar eléctrico del conductor, 2 posiciones)
+
+  (Soporte lumbar eléctrico del conductor, 4 posiciones)
+
+  (Memoria del asiento del conductor + acceso fácil (vinculado a memoria de espejos))
+
+  (Asientos traseros abatibles 60/40)
+
+  (Apoyacabezas central trasero)
+
+  (Apoyabrazos central trasero con portavasos)
+
+  (Respaldo trasero con reclinación manual (2 posiciones))
+
+
+
+## Seguridad activa y pasiva
+
+  (Airbags delanteros dobles)
+
+  (Airbags laterales delanteros)
+
+  (Airbags de cortina laterales)
+
+  (Cinturones delanteros dobles con pretensor y limitador de fuerza + CLT)
+
+  (Cinturones traseros exteriores con pretensor y limitador de fuerza)
+
+  (Cinturón de seguridad trasero central de 3 puntos)
+
+  (Recordatorio de cinturón de seguridad (delanteros))
+
+  (Recordatorio de cinturón de seguridad (traseros))
+
+  (Seguro mecánico para niños)
+
+  (Control de tracción (TCS))
+
+  (Intervención de movimiento de balanceo (RMI))
+
+  (Control de descenso en pendientes (HDC))
+
+  (Asistente de arranque en pendientes (HHC))
+
+  (Sistema de prioridad de frenado)
+
+  (Sistema de monitoreo de presión de neumáticos (TPMS))
+
+  (Sensores de estacionamiento traseros (4))
+
+  (Sensores de estacionamiento delanteros (4))
+
+
+
+## Climatización / Refrigeración
+
+  (Climatizador automático de doble zona)
+
+  (Salidas de aire acondicionado traseras)
+
+  (Visualización de temperatura exterior)
+
+  (Colores disponibles)
+
+  (@gwm_uruguay gwm.uruguay)
+
+(no se pudieron separar las columnas)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+Rendimiento mixto
++6.0 L/100Km
+6 Airbags y alerta
+de colisión frontal
+Sistema híbrido
+auto-recargable
+Torque combinado
+ +540 Nm

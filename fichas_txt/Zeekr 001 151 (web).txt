@@ -1,0 +1,13 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Zeekr 001; confianza media)
+Fuentes:
+- Autoblog Uruguay lanzamiento 001 (Flagship AWD USD 84.990): https://www.autoblog.com.uy/2024/07/lanzamiento-zeekr-001.html
+- Autoblog Uruguay lanzamiento marca: https://www.autoblog.com.uy/2024/10/lanzamiento-zeekr-para-uruguay-los.html
+- sitio oficial Zeekr Uruguay (solo imágenes; no publica ficha): https://www.zeekr.com.uy/
+Notas: Solo Autoblog Uruguay (julio 2024); Zeekr Uruguay no publica ficha. Potencia inconsistente en fuente (315 kW vs 536 cv); se usó 315 kW=428 HP (coincide con el X Flagship), pero el 001 AWD global es bastante más potente; verificar con importador. DC 200 kW (KM77) vs 135 kW citado en el artículo.
+
+Zeekr 001 Flagship AWD (Santa Rosa Uruguay, lanzamiento julio 2024, importado de Ningbo, China).
+MOTOR/BATERÍA: dos motores (uno por eje), AWD, 315 kW según Autoblog (428 HP; el mismo artículo cita 536 cv, inconsistente), 543 Nm; 0-100 km/h 3,8 s; vel. máx. 200 km/h. Batería NMC 100 kWh brutos (94 kWh útiles), 400 V; autonomía 580 km WLTC; consumo 18,5 kWh/100 km. Carga AC máx. 20 kW (0-100% en 5 h 50); DC máx. 200 kW (10-80% en ~30 min). V2L.
+DIMENSIONES: 4955 x 1999 x 1548 mm; entre ejes 2999; despeje 162 mm; baúl 539 L (2144 L abatido); peso 2335 kg. Llantas 22" 265/40 R22, calipers blancos, sin rueda de auxilio. Suspensión delantera McPherson, trasera multilink, suspensión neumática regulable en altura (exclusiva Flagship); modos Eco, Comfort, Sport, Personal, Snow, Off-Road, Sand.
+SEGURIDAD: 7 airbags, AEB delantero y trasero, ACC Stop&Go, mantenimiento de carril, punto ciego, tráfico cruzado, cámaras 360°, estacionamiento autónomo, TPMS, i-Size y Top Tether.
+EQUIPAMIENTO: pantalla 15,4" con CarPlay/Android Auto, tablero 8,8", HUD 14,7", techo panorámico, faros LED adaptativos, llave UWB y portón manos libres, Qi, volante calefaccionado, asientos eléctricos con memoria; exclusivo Flagship: asientos delanteros ventilados con masaje, climatizador de 3 zonas con PM2.5, audio Yamaha 12 parlantes + subwoofer, iluminación ambiental, retrovisores antideslumbrantes, alerón y apliques Highlighting Black, techo negro, tapizado eco-cuero azul/blanco.
+GARANTÍA: 4 años o 100.000 km; batería 8 años o 160.000 km. PRECIO lanzamiento: USD 84.990.

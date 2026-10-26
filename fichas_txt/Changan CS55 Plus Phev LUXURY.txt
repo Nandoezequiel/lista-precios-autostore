@@ -1,0 +1,427 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Changan CS55 Plus PHEV (híbrido enchufable 1.5L, transmisión DHT): Luxury y Elite. ■ en la ficha = lo trae.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 10]
+  (CS55 PLUS PHEV)
+
+  (FICHA)
+
+  (TECNICA)
+
+  (EXTERIOR E INTERIOR DEL VEHICULO)
+
+  (Motor Cilindrada 1.5L 1.5L)
+
+
+
+## Tipo
+
+  (Trasmisión Tipo DHT DHT)
+
+- Modo de manejo Sport: en todas
+
+- Modo de manejo Eco: en todas
+
+- Modo de manejo Normal: en todas
+
+- Tapa del tanque Apertura electrónica: en todas
+
+- Mismo color que vehículo de combustible: en todas
+
+- Suspensión Dirección asistida es sensible a la velocidad del vehículo: en todas
+
+  (Tipo de suspensión delantera Independiente MacPherson)
+
+  (y dirección)
+
+  (Tipo de suspensión trasera Independiente de múltiples brazos)
+
+  (SEGURIDAD)
+
+- Ruedas y frenos Llantas de aluminio: en todas
+
+  (Tipo de neumáticos R18 R19)
+
+- Discos ventilados: en todas
+
+- Discos sólidos en frenos traseros: en todas
+
+- Función de Sistema de frenos antibloqueo (ABS): en todas
+
+- Distribución electrónica de frenado (EBD) estabilización: en todas
+
+- Programa Electrónico de Estabilidad (ESP): en todas
+
+- de la carrocería Control de tracción (TCS): en todas
+
+- Asistencia de frenado (BA): en todas
+
+- Asistencia en pendientes (HHC): en todas
+
+- Descenso controlado en pendientes (HDC): en todas
+
+- Freno de estacionamiento dinámico (DBF): en todas
+
+- Prevención de vuelcos (ROM): en todas
+
+  (Radares Radares de estacionamiento delantero - 6)
+
+
+
+## Radares de estacionamiento trasero
+
+- Airbags Airbag de conductor: en todas
+
+- Airbag de pasajero: en todas
+
+- Airbag cortina: en todas
+
+- Otros atributos Auto Hold: en todas
+
+- Desbloqueo automático al colisionar la puerta de seguridad: en todas
+
+- Cierre automático por detección de velocidad del vehículo: en todas
+
+- Arranque sin llave: en todas
+
+- Desbloqueo automático al apagar el motor al estacionar: en todas
+
+- Recordatorio de liberación del freno de mano: en todas
+
+- Recordatorio de faros apagados: en todas
+
+  (Método de freno de estacionamiento Freno de mano electrónico)
+
+  (Ubicación del grabador de conducción Pantalla de control central)
+
+  (Método de advertencia de puerta no cerrada Luz de advertencia / sonido)
+
+  (changan.uy)
+
+
+[página 11]
+  (CS55 PLUS PHEV)
+
+  (INTERIOR)
+
+- Dashboard LCD completo de 10 pulgadas: en todas
+
+- Elementos de visualización (velocidad del motor,: en todas
+
+  (velocidad del vehículo, temperatura del agua, kilometraje,)
+
+  (recordatorio de cinturón de seguridad no abrochado,)
+
+  (visualización de marcha))
+
+- Toma corriente 12V en la fila delantera: en todas
+
+  (ASIENTOS)
+
+  (Conductor Método de ajuste del asiento Eléctrico Eléctrico)
+
+  (Rango de ajuste del asiento 6 posiciones 6 posiciones)
+
+- Función de memoria del asiento: Luxury NO; Elite SÍ
+
+- Función de bienvenida del asiento: Luxury NO; Elite SÍ
+
+  (Pasajero Método de ajuste del asiento Manual Eléctrico)
+
+  (Rango de ajuste del asiento 4 posiciones 4 posiciones)
+
+  (delantero)
+
+  (Segunda Método de ajuste del asiento Manual Manual)
+
+- Ajuste del reposacabezas hacia arriba y abajo fila: en todas
+
+- ISOFIX child safety interface: en todas
+
+  (CONFIGURACION MULTIMEDIA)
+
+- Segunda Simulación de estacionamiento (indicación frontal y trasera): en todas
+
+- Bluetooth fila: en todas
+
+- Radio: en todas
+
+  (USB 1 delante, 2 detrás)
+
+- Formatos compatibles: MP3, MP4, WMA, AVI, RMVB: en todas
+
+
+
+## Altavoces
+
+- Software de mejora del sonido: en todas
+
+  (ILUMINACION)
+
+- Luces Luz del maletero: en todas
+
+- La iluminación de fondo de todo el vehículo es ajustable interior: en todas
+
+- Iluminación ambiental (puerta delantera): en todas
+
+- Luz indicadora de posición del interruptor de encendido: en todas
+
+- Luces Función de apagado retrasado de los faros: en todas
+
+- Apertura y cierre automático de los faros delanteros exterior: en todas
+
+  (Altura y luz baja de los faros LED LED)
+
+- Luz alta inteligente (FAB): Luxury NO; Elite SÍ
+
+- Luz decorativa de los faros antiniebla: Luxury NO; Elite SÍ
+
+- Luces traseras antiniebla: en todas
+
+- Luces de reversa (dos): en todas
+
+- Ajuste manual electrónico de la altura de los faros: en todas
+
+- Tipo de luces traseras: combinación de faros de fibra: en todas
+
+  (óptica + LED)
+
+- Función de indicación de frenado de emergencia mediante: en todas
+
+  (señal BCM)
+
+- Luz de freno de alta posición LED: en todas
+
+- Recordatorio de olvido de los faros encendidos: en todas
+
+  (changan.uy)
+
+
+[página 12]
+  (CS55 PLUS PHEV)
+
+  (CONFORT)
+
+- Apertura Apertura por control remoto: en todas
+
+- Maletero eléctrico Maletero: Luxury NO; Elite SÍ
+
+- Maletero con sensor (apertura por sensor): Luxury NO; Elite SÍ
+
+  (Techo Método de apertura Eléctrico Eléctrico)
+
+  (Tipo de techo Solar Solar panorámico)
+
+  (solar)
+
+- Función de protección anti-atrapamiento del techo solar: en todas
+
+- Cierre automático en días de lluvia: en todas
+
+- Cierre del techo solar con llave de control remoto: en todas
+
+  (Retrovisor Método de ajuste de espejo retrovisor exterior Eléctrico Eléctrico)
+
+- Desempañado / calefacción del espejo retrovisor exterior exterior: Luxury NO; Elite SÍ
+
+- Plegado automático después de bloquear el coche: Luxury NO; Elite SÍ
+
+- Espejo de la derecha se inclina hacia abajo al dar marcha atrás: Luxury NO; Elite SÍ
+
+- Retrovisor Espejo retrovisor interior anti-deslumbrante: en todas
+
+  (Tipo de anti-deslumbrante Manual Manual)
+
+  (interior)
+
+- Luz visera conductor: Luxury NO; Elite SÍ
+
+- Calefacción Aire acondicionado automático: en todas
+
+  (Control de zona de temperatura Una sola zona Una sola zona)
+
+- Pantalla de temperatura del aire acondicionado: en todas
+
+- Filtro PM2.5": en todas
+
+- Asistencia Control de crucero: en todas
+
+- Control de crucero adaptativo (ACC) y conectividad: Luxury NO; Elite SÍ
+
+- Asistencia de conducción por imagen:: en todas
+
+  (grabación panorámica 360)
+
+- Asistencia de conducción con crucero automático - Nivel 2: Luxury NO; Elite SÍ
+
+- Control de crucero adaptativo integrado (IACC) -: Luxury NO; Elite SÍ
+
+- Control de crucero adaptativo integrado (IACC): Luxury NO; Elite SÍ
+
+- Advertencia de desviación de carril (LDW): Luxury NO; Elite SÍ
+
+- Advertencia de colisión frontal (FCW): Luxury NO; Elite SÍ
+
+- Asistencia cambio de carril / vía (incluye:: Luxury NO; Elite SÍ
+
+  (monitoreo de punto ciego, advertencia lateral y trasera,)
+
+  (advertencia de apertura de puertas))
+
+- Centrado en el carril: Luxury NO; Elite SÍ
+
+- Asistencia en tráfico congestionado (TJA): Luxury NO; Elite SÍ
+
+- AEB-C/I (Frenado automático de emergencia): Luxury NO; Elite SÍ
+
+- AEB-P (Frenado automático de emergencia - Peatones) -: Luxury NO; Elite SÍ
+
+- Asistencia de estacionamiento automática: Luxury NO; Elite SÍ
+
+- Conectividad Android Auto: en todas
+
+  (Tamaño de la pantalla de control central 10.25” 12.30”)
+
+  (Idioma de la pantalla de control central Inglés y español)
+
+  (Interacción por voz inteligente Inglés y español)
+
+  (Carga inalámbrica para teléfonos móviles - -)
+
+  (Reducción activa de ruido - -)
+
+- Otros Kit de herramientas (incluye: fijador de tuercas, triángulo de: en todas
+
+  (advertencia, gancho de remolque, chaleco reflectante))
+
+  (changan.uy)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+La SUV Híbrida Enchufable de Changan
+CS55 PLUS PHEV
+Autonomía
+Eléctrica (NEDC)
+107KM
+Autonomía
+Combinada (NEDC)
+1040KM
+Transmisión
+Automática
+DHT
+(Eco, Normal, Sport)
+Sistemas avanzados de
+asistencia al conductor
+ADAS
+
+[texto de la página 2]
+CS55 PLUS PHEV
+ESTILO
+QUE INSPIRA
+MOVIMIENTO.
+El diseno exterior del CS55 PLUS PHEV combina carácter, elegancia 
+y tecnología en perfecta armonía.
+Cada detalle fue pensado para destacar, no por exceso, sino por 
+precisión y estilo.
+
+[texto de la página 3]
+CS55 PLUS PHEV
+Faros delanteros Full LED
+con encendido automático
+Llantas de aleación de 19”
+Versión Elite
+Techo panorámico y
+barras de techo
+Versión Elite
+
+[texto de la página 4]
+CS55 PLUS PHEV
+Cada detalle del interior fue diseñado para ofrecer comodidad, 
+conectividad y una sensación de control total.
+Un espacio moderno que acompaña con inteligencia cada recorrido.
+TECNOLOGIA,
+CONFORT Y
+ESTILO.
+´
+
+[texto de la página 5]
+CS55 PLUS PHEV
+Conectividad con
+CarPlay® y Android Auto
+Pantalla touch de 12,3"
+Volante deportivo forma D
+Asientos con ajuste
+eléctrico 6 posiciones
+
+[texto de la página 6]
+El CS55 PLUS PHEV incorpora sistemas avanzados de asistencia al 
+conductor que refuerzan la seguridad activa en cada viaje.
+Tecnología pensada para prevenir, asistir y proteger.
+TECNOLOGIA
+PENSADA PARA
+CUIDARTE.
+´
+CS55 PLUS PHEV
+
+[texto de la página 7]
+CS55 PLUS PHEV
+El sistema Plus iDD (Intelligent Dual Drive) de Changan es una 
+tecnología híbrida enchufable (PHEV) diseñada para ofrecer lo 
+mejor de un auto eléctrico y uno de combustión en un mismo 
+vehículo.
+LA LIBERTAD DE
+VIAJAR SIN LIMITES
+´
+
+[texto de la página 8]
+CS55 PLUS PHEV
+A diferencia de un híbrido convencional, el sistema iDD 
+te permite lo mejor de los dos mundos pudiendo mover 
+el auto de tres formas principales:
+Modo 100% eléctrico
+Modo híbrido / paralelo
+Ambos motores trabajan juntos para darte la máxima potencia (215 CV y 
+330 Nm de torque), logrando mayor respuesta y aceleraciones rápidas.
+Modo rango extendido (REEV)
+El motor a combustible 1.5 Turbo actúa principalmente como generador 
+para cargar la batería mientras circulas, lo que elimina el problema de la 
+ansiedad y la preocupación por la autonomía. 
+Ideal para la ciudad y el día a día.
+Puedes recorrer hasta 107 km (NEDC) sin gastar una gota de combustible 
+tal cual como si fuera un vehículo eléctrico.
+
+[texto de la página 9]
+CS55 PLUS PHEV
+AUTONOMIA 
+ILIMITADA
+´
+La gran ventaja de Changan CS55 Plus PHEV es que combinando su 
+tanque lleno de combustible con la batería cargada al 100%, 
+permite alcanzar una autonomía total aproximada de entre 1,000 y 
+1,100 km (NEDC).
+Changan CS55 Plus PHEV te ofrece un sistema híbrido enchufable y autorrecargable 
+que combina lo mejor de ambos mundos: puedes cargarlo en casa o en estaciones 
+públicas como un vehículo eléctrico y, si no tienes dónde enchufarlo, el propio motor 
+a nafta recupera energía para la batería mientras conduces.
+Flexibilidad de Carga
+El Changan CS55 Plus PHEV incorpora el modo IEM (Intelligent Energy 
+Management), que decide automáticamente cuándo usar cada motor según tu 
+estilo de manejo para optimizar el consumo de combustible, brindándote la 
+suavidad, el confort y el ahorro de un vehículo eléctrico en el día a día, junto con la 
+libertad de un motor a combustión para recorrer largas distancias cuando lo 
+necesites.
+Inteligencia (IEM)
+
+[texto de la página 13]
+099 10 08 55
+2288 00 25
+changan@santarosa.com.uy 
+Centro
+Cerro Largo 907.
+Montevideo, Uruguay
+Car One
+Camino de los Horneros, 15800.
+Canelones, Uruguay
+changan.uy
+SMART YOUR FUTURE

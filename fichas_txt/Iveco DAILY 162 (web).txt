@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Iveco DAILY; confianza media)
+Fuentes:
+- ficha oficial iveco.com.uy Iveco Tector 11-190: https://www.iveco.com.uy/productos/tector-11-190
+- linea Tector (Brasil), referencia de nombre: https://www.iveco.com/brasil/Tector
+Notas: El generador puso 'DAILY' pero es un Iveco Tector (Brasil/Mercosur). Dos entre ejes en el PDF (3.900 y 4.455 mm); se usó el de la lista (4.455).
+
+Iveco Tector 11-190 (Tector Attack 110E19), camión mediano 4x2, cabina simple. MOTOR FPT NEF 4 ID 4.5 L turbo common rail, 190 CV (187 HP) a 2.500 rpm, 610 Nm de 1.350 a 2.100 rpm, Euro 5 con SCR (tanque de urea 27 L). Caja Eaton 6206 B manual de 6 marchas, embrague 14,25'' hidráulico. Ejes Dana 7K delantero y S16-130 trasero, relación 4,56:1. PBT 10.600 kg (eje del. 3.600, tras. 7.000), CMT 13.000 kg. Carga útil + carrocería 7.325 kg con 4.455 mm entre ejes (largo 6.969 mm; peso en orden de marcha 3.275 kg). Dimensiones: ancho de cabina 2.181 mm, altura de cabina 2.507 mm (2.625 con climatizador), voladizo delantero 1.249/trasero. Neumáticos 235/75 R17.5. Tanque 150 L. Frenos neumáticos S-cam con ABS y EBL, freno de escape. Equipamiento: radio+USB+Bluetooth, asiento conductor neumático con apoyacabezas, escotilla de techo, A/A manual, alzacristales eléctricos, tacógrafo digital BVDR. Velocidad 120 km/h.

@@ -1,0 +1,382 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+NISSAN FRONTIER — catálogo con 16 versiones en columnas. Cada fila da los 16 valores en el mismo orden que COLUMNAS (columna 1 a 16); «(todas)» = igual en las 16; «S» = de serie; «-» = no la trae. Transmisión indica 2WD/4WD y las filas 6MT/7AT la caja. Las columnas 1 a 4 son nafta 2.5 (S cabina simple, S doble cabina, SE, PRO4X 4x4 automática) y de la 5 a la 16 diésel 2.3 (S, SE, XE, LE y PRO4X).
+
+COLUMNAS (en orden de izquierda a derecha en la ficha): 1=CABINA SIMPLE S | 2=DOBLE CABINA S | 3=DOBLE CABINA SE | 4=DOBLE CABINA PRO4X | 5=CABINA SIMPLE S | 6=DOBLE CABINA S | 7=DOBLE CABINA S | 8=DOBLE CABINA SE | 9=DOBLE CABINA SE | 10=DOBLE CABINA XE | 11=DOBLE CABINA XE | 12=DOBLE CABINA XE | 13=DOBLE CABINA LE | 14=CABINA SIMPLE LE | 15=DOBLE CABINA LE | 16=DOBLE CABINA PRO4X
+
+## Motor
+- Combustible: NAFTA | NAFTA | NAFTA | NAFTA | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL | DIESEL
+- Número de cilindros: 4 in line | 4 in line | 4 in line | 4 in line | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4
+- Número de válvulas: 16 (todas)
+- Desplazamiento (litros): 2.5 (2488cc) | 2.5 (2488cc) | 2.5 (2488cc) | 2.5 (2488cc) | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488 | 2488
+- : 158 | 158 | 158 | 160 | 160 | 160 | 160 | 160 | 160 | 187 | 187 | 187 | 187 | 187 | 187 | 187
+
+## Potencia neta (hp)
+- : 118@6000 | 118@6000 | 118@6000 | 121@6000 | 120@3600 | 120@3600 | 120@3600 | 120@3600 | 120@3600 | 140@3600 | 140@3600 | 140@3600 | 140@3600 | 140@3600 | 140@3600 | 140@3600
+
+## Potencia (Kw @ rpm)
+- Par (Nm @ rpm): 233@4000 | 233@4000 | 233@4000 | 238@4000 | 403@3600 | 403@2000 | 403@2000 | 403@2000 | 403@2000 | 450@2000 | 450@2000 | 450@2000 | 450@2000 | 450@2000 | 450@2000 | 450@2000
+- Diámetro y carrera (mm): 89/100 (todas)
+- Relación de compresión (: 1): 10 | 10 | 10 | 10 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15
+- Sistema de suministro de combustible: MPI | MPI | MPI | MPI | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll | Common roll
+- Bloqueo del diferencial trasero: - | - | - | S | - | - | S | - | S | - | S | S | - | S | S | S
+- Transmisión: 2WD | 2WD | 2WD | 4WD | 2WD | 2WD | 4WD | 2WD | 4WD | 2WD | 4WD | 4WD | 2WD | 4WD | 4WD | 4WD
+- Transmisión manual (6MT): 6MT | 6MT | 6MT | - | 6MT | 6MT | 6MT | 6MT | 6MT | 6MT | - | 6MT | 6MT | 6MT | - | -
+- Transmisión automática (7AT): - | - | - | 7AT | - | - | - | - | - | - | 7AT | - | - | - | 7AT | 7AT
+
+## Relación de transmisión 1ra
+- : 4,685 | 4,783 | 4,783 | 4,783 | 4,685 | 4,685 | 4,685 | 4,685 | 4,685 | 4,685 | 4,685 | 4,887 | 4,685 | 4,685 | 4,887 | 4,887
+- 2da: 2,478 | 3,103 | 3,103 | 3,103 | 2,478 | 2,478 | 2,478 | 2,478 | 2,478 | 2,478 | 2,478 | 3,17 | 2,478 | 2,478 | 3,17 | 3,17
+- 3ra: 1,207 | 1,984 | 1,984 | 1,984 | 1,623 | 1,623 | 1,623 | 1,623 | 1,623 | 1,623 | 1,623 | 2,027 | 1,623 | 1,623 | 2,027 | 2,027
+- 4ta: 1,371 | 1,371 | 1,371 | 1,371 | 1,207 | 1,207 | 1,207 | 1,207 | 1,207 | 1,207 | 1,207 | 1,412 | 1,207 | 1,207 | 1,412 | 1,412
+- 5ta: 1 (todas)
+- 6ta: 0,808 | 0,808 | 0,808 | 0,871 | 0,808 | 0,808 | 0,808 | 0,808 | 0,808 | 0,808 | 0,808 | 0,864 | 0,808 | 0,808 | 0,864 | 0,864
+- 7ta: - | - | - | 0,775 | - | - | - | - | - | - | - | 0,775 | - | - | 0,775 | 0,775
+
+## Reversa (:1)
+- : 4,709 | 4,709 | 4,709 | 3,859 | 4,709 | 4,709 | 4,709 | 4,709 | 4,709 | 4,709 | 4,709 | 4,041 | 4,709 | 4,709 | 4,041 | 4,041
+- Relación de transmisión ﬁnal (: 1): 4,636 | 4,636 | 4,636 | · | · | · | · | · | · | · | · | · | · | · | · | ·
+- : · | · | · | 3,916 | 3,538 | 3,538 | 3,538 | 3,538 | 3,538 | 3,538 | 3,538 | 3,357 | 3,538 | 3,538 | 3,357 | 3,357
+
+## Chasis y suspención
+- Tipo de suspensión Delantera Doble horquilla + estabilizador + postura global: S (todas)
+- Doble horquilla + estabilizador + postura de minería: - (todas)
+- Tipo de suspensión Trasera Ballesta + Postura global: S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Multi-Link (5-Link) + Postura global: - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## Frenos
+- Tipo: Hidráulicos (todas)
+- Tipo de frenos Delanteros: Discos ventilados (todas)
+- Tipo de frenos Traseros: Tambor (todas)
+
+## Dimensiones (mm) / Capacidad (L)
+- Longitud total: 5331.7 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253 | 5253
+- Ancho: 1790 | 1850 | 1850 | 1875 | 1790 | 1850 | 1850 | 1850 | 1850 | 1850 | 1850 | 1850 | 1850 | 1850 | 1850 | 1875
+- Altura total: 1755.8 | 1803.5 | 1809 | 1851 | 1755.8 | 1803 | 1822.3 | 1803 | 1822.3 | 1803 | 1822.3 | 1822.3 | 1842.7 | 1857 | 1857 | 1850.3
+- Peso en vacío: 1708 | 1788 | 1801 | 1950 | 1755 | 1855 | 1960 | 1855 | 1950 | 1880 | 1960 | 1975 | 1920 | 2000 | 2015 | 2015
+- : · | · | · | · | · | 1877 | · | · | · | · | · | · | · | · | · | ·
+- Máx. Peso en vacío: 1712 | 1807 | 1807 | 1952 | 1765 | · | 1979 | 1867 | 1962 | 1892 | 1972 | 1987 | 1920 | 2000 | 2015 | 2015
+- GVWR: 2550 | 2550 | 2550 | 2910 | 2850 | 2990 | 3080 | 2990 | 3080 | 2990 | 3080 | 3150 | 2990 | 3080 | 3150 | 3150
+- Distancia al piso: 208 | 206,2 | 214,1 | 233 | 208 | 206,2 | 227,2 | 206,2 | 227,2 | 214,1 | 227,2 | 227,2 | 220,1 | 233,2 | 233,2 | 227,2
+- Carga útil (sin pasajeros) Kg: 842 | 762 | 749 | 960 | 1095 | 1135 | 1120 | 1130 | 1110 | 1120 | 1175 | 1070 | 1080 | 1135 | 1135 | 1135
+- Capacidad de remolque Kg: 1588 | 1588 | 1588 | 1588 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500 | 3500
+- Capacidad del tanque de combustible L: 80 (todas)
+
+## Llantas
+- Tipo de neumáticos 205R16C: S | S | - | - | S | S | - | S | - | - | - | - | - | - | - | -
+- 255 / 65R17: - | - | S | - | - | - | - | - | - | - | - | - | - | - | - | -
+- 255 / 65R17 + Todo terreno (OWL): - | - | - | S | - | - | S | - | S | S | S | S | - | - | - | S
+- 255 / 60R18: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## 16" + Acero + Tapa Central
+- Tamaño y material de la rueda: S | S | - | - | S | S | - | S | - | - | - | - | - | - | - | -
+- 17" + Acero + Tapa Central: - | - | - | - | - | - | S | - | - | - | - | - | - | - | - | -
+- Llanta 17 " (todoterreno): - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+- Llanta 17 ": - | - | S | - | - | - | - | - | S | S | S | S | - | - | - | -
+- Llanta 18 ": S | S | - | S | - | - | - | - | - | - | - | - | S | S | S | -
+- Rueda de repuesto Neumático de repuesto + rueda de acero: S | S | S | S | S | S | S | S | S | S | S | S | - | - | - | S
+- Neumático de repuesto + Llanta: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## Visibilidad
+- Espejo exterior: S | S | - | - | S | S | S | - | - | - | - | - | - | - | - | -
+
+## Espejo de puerta exterior (Negro) + Plegado manual
+- : - | - | S | - | - | - | - | S | S | - | - | - | - | - | - | -
+
+## + Ajuste eléctrico)
+
+## Espejo de puerta exterior (de color + plegable eléctrico
+- : · | · | · | · | · | · | · | · | · | S | S | S | · | · | · | ·
+- : - | - | - | - | - | - | - | - | - | · | · | · | - | - | - | -
+
+## + ajuste eléctrico + intermitente + calefactor)
+
+## Espejo de puerta exterior (de color + Plegado eléctrico
+- + Ajuste eléctrico + Señal de giro + Calefactor: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## + Plegado automático + Cámara)
+
+## Espejo de puerta exterior (pintado de negro + Plegado eléctrico
+- + Ajuste eléctrico+ Intermitente + Calentador: - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+
+## + Plegado automático + Cámara)
+- Espejo de habitación Espejo retrovisor interno (atenuación manual ): S | S | S | - | S | S | S | S | S | S | S | S | - | - | - | -
+- Espejo retrovisor interno (atenuación automática): - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+- Faros Faros halógenos (negros): S | S | S | - | S | S | S | S | S | S | S | S | - | - | - | -
+- Faros LED (negros): - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+
+## Sistema de luz automático
+- Con luz automática + peligro automático + Follow me Home: - | - | - | S | - | - | - | - | - | S | S | S | S | S | S | S
+- Lámpara de niebla frontal Luces antiniebla: - | - | - | - | · | · | · | · | · | · | · | · | · | · | · | ·
+- : · | · | · | · | - | - | - | - | - | S | S | S | - | - | - | -
+- Luces antiniebla (LED): - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+- : · | · | · | · | S | S | S | S | S | S | S | S | - | - | - | -
+- Luz trasera Luces traseras combinadas: S | S | S | - | · | · | · | · | · | · | · | · | · | · | · | ·
+- Luces traseras combinadas (LED): - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+- Luces de circulación diurna (tipo Signature): - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+- Limpiaparabrisas delantero Limpiaparabrisas Frontal (Intermitente + Niebla): - (todas)
+
+## Limpiaparabrisas Frontal (Intermitente variable
+- : S | S | S | - | S | S | S | S | S | - | - | - | - | - | - | -
+
+## + Niebla + Sensible a la velocidad)
+
+## Limpiaparabrisas Frontal
+- : - | - | - | S | - | - | - | - | - | S | S | S | S | S | S | S
+
+## (Intermitente variable + Detección de niebla + Lluvia)
+
+## Tablero
+- Con control de crucero (ASCD): - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## Control de crucero / limitador de velocidad
+- Tipo de volante Cuero: - | - | - | S | - | - | - | - | - | S | S | S | S | S | S | S
+- Dirección asistida Potenciado Hidráulico: S (todas)
+- Posición del volante Con inclinación manual: S | S | S | S | · | · | · | · | · | · | · | · | · | · | · | ·
+- Cambiar 4X4 a 4X2 Con interruptor 4WD (tipo giratorio): - | - | - | S | - | - | S | - | S | - | S | · | - | S | S | S
+- Palanca de cambio de paleta Con perilla de cambio Modo M: - | - | - | S | - | - | - | - | - | - | - | S | - | - | S | S
+- Freno de mano Cuero: - | - | - | S | - | - | - | - | - | S | S | S | S | S | S | S
+- Vidrios Vidrios eléctricos: - | - | S | S | - | - | S | S | S | S | S | S | S | S | S | S
+- One Touch Conductor: - | - | S | S | - | - | S | S | S | S | S | S | S | S | S | S
+- Bloqueo de puerta central Bloqueo infantil: - | - | S | - | - | S | - | - | - | - | - | - | - | - | - | -
+
+## Bloqueo para niños
+- : - (todas)
+
+## + Bloqueo central de puertas (Conductor)
+
+## Bloqueo para niños
+
+## + Bloqueo central de puertas (Conductor)
+- : - | - | S | S | - | - | S | S | S | S | S | S | S | S | S | S
+
+## + Bloqueo sensor de velocidad
+- Llave Llave inteligente: - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+
+## Contador de revoluciones del motor Medidor estándar
+- : S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+
+## (velocidad + tacómetro + pantalla de segmento)
+
+## Medidor alto (velocidad + tacómetro
+- : - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## + pantalla a color Tft de 7 "+ pantalla de velocidad digital)
+
+## Asientos
+
+## Asiento Conductor separado manual
+- Tipo de asientos delanteros: S | S | S | S | S | S | S | S | S | S | S | S | - | - | - | S
+
+## (6 vías (deslizante + reclinable + elevador))
+
+## Asiento separado Conductor Eléctrico
+
+## (8 vías (deslizante + reclinable+ elevador + inclinación)
+- : - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## + lumbar) + bolsillo trasero del asiento)
+- Apoyabrazos del asiento Trasero Apoyabrazos + Portavasos x2: - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+- Revestimiento del asiento Tela: S | S | S | - | S | S | S | S | S | S | S | S | - | - | - | -
+- Cuero (Oﬀroad): - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | -
+- Cuero: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+- Asiento del pasajero delantero (S) 4 vías (deslizante + reclinable): S | S | S | S | S | S | S | S | S | S | S | S | - | - | - | S
+
+## 4 vías (deslizante + reclinable)
+- : - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## + bolsillo trasero del asiento
+- Asientos de la 2a ﬁla Asiento trasero abatible: - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+- Asiento Asiento Calefaccionado (Conductor + Acompañante): - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+
+## Interior
+- Consola central Consola central + apoyabrazos: S | S | S | - | S | S | S | S | S | - | - | - | - | - | - | -
+- Consola central + apoyabrazos (tela): - | - | - | - | - | - | - | - | - | S | S | S | - | - | - | -
+
+## Consola central + reposabrazos (todoterreno)
+- : - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+- Consola central + apoyabrazos (cuero): - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | S
+
+## Almacenamiento en el techo
+- Con soporte para gafas de sol: S (todas)
+- Agarre de asistencia Tipo ﬁjo ( x1 ): S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Tipo ﬁjo ( x1 + Trasero x2): - | S | S | S | · | · | · | · | · | · | · | · | · | · | · | ·
+- Iluminación de la habitación Luz frontal: S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Lectura de luz de habitación (Frontal + Trasero): - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+- Luz interior de la puerta Luz de cortesía de puerta delantera: - | - | S | S | - | - | S | S | S | S | S | S | S | S | S | S
+- Control de iluminación Con control de iluminación (medidor): S (todas)
+- Embellecedor de puerta interior Con decoración de molduras de puerta: S | S | - | - | S | S | - | - | - | - | - | - | - | - | - | -
+- Con decoración de molduras de puerta (tela): - | - | S | - | - | - | S | S | S | S | S | S | - | - | - | -
+- Con decoración de molduras de puerta (todo terreno): - | - | - | · | · | · | · | · | · | · | · | · | · | · | · | ·
+- : · | · | · | S | - | - | - | - | - | - | - | - | - | - | - | S
+- Con decoración depuerta (cuero): - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+- Manija de puerta interior Tirador de puerta interior (negro): S | S | S | S | S | S | S | S | S | - | - | - | - | - | - | -
+- Tirador de puerta interior (cromada): - | - | - | - | - | - | - | - | - | S | S | S | S | S | S | S
+
+## Comfort
+- Posavasos Portavasos ( x2): S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Portavasos (Delanteros x3 + Traseros x2): - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+- Con toma de corriente 12V x3: - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## Aire Acondicionado
+- Aire acondicionado y calefacción Aire acondicionado: S | S | S | - | S | S | S | S | S | - | - | - | - | - | - | -
+- : - | - | - | S | - | - | - | - | - | S | S | S | S | S | S | S
+
+## Climatizador
+
+## Ventilación Ventilación Frontal lateral x2
+- : S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+
+## + Ventilación central frontal x2
+
+## Ventilación Frontal lateral x2 + Ventilación central
+- : - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## frontal x2 + Ventilacion central trasera x2
+
+## Audio y Navegación
+- Tipo de radio Audio W2Din + AM / FM + BTHF: S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Audio no Din + AM / FM + BTHF: - | S | S | - | - | S | S | S | S | - | - | - | - | - | - | -
+- A-IVI Mid DA 8 "+ BTHF: · | · | · | · | - | - | - | - | - | S | S | S | - | - | - | -
+- : - | - | - | - | · | · | · | · | · | · | · | · | · | · | · | ·
+- A-IVI Mid Navi 8 "+ BTHF: - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+- Altavoz / Radio 2 altavoces: · | · | · | · | S | - | - | - | - | - | - | - | - | - | - | -
+- : S | - | - | - | · | · | · | · | · | · | · | · | · | · | · | ·
+- 4 altavoces: - | S | S | - | - | S | S | S | S | S | S | S | - | - | - | -
+- 6 altavoces: - | - | - | S | - | - | - | - | - | - | - | - | S | S | S | S
+
+## Exterior
+
+## Puerta trasera Puerta trasera en relieve Nissan
+- : S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+
+## + cerradura doble (normal)
+
+## Nombre del modelo Puerta trasera en relieve
+- : - | S | S | - | - | S | S | S | S | S | S | S | S | S | S | S
+
+## + tirador central
+- Parachoques delantero Parachoques delantero negro: S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+- Parachoques delantero del color de la carrocería: - | S | S | - | - | S | S | S | S | S | S | S | S | S | S | -
+
+## Parachoques delantero del color de la carrocería
+- : - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+
+## con detalle
+- Parachoques trasero Parachoques trasero negro: · | · | · | · | S | S | S | S | - | - | - | - | - | - | - | -
+- : S | S | - | - | · | · | · | · | · | · | · | · | · | · | · | ·
+- Parachoques trasero de color: - | - | S | S | - | - | - | - | S | S | S | S | S | S | S | S
+- Tipo de parrilla Negro: S | S | - | - | S | S | S | S | - | - | - | - | - | - | - | -
+- Cromo: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | S
+
+## Gancho de amarre
+- Riel de techo y barra transversal Con rieles de techo plateados: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | -
+- Con rieles de techo negros: - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+- Moldura de ventana Negro: S | S | S | - | S | S | S | S | - | - | - | - | - | - | - | S
+- Cromo: - | - | - | - | - | - | - | - | S | S | S | S | S | S | S | -
+- Tipo de manija de puerta exterior Tirador de puerta exterior (negro): S | - | - | - | S | - | - | - | - | - | - | - | - | - | - | -
+
+## Tirador de puerta exterior (negro)
+- : - | S | S | - | - | S | S | S | - | - | - | - | - | - | - | -
+
+## + tirador de puerta trasera (negro)
+
+## Manija de puerta exterior (pintura negra)
+- : - | - | - | S | - | - | - | - | - | - | - | - | - | - | - | S
+
+## + manija de puerta trasera (negro)
+- : · | · | · | · | · | · | · | · | · | · | - | · | · | · | · | ·
+
+## Manija de puerta exterior (cromada)
+- : - | - | - | - | - | - | - | - | · | · | · | · | · | · | · | -
+- : · | · | · | · | · | · | · | · | S | S | · | S | S | S | S | ·
+
+## + manija de puerta trasera (cromada)
+- Gancho de remolque delantero: S (todas)
+
+## Seguridad
+- Bolsa de aire del pasajero Airbag (Conductor + Acompañante + Lateral + Cortina): - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## 3 puntas + pretensor + limitador de carga
+
+## Cinturón de seguridad delantero
+- : S (todas)
+
+## + ajuste de altura
+
+## 3 Cinturones de asientos traseros de
+- : - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## tres puntas
+
+## Como asiento ELR de 3 puntos + pretensor
+- Asistente de cinturón de seguridad: S (todas)
+
+## + limitador de carga + ajuste de altura
+
+## Isoﬁx
+- ISO FIX + Tether: S | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+- : S | S | - | - | S | S | - | - | - | - | - | - | - | - | - | -
+
+## Dispositivos antirrobo Inmovilizador
+- Inmovilizador + Alarma VSS: - | - | S | S | - | - | S | S | S | S | S | S | S | S | S | S
+- Sistema de freno antibloqueo ABS + EBD + BA: S (todas)
+- VDC VDC (B-LSD) con cancelar Sw + HSA + TSA: S | S | S | - | S | S | - | S | - | S | - | - | S | - | - | -
+- VDC (B-LSD) con cancelar Sw + HSA + HDC + TSA: - | - | - | S | - | - | S | - | S | - | S | S | - | S | S | S
+- Lámpara de freno de montaje alto HMSL (LED): S (todas)
+
+## Recordatorio de cinturón de seguridad Recordatorio del cinturón de seguridad
+- : S | - | - | - | · | - | - | - | - | - | - | - | - | - | - | -
+- (Conductor y Acompañante): · | · | · | · | S | · | · | · | · | · | · | · | · | · | · | ·
+
+## Recordatorio del cinturón de seguridad
+- : - | S | S | S | - | S | S | S | S | S | S | S | S | S | S | S
+
+## (Conductor y Acompañante + Asientos Traseros)
+- Sistema de asistencia de estacionamiento Con monitor de visión trasera RVM: · | · | · | · | - | - | - | - | - | - | S | S | S | - | - | -
+- : - | - | - | - | · | · | · | · | · | · | · | · | · | · | · | ·
+
+## Con monitor de vista periférica AVM + MOD
+- : - | - | - | - | - | - | - | - | - | - | - | - | S | - | - | -
+
+## + Sensor de estacionamiento (Traseros x4)
+
+## Conducción autónoma Monitor de visión periférica AVM
+- : - | - | · | S | - | - | - | - | - | - | - | - | - | S | S | S
+- (Monitor todoterreno para 4X4)+ MOD: · | · | - | · | · | · | · | · | · | · | · | · | · | · | · | ·
+
+## + Sensor de estacionamiento (Traseros x4)
+- FEB + PFCW + DAA + BSW + LDW + CTA + HBA: - | - | - | - | - | - | - | - | - | - | - | - | S | S | S | S
+- La descripción de la unidad que surge de este catalogo es meramente orientativo: y reﬂeja | alguna de | las versiones | existentes | de cada | unidad según | el modelo. | El equipamiento, | accesorios | y/o las | características | de cada | modelo, | podrán ser | diferentes a | que surge
+- del presente catálogo o de la imagen que se reﬂeja en el mismo, debiendo el: cliente veriﬁcar | las mismas | según la | unidad que | sea de su | interés. Es | posible que | las versiones | que se | reﬂejen en las | publicaciones | no se | encuentren | disponibles a | la venta en | el territorio
+- uruguayo. El cliente, no podrá responsabilizar a RALITOR SA por diferencias que: existan | entre, este | catálogo y los | modelos | que se | comercializan | el territorio | uruguayo. | El cliente | conoce y | acepta esta | posible | la cual | no podrá | ser considerada | como
+- publicidad engañosa o similar. Los colores ofrecidos son de modo ilustrativo,: no siendo | los mismo | determinantemente | · | idénticos a los | que reﬂejen | las unidades | disponibles. | Las | imágenes e | ilustraciones | que surgen | de este | catálogo | intentan dar | muestra
+- aproximada de las opciones de color que dispone cada unidad, considerando: las diferencias | factibles | en las | tonalidades de | una imagen | virtual y la | realidad de | la cada | unidad. El cliente | no podrá | responsabilizar | a RALITOR | SA por | las diferencias | existentes | entre las
+- diferencias que puedan surgir de las imágenes de este catálogo o las descripción: de la | unidad publicitada | y la | apreciación | la unidad | en tiempo | real o las | características | y accesorios | que | contengan las | unidades | disponibles. La | disponibilidad | de colores | de cada
+- versión o unidad quedaran supeditadas al Stock existente en el concesionario: de su elección. | · | · | · | · | · | · | · | · | · | · | · | · | · | · | ·
+- MONTEVIDEO Nissan Center: Cerro Largo 999, Tel.: 2909 1469 • Casa Nissan: Av.: Italia 5112, | Tel.: 2619 5010 | • Pisano: Av. | Millán 4328, | Tel.: 2356 | 1015 • Mariño | Sport: Miguel | Barreiro | 3168, Tel.: | 2708 6446 • | CANELONES | CAR ONE: | Interbalnearia | esq. | Camino de los | Horneros,
+- Tel.: 2683 3333 • CANELONES LAS PIEDRAS Moreira Automóviles: Av. Dr. Enrique: Pouey esq. | Manuel | Tel.: 2369 | 9847 • | CANELONES | PANDO Moreira | Automóviles: | Roosevelt | y Piedras, | Tel.: 2292 | 2683 • CERRO | LARGO | Mauricio | Farías: J. P. | 771, Tel.: | 4643 0849 •
+- COLONIA Videsol: J. P. Varela 593, Tel.: 4522 5411 • DURAZNO Lafor Automotores:: Lavalleja | 891 esq. | Artigas, Tel.: | 6626 • | FLORIDA Romildo | Pereyra: | Aparicio | Saravia 672, | Tel.: 4352 | 5172 • LAVALLEJA | Marmolejo: | Roosevelt | 753, Tel.: | 4442 8444 | • MALDONADO | Nissan
+- Punta del Este: Roosevelt esq. Salto, Tel.: 4249 8239 • PAYSANDÚ Comercial Wave:: Setembrino | Pereda | 975, Tel.: 4722 | 5178 • | Horizonte | Automóviles: | Joaquin | Suárez | 767, Tel.: 4623 | 6748 • SALTO | Omar | Castro: Rivera | 1001, Tel.: | 4733 5408 • | JOSÉ | Pisano: L. A. de
+- Herrera 550, Tel.: 4342 1392 • TACUAREMBÓ Horizonte Automóviles: Pablo Ríos: 154 BIS, Tel.: | 4633 6891 | • TREINTA Y | TRES | Automotora 33: | Juan A. | Lavalleja 656, Tel.: | 4452 2447. | · | · | · | · | · | · | · | ·
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+160 HP
+M O T O R
+1,588 KG
+C A P A C I D A D D E R E M O L Q U E
+MONITOR INTELIGENTE 
+DE VISIÓN PERIFÉRICA 4x4
+121@6000
+k w @ R P M
+31 GRADOS 
+Á N G U L O D E A T A Q U E
+25.3 GRADOS 
+Á N G U L O D E S A L I D A
+BLOQUEO 
+DIFERENCIAL
+960 KG
+C A P A C I D A D D E C A R G A
+Imagen de uso ilustrativo. Consultá nivel de equipamiento y disponibilidad por versión con tu Distribuidor Autorizado Nissan o visitanos en nissan.com.uy
+N U E V A N IS SAN
+FRO N TIE R

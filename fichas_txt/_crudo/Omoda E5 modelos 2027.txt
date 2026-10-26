@@ -1,0 +1,335 @@
+
+--- p1 ---
+5 EV 2027
+
+--- p2 ---
+COMFORT STD 350
+LUXURY STD 350
+430 LUXURY
+Autonomía (WLTP)
+Batería (kW)
+350 km
+50 kW
+60 kW
+430 km
+Largo
+Ancho
+Altura
+Capacidad de baúl
+Potencia (KW - HP)
+Ventilado Delantero - Sólido Trasero
+Torque
+Tiempo de carga (CC y AC) - 10% a 100%
+Tipo de puerto
+Distancia entre ejes
+Suspensión delantera
+Frenos de Disco
+Suspensión trasera
+Multi-Link
+MacPherson
+370 Litros
+4545 mm
+1830 mm
+1588 mm
+288 Nm
+CC 26min. - AC 6hs.
+155 kW - 208 Hp
+2630 mm
+CCS Tipo 2
+5 EV 2027
+
+--- p3 ---
+5 EV 2027
+SISTEMAS AVANZADOS DE ASISTENCIA (ADAS)
+Característica
+Control inteligente de velocidad (ISA)
+—
+Monitoreo de punto ciego (BSD)
+—
+Alerta de apertura de puerta (DOW)
+—
+Alerta de colisión trasera (RCW)
+—
+Alerta de tráfico cruzado trasero (RCTA)
+—
+Frenado por tráfico cruzado trasero (RCTB)
+—
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+Cambio automático de luces altas/bajas (IHC)
+Control de crucero adaptativo a toda velocidad (ACC)
+Asistencia en congestión de tráfico (TJA)
+Asistencia integrada de crucero (ICA)
+Sistema de frenado automático de emergencia (AEB)
+Recordatorio de salida del vehículo delantero (DAI)
+Advertencia de salida de carril (LDW)
+Sistema de mantenimiento de carril (LKA)
+Mantenimiento de carril de emergencia (ELK)
+Supresión de desviación de carril (LDP)
+Evasión inteligente (IES)
+Asistencia de cambio de carril (LCA)
+Alerta de colisión frontal (FCW)
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Sistema ABS - EPS
+
+--- p4 ---
+CHASIS Y TREN MOTRIZ
+Característica
+Tracción delantera (FWD)
+Suspensión delantera tipo MacPherson
+Suspensión trasera multibrazo (multilink)
+Selector de marchas en columna de dirección
+Dirección asistida eléctrica (EPS)
+Volante ajustable manualmente en 4 direcciones
+Modos de conducción ECO / SPORT / NORMAL
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+AUTONOMÍA Y CARGA
+Característica
+Autonomía 350 km (WLTP)
+—
+Autonomía 430 km (WLTP)
+—
+—
+Salida de voltaje exterior 220V
+Recuperación de energía de frenado (ajustable)
+Modo inteligente enfriamiento/calefacción ultrarrápida
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+FRENOS Y NEUMÁTICOS
+Característica
+Frenos ventilados delanteros / sólidos traseros
+AUTOHOLD
+Neumáticos 215/60 R17
+Llantas de aluminio en las 4 ruedas
+Rueda de repuesto tipo T (T125/80 R17)
+Monitoreo directo de presión de neumáticos (TPMS)
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+5 EV 2027
+
+--- p5 ---
+5 EV 2027
+SEGURIDAD
+Característica
+Cinturones delanteros de 3 puntos con pretensores y limitadores de fuerza
+Cinturones delanteros con altura regulable
+Cinturones traseros de 3 puntos con pretensores y limitadores
+Alarma de cinturones desabrochados (delanteros y traseros)
+Airbags frontales dobles
+Airbags laterales delanteros
+Airbag de cortina laterales
+Airbag central delantero 
+Bloqueo automático de puertas en marcha
+Anclajes LATCH (compatible ISOFIX)
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+ILUMINACIÓN
+Característica
+Faros halógenos
+—
+—
+Faros LED
+—
+Luces de circulación diurna LED (DRL)
+Luces traseras LED
+Tercera luz de freno LED
+Función estroboscópica en frenado de emergencia
+Ajuste manual de altura de faros
+Función “Follow me Home”
+Doble luz de marcha atrás y antiniebla
+Luz de techo delantera LED
+Luces de techo segunda fila LED
+Luz LED de maletero
+Luz de guantera
+Luz de apoyabrazos
+Iluminación de pies
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+
+--- p6 ---
+5 EV 2027
+EXTERIOR
+Característica
+Portón trasero manual
+—
+—
+Portón trasero eléctrico
+—
+Techo solar eléctrico
+—
+—
+Barras de techo integradas
+Alerón trasero fijo (una capa)
+Antena tipo aleta de tiburón
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+RETROVISORES Y LIMPIAPARABRISAS
+Característica
+Espejos exteriores con ajuste eléctrico
+Espejos exteriores con calefacción eléctrica
+Espejos exteriores con plegado manual
+Espejo interior antideslumbrante manual
+Limpiaparabrisas delanteros sin marco
+Limpiaparabrisas trasero sin marco
+Limpiaparabrisas automático (sensor de lluvia)
+Luneta trasera con calefacción
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+INTERIOR Y CONFORT
+Característica
+Interior negro/gris
+Tablero de instrumentos termoplástico
+Paneles de puerta en cuero/tejido combinado
+Techo interior de punto (tejido)
+Volante de PU (espumado)
+Caja de apoyabrazos con almacenamiento
+Guantera con amortiguación
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+
+--- p7 ---
+5 EV 2027
+ASIENTOS
+Característica
+Tapizado de tela
+—
+—
+Tapizado de cuero sintético (PVC)
+—
+Asiento del conductor manual 6 posiciones
+—
+—
+Asiento del conductor eléctrico 6 posiciones
+—
+Reposacabezas del conductor manual 2 posiciones
+Función de masaje del asiento del conductor
+—
+Asiento calefactado y ventilado para conductor y acompañante
+—
+—
+Asiento del acompañante eléctrico 6 posiciones
+Reposacabezas del acompañante manual 2 posiciones
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+CLIMATIZACIÓN
+Característica
+Aire acondicionado automático de doble zona
+Filtro de aire acondicionado PM0.3 ultra eficiente
+Desempañador automático
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+PANTALLAS E INSTRUMENTOS
+Característica
+Pantalla central de 12.3 pulgadas
+—
+—
+Pantalla central de 15.6 pulgadas
+—
+Panel de instrumentos combinado de 8 pulgadas
+—
+—
+Panel de instrumentos combinado de 8.88 pulgadas
+—
+Indicador de cambio de marcha en instrumentos
+Recordatorio de límite de velocidad
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+
+--- p8 ---
+5 EV 2027
+CONECTIVIDAD Y MULTIMEDIA
+Característica
+Apple CarPlay + Android Auto
+Bluetooth
+6 altavoces
+—
+8 altavoces
+—
+—
+USB-C delantero y trasero
+Carga inalámbrica 50W
+—
+Una toma de corriente auxiliar (delantera)
+CÁMARAS Y SENSORES DE APARCAMIENTO
+Característica
+Cámara de reversa
+Cámara panorámica 540°
+—
+Sensores de estacionamiento: 2 delanteros + 4 traseros
+Cierre automático de ventanas al bloquear
+Entrada y arranque sin llave (PEPS)
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+COMFORT 
+STD 350
+LUXURY 
+STD 350
+430 LUXURY
+
+--- p9 ---
+5 EV 2027

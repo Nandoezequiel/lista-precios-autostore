@@ -1,0 +1,233 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Changan Eado Plus IDD (híbrido enchufable): Luxury y Elite. ■ en la ficha = lo trae.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 2]
+  (EADO PLUS IDD)
+
+  (Exterior e interior del vehículo)
+
+  (Configuración Nivel 4.1 5.1)
+
+
+
+## Asientos
+
+  (Motor Cilindrada 1.5L)
+
+
+
+## Tipo
+
+  (Trasmisión E-CVT)
+
+  (Batería 18.99 kW)
+
+  (Potencia máxima 158 kW)
+
+  (Máximo torque 330 Nm)
+
+  (Carga externa Conector tipo II (estándar europeo))
+
+  (Autonomía NEDC 995 (combinado))
+
+  (Dimensiones Largo (mm) 4785)
+
+  (Ancho (mm) 1840)
+
+  (Altura (mm) 1460)
+
+  (Distancia entre ejes (mm) 2765)
+
+  (Ancho de vía delantero (mm) 1570)
+
+  (Ancho de vía trasero (mm) 1580)
+
+- Tapa del tanque Apertura electrónica: en todas
+
+- Mismo color que vehículo de combustible: en todas
+
+- Suspensión Dirección asistida EPS - EPAS sensible a velocidad del vehículo Tipo de suspensión delantera Independiente MacPherson: en todas
+
+  (y dirección)
+
+  (Tipo de suspensión trasera Independiente de múltiples brazos)
+
+  (Seguridad)
+
+- Ruedas y frenos Llantas de aluminio Tipo de neumáticos R17 R18: en todas
+
+- Discos ventilados en frenos delanteros: en todas
+
+- Discos sólidos en frenos traseros: en todas
+
+- Función de Sistema de frenos antibloqueo (ABS): en todas
+
+- Distribución electrónica de frenado (EBD) estabilización: en todas
+
+- Programa Electrónico de Estabilidad (ESP): en todas
+
+- de la carrocería Control de tracción (TCS): en todas
+
+- Asistencia de frenado (BA): en todas
+
+- Asistencia en pendientes (HHC): en todas
+
+- Alarma de baja presión en neumáticos: en todas
+
+
+[página 3]
+  (EADO PLUS IDD)
+
+
+
+## Radares Radares de estacionamiento trasero
+
+- Airbags Airbag de conductor: en todas
+
+- Airbag de pasajero: en todas
+
+- Airbag lateral delantero: en todas
+
+- Cortinas de aire delantera y trasera: en todas
+
+- Otros atributos Desbloqueo automático al colisionar la puerta: en todas
+
+- Cierre automático por detección de velocidad del vehículo de seguridad: en todas
+
+- Arranque sin llave: en todas
+
+- Desbloqueo automático al apagar el motor al estacionar: en todas
+
+- Recordatorio de liberación del freno de mano: en todas
+
+- Pantalla inteligente de presión neumáticos Método de freno de estacionamiento Freno de mano electrónico: en todas
+
+  (Método de advertencia de puerta no cerrada Luz de advertencia / sonido)
+
+  (Interior)
+
+- Dashboard LCD completo de 10 pulgadas Elementos de visualización (velocidad del motor, velocidad del: en todas
+
+- vehículo, temperatura del agua, kilometraje, recordatorio de cinturón de seguridad no abrochado, visualización de marcha): en todas
+
+- Toma corriente 12V en la fila delantera: en todas
+
+  (Asientos)
+
+  (Conductor Método de ajuste del asiento Eléctrico Eléctrico)
+
+- Rango de ajuste del asiento 6 posiciones 6 posiciones Función de memoria del asiento: Luxury NO; Elite SÍ
+
+- Función de bienvenida del asiento: Luxury NO; Elite SÍ
+
+  (Pasajero Método de ajuste del asiento Manual Manual)
+
+  (Rango de ajuste del asiento 4 posiciones 4 posiciones)
+
+  (delantero)
+
+- Segunda fila Método de ajuste del asiento Manual Manual Ajuste manual del reposacabezas hacia arriba y abajo: en todas
+
+- ISOFIX child safety seat interface: en todas
+
+  (Configuración multimedia)
+
+- Pantalla Simulación de estacionamiento (indicación frontal y trasera): en todas
+
+- Bluetooth y sonido: en todas
+
+- Radio USB 1 delante, 2 detrás 1 delante, 2 detrás: en todas
+
+- Formatos compatibles: MP3, MP4, WMA, AVI, RMVB: en todas
+
+
+
+## Altavoces
+
+- Software de mejora del sonido Pantalla 13,2" 13,2": en todas
+
+
+[página 5]
+  (EADO PLUS IDD)
+
+  (Iluminación)
+
+- Luces Luz del maletero: en todas
+
+- Iluminación ambiental (puerta delantera) interior: en todas
+
+- Luz indicadora de posición del interruptor de encendido: en todas
+
+- Luces Tipo de luces traseras: combinación de faros de fibra óptica + LED: en todas
+
+- Luz de freno de alta posición LED Exterior: en todas
+
+- Recordatorio de olvido de los faros encendidos: en todas
+
+  (Confort)
+
+- Maletero Apertura de maletero por control remoto: Luxury SÍ; Elite NO
+
+- Maletero eléctrico: Luxury SÍ; Elite NO
+
+  (Techo solar Método de apertura Eléctrico Eléctrico)
+
+  (Tipo de techo Corredizo standard Corredizo standard)
+
+- Retrovisor Método de ajuste de espejo retrovisor exterior Eléctrico Eléctrico Desempañado / calefacción del espejo retrovisor exterior exterior: Luxury NO; Elite SÍ
+
+- Plegado automático después de bloquear el coche: Luxury NO; Elite SÍ
+
+- Calefacción Aire acondicionado automático Control de zona de temperatura Una sola zona Una sola zona: en todas
+
+- Pantalla de temperatura del aire acondicionado: en todas
+
+- Asistencia y Control de crucero: Luxury SÍ; Elite NO
+
+- Control de crucero adaptativo (ACC) conectividad: Luxury NO; Elite SÍ
+
+- Asistencia de conducción por imagen: grabación panorámica 540: en todas
+
+- Asistencia de conducción con crucero automático - Nivel 2: Luxury NO; Elite SÍ
+
+- Control de crucero adaptativo integrado (IACC): Luxury NO; Elite SÍ
+
+- Advertencia de colisión frontal (FCW): Luxury NO; Elite SÍ
+
+- Asistencia cambio de carril / vía (incluye: monitoreo de punto ciego, advertencia lateral y trasera, advertencia de apertura de puertas): Luxury NO; Elite SÍ
+
+- Centrado en el carril: Luxury NO; Elite SÍ
+
+- Asistencia en tráfico congestionado (TJA): Luxury NO; Elite SÍ
+
+- AEB-C/I (Frenado automático de emergencia): Luxury NO; Elite SÍ
+
+- AEB-P (Frenado automático de emergencia - Peatones) Tamaño de la pantalla de control central 10.25 pulgadas 12.25 pulgadas: Luxury NO; Elite SÍ
+
+  (Idioma de la pantalla de control central Inglés y español Inglés y español)
+
+- Interacción por voz inteligente Inglés y español Inglés y español Reducción activa de ruido: Luxury NO; Elite SÍ
+
+  (Changan Uruguay)
+
+  (Nota: Las especiﬁcaciones aplican para Changan EADO PLUS IDD y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de laboratorio,)
+
+  (que pueden no reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa Rosa Automotores S.A. se reserva)
+
+  (el derecho de efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas y certiﬁcadas por Santa Rosa Automotores S.A para este)
+
+  (modelo, conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho)
+
+  (a modiﬁcar sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el)
+
+  (fabricante. Los tapizados en caso que se aplique están fabricados en cuero automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente)
+
+  (de los colores reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin)
+
+  (la previa autorización escrita de Santa Rosa Automotores Uruguay S.A.)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+EADO PLUS IDD
+SMART YOUR FUTURE

@@ -1,0 +1,1804 @@
+{
+ "grupo": "iveco_farizon",
+ "modelos": [
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    154
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-furgon-30-160",
+     "que": "pagina oficial iveco.com.uy Daily Furgon 30-160 (sin pagina propia 30-130)"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2021/11/lanzamiento-iveco-daily.html",
+     "que": "Autoblog Uruguay, lanzamiento Daily 30-130 (2021)"
+    }
+   ],
+   "pdf": [
+    "daily-furgon-30-160.pdf"
+   ],
+   "fotos": [
+    "daily-furgon-30-130-1.png",
+    "daily-furgon-30-130-2.jpg",
+    "daily-furgon-30-160-1.png"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Furgón 30-130",
+    "carroceria": "Furgón",
+    "combustible": "Diésel",
+    "transmision": "Manual 6 vel.",
+    "traccion": "4x2 (trasera)",
+    "plazas": 3,
+    "volumen_carga_m3": 12,
+    "largo_mm": 6072,
+    "entre_ejes_mm": 3520,
+    "ancho_mm": 2052,
+    "alto_mm": 2779,
+    "pbt_kg": 3500,
+    "carga_util_kg": 1000,
+    "tanque_l": 65,
+    "garantia": "1 año o 100.000 km (lanzamiento 2021, a confirmar)",
+    "motor": "2.3 diésel turbo 4 cil. 130 CV",
+    "potencia_hp": 128,
+    "cilindrada_cc": 2287
+   },
+   "versiones": {
+    "154": {
+     "nota": "Versión de acceso, rueda simple"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "Control de estabilidad (ESP)"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Furgón 30-130 (rueda simple, 12 m3 según la lista). Motor 2.3 diésel turbo de 130 CV con caja manual de 6 velocidades (dato de prensa: Autocosmos Chile y Autoblog Uruguay 2021). El importador (Santa Rosa) ya no publica ficha propia del 30-130: el PDF vigente es del 30-160, del que se tomó la carrocería (misma plataforma/carrocería): distancia entre ejes 3.520 mm, largo 6.072 mm, ancho cabina con retrovisores 2.429 mm, alto 2.779 mm, caja de 12 m3 (largo 3.540 mm, ancho interno 1.800 mm, alto 1.900 mm), puerta lateral 1.216 x 1.800 mm, puertas traseras 1.530 x 1.800 mm, altura al piso de carga 657 mm, PBT 3.500 kg, carga útil aprox. 1.000 kg, tanque 65 L. Autoblog 2021 mencionaba 10,8 m3, 6.089 mm de largo, carga útil 1.280 kg, tanque 70 L y U$S 32.600 (versión de entonces). Seguridad: ABS, EBD, ESP, ASR y Hill Holder.",
+   "confianza": "baja",
+   "notas": "No hay ficha oficial vigente del 30-130; motor y potencia salen de prensa, la carrocería del PDF 30-160. Volumen: la lista dice 12 m3, Autoblog 2021 decía 10,8 m3. Verificar con el importador."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    155
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-furgon-30-160",
+     "que": "ficha oficial iveco.com.uy Daily Furgón 30-160"
+    }
+   ],
+   "pdf": [
+    "daily-furgon-30-160.pdf"
+   ],
+   "fotos": [
+    "daily-furgon-30-160-1.png",
+    "daily-furgon-3.png",
+    "daily-furgon-4.png",
+    "daily-furgon-5.png"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Furgón 30-160",
+    "carroceria": "Furgón",
+    "combustible": "Diésel",
+    "motor": "FPT F1C VGT 3.0 turbo 4 cil., 160 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 158,
+    "torque_nm": 380,
+    "norma_emisiones": "Euro VI (EGR + SCR)",
+    "transmision": "Manual 6 vel. ZF 6S 480 VO",
+    "traccion": "4x2 (trasera)",
+    "plazas": 3,
+    "largo_mm": 6072,
+    "ancho_mm": 2052,
+    "alto_mm": 2779,
+    "entre_ejes_mm": 3520,
+    "despeje_mm": 218,
+    "volumen_carga_m3": 12,
+    "pbt_kg": 3500,
+    "peso_kg": 2500,
+    "carga_util_kg": 1000,
+    "remolque_kg": 3500,
+    "tanque_l": 65,
+    "neumaticos": "225/75 R16",
+    "velocidad_max_kmh": 90
+   },
+   "versiones": {
+    "155": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "Control de estabilidad (ESP)",
+      "Control de tracción (ASR)",
+      "Asistente de arranque en pendiente (Hill Holder)",
+      "Asistente de frenado (HBA)",
+      "Mitigación de vuelco (ROM/RMI)",
+      "Control de remolque (TSM)",
+      "Frenos de disco en las 4 ruedas"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Furgón 30-160 (importador Santa Rosa, iveco.com.uy). MOTOR: FPT F1C VGT 3.0 L, 4 cilindros, common rail, 160 CV (158 HP) a 3.500 rpm, 380 Nm de 1.600 a 2.900 rpm, Euro VI con EGR + SCR (tanque de urea 17 L). TRANSMISIÓN: manual ZF 6S 480 VO de 6 marchas, embrague Valeo 280; tracción trasera, eje Dana 267 relación 3,73:1. DIMENSIONES: entre ejes 3.520 mm; largo 6.072 mm; ancho de cabina 2.052 mm (2.429 con retrovisores); alto 2.779 mm; caja de carga 3.540 x 1.800 x 1.900 mm = 12 m3; puerta lateral 1.216 x 1.800 mm; puertas traseras 1.530 x 1.800 mm; piso de carga a 657 mm; voladizos 1.048/1.240 mm; despeje 218/171 mm; giro entre paredes 6,68 m. PESOS: PBT 3.500 kg (técnico 3.900), eje delantero 1.500 legal, trasero 2.000 legal, carga útil 1.000 kg, peso en orden de marcha 2.500 kg, remolque 3.500 kg. Velocidad limitada a 90 km/h. Tanque 65 L. Neumáticos 225/75 R16. SUSPENSIÓN: delantera independiente doble A con barra de torsión; trasera ballesta parabólica. Dirección de cremallera hidráulica. FRENOS: disco en las 4 ruedas, ESP, ABS+EBD, ASR, Hill Holder, HBA, HFC, HRB, EUC, RMI, ROM, TSM, LAC. Cabina semiavanzada con tratamiento cataforético. Batería 12 V 100 Ah.",
+   "confianza": "alta",
+   "notas": "PDF oficial junio 2026 del importador. Sin lista de equipamiento de confort en el PDF."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    156
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-furgon-55-170",
+     "que": "ficha oficial iveco.com.uy Daily Furgón 55-170"
+    }
+   ],
+   "pdf": [
+    "daily-furgon-55-170.pdf"
+   ],
+   "fotos": [
+    "daily-furgon-55-170-1.jpg"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Furgón 55-170",
+    "carroceria": "Furgón",
+    "combustible": "Diésel",
+    "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 168,
+    "torque_nm": 400,
+    "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+    "transmision": "Manual 6 vel. ZF 6M 480 VO",
+    "traccion": "4x2 (trasera, rodado doble)",
+    "plazas": 3,
+    "entre_ejes_mm": 4100,
+    "largo_mm": 7226,
+    "alto_mm": 2794,
+    "ancho_mm": 2052,
+    "volumen_carga_m3": 16,
+    "tanque_l": 100,
+    "neumaticos": "195/75 R16 rodado doble",
+    "velocidad_max_kmh": 130,
+    "airbags": 2
+   },
+   "versiones": {
+    "156": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags (conductor y acompañante)",
+      "ABS + EBD",
+      "Control de estabilidad (ESP)",
+      "Sensor de impacto trasero",
+      "Frenos de disco delanteros y traseros"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Espejos eléctricos",
+      "Cierre centralizado con control remoto",
+      "Faros neblineros"
+     ],
+     "multimedia": [
+      "Radio Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Furgón 55-170 (rueda doble, 16 m3). MOTOR: FPT F1C DS 3.0 L turbo intercooler, 16 válvulas, common rail, 170 CV (168 HP) a 3.500 rpm, 400 Nm de 1.250 a 1.900 rpm, Euro 5 (Proconve L6) sin urea. TRANSMISIÓN: manual ZF 6M 480 VO de 6 marchas, embrague Valeo 280, eje Dana 267 reducción 4,56:1. DIMENSIONES: entre ejes 4.100 mm; largo 7.226 mm; alto cabina 2.794 mm; ancho cabina 2.052/2.429 mm (con retrovisores); caja 4.680 mm x 1.900 mm de ancho x 1.845 mm; ancho trasero máx. 1.976 mm; 16 m3. Velocidad máxima 130 km/h. Tanque 100 L. Neumáticos 195/75 R16 con rodado doble. Suspensión delantera independiente con barras de torsión; trasera ballestas semielípticas. Frenos de disco en las 4 ruedas con ESP + ABS + EBD. EQUIPAMIENTO: airbags conductor y acompañante, aire acondicionado, control crucero, radio Bluetooth, espejos y alzacristales eléctricos, cierre remoto, neblineros, sensor de impacto trasero, portón trasero con apertura a 270°, puerta lateral corredera, paragolpes tripartito.",
+   "confianza": "media",
+   "notas": "Columnas de dimensiones/pesos del PDF salen desordenadas al extraer texto; PBT/carga útil no se pudieron asignar con certeza (solo se cargaron los datos alineados). Carga útil: ver PDF."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    157,
+    158
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-minibus-vetrato-50-170-18-pax",
+     "que": "ficha oficial iveco.com.uy Daily Minibus 50-170 (Vetrato)"
+    }
+   ],
+   "pdf": [
+    "daily-minibus-vetrato-50-170-18-pax.pdf"
+   ],
+   "fotos": [
+    "daily-minibus-vetrato-50-170-18-pax-1.jpg",
+    "daily-minibus-2.jpg"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Minibus 50-170 (Vetrato, 17+1)",
+    "carroceria": "Minibús",
+    "combustible": "Diésel",
+    "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 168,
+    "torque_nm": 400,
+    "norma_emisiones": "Euro 5 (sin urea)",
+    "transmision": "Manual 6 vel. ZF 6S 480 OD",
+    "traccion": "4x2 (trasera, rodado doble)",
+    "plazas": 18,
+    "airbags": 2,
+    "entre_ejes_mm": 4100,
+    "largo_mm": 7253,
+    "ancho_mm": 2487,
+    "alto_mm": 2731,
+    "despeje_mm": 213,
+    "tanque_l": 100,
+    "pbt_kg": 5000,
+    "peso_kg": 2930,
+    "carga_util_kg": 2070,
+    "remolque_kg": 6500,
+    "neumaticos": "195/75 R16",
+    "volumen_carga_m3": 16
+   },
+   "versiones": {
+    "157": {
+     "nota": "Sin asientos (configuración carga/chasis para carrocería), según la lista"
+    },
+    "158": {
+     "nota": "Con asientos: 17 pasajeros + conductor, asientos reclinables"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags (conductor y acompañante)",
+      "ABS + EBD",
+      "Control de estabilidad (ESP)",
+      "Control de tracción (ASR)",
+      "Asistente de arranque en pendiente (Hill Holder)",
+      "Frenos de disco en las 4 ruedas",
+      "Sensor de retroceso"
+     ],
+     "confort": [
+      "Aire acondicionado salón y conductor",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Cierre centralizado",
+      "Espejos eléctricos calefaccionados",
+      "Volante regulable",
+      "Luces diurnas",
+      "Faros neblineros",
+      "Computador de a bordo"
+     ],
+     "multimedia": [
+      "Radio Bluetooth + USB + MP3"
+     ]
+    },
+    "158": {
+     "confort": [
+      "17 asientos reclinables + conductor"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily 50-170 Minibus 17+1 (Iveco Bus, carrocería Vetrato). MOTOR: FPT F1C DS 3.0 L turbo common rail, 170 HP según folleto (170 CV) a 3.500 rpm, 400 Nm de 1.250 a 2.900 rpm, Euro 5 sin urea. Caja manual ZF 6S 480 OD de 6 marchas, embrague Valeo 280, tracción trasera con rodado doble, eje Dana 267 4,56:1. Medidas: entre ejes 4.100 mm, largo 7.253 mm, largo del salón 4.260 mm, ancho con espejos 2.487 mm, ancho interno del salón 1.800 mm, alto 2.731 mm, alto del salón 1.900 mm, volumen del salón 16 m3, giro 14,6 m, despeje 213/155 mm. PBV 5.000 kg (eje delantero 1.900, trasero 3.100), peso en orden de marcha 2.930 kg, carga útil + carrocería 2.070 kg, remolque 6.500 kg. Tanque 100 L. Neumáticos 195/75 R16. Seguridad: 2 airbags frontales, ABS, EBD, ASR, ESP, HHC, HBA, EUC, RMI, ROM. Confort: A/A salón y conductor, vidrios eléctricos, cierre centralizado, espejos eléctricos calefaccionados, volante regulable, luces diurnas, neblineros, EcoSwitch, sensor de retroceso, control crucero, computadora de a bordo, radio Bluetooth+USB+MP3, tacógrafo digital BVDR. Versión pasajeros: 17 asientos reclinables + conductor.",
+   "confianza": "media",
+   "notas": "El PDF es del Minibus 17+1 con asientos. La lista distingue 'sin asientos' (157) y 'con asientos' (158); el sitio no diferencia entre ambas, se asumió la misma base técnica. Posible diferencia de precio/ configuración a confirmar."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    159
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-chasis-cabina-35-150",
+     "que": "ficha oficial iveco.com.uy Daily Chasis Cabina 35-150"
+    }
+   ],
+   "pdf": [
+    "daily-chasis-cabina-35-150.pdf"
+   ],
+   "fotos": [
+    "daily-chasis-cabina-35-150-1.png",
+    "daily-chasis-35-150-2.jpg"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Chasis Cabina 35-150",
+    "carroceria": "Chasis cabina",
+    "combustible": "Diésel",
+    "motor": "FPT F1C WG 3.0 turbo 4 cil., 146 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 144,
+    "torque_nm": 350,
+    "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+    "transmision": "Manual 6 vel. ZF 6M 480 VO",
+    "traccion": "4x2 (trasera, rodado simple)",
+    "plazas": 3,
+    "airbags": 2,
+    "entre_ejes_mm": 3750,
+    "largo_mm": 6552,
+    "ancho_mm": 2052,
+    "pbt_kg": 3500,
+    "remolque_kg": 6500,
+    "tanque_l": 70,
+    "velocidad_max_kmh": 130,
+    "neumaticos": "225/75 R16"
+   },
+   "versiones": {
+    "159": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags (conductor y acompañante)",
+      "ABS + EBD",
+      "Control de estabilidad (ESP)"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Espejos eléctricos",
+      "Cierre centralizado con control remoto"
+     ],
+     "multimedia": [
+      "Radio Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Chasis Cabina 35-150 (rodado simple). MOTOR FPT F1C WG 3.0 L turbo common rail, 146 CV (144 HP) a 3.500 rpm, 350 Nm de 1.400 a 2.900 rpm, Euro 5 sin urea. Caja ZF 6M 480 VO manual de 6 marchas, eje Dana 267 4,56:1. Dimensiones: entre ejes 3.750 mm (también 3.450), largo 6.552 mm, ancho cabina 2.052/2.429 mm, ancho trasero 1.955 mm, ángulo entrada 20°/salida 15°. PBT 3.500 kg, eje delantero 1.100/trasero 2.400, CMT 6.500 kg. Velocidad máx. 130 km/h. Tanque 70 L. Neumáticos 225/75 R16 rodado simple. Frenos de disco en las 4 ruedas, ESP+ABS+EBD, control de tracción y Hill Holder. Equipamiento: airbags conductor y acompañante, A/A manual, control crucero, radio Bluetooth, vidrios eléctricos, espejos calefaccionados y telecomandados, bloqueo remoto, neblineros.",
+   "confianza": "media",
+   "notas": "PDF mezcla plano técnico; carga útil no se pudo extraer con certeza. Potencia: 146 CV (146 hp en PDF)."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    160
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-chasis-cabina-70-170",
+     "que": "ficha oficial iveco.com.uy Daily Chasis Cabina 70-170"
+    }
+   ],
+   "pdf": [
+    "daily-chasis-cabina-70-170.pdf"
+   ],
+   "fotos": [
+    "daily-chasis-cabina-70-170-1.jpg"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Chasis Cabina 70-170 (cabina simple)",
+    "carroceria": "Chasis cabina",
+    "combustible": "Diésel",
+    "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 168,
+    "torque_nm": 450,
+    "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+    "transmision": "Manual 6 vel. ZF 6M 480 VO",
+    "traccion": "4x2 (trasera, rodado doble)",
+    "plazas": 3,
+    "airbags": 2,
+    "entre_ejes_mm": 4350,
+    "largo_mm": 7372,
+    "ancho_mm": 2052,
+    "alto_mm": 2338,
+    "pbt_kg": 7200,
+    "peso_kg": 2520,
+    "carga_util_kg": 4670,
+    "remolque_kg": 8840,
+    "tanque_l": 100,
+    "velocidad_max_kmh": 120,
+    "neumaticos": "215/75 R17.5"
+   },
+   "versiones": {
+    "160": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags (conductor y acompañante)",
+      "ABS + EBD",
+      "Control de estabilidad (ESP)",
+      "Frenos hidroneumáticos"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Espejos eléctricos",
+      "Cierre centralizado con control remoto",
+      "Comandos al volante"
+     ],
+     "multimedia": [
+      "Radio Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Chasis Cabina 70-170 cabina simple. MOTOR FPT F1C DS 3.0 L turbo, 170 CV (168 HP), 450 Nm de 1.250 a 2.900 rpm, Euro 5 sin urea. Caja manual ZF 6M 480 VO de 6 marchas, eje Dana 284 reducción 5,86:1. Entre ejes 4.350 mm, largo 7.372 mm, alto cabina 2.338 mm, ancho 2.052/2.429 mm, voladizo delantero 1.048/trasero 1.885 mm. PBT 7.200 kg (eje del. 2.200, tras. 5.000), carga útil 4.670 kg, peso en orden de marcha 2.520 kg, CMT 8.840 kg. Velocidad máx. 120 km/h. Tanque 100 L. Neumáticos 215/75 R17.5, rodado trasero doble. Frenos: hidroneumático combinado, disco delantero y tambor trasero, ESP+ABS+EBD. Tacógrafo digital BVDR. Equipamiento: airbags, A/A, crucero, comandos al volante, radio Bluetooth, vidrios y espejos eléctricos.",
+   "confianza": "alta",
+   "notas": "PDF oficial. Asignación de columnas de la tabla de pesos por orden de aparición."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    161
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/daily-chasis-cabina-70-170-dc",
+     "que": "ficha oficial iveco.com.uy Daily Chasis Cabina Doble 70-170"
+    }
+   ],
+   "pdf": [
+    "daily-chasis-cabina-70-170-dc.pdf"
+   ],
+   "fotos": [
+    "daily-chasis-cabina-70-170-dc-1.jpg"
+   ],
+   "comun": {
+    "modelo_real": "Iveco Daily Chasis Cabina Doble 70-170",
+    "carroceria": "Chasis cabina",
+    "combustible": "Diésel",
+    "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+    "cilindrada_cc": 2998,
+    "potencia_hp": 168,
+    "torque_nm": 450,
+    "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+    "transmision": "Manual 6 vel. ZF 6M 480 VO",
+    "traccion": "4x2 (trasera, rodado doble)",
+    "airbags": 2,
+    "entre_ejes_mm": 4350,
+    "largo_mm": 7372,
+    "ancho_mm": 2052,
+    "alto_mm": 2362,
+    "pbt_kg": 7200,
+    "peso_kg": 2655,
+    "carga_util_kg": 4535,
+    "remolque_kg": 8840,
+    "tanque_l": 100,
+    "velocidad_max_kmh": 90,
+    "neumaticos": "215/75 R17.5"
+   },
+   "versiones": {
+    "161": {
+     "nota": "Cabina doble (nº de plazas no figura en el PDF)"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags (conductor y acompañante)",
+      "ABS + EBD",
+      "Control de estabilidad (ESP)",
+      "Frenos hidroneumáticos"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Espejos eléctricos",
+      "Cierre centralizado con control remoto",
+      "Comandos al volante"
+     ],
+     "multimedia": [
+      "Radio Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "IVECO Daily Chasis Cabina Doble 70-170: misma mecánica que el 70-170 simple (FPT F1C DS 3.0 L, 170 CV / 168 HP, 450 Nm, Euro 5, caja manual ZF de 6 marchas, eje Dana 284 5,86:1). Entre ejes 4.350 mm, largo 7.372 mm, alto cabina 2.362 mm, ancho 2.052/2.429 mm. PBT 7.200 kg, carga útil + carrocería 4.535 kg, peso en orden de marcha 2.655 kg (eje del. 1.680 / tras. 975), CMT 8.840 kg. Velocidad máx. limitada a 90 km/h. Tanque 100 L, neumáticos 215/75 R17.5. Equipamiento como el 70-170 simple.",
+   "confianza": "media",
+   "notas": "Plazas (7) no verificadas en el PDF."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    162
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-11-190",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 11-190"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-11-190.pdf"
+   ],
+   "fotos": [
+    "tector-11-190-1.jpg",
+    "tector-11-190-2.jpg"
+   ],
+   "comun": {
+    "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 190 CV",
+    "cilindrada_cc": 4500,
+    "potencia_hp": 187,
+    "torque_nm": 610,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton 6206 B",
+    "traccion": "4x2",
+    "entre_ejes_mm": 4455,
+    "largo_mm": 6969,
+    "pbt_kg": 10600,
+    "peso_kg": 3275,
+    "carga_util_kg": 7325,
+    "remolque_kg": 13000,
+    "tanque_l": 150,
+    "neumaticos": "235/75 R17.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 11-190",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "162": {
+     "nota": "Entre ejes 4.455 mm (el PDF trae también 3.900 mm: largo 6.414, carga útil 7.400, peso 3.200 kg)"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica",
+      "Escotilla de techo manual"
+     ],
+     "multimedia": [
+      "Radio con USB + Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 11-190 (Tector Attack 110E19), camión mediano 4x2, cabina simple. MOTOR FPT NEF 4 ID 4.5 L turbo common rail, 190 CV (187 HP) a 2.500 rpm, 610 Nm de 1.350 a 2.100 rpm, Euro 5 con SCR (tanque de urea 27 L). Caja Eaton 6206 B manual de 6 marchas, embrague 14,25'' hidráulico. Ejes Dana 7K delantero y S16-130 trasero, relación 4,56:1. PBT 10.600 kg (eje del. 3.600, tras. 7.000), CMT 13.000 kg. Carga útil + carrocería 7.325 kg con 4.455 mm entre ejes (largo 6.969 mm; peso en orden de marcha 3.275 kg). Dimensiones: ancho de cabina 2.181 mm, altura de cabina 2.507 mm (2.625 con climatizador), voladizo delantero 1.249/trasero. Neumáticos 235/75 R17.5. Tanque 150 L. Frenos neumáticos S-cam con ABS y EBL, freno de escape. Equipamiento: radio+USB+Bluetooth, asiento conductor neumático con apoyacabezas, escotilla de techo, A/A manual, alzacristales eléctricos, tacógrafo digital BVDR. Velocidad 120 km/h.",
+   "confianza": "media",
+   "notas": "El generador puso 'DAILY' pero es un Iveco Tector (Brasil/Mercosur). Dos entre ejes en el PDF (3.900 y 4.455 mm); se usó el de la lista (4.455)."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    163
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-150e21-attack",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 15-210 (150E21 Attack)"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-150e21-attack.pdf"
+   ],
+   "fotos": [
+    "tector-150e21-attack-1.jpg",
+    "tector-150e21-2.jpg"
+   ],
+   "comun": {
+    "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+    "cilindrada_cc": 4500,
+    "potencia_hp": 203,
+    "torque_nm": 720,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton FS 5406 A (doble reducción)",
+    "traccion": "4x2",
+    "entre_ejes_mm": 4734,
+    "largo_mm": 8395,
+    "ancho_mm": 2485,
+    "alto_mm": 3019,
+    "pbt_kg": 15400,
+    "peso_kg": 5100,
+    "carga_util_kg": 10300,
+    "remolque_kg": 27000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 15-210 (150E21 Attack)",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "163": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica",
+      "Visera parasol"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 150E21 Attack (15-210) 4x2, cabina simple. MOTOR FPT NEF 4 ID 4.5 L turbo, 206 CV (203 HP) a 2.500 rpm, 720 Nm de 1.350 a 2.100 rpm (el PDF trae un typo '7200 Nm'), Euro 5 SCR. Caja Eaton FS 5406 A manual de 6 marchas con doble reducción; eje trasero Meritor MS 23-235 con diferencial de doble reducción 4,56/6,36:1 (otras opciones 4,10/5,72 y 4,88/6,80). PBT 15.400 kg (del. 5.000 / tras. 10.400), carga útil + carrocería 10.300 kg, CMT 27.000 kg, peso en orden de marcha 5.100 kg. Entre ejes 4.734 mm (otras opciones a consultar), largo 8.395 mm, alto cabina 3.019 mm, ancho de cabina 2.400 mm, ancho trasero 2.485 mm. Neumáticos 275/80 R22.5, tanque 275 L, urea 27 L. Cabina avanzada basculante hidráulica. Frenos neumáticos S-cam con ABS y EBL, freno de escape, freno de estacionamiento spring brake. Equipamiento: asiento del conductor neumático, A/A manual, alzacristales eléctricos, visera parasol.",
+   "confianza": "alta",
+   "notas": "Camión 'DAILY' de la lista = Iveco Tector. Pendiente 48% / arranque 26%."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    164
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-170e21-attack",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 17-210 (170E21 Attack)"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-170e21-attack.pdf"
+   ],
+   "fotos": [
+    "tector-170e21-attack-1.png",
+    "tector-170e21-2.png"
+   ],
+   "comun": {
+    "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+    "cilindrada_cc": 4500,
+    "potencia_hp": 203,
+    "torque_nm": 720,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton FS 5406 A",
+    "traccion": "4x2",
+    "entre_ejes_mm": 4815,
+    "largo_mm": 8457,
+    "ancho_mm": 2485,
+    "alto_mm": 2758,
+    "pbt_kg": 16900,
+    "peso_kg": 5390,
+    "carga_util_kg": 11510,
+    "remolque_kg": 33000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 17-210 (170E21 Attack)",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "164": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica",
+      "Escotilla de techo manual"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 170E21 Attack (17-210) 4x2, cabina simple. MOTOR FPT NEF 4 ID 4.5 L turbo, 206 CV (203 HP), 720 Nm de 1.350 a 2.100 rpm, Euro 5 SCR. Caja Eaton FS 5406 A de 6 marchas; eje trasero Meritor MS 23-235 doble reducción 4,56/6,36:1. PBT 16.900 kg (del. 6.500 / tras. 10.400), carga útil + carrocería 11.510 kg, CMT 33.000 kg, peso en orden de marcha 5.390 kg. Entre ejes 4.815 mm, largo 8.457 mm, alto cabina 2.758 mm, ancho de cabina 2.400/2.923 mm, ancho trasero 2.485 mm. Neumáticos 275/80 R22.5, tanque 275 L, urea 27 L. Equipamiento: asiento neumático, escotilla de techo, A/A manual, alzacristales eléctricos.",
+   "confianza": "alta",
+   "notas": "Camión 'DAILY' de la lista = Iveco Tector."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    165
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-170e28-cab-simple",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 17-280 (170E28) cabina simple"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-170e28-cab-simple.pdf"
+   ],
+   "fotos": [
+    "tector-170e28-cab-simple-1.png",
+    "tector-170e28-2.png"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+    "cilindrada_cc": 5880,
+    "potencia_hp": 276,
+    "torque_nm": 950,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton FS 6406 B",
+    "traccion": "4x2",
+    "entre_ejes_mm": 5175,
+    "largo_mm": 8660,
+    "ancho_mm": 2485,
+    "alto_mm": 2932,
+    "pbt_kg": 16900,
+    "peso_kg": 5391,
+    "carga_util_kg": 11509,
+    "remolque_kg": 33000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 17-280 (170E28) cabina simple",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "165": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica",
+      "Escotilla de techo manual",
+      "Visera exterior"
+     ],
+     "multimedia": [
+      "Radio con lector de CD"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 170E28 (17-280) 4x2 cabina simple. MOTOR FPT NEF 6.0 L, 6 cilindros en línea, 5.880 cm3, 280 CV (276 HP) a 2.500 rpm, 950 Nm de 1.250 a 2.100 rpm, Euro 5 SCR. Caja Eaton FS 6406 B manual 6 marchas, embrague 15''. Eje Meritor MS 23-245 doble reducción 4,10/5,59:1. PBT 16.900 kg (del. 6.500 / tras. 10.400), carga útil + carrocería 11.509 kg, CMT 33.000 kg, peso en orden de marcha 5.391 kg. Entre ejes 5.175 mm, largo 8.660 mm, alto cabina 2.932 mm. Neumáticos 275/80 R22.5, tanque 275 L, urea 27 L. Frenos neumáticos con ABS+EBL, freno de escape. Equipamiento: radio con CD, asiento neumático con apoyacabezas, escotilla de techo, A/A manual, alzacristales eléctricos, tacógrafo digital BVDR, visera exterior.",
+   "confianza": "alta",
+   "notas": "Camión 'DAILY' de la lista = Iveco Tector. Capacidad de rampa 60,8%."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    166
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-170e28-cab-dormitorio",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 17-280 (170E28) cabina con dormitorio / doble"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-170e28-cab-dormitorio.pdf"
+   ],
+   "fotos": [
+    "tector-170e28-cab-dormitorio-1.png",
+    "tector-170e28-2.png"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+    "cilindrada_cc": 5880,
+    "potencia_hp": 276,
+    "torque_nm": 950,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton FS 6406 B",
+    "traccion": "4x2",
+    "entre_ejes_mm": 5670,
+    "largo_mm": 8660,
+    "ancho_mm": 2485,
+    "alto_mm": 2932,
+    "pbt_kg": 16900,
+    "peso_kg": 5391,
+    "carga_util_kg": 11509,
+    "remolque_kg": 33000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "modelo_real": "Iveco Tector 17-280 (170E28) cabina con dormitorio / doble",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "166": {
+     "nota": "Cabina con dormitorio (larga). El PDF solo trae un juego de cifras (cabina corta); el largo/peso con cabina doble y 5.670 mm entre ejes pueden variar"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 170E28 (17-280) 4x2 cabina con dormitorio (cabina doble en la lista). Misma mecánica que la cabina simple: FPT NEF 6.0 L 6 cil., 280 CV (276 HP), 950 Nm, Euro 5 SCR, caja Eaton FS 6406 B de 6 marchas, eje Meritor MS 23-245. PBT 16.900 kg, CMT 33.000 kg. Entre ejes de la lista 5.670 mm. El PDF de Uruguay para esta versión repite las cifras de la cabina simple (largo 8.660 mm, carga útil 11.509 kg); considerar que con cabina larga el peso en orden de marcha aumenta y la carga útil baja. Neumáticos 275/80 R22.5, tanque 275 L.",
+   "confianza": "media",
+   "notas": "Cifras de largo/peso/carga útil heredadas de la cabina simple (PDF idéntico en sitio). Verificar."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    167
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-240e28-rsu-automatico",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 17-280 RSU automático (170E28 RSU) 4x2"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-240e28-rsu-automatico.pdf"
+   ],
+   "fotos": [
+    "tector-240e28-rsu-automatico-1.jpg",
+    "tector-240e28-rsu-2.png"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+    "cilindrada_cc": 5880,
+    "potencia_hp": 276,
+    "torque_nm": 950,
+    "transmision": "Automática Allison 3000P 5+1",
+    "traccion": "4x2",
+    "carroceria": "Chasis cabina (recolector RSU)",
+    "tanque_l": 400,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 114,
+    "modelo_real": "Iveco Tector 17-280 RSU automático (170E28 RSU) 4x2",
+    "combustible": "Diésel"
+   },
+   "versiones": {
+    "167": {
+     "nota": "En la lista: 4x2 DEE 4.185 mm. El PDF de Uruguay es del 240E28 RSU 6x2 (entre ejes 5.175 mm, PBT 24.200 kg). No hay ficha 4x2 en el sitio."
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Freno de estacionamiento spring brake"
+     ],
+     "confort": [
+      "Cabina simple"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 17-280 RSU automático (camión para recolección de residuos, cabina simple, 4x2, entre ejes 4.185 mm según la lista). No existe ficha 4x2 en Iveco Uruguay: el sitio solo trae el Tector 240E28 RSU 6x2 (PBT 24.200 kg, entre ejes 5.175 mm, largo 10.357 mm, ancho 2.456 mm, altura 2.870 mm). Mecánica común: motor Iveco/FPT NEF 6 F4AE3681E 5.880 cm3, 280 CV (206 kW) a 2.500 rpm, 950 Nm de 1.250 a 1.950 rpm; caja automática Allison 3000P de 5+1 marchas; eje delantero Iveco 5872/1; neumáticos 275/80 R22.5; tanque 400 L, urea 27 L; velocidad máx. 114 km/h; rampa 35%. Freno neumático S-cam con ABS, spring brake.",
+   "confianza": "baja",
+   "notas": "Sin ficha oficial del 17-280 RSU 4x2; datos de motor/caja tomados del 240E28 RSU 6x2 (misma serie RSU). PBT/dimensiones del 4x2 no confirmadas."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    168,
+    169
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-170e30t-autoshift",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 17-300 Tracto Autoshift (170E30T)"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-170e30t-autoshift.pdf"
+   ],
+   "fotos": [
+    "tector-170e30-autoshift-1.jpg",
+    "tector-170e30t-autoshift-2-1.png",
+    "tector-170e30t-2.jpg"
+   ],
+   "comun": {
+    "carroceria": "Tractocamión",
+    "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 300 CV",
+    "cilindrada_cc": 6728,
+    "potencia_hp": 296,
+    "torque_nm": 1050,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Automatizada Eaton EA 11109 L, 10 vel. (Autoshift)",
+    "entre_ejes_mm": 3690,
+    "largo_mm": 6185,
+    "ancho_mm": 2485,
+    "alto_mm": 3560,
+    "pbt_kg": 16900,
+    "peso_kg": 5581,
+    "remolque_kg": 36000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
+    "combustible": "Diésel"
+   },
+   "versiones": {
+    "168": {
+     "traccion": "4x2"
+    },
+    "169": {
+     "traccion": "6x2",
+     "nota": "La lista indica 6x2; el PDF del sitio solo cubre el 170E30T 4x2 (Autoshift). Datos del 6x2 (PBT, CMT) no verificados."
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + ASR",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Climatizador / humidificador",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cierre centralizado",
+      "Faros neblineros",
+      "Cabina basculante hidráulica"
+     ],
+     "multimedia": [
+      "Radio con CD y RDS"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 170E30T Autoshift (17-300 Tracto), tractocamión 4x2 con cabina larga. MOTOR FPT NEF 6 ID 6.7 L (6.728 cm3), 6 cil. en línea turbo, 300 CV (296 HP) a 2.500 rpm, 1.050 Nm de 1.250 a 1.900 rpm, Euro 5 SCR. Transmisión automatizada Eaton EA 11109 L (Autoshift) de 10 marchas; embrague 395 mm; eje trasero Meritor MS 23-155 simple reducción 3,73:1. PBT 16.900 kg (del. 6.500 / tras. 10.400), CMT 36.000 kg, peso en orden de marcha 5.581 kg. Entre ejes 3.690 mm, largo 6.185 mm, alto cabina 3.560 mm, posición quinta rueda 500 mm, altura quinta rueda 1.350 mm. Neumáticos 275/80 R22.5, tanque 275 L, urea 27 L. Pendiente 65%. Equipamiento: radio CD RDS, tacógrafo digital, climatizador/humidificador, A/A, asiento neumático, vidrios eléctricos, cierre centralizado, neblineros.",
+   "confianza": "media",
+   "notas": "Fila 169 (6x2) sin ficha propia en el sitio; se usa el 4x2 como base."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    170,
+    171
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-240e28-cab-simple",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 24-280 (240E28) 6x2"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-240e28-cab-simple.pdf"
+   ],
+   "fotos": [
+    "tector-240e28-cab-simple-1.jpg",
+    "tector-240e28-cab-dormitorio-1.jpg",
+    "tector-240e28-cd-2.jpg",
+    "tector-240e28-cs-2.jpg"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+    "cilindrada_cc": 5880,
+    "potencia_hp": 276,
+    "torque_nm": 950,
+    "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+    "transmision": "Manual 6 vel. Eaton FS 6406 B",
+    "traccion": "6x2",
+    "entre_ejes_mm": 5175,
+    "largo_mm": 10317,
+    "ancho_mm": 2457,
+    "alto_mm": 2880,
+    "pbt_kg": 24500,
+    "peso_kg": 6960,
+    "carga_util_kg": 18140,
+    "remolque_kg": 33000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 120,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "170": {
+     "nota": "Cabina corta (simple): carga útil 18.140 kg, peso en orden de marcha 6.960 kg, tanque 275 L"
+    },
+    "171": {
+     "nota": "Cabina larga (doble/dormitorio): peso en orden de marcha 7.157 kg; 2 tanques de 275 L; espejos calefaccionados y telecomandados, climatizador, neblineros, cierre centralizado"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBL",
+      "Freno de escape (mariposa)",
+      "Frenos neumáticos de tambor S-cam"
+     ],
+     "confort": [
+      "Aire acondicionado manual",
+      "Asiento del conductor con suspensión neumática",
+      "Alzacristales eléctricos",
+      "Cabina basculante hidráulica",
+      "Escotilla de techo manual",
+      "Tacógrafo digital"
+     ],
+     "multimedia": [
+      "Radio con CD y RDS"
+     ]
+    },
+    "171": {
+     "confort": [
+      "Climatizador / humidificador",
+      "Espejos calefaccionados y telecomandados",
+      "Cierre centralizado",
+      "Faros neblineros",
+      "Visera exterior"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 240E28 (24-280) 6x2 con tercer eje levadizo neumático. MOTOR FPT NEF 6.0 L 6 cil., 280 CV (276 HP) a 2.500 rpm, 950 Nm de 1.250 a 1.850 rpm, Euro 5 SCR. Caja Eaton FS 6406 B manual de 6 marchas, embrague 380 mm; eje Meritor MS 23-245 doble reducción 4,10/5,59:1 (opciones 5,57/7,60; 4,56/6,21; 4,88/6,65). PBT 24.500 kg (del. 6.500 / tras. 18.000), CMT 33.000 kg. Cabina corta (simple) y larga (doble): entre ejes 5.175 mm, largo 10.317 mm, alto 2.880 mm, ancho cabina 2.400/2.923 mm. Peso en orden de marcha 6.960 kg (corta) / 7.157 kg (larga); carga útil cabina corta 18.140 kg. Neumáticos 275/80 R22.5 (opcional 295/80), tanque 275 L (cabina larga 275+275 L), urea 27 L. Suspensión trasera balancín con elevación neumática del tercer eje. Frenos neumáticos S-cam con ABS+EBL, freno de escape, spring brake. Equipamiento: radio CD RDS, asiento neumático, escotilla, A/A manual, vidrios eléctricos, tacógrafo; cabina larga suma climatizador, espejos calefaccionados y telecomandados, cierre centralizado, neblineros, visera.",
+   "confianza": "alta",
+   "notas": "Cabina simple y doble comparten el mismo PDF en el sitio."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    172
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-240e28-rsu-automatico",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 24-280 RSU automático (240E28 RSU) 6x2"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-240e28-rsu-automatico.pdf"
+   ],
+   "fotos": [
+    "tector-240e28-rsu-automatico-1.jpg",
+    "tector-240e28-rsu-2.png"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+    "cilindrada_cc": 5880,
+    "potencia_hp": 276,
+    "torque_nm": 950,
+    "transmision": "Automática Allison 3000P 5+1",
+    "traccion": "6x2",
+    "carroceria": "Chasis cabina (recolector RSU)",
+    "entre_ejes_mm": 5175,
+    "largo_mm": 10357,
+    "ancho_mm": 2456,
+    "alto_mm": 2870,
+    "pbt_kg": 24200,
+    "peso_kg": 6730,
+    "tanque_l": 400,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 114,
+    "plazas": 3,
+    "modelo_real": "Iveco Tector 24-280 RSU automático (240E28 RSU) 6x2",
+    "combustible": "Diésel"
+   },
+   "versiones": {
+    "172": {
+     "nota": "Peso en orden de marcha 6.730 kg (del. 3.300 / tras. 3.430); eje trasero tándem 18.000 kg"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Freno de estacionamiento spring brake"
+     ],
+     "confort": [
+      "Cabina simple"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 240E28 RSU Automático 6x2 (camión recolector de residuos). MOTOR Iveco FPT NEF 6 (F4AE3681E) 5.880 cm3, 280 CV (206 kW) a 2.500 rpm, 950 Nm de 1.250 a 1.950 rpm, common rail EDC. Caja automática Allison 3000P de 5+1 marchas con mando eléctrico (selector de 3 posiciones). Eje delantero Iveco 5872/1; puente trasero Meritor MS 23-155 relación 5,86; eje auxiliar tipo balancín Suspensys no elevable. Neumáticos 275/80 R22.5. PBT 24.200 kg (del. 6.200 / tándem trasero 18.000), peso en orden de marcha 6.730 kg. Entre ejes 5.175 mm, largo 10.357 mm, ancho 2.456 mm, alto 2.870 mm (con escotilla, sin carga), voladizos 1.362/2.596 mm, trocha 1.986/1.832 mm. Tanque 400 L, urea 27 L, aceite motor 18 L. Velocidad máxima 114 km/h, pendiente 35%. Freno de servicio neumático S-cam con ABS, spring brake en cámaras traseras.",
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "DAILY",
+   "ids": [
+    173
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/tector-27-320",
+     "que": "ficha oficial iveco.com.uy Iveco Tector 27-320 6x4"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Tector",
+     "que": "linea Tector (Brasil), referencia de nombre"
+    }
+   ],
+   "pdf": [
+    "tector-27-320.pdf"
+   ],
+   "fotos": [
+    "tector-27-320-1.jpg",
+    "tector-27-320-2.jpg",
+    "tector-27-320-3.jpg"
+   ],
+   "comun": {
+    "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 320 CV",
+    "cilindrada_cc": 6728,
+    "potencia_hp": 316,
+    "torque_nm": 1100,
+    "norma_emisiones": "Euro VI (Proconve P8, HI-eSCR)",
+    "transmision": "Manual 8 vel. + 2 Low Eaton FTS 16108 LL",
+    "traccion": "6x4",
+    "pbt_kg": 27190,
+    "carga_util_kg": 19960,
+    "remolque_kg": 44000,
+    "tanque_l": 275,
+    "neumaticos": "275/80 R22.5",
+    "velocidad_max_kmh": 96,
+    "plazas": 3,
+    "ancho_mm": 2450,
+    "modelo_real": "Iveco Tector 27-320 6x4",
+    "combustible": "Diésel",
+    "carroceria": "Chasis cabina"
+   },
+   "versiones": {
+    "173": {
+     "nota": "PDF con dos entre ejes (3.690 mm y 4.185/4.815 mm); la lista no indica cuál. Peso en orden de marcha 7.230-7.350 kg."
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Control de tracción (ATC/ASR)",
+      "Asistente de arranque en pendiente (Hill Holder)",
+      "Frenado de emergencia (ESS)",
+      "Distribución electrónica de frenado (EBD/EBL)",
+      "Control de estabilidad (ESC) opcional",
+      "Freno de escape de dos etapas"
+     ],
+     "confort": [
+      "Cabina basculante hidráulica",
+      "Función Eco Roll"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco Tector 27-320 (260E30 en Brasil) 6x4 off-road/obra. MOTOR FPT NEF 6 ID 6.7 L (6.728 cm3), 320 CV (316 HP) a 2.200-2.500 rpm, 1.100 Nm de 1.300 a 1.900 rpm, Euro VI (Proconve P8) con HI-eSCR. Caja Eaton FTS 16108 LL manual de 8 velocidades + 2 Low + 3 reversas, función Eco Roll. Embrague Eaton 380 Pull monodisco. Eje trasero Meritor MT46-14X reducción 4,88:1 con bloqueo de diferencial. PBT técnico 27.190 kg / legal 23.000 kg, CMT 44.000 kg, carga + carrocería 19.960 kg técnico / 15.770 legal (3.690 mm entre ejes). Ejes: delantero 6.390 kg, trasero 20.800 kg. Entre ejes 3.690 mm y 4.185 mm (también 4.815 mm), largo 7.766 mm (3.690), ancho 2.450 mm. Velocidad máx. 96 km/h, pendiente 68%. Neumáticos 275/80 R22.5, tanque 275 L, urea 21 L. Frenos neumáticos S-cam con ABS, ATC/ASR, EBD/EBL, ESS, HSA. Cabina avanzada inclinable hidráulica.",
+   "confianza": "media",
+   "notas": "Hay una ficha separada 260E30 6x4 en el sitio (no incluida en la lista)."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "STRALIS",
+   "ids": [
+    174
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/s-way-480-suspension-neumatica",
+     "que": "ficha oficial iveco.com.uy S-Way 480 6x2 neumática"
+    },
+    {
+     "url": "https://www.iveco.com/brasil/Pesados-S-Way/Pesados-6x2-480",
+     "que": "Iveco Brasil S-Way 6x2 480"
+    }
+   ],
+   "pdf": [
+    "s-way-480-suspension-neumatica.pdf"
+   ],
+   "fotos": [
+    "s-way-480-suspension-neumatica-1.jpg",
+    "sway-480-2.jpg",
+    "sway-480-3.png"
+   ],
+   "comun": {
+    "modelo_real": "Iveco S-Way 480 6x2 (Brasil)",
+    "carroceria": "Tractocamión",
+    "combustible": "Diésel",
+    "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+    "cilindrada_cc": 12900,
+    "potencia_hp": 473,
+    "torque_nm": 2450,
+    "norma_emisiones": "Euro VI (HI-eSCR)",
+    "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+    "traccion": "6x2",
+    "pbt_kg": 27200,
+    "remolque_kg": 60000,
+    "neumaticos": "295/80 R22.5",
+    "plazas": 3,
+    "entre_ejes_mm": 3200,
+    "largo_mm": 6749,
+    "tanque_l": 685,
+    "velocidad_max_kmh": 90
+   },
+   "versiones": {
+    "174": {
+     "nota": "La lista dice 'Tracto Doble (Brasil)': versión brasileña de la S-Way 480 6x2 neumática; se usó la ficha de Uruguay como base"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Frenado de emergencia automático (AEBS)",
+      "Alerta de cambio de carril (LDWS)",
+      "Control crucero adaptativo (ACC)",
+      "ABS",
+      "Control de tracción (ASR)",
+      "Control de estabilidad (ESC)",
+      "Asistente de arranque en pendiente (Hill Holder)"
+     ],
+     "confort": [
+      "Aire acondicionado automático",
+      "Asientos con suspensión neumática",
+      "Cabina con suspensión neumática",
+      "Cabina basculante eléctrica",
+      "Alzacristales eléctricos",
+      "Control crucero predictivo (PECC)",
+      "Eco Roll"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco S-Way 480 6x2 con suspensión neumática (en la lista figura como STRALIS S WAY 480, Brasil). Ver ficha del modelo S-WAY (id 176): FPT Cursor 13 de 12.900 cm3, 480 CV, 2.450 Nm, caja ZF TraXon de 12 marchas, PBT 27.200 kg, CMT 60.000 kg, eje trasero 2,85:1, 295/80 R22.5, entre ejes 3.200 o 3.500 mm.",
+   "confianza": "media",
+   "notas": "El modelo en la lista dice 'STRALIS' pero es la S-Way (sucesora del Stralis). 'Tracto Doble (Brasil)' no verificado en el sitio brasileño; el sitio indica 6x2 Mega Cab, entre ejes 3.170/3.450 mm y PBT 27.200 kg."
+  },
+  {
+   "marca": "Iveco",
+   "modelo": "S-WAY",
+   "ids": [
+    175,
+    176,
+    177
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.iveco.com.uy/productos/s-way-480-suspension-mecanica",
+     "que": "ficha oficial iveco.com.uy S-Way 480 suspensión mecánica"
+    },
+    {
+     "url": "https://www.iveco.com.uy/productos/s-way-480-suspension-neumatica",
+     "que": "ficha oficial iveco.com.uy S-Way 480 suspensión neumática"
+    },
+    {
+     "url": "https://www.iveco.com/argentina/-/media/IVECOdotcom/Argentina/Brochure/Sway/S-Way-600-480-TY.pdf",
+     "que": "brochure Iveco Argentina S-Way 480 6x2"
+    }
+   ],
+   "pdf": [
+    "s-way-480-suspension-mecanica.pdf",
+    "s-way-480-suspension-neumatica.pdf",
+    "s-way-480-ty-argentina.pdf"
+   ],
+   "fotos": [
+    "s-way-480-suspension-mecanica-1.png",
+    "s-way-480-suspension-neumatica-1.jpg",
+    "sway-480-2.jpg",
+    "sway-480-3.png"
+   ],
+   "comun": {
+    "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+    "carroceria": "Tractocamión",
+    "combustible": "Diésel",
+    "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+    "cilindrada_cc": 12900,
+    "potencia_hp": 473,
+    "torque_nm": 2450,
+    "norma_emisiones": "Euro VI (HI-eSCR)",
+    "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+    "traccion": "6x2",
+    "pbt_kg": 27200,
+    "remolque_kg": 60000,
+    "neumaticos": "295/80 R22.5",
+    "plazas": 3,
+    "ancho_mm": 2490,
+    "velocidad_max_kmh": 90
+   },
+   "versiones": {
+    "175": {
+     "nota": "Suspensión mecánica (ballestas)",
+     "entre_ejes_mm": 3500,
+     "largo_mm": 7156,
+     "peso_kg": 9060,
+     "tanque_l": 820,
+     "velocidad_max_kmh": 120,
+     "neumaticos": "295/80 R22.5 llantas de acero 8,25x22,5",
+     "pbt_kg": 27200
+    },
+    "176": {
+     "nota": "Suspensión neumática (4 pulmones por eje)",
+     "entre_ejes_mm": 3200,
+     "largo_mm": 6749,
+     "tanque_l": 685,
+     "velocidad_max_kmh": 90,
+     "pbt_kg": 28200,
+     "neumaticos": "295/80 R22.5 llantas de aluminio 8,25x22,5"
+    },
+    "177": {
+     "nota": "Versión 'Europea' de la lista: no hay ficha específica; se asume mecánica base de la S-Way 480 6x2 neumática. Sin datos propios verificados."
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Frenado de emergencia automático (AEBS)",
+      "Alerta de cambio de carril (LDWS)",
+      "Control crucero adaptativo (ACC)",
+      "ABS",
+      "Control de tracción (ASR)",
+      "Control de estabilidad (ESC)",
+      "Asistente de arranque en pendiente (Hill Holder)"
+     ],
+     "confort": [
+      "Aire acondicionado automático",
+      "Asientos con suspensión neumática",
+      "Cabina con suspensión neumática",
+      "Cabina basculante eléctrica",
+      "Alzacristales eléctricos",
+      "Control crucero predictivo (PECC)",
+      "Eco Roll"
+     ]
+    },
+    "176": {
+     "confort": [
+      "Asientos tapizados en cuero",
+      "Litera interior",
+      "Volante forrado en piel",
+      "Espejos calefaccionados telecomandados",
+      "Tercer eje con elevación desde cabina",
+      "Conector FMS para gestión de flotas"
+     ]
+    }
+   },
+   "ficha_texto": "Iveco S-Way 480 6x2 (cabina Mega Cab, tracto). MOTOR FPT Cursor 13 (12.900 cm3, 6 cil. en línea, turbo common rail con eVGT), 480 CV (473 HP) a 1.400-1.900 rpm, 2.450 Nm (250 kgfm) de 1.000 a 1.400 rpm, Euro VI con HI-eSCR; freno motor de 4 etapas (610 CV). Caja ZF TraXon 12TX2624 TD automatizada de 12 velocidades (+2 reversas) con PECC (control crucero predictivo), Eco Roll y preparación para PTO. Embrague Sachs 430 mm. Eje delantero Dana/Iveco 5876; trasero Meritor MS 23-18 X reducción simple, bloqueo transversal, relación 3,08:1 (mecánica) o 2,85:1 (neumática). SUSPENSIÓN MECÁNICA (175): ballestas parabólicas; entre ejes 3.500 mm, largo 7.156 mm, PBT técnico 27.200 kg (del. 6.200 / tras. 21.000), CMT y PBTC 60.000 kg, peso en vacío Mega Cab 9.060 kg, velocidad limitada a 120 km/h, combustible aluminio 600+220 L, urea 80 L. SUSPENSIÓN NEUMÁTICA (176): entre ejes 3.200 o 3.500 mm, largo 6.749 mm (3.200), PBT técnico 28.200 kg (del. 6.200 / tras. 22.000), CMT 60.000 kg, velocidad limitada a 90 km/h, tanque 550+135 L (EE 3.200) o 600+220 L (EE 3.500), urea 80 L, llantas de aluminio. Ruedas 8,25x22,5, neumáticos 295/80 R22.5. Dimensiones comunes: ancho de cabina 2.490 mm (2.539 con espejos), altura cabina Mega Cab 3.074 mm aprox., despeje 218/190 mm. Chasis largueros 304,4 x 80 x 7,7 mm, Fe E490. Batería 2x12 V 225 Ah, alternador 24 V 90 A. Seguridad: AEBS, LDWS, ACC, ABS, ASR, EBD, ESC, HSA, freno de emergencia (ESS). Equipamiento: A/A automático, asientos con suspensión neumática, cabina con suspensión neumática y basculamiento eléctrico, tacógrafo digital BVDR, vidrios eléctricos, control crucero, luces traseras LED; la versión neumática suma cuero, litera interior, volante en piel, FMS y tercer eje elevable desde cabina. Argentina: PBT legal 23.000 kg, entre ejes 3.200/3.173 y 3.451 mm.",
+   "confianza": "media",
+   "notas": "177 'Europea' sin ficha específica (la S-Way europea difiere de la sudamericana). Los datos de 175/176 salen de las fichas de Uruguay; 177 solo hereda la base común."
+  },
+  {
+   "marca": "Farizon",
+   "modelo": "Van V6E",
+   "ids": [
+    53
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.farizon.com.uy/v6e",
+     "que": "farizon.com.uy V6E (ficha local ya existente en fichas_txt)"
+    }
+   ],
+   "pdf": [],
+   "fotos": [],
+   "comun": {
+    "carroceria": "Furgón",
+    "combustible": "Eléctrico",
+    "potencia_hp": 134,
+    "torque_nm": 300,
+    "bateria_kwh": 41.86,
+    "autonomia_km": 260,
+    "autonomia_ciclo": "WLTC",
+    "velocidad_max_kmh": 110,
+    "plazas": 2,
+    "largo_mm": 4845,
+    "ancho_mm": 1730,
+    "alto_mm": 1985,
+    "entre_ejes_mm": 3100,
+    "volumen_carga_m3": 5.9,
+    "pbt_kg": 2715,
+    "peso_kg": 1585,
+    "carga_util_kg": 1100,
+    "carga_dc_kw": 45,
+    "carga_ac_kw": 6.6,
+    "traccion": "4x2 (trasera)",
+    "neumaticos": "195/70 R15 LT",
+    "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km"
+   },
+   "versiones": {
+    "53": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Radar y cámara de reversa",
+      "Asistente de arranque en pendiente (HAC)",
+      "Asistente de descenso (HDC)",
+      "Airbags conductor y acompañante"
+     ]
+    }
+   },
+   "ficha_texto": "Ya tiene ficha propia (Farizon Van V6E.pdf / .txt). Resumen: furgón eléctrico, motor trasero 100 kW (134 HP), 300 Nm, batería CATL LFP 41,86 kWh, 260 km WLTC, 110 km/h, carga útil 1.100 kg (PBT 2.715 kg), caja 5,9 m3 (2.800x1.600x1.270 mm), dimensiones 4.845x1.730x1.985 mm, 2 plazas, carga DC 45 kW (20-100% en 35 min) / AC 6,6 kW (6,7 h), precio CIF USD 24.500.",
+   "confianza": "alta",
+   "notas": "No se investigó: se dejó solo el resumen de la ficha existente."
+  },
+  {
+   "marca": "Farizon",
+   "modelo": "F3E BOX",
+   "ids": [
+    54
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.carexpert.com.au/car-news/farizon-f3e-electric-cab-chassis-launched-in-australia",
+     "que": "CarExpert Australia, lanzamiento F3E"
+    },
+    {
+     "url": "https://evcentral.com.au/cars/farizon/f3e/",
+     "que": "EV Central Australia (referencia)"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "farizon-f3e-1.jpg",
+    "farizon-f3e-4.jpg",
+    "farizon-f3e-5.jpg",
+    "farizon-f3e-6.jpg"
+   ],
+   "comun": {
+    "combustible": "Eléctrico",
+    "traccion": "4x2 (trasera)",
+    "modelo_real": "Farizon F3E (carrocería Box / furgón de carga)",
+    "carroceria": "Camión liviano (caja cerrada)",
+    "bateria_kwh": 72.8,
+    "potencia_hp": 148,
+    "torque_nm": 260,
+    "autonomia_km": 314,
+    "autonomia_ciclo": "WLTP (250 km con caja cerrada según EV Central)",
+    "entre_ejes_mm": 3700,
+    "carga_util_kg": 1705,
+    "carga_dc_kw": 100,
+    "carga_ac_kw": 11,
+    "garantia": "5 años / 200.000 km; batería 8 años / 200.000 km (Australia)"
+   },
+   "versiones": {
+    "54": {
+     "nota": "'72.849 kWh' en la lista = pack CATL LFP de 72,8 kWh"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "confort": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Tablero digital 7\"",
+      "V2L 3,3 kW"
+     ]
+    }
+   },
+   "ficha_texto": "Farizon F3E (liviano eléctrico de caja/chasis; no aparece en farizon.com.uy ni en Latam). Datos de prensa australiana: batería CATL LFP 72,8 kWh, motor trasero de 110 kW (148 HP) y 245-260 Nm, autonomía WLTP 314 km (265 km en otras fuentes; 250 km con caja cerrada), carga rápida DC hasta 100 kW (20-80% en 30 min) y AC 11 kW, V2L 3,3 kW. Distancia entre ejes 3.700 mm, carga útil hasta 1.705 kg, caja interior de 3.820 x 1.900 x 1.800 mm (aprox. 13 m3 calculado), altura de carga 855 mm, 15 espacios de guardado. Sin capacidad de remolque con freno. Pantalla táctil 12,3'' con CarPlay/Android Auto y tablero 7''. Garantía en Australia 5 años/200.000 km y batería 8 años. Carrocerías: chasis cabina, tray y caja cerrada.",
+   "confianza": "baja",
+   "notas": "Sin fuente de Uruguay/Latam ni ficha oficial; todo de prensa australiana, con valores que difieren entre fuentes (rango, torque). Importador local no lo lista."
+  },
+  {
+   "marca": "Farizon",
+   "modelo": "SuperVan",
+   "ids": [
+    55
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.farizon.com.uy/super-van-ssta",
+     "que": "farizon.com.uy SuperVan"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2024/12/lanzamiento-farizon-supervan.html",
+     "que": "Autoblog Uruguay lanzamiento"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/6772a29b6ed4aba32477bd03_FARIZON_Cata%CC%81logo_Super%20VAN%204x2_DIC-24%20(1).pdf",
+     "que": "catalogo oficial PDF dic-2024"
+    }
+   ],
+   "pdf": [
+    "Farizon SuperVan catalogo.pdf"
+   ],
+   "fotos": [
+    "farizon-supervan-1.jpg",
+    "farizon-supervan-2.jpg",
+    "farizon-supervan-3.jpg"
+   ],
+   "comun": {
+    "combustible": "Eléctrico",
+    "traccion": "4x2 (delantera, FWD)",
+    "modelo_real": "Farizon SuperVan 4x2 (11,82 m3)",
+    "carroceria": "Furgón",
+    "plazas": 3,
+    "potencia_hp": 228,
+    "torque_nm": 336,
+    "bateria_kwh": 82.88,
+    "autonomia_km": 307,
+    "autonomia_ciclo": "WLTP combinado",
+    "velocidad_max_kmh": 135,
+    "largo_mm": 5490,
+    "ancho_mm": 1980,
+    "alto_mm": 2500,
+    "entre_ejes_mm": 3600,
+    "volumen_carga_m3": 11.82,
+    "pbt_kg": 3500,
+    "peso_kg": 2330,
+    "carga_util_kg": 1170,
+    "remolque_kg": 2000,
+    "carga_dc_kw": 140,
+    "carga_ac_kw": 11,
+    "despeje_mm": 150,
+    "neumaticos": "215/75 R16C",
+    "consumo": "29 kWh/100 km WLTP",
+    "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km"
+   },
+   "versiones": {
+    "55": {
+     "nota": "Versión 11,82 m3 (catálogo; el Autoblog 2024 y otras tablas dicen 11,22). Existe también la versión 7,92 m3: largo 4.990, alto 2.180, entre ejes 3.100, carga útil 1.265, peso 2.235 kg, 320 km"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags frontales",
+      "ABS + EBD",
+      "Control de estabilidad (ESC)",
+      "Asistente de arranque en pendiente (HHC)",
+      "Control de descenso (HDC)",
+      "Frenado autónomo de emergencia (AEBS)",
+      "Alerta de cambio de carril / mantenimiento de carril",
+      "Control crucero adaptativo",
+      "Detector de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Reconocimiento de señales",
+      "Monitoreo de presión de neumáticos",
+      "Monitor de atención del conductor",
+      "Cámara 360°",
+      "Sensores de estacionamiento",
+      "Cámara de reversa"
+     ],
+     "confort": [
+      "Climatizador",
+      "Asientos delanteros calefaccionados y ventilados",
+      "Volante calefaccionado",
+      "Freno de estacionamiento eléctrico",
+      "Auto Hold",
+      "Sensor de lluvia",
+      "Luces automáticas",
+      "Puerta lateral corrediza sin pilar B",
+      "Puertas traseras 270°",
+      "Llave inteligente",
+      "Modos de conducción Confort / Eco / Sport"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth"
+     ]
+    }
+   },
+   "ficha_texto": "Farizon SuperVan 4x2 eléctrica, tracción delantera (importador Santa Rosa, farizon.com.uy). MOTOR: síncrono de imán permanente, 170 kW pico (228 HP) / 66 kW continuos, 336 Nm, reductora de una velocidad. BATERÍA CATL LFP 82,88 kWh, 400 V. Autonomía WLTP combinada 307 km (11,82 m3) / 320 km (7,92 m3); consumo 29 / 27,7 kWh/100 km. Velocidad máxima 135 km/h. CARGA: DC hasta 140 kW (CCS2, 20-80% en 36 min), AC 11 kW (unas 9 h). VERSIÓN 11,82 m3: 5.490 x 1.980 x 2.500 mm, entre ejes 3.600 mm, PBT 3.500 kg, peso 2.330 kg, carga útil 1.170 kg, remolque 750 kg sin freno / 2.000 kg con freno. VERSIÓN 7,92 m3: 4.990 x 1.980 x 2.180 mm, entre ejes 3.100 mm, peso 2.235 kg, carga útil 1.265 kg. Despeje 150 mm, ángulos 18°/17°, giro mínimo 6,1 m, 3 asientos. Suspensión delantera independiente McPherson, trasera ballesta; frenos de disco ventilados/ sólidos; neumáticos 215/75 R16C en llantas de acero. Seguridad y asistencias: 2 airbags, ABS, EBD, ESC, HHC, HDC, TPMS, AEBS, FCW, ACC, LKA/LDWS, BSD, RCTA, reconocimiento de señales, DMS, AVM 360, radar de estacionamiento. Confort: climatizador, asientos con calefacción y ventilación, volante calefaccionado, EPB con Auto Hold, sensor de lluvia, luces automáticas, llave inteligente, pantalla 12,3'' MP5 con CarPlay, modos Confort/Eco/Sport. Puerta corrediza derecha sin pilar B, portón trasero a 270°. Precio CIF USD 51.900 (leasing 54.900) para 11,82 m3. Garantía 4 años/100.000 km, batería 5 años/200.000 km.",
+   "confianza": "alta",
+   "notas": "Volumen 11,82 vs 11,22 m3 según fuente (el catálogo dice 11,82 en la tabla). Autoblog daba 82,88 kWh en un lado y 88,82 en otro."
+  },
+  {
+   "marca": "Farizon",
+   "modelo": "Mini Truck H9E",
+   "ids": [
+    56,
+    58
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.farizon.com.uy/h9e8t",
+     "que": "farizon.com.uy H9E-8T"
+    },
+    {
+     "url": "https://www.farizon.com.uy/h9e8tchasis",
+     "que": "farizon.com.uy H9E-8T chasis"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/6672e14db7cec5cd2daf24f9_FARIZON_Cata%CC%81logo_TRUCK_H9E-8T-WVTA_JUNIO-24.pdf",
+     "que": "catalogo oficial H9E-8T WVTA (jun-2024)"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/68d6c468af74e66db14e10bd_FARIZON_Ficha_CHASIS_V2%20(1)%20(1).pdf",
+     "que": "ficha oficial H9E-8T chasis"
+    }
+   ],
+   "pdf": [
+    "Farizon H9E-8T catalogo.pdf",
+    "Farizon H9E-8T chasis.pdf"
+   ],
+   "fotos": [
+    "farizon-h9e-1.png"
+   ],
+   "comun": {
+    "combustible": "Eléctrico",
+    "traccion": "4x2 (trasera)",
+    "carroceria": "Camión liviano",
+    "plazas": 3,
+    "bateria_kwh": 106.95,
+    "potencia_hp": 174,
+    "torque_nm": 1500,
+    "autonomia_km": 260,
+    "autonomia_ciclo": "según fabricante",
+    "pbt_kg": 7995,
+    "entre_ejes_mm": 3360,
+    "ancho_mm": 2080,
+    "neumaticos": "215/75 R17.5",
+    "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km"
+   },
+   "versiones": {
+    "56": {
+     "nota": "Versión chasis: dimensiones del chasis 5.950x2.245x2.875 mm, peso en orden de marcha 3.500 kg, velocidad 90 km/h, precio CIF USD 33.900 (leasing 35.900)",
+     "largo_mm": 5950,
+     "ancho_mm": 2245,
+     "alto_mm": 2875,
+     "peso_kg": 3500,
+     "carga_util_kg": 4495,
+     "velocidad_max_kmh": 90,
+     "carroceria": "Chasis cabina"
+    },
+    "58": {
+     "nota": "Con caja (cargo box): vehículo 5.995x2.350x3.300 mm, caja 4.150x2.300x2.200 mm (~21 m3), peso en orden de marcha 3.380 kg, velocidad 85-90 km/h, leasing USD 52.500",
+     "largo_mm": 5995,
+     "ancho_mm": 2350,
+     "alto_mm": 3300,
+     "peso_kg": 3380,
+     "carga_util_kg": 4615,
+     "volumen_carga_m3": 21,
+     "velocidad_max_kmh": 85,
+     "carroceria": "Camión liviano (caja)"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Control de tracción",
+      "Control de estabilidad",
+      "Frenado autónomo de emergencia (AEBS)",
+      "Alerta de colisión frontal",
+      "Alerta de cambio de carril",
+      "Cámara 360°",
+      "Monitoreo de presión de neumáticos"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Volante multifunción",
+      "Llave inteligente (start/stop)",
+      "Alzacristales eléctricos",
+      "Espejos eléctricos calefaccionados",
+      "Asiento del conductor con ajuste en 4 direcciones"
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "Tablero LCD 7\""
+     ]
+    }
+   },
+   "ficha_texto": "Farizon H9E-8T (Mini Truck eléctrico de 8 t, importador Santa Rosa). MOTOR síncrono de imanes permanentes + reductor, 70 kW nominal / 130 kW pico (174 HP), torque 515/1.500 Nm, tracción trasera, motor central. BATERÍA CATL LFP 106,95 kWh (refrigeración líquida). Autonomía 260 km, carga rápida CCS2 en ≤ 40 min (20-80%). Velocidad máx. 85-90 km/h. PBT 7.995 kg, distancia entre ejes 3.360 mm, 3 asientos, ancho de cabina 2.080 mm. Neumáticos 215/75 R17.5, dirección asistida electrohidráulica (EHPS). CHASIS (56): dimensiones del chasis 5.950 x 2.245 x 2.875 mm, peso en orden de marcha 3.500 kg (carga útil + carrocería ~4.495 kg). CON CAJA (58): vehículo 5.995 x 2.350 x 3.300 mm, caja interna 4.150 x 2.300 x 2.200 mm (~21 m3), peso 3.380 kg. Equipamiento: aire acondicionado, volante multifunción, llave inteligente con start/stop, vidrios y espejos eléctricos (calefaccionados), asiento del conductor de 4 vías, tablero LCD 7'', multimedia 8'', cámara 360°, TPMS, salida 12/24 V, control de tracción y estabilidad, alerta de cambio de carril, alerta de colisión frontal y frenado de emergencia autónomo. Precios CIF: chasis USD 33.900, box leasing USD 52.500. Garantía 4 años/100.000 km, batería 5 años/200.000 km.",
+   "confianza": "media",
+   "notas": "Carga útil = PBT - peso en orden de marcha (calculada). Velocidad: 85 km/h en la página del box, 90 en chasis y catálogo. En Australia se llama H9E 8T con baterías 107/162 kWh."
+  },
+  {
+   "marca": "Farizon",
+   "modelo": "Mini Truck H8E",
+   "ids": [
+    57
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.farizon.com.uy/h8e6t",
+     "que": "farizon.com.uy H8E-6T"
+    },
+    {
+     "url": "https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/68effc3b307003402e56a7c6_FARIZON_Cata%CC%81logo_TRUCK_H8E-6T_OCT-25.pdf",
+     "que": "catalogo oficial H8E-6T (oct-2025)"
+    }
+   ],
+   "pdf": [
+    "Farizon H8E-6T catalogo.pdf"
+   ],
+   "fotos": [
+    "farizon-h8e-68effcc32cc3c690b3e41705_FRA_8376.jpg",
+    "farizon-h8e-68effcd329f660a6337424cc_FRA_8377.jpg",
+    "farizon-h8e-68effce6033348bbf3ce595b_FRA_8384.jpg"
+   ],
+   "comun": {
+    "combustible": "Eléctrico",
+    "traccion": "4x2 (trasera)",
+    "carroceria": "Camión liviano",
+    "plazas": 3,
+    "bateria_kwh": 100.46,
+    "potencia_hp": 188,
+    "torque_nm": 420,
+    "autonomia_km": 200,
+    "autonomia_ciclo": "WLTP",
+    "velocidad_max_kmh": 90,
+    "pbt_kg": 6000,
+    "peso_kg": 3345,
+    "carga_util_kg": 2655,
+    "entre_ejes_mm": 3360,
+    "ancho_mm": 2160,
+    "alto_mm": 3150,
+    "largo_mm": 5995,
+    "neumaticos": "205/75 R17.5",
+    "volumen_carga_m3": 18.3,
+    "garantia": "3 años o 100.000 km; batería 5 años o 200.000 km"
+   },
+   "versiones": {
+    "57": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Alerta de cambio de carril",
+      "Radar de reversa",
+      "Cinturones de 3 puntas",
+      "Recordatorio de cinturón",
+      "Bloqueo automático de puertas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Control crucero",
+      "Alzacristales eléctricos",
+      "Asiento del conductor regulable en altura",
+      "Cabina simple 3 plazas"
+     ],
+     "multimedia": [
+      "Tablero LCD 7\"",
+      "Bluetooth",
+      "USB x2"
+     ]
+    }
+   },
+   "ficha_texto": "Farizon H8E-6T (Mini Truck eléctrico de 6 t, importador Santa Rosa). MOTOR síncrono de imán permanente, 70 kW nominal / 140 kW pico (188 HP), 180/420 Nm, tracción trasera. BATERÍA CATL 100,46 kWh con refrigeración líquida; autonomía 200 km WLTP; carga rápida CCS2; 600 V. Velocidad máx. 90 km/h. PBT 6.000 kg, peso en vacío 3.345 kg (carga útil ~2.655 kg), distancia entre ejes 3.360 mm, ancho de cabina 1.880 mm. Dimensiones exteriores 5.995 x 2.160 x 3.150 mm; caja 4.150 x 2.100 x 2.100 mm (≈18 m3 calculado; la web comercial habla de hasta 12,6 m3). Cabina simple 3 plazas, neumáticos 205/75 R17.5 de acero, dirección EPS. Equipamiento: aire acondicionado, control crucero, alerta de cambio de carril (LSW), radar de reversa, alzacristales eléctricos, DRL LED, pantalla/tablero LCD 7'', USB, Bluetooth, alarma antirrobo, triángulo, chaleco, gancho de remolque. Precio CIF USD 46.900 (leasing 49.900). Garantía 3 años/100.000 km, batería 5 años/200.000 km.",
+   "confianza": "media",
+   "notas": "Volumen de caja: 4,15x2,1x2,1 m = 18,3 m3 calculado vs 12,6 m3 en la web comercial. Carga útil calculada (PBT - peso en vacío). Potencia pico 140 kW; nominal 70 kW."
+  }
+ ]
+}

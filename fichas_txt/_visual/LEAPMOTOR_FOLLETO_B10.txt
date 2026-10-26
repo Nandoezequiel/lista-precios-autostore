@@ -1,0 +1,33 @@
+# paginas: 23
+VERSIONES del Leapmotor B10 EV: LIFE (batería 56,2 kWh, 361 km WLTP, 160 kW) y DESIGN (67,1 kWh, 434 km WLTP). Los datos técnicos (dimensiones, motor, autonomía) están en el texto de la página 22 en el orden Life y luego Design.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 23]
+
+## B10
+  (CONDUCCIÓN)
+- 3 Modos de conducción: en todas
+- 3 Modos de dirección: en todas
+- Freno de regeneración de 3 niveles: en todas
+- Palanca de cambios de columna: en todas
+  (COMODIDAD)
+- Techo panorámico: en todas
+- Asientos de tela: Life SÍ; Design NO
+- Asientos de polipiel ECO: Life NO; Design SÍ
+- Asientos delanteros con ajuste eléctrico: Life NO; Design SÍ
+- Calefacción y ventilación de los asientos delanteros: Life NO; Design SÍ
+- Volante de Polipiel: en todas
+- Ajuste en 4 direcciones del volante: en todas
+- Calefacción del volante: Life NO; Design SÍ
+- Volante multifunción: en todas
+- Aire Acondicionado Automático: en todas
+- Bomba de calor: en todas
+- Salida de aire de los asientos traseros: en todas
+- Apoyabrazos central de la 2° ﬁla con portavasos: Life NO; Design SÍ
+- Sistema de monitorización directo de la presión de los neumáticos: en todas
+- Bomba de inﬂado: en todas
+  (ESPEJOS EXTERIORES)
+- Calefactables: en todas
+- Espejos exteriores ajustables eléctrónicos: en todas
+- Regulación electrónica: Life NO; Design SÍ
+- Espejo retrovisor exterior automático con cerradura: Life NO; Design SÍ

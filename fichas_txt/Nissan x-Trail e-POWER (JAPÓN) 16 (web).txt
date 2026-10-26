@@ -1,0 +1,14 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Nissan x-Trail e-POWER (JAPÓN); confianza media)
+Fuentes:
+- lanzamiento X-Trail e-Power restyling Uruguay (Advance/Exclusive): https://www.autoblog.com.uy/2026/07/lanzamiento-nissan-x-trail-e-power.html
+- catálogo oficial X-Trail e-POWER 2027 en nissan.com.uy (ficha basada en Nissan México): https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/xtrail_e_power/my27/vlp/catalogos/nissan-xtrail-epower-catalogo.pdf
+- página oficial nissan.com.uy: https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/x-trail-e-power.html
+Notas: La lista dice 'JAPÓN' pero el producto vendido en Uruguay es el X-Trail e-POWER e-4ORCE (Advance/Exclusive). Se asume que 'Advance (modelo nuevo)' = Advance restyling actual (id 17) y 'Exclusive' = Exclusive (id 18). 'Advance (modelo viejo)' (id 16) es el pre-restyling: solo se infiere largo 4.610 mm (4.645 menos 35 mm) y mismo conjunto motriz; resto de su equipamiento NO verificado. La ficha PDF descargada (basada en Nissan México) nombra Exclusive/Platinum, no Advance; se priorizó la nota de Autoblog UY.
+
+Nissan X-Trail e-POWER con e-4ORCE (restyling, ficha UY 2026/2027). SUV 5 plazas (3.ª fila opcional según mercado), híbrido serie e-POWER: el motor nafta funciona solo como generador y las ruedas las mueven motores eléctricos. No se enchufa. Garantía 3 años / 100.000 km.
+MOTOR TÉRMICO (generador): 1.5 L VC-Turbo 3 cil. (1.497 cc), compresión variable 8:1 a 14:1, 142 HP a 5.000 rpm, 250 Nm.
+MOTORES ELÉCTRICOS (e-4ORCE AWD): combinado 157 kW (~205 HP); delantero ~187 HP / 330 Nm, trasero 94 kW (126 HP) / 195 Nm. Batería ion-litio 1,73 kWh. 0-100 km/h 7,0 s, máx. 180 km/h. Consumo mixto WLTP 6,5 L/100 km. Modos Normal/Eco/Sport/Off Road + EV, frenado regenerativo e-Step. Tanque 55 L.
+DIMENSIONES (restyling): largo 4.645 mm (+35 mm), ancho 1.840 mm, alto 1.695 mm (1.725 con barras), entre ejes 2.705 mm, despeje 187 mm. Baúl 575 L (hasta 1.396 L con respaldos abatidos 60:40). Peso 1.935 kg. Sin rueda de repuesto (kit de reparación).
+CHASIS: delantera McPherson, trasera multilink, discos ventilados, dirección eléctrica.
+VERSIONES: Advance (U$S 49.990): 18" 235/60, pantalla 8" CarPlay/Android Auto, panel TFT 7", 6 parlantes, climatizador bi-zona, techo panorámico, llave manos libres, cámara trasera, sensores, ICC, BSW, RCTA, LDP, FCW, ROW. Exclusive (U$S 54.990): suma 19" 235/55, pantalla 12,3" con GPS y CarPlay inalámbrico, panel digital 12,3", HUD 10,8", Bose 8 parlantes con subwoofer, tri-zona, cuero, asientos calefaccionados y eléctricos, portón eléctrico, cargador inalámbrico, visión 360°, I-EB con peatones, I-PFCW, BSI.
+SEGURIDAD COMÚN: 6 airbags, ABS/EBD/BA, VDC, HSA, TPMS.

@@ -1,0 +1,482 @@
+
+--- p1 ---
+ 
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Apple CarPlay
+Android Auto
+Rendimiento mixto
+20,8 Km/L
+Motorización Híbrida
+ auto-recargable
+
+--- p2 ---
+Independiente McPherson
+Viga de torsión
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+163 mm
+2700 mm
+4472 mm
+1841 mm
+1574 mm
+Dimensiones
+Motorización
+Potencia motor a combustión (Hp)
+Torque motor a combustión(Nm)
+Potencia motor eléctrico (Hp)
+Torque motor eléctrico (Nm)
+Potencia combinada(Hp)
+Torque combinada (Nm)
+Tracción
+Dirección
+Emisión
+Peso bruto (kg)
+Rendimiento mixto (km/L)
+Especificaciones básicas
+1.5 4 cilindros 16V
+154
+250
+188
+375
+2WD
+Asistida electricamente
+EuroV+
+1826
+20,8
+Élite
+Deluxe
+Élite
+Deluxe
+Chasis
+●
+●
+●
+●
+●
+●
+●
+Suspensión delantera
+Suspensión trasera
+Dirección asistida eléctrica
+Cambio eléctrico
+Freno de mano electrónico (EPB)
+Auto Hold (Retención automática)
+Frenos de disco
+Modo de conducción (Estándar, Eco, Sport, Nieve)
+Modo de dirección (Deportivo, Confort, Manejo)
+Dirección asistida con ajuste según la velocidad
+215/60 R17
+225/55 R18
+Tratamiento anticorrosión
+Seguridad activa y pasiva
+Doble airbag SRS
+Airbags laterales delanteros
+Airbags de cortina laterales
+Cinturones de seguridad delanteros ajustables con pretensor
+Cinturón de seguridad de 3 puntos en los asientos de la segunda fila
+Cinturones de seguridad traseros con pretensor
+Sistema de advertencia de cinturón de seguridad delantero desabrochado
+Columna de dirección de absorción de energía
+Frenos ABS + EBD
+Control de estabilidad electrónico (ESC)
+Sistema de control de tracción (TCS)
+Control de retención en pendiente (HHC)
+Control de descenso en pendiente (HDC)
+Mitigación de vuelcos (RMI)
+Asistencia de frenado (BA)
+Módulo de control de suspensión (SCM)
+Sistema de anulación de frenos
+Sistema de alarma de frenado de emergencia
+Sistema de monitoreo de presión de neumáticos (TPMS)
+Función de desbloqueo automático en caso de colisión
+Sistema de corte de combustible en caso de colisión
+Sistema de asistencia de estacionamiento
+Video en reversa + Estacionamiento dinámico
+Vista de 360 grados
+Sistema de control de crucero
+ACC + Asistencia inteligente de crucero + Asistencia inteligente para giros
+Asistencia en atascos de tráfico
+Advertencia de colisión frontal (FCW)
+Frenado automático de emergencia para peatones y bicicletas (AEB)
+Advertencia de salida de carril (LDW)
+Asistencia de mantenimiento de carril (LKA)
+Sistema inteligente de evasión de peligros
+Asistencia en intersecciones con AEB
+Asistencia de cambio de carril (LCA)
+Advertencia de lado trasero + Freno de advertencia de lado trasero
+Advertencia de tráfico cruzado trasero (RCW)
+Advertencia de atención del conductor (DOW)
+Mantenimiento electrónico de carril (ELK)
+ISOFIX
+Detección de somnolencia del conductor
+Registrador de datos de eventos (EDR)
+Inmovilizador
+Llave inteligente
+Sistema de entrada sin llave
+Sistema de arranque con botón
+Función de localización del coche
+Inmovilizador de motor
+Sistema de alarma antirrobo
+Función de bloqueo mientras se conduce
+Cierre centralizado de puertas
+Función de bloqueo automático de retorno
+Función de protección contra errores de bloqueo
+Sistema de advertencia de puerta abierta
+Kit de reparación de neumáticos
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+●
+●
+x
+x
+●
+x
+●
+x
+●
+x
+x
+●
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Asientos
+Vidrios y espejos exteriores
+●
+●
+●
+x
+x
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+Asientos de cuero
+Asiento del conductor ajustable manualmente en 6 direcciones
+Asiento del conductor ajustable eléctricamente en 6 direcciones
+Asiento del pasajero delantero ajustable manualmente en 4 direcciones
+Asientos traseros abatibles 60/40
+Asientos delanteros calefactados con ajuste eléctrico
+Reposacabezas central trasero
+Descansabrazos central de la segunda fila de asientos (con portavasos)
+Exterior
+Multimedia
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Computador abordo
+Bluetooth
+Pantalla touch de 10.25 pulgadas
+Pantalla touch de 12.3 pulgadas
+Apple CarPlay & Android Auto
+Puertos USB dobles (asientos delanteros)
+Puertos USB dobles (asientos traseros)
+6 altavoces
+Volumen de radio con ajuste automático
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Manijas exteriores del color de la carrocería
+Antena de radio tipo aleta de tiburón en el techo
+Limpiaparabrisas con sensor de lluvia
+Faros automáticos
+Rines de aleación de aluminio
+Portón trasero manual
+Interior
+Iluminación
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Faros LED
+Faros con ajuste eléctrico de altura
+Iluminación de camino a casa
+Luces antiniebla traseras
+Luces de circulación diurna (DRL)
+Lámpara de freno de alto nivel
+Luz de lectura sin control de techo solar
+Luz de cúpula
+Sistema de advertencia de luces encendidas
+Luz del maletero
+●
+x
+x
+●
+●
+●
+●
+x
+●
+●
+●
+●
+x
+x
+x
+●
+Espejo retrovisor interno manual antideslumbrante
+Espejo retrovisor interno electrónico antideslumbrante con alarma SBR
+Alzavidrios eléctricos 
+Alzavidrio conductor con función one-touch y anti-pinzamiento
+Alzavidrio en las cuatro puertas con función one-touch y anti-pinzamiento
+Espejo retrovisor exterior plegable + ajuste eléctrico
++ señalizador lateral
+Espejo retrovisor exterior plegable + ajuste eléctrico
++ calefacción + señalizador lateral
+Desempañador por cable calefactor (luneta trasera)
+Interior negro
+Volante de cuero
+Volante ajustable manualmente en 2 direcciones
+Computadora de viaje
+Panel de instrumentos digital de 7" (LCD)
+Visera con espejo de maquillaje y luz
+Cargador inalámbrico
+Toma de corriente delantera de 12V
+Descansabrazos del asiento delantero
+Posavasos delantero
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+125
+Híbrida auto-recargable
+Automática DHT 
+94
+●
+●
+●
+Climatizador bizona
+Salida de aire de asientos traseros (arriba)
+Salida de aire de asientos traseros (abajo)
+Indicador de temperatura exterior
+Filtro de polvo
+Fluido refrigerante HFC-134a
+Climatización
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Élite
+Deluxe
+Transmisión
+Cilindrada (L)

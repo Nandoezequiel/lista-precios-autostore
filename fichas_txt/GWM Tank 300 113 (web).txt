@@ -1,0 +1,15 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (GWM Tank 300; confianza media)
+Fuentes:
+- web oficial gwm.com.uy: https://gwm.com.uy/modelos/tank-300
+- ficha técnica PDF oficial GWM Uruguay: https://gwm.com.uy/modelos/tank-300 (botón Ficha técnica)
+Notas: Los datos numéricos del PDF salieron desordenados (columnas desalineadas): tanque 70 L, baúl 657/1.635 L, PBV 2.552 kg y consumos se asignaron por orden/lógica. Confirmar consumo ciudad/mixto/carretera contra el PDF original. Las dos filas de la lista (113 rojo y blanco MY26 / 114) son la misma versión mecánica.
+
+TANK 300 CONQUEROR HEV (GWM Uruguay). Híbrido autorecargable 4x4. Garantía 5 años o 150.000 km. La lista trae dos filas iguales: una es la edición color rojo y blanco MY26.
+MOTOR: 2.0 turbo inyección directa (E20CB, ciclo Miller): 241 HP (5.500 rpm) y 380 Nm (1.700-4.000 rpm); motor eléctrico 139 HP y 267 Nm; potencia combinada 341 HP y 647 Nm. Transmisión automática 8 velocidades. Tracción AWD inteligente con bloqueo de diferencial delantero, central y trasero (control eléctrico). Modos: nieve (4H), estándar (4H), experto, 4L (estándar, bache, roca, montaña, barro). Start/stop.
+CHASIS: suspensión delantera independiente McPherson, trasera multi-link; discos delanteros y traseros; llantas de aleación 17" con neumáticos 265/65 R17 todo terreno; rueda de auxilio homogénea; dirección asistida eléctrica con 3 niveles.
+DIMENSIONES Y CAPACIDADES: largo 4.760 mm, ancho 1.930 mm, alto 1.903 mm, entre ejes 2.750 mm; peso bruto 2.552 kg; 5 plazas; baúl 657 L / 1.635 L con asientos abatidos; tanque 70 L. Rendimiento (ficha, cifras en L/100 km aunque el encabezado diga km/L): ciudad 10,6, mixto 9,1, carretera 7,4 (asignación inferida por el orden de la ficha).
+SEGURIDAD / ADAS: 6 airbags (frontal, lateral, cortina), ESP, TCS, RMI, TPMS, corte de combustible en colisión, HHC y HDC, DST, SCM, ACC, LDW, LKA, LCK, TSR, SAS, TJA, ICA, HBA, control crucero off-road, monitor de fatiga, luces altas automáticas, alarma de exceso de velocidad, 8 sensores de estacionamiento, cámara 360°, esquiva inteligente, ISOFIX x2, traba de niños, inmovilizador.
+EXTERIOR: pack estético off-road, barras de techo y pisaderas, puerto de alimentación trasero para remolque y preinstalación eléctrica de gancho, ganchos de remolque 2+2, protector de bajos 3 piezas, estribos fijos, cobertor de rueda de auxilio.
+INTERIOR: cuero Nappa, delanteros ventilados, masajeador del conductor, conductor eléctrico 10 posiciones, pasajero eléctrico 4, asiento trasero 60:40, luz ambiental 7/64 colores, tomas 12 V y 220 V, keyless, limpiaparabrisas con sensor de lluvia, techo solar con cortina, climatizador bizona con salidas traseras, purificador de aire, freno de mano electrónico + auto hold, levas al volante.
+MULTIMEDIA: pantalla táctil 12,3" con Bluetooth, Apple CarPlay y Android Auto, doble pantalla 12,3" (con tablero digital), 8 parlantes + subwoofer, USB dobles delanteros (A+C) y traseros (A).
+ILUMINACIÓN: faros Full LED con regulación eléctrica, sensor crepuscular, antiniebla LED delanteros y traseros, DRL LED, follow me home.

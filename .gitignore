@@ -1,0 +1,11 @@
+# claves (nunca al repo)
+clave_api.txt
+clave_gemini.txt
+.env
+# estado local
+gasto_ia.json
+__pycache__/
+*.bak
+# descargas crudas de la investigación (ya copiadas a fichas/ y fotos/galeria/) y originales pesados
+investigacion/descargas/
+investigacion/originales/

@@ -1,0 +1,82 @@
+# paginas: 14,15
+VERSIONES del Nissan Kicks (1.0 L Turbo, 999 cm3, 114 HP, caja DCT automática; Brasil): Sense, Advance y Exclusive. Sube de nivel en cada versión: Exclusive suma llantas R19, panel digital de 12,3", cámara 360°, techo panorámico, cuero, 10 parlantes premium.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 14]
+  (FICHA TÉCNICA NISSAN KICKS)
+  (Automático Automático Automático)
+  (Motor y caja de cambios)
+- 1.0 L Turbo (999 cm³) - 3 cilindros - 12 valvulas - Nafta: en todas
+  (Potencia (Hp) - Par (Nm @ rpm) 114 / 200 - 2000 114 / 200 - 2000 114 / 200 - 2000)
+- Control de emisiones Euro 5: en todas
+- Caja de cambios DCT: en todas
+  (Suspensión y Frenos)
+- Delantera Mc Pherson + Barra de torsión: en todas
+- Discos ventilados delanteros y traseros: en todas
+  (Dimensiones / Capacidad)
+  (Longitud total (m) 4.365 4.365 4.365)
+  (Ancho total (m) 2.090 2.090 2.090)
+  (Altura total (m) 1.625 1.625 1.625)
+  (Distancia entre ejes (m) 2.655 2.655 2.655)
+  (Despeje (mm) 205 205 205)
+  (Peso en vacío (Kg) 1.321 1.328 1.362)
+  (Peso bruto (Kg) 1.719 1.726 1.760)
+  (Capacidad del maletero (L) con Flex Board - sin Flex Board 479 - 454 479 - 454 479 - 454)
+- Tanque de combustible de 45 litros: en todas
+  (Llantas y neumáticos)
+  (Tipo de neumáticos 215 / 60 R17 215 / 60 R17 225 / 45 R19)
+  (Tamaño y material de las llantas Aleación R17 Aleación R17 Aleación R19)
+- Neumático de repuesto + herramientas: en todas
+  (Conducción)
+- Dirección asistida eléctrica con regulación telescopica manual: en todas
+- Panel de instrumentos analogico con pantala digital TFT de 7": Sense SÍ; Advance SÍ; Exclusive NO
+- Panel de instrumentos digital con pantala digital TFT de 12,3": Sense NO; Advance NO; Exclusive SÍ
+- Volante multifunción con comandos y paddle shift: Sense SÍ; Advance NO; Exclusive NO
+- Vidrios eléctricos en las 4 ventanas: en todas
+- Modos de conducción Drive / Eco / Sport: en todas
+- Llave inteligente I-Key: Sense SÍ; Advance NO; Exclusive NO
+- Control crucero inteligente con limitador de velocidad (ICC + ASL): en todas
+- Monitor de presión de neumáticos: en todas
+- Luces delanteras con iluminación LED: Sense NO; Advance NO; Exclusive SÍ
+- Luces de circulación LED: en todas
+- Asistente de luces altas Espejos eléctricos con luz de giro LED: en todas
+- pledado manual pledado manual pledado eléctrico Monitor de visión periférica 360°: Sense NO; Advance NO; Exclusive SÍ
+- Cámara trasera: Sense SÍ; Advance SÍ; Exclusive NO
+- Limpiaparabrisas automático con sensor de lluvia: Sense NO; Advance NO; Exclusive SÍ
+- Freno de estacionamiento eléctrico con auto hold: en todas
+
+[página 15]
+  (FICHA TÉCNICA NISSAN KICKS)
+  (Automático Automático Automático)
+  (Interior)
+- Aire acondicionado automático: en todas
+- Espejo retrovisor con atenuación automática: Sense NO; Advance NO; Exclusive SÍ
+- Asientos tapizados en cuero: Sense NO; Advance NO; Exclusive SÍ
+- Iluminación ambiental: Sense NO; Advance NO; Exclusive SÍ
+- Iluminación de la cabina y del maletero LED: en todas
+- Multimedia con pantalla de 12.3" + compatible con Android Auto® + Carplay® + 2 USB C: en todas
+  (Parlantes 4 4 10 premium)
+- Carga inalámbrica del teléfono celular: Sense NO; Advance SÍ; Exclusive SÍ
+  (Exterior)
+- Techo panorámico de cristal con apertura eléctrica: Sense NO; Advance NO; Exclusive SÍ
+- Barras de techo: Sense NO; Advance SÍ; Exclusive SÍ
+- Aleron trasero: en todas
+- Manijas mismo color que carrocería: en todas
+  (Seguridad y asistencias de manejo)
+- Inmovilizador + Alarma: en todas
+- Airbags frontales (2), laterales (2) y cortina (2) con balizas automáticas después del impacto: en todas
+- Cinturón de seguridad con pretenso: en todas
+- Sistema de frenos ABS: en todas
+- Distribución electrónica de frenado (EDB): en todas
+- Asistente de frenado de emergencia (EBA): en todas
+- Frenado autónomo de emergencia trasero para peatones (AEB ): en todas
+- Asistente de arranque en pendiente (HSA): en todas
+- Control de la dinámica del vehículo (VDC): en todas
+- Frenado autónomo de emergencia / Ciudad / Interurbano / Peatón: en todas
+- Alerta de cambio de carril (LDW ): en todas
+- Prevención de salida de carril (LDP): en todas
+- Asistente de mantenimiento de carril + (e-LKA): en todas
+  (Asistente de estacionamiento Sensor delantero Sensor delantero Sensor delantero + trasero)
+- Alerta de atención del conductor: en todas
+- Advertencia de colisión fronta: en todas
+- Isoﬁx + Tether: en todas

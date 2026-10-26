@@ -1,0 +1,1846 @@
+{
+ "grupo": "gwm_mitsubishi",
+ "modelos": [
+  {
+   "marca": "GWM",
+   "modelo": "Haval Jolion",
+   "ids": [
+    105,
+    106
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Haval Jolion Nafta.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/haval-jolion",
+     "que": "página oficial gwm.com.uy"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "haval-jolion-1.webp",
+    "haval-jolion-2.webp",
+    "haval-jolion-3.jpg",
+    "haval-jolion-4.jpg",
+    "haval-jolion-5.jpg",
+    "haval-jolion-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.5 turbo 4 cil. (4G15K)",
+    "traccion": "2WD",
+    "potencia_hp": 174,
+    "torque_nm": 270,
+    "tanque_l": 55,
+    "neumaticos": "215/60 R17",
+    "largo_mm": 4472,
+    "ancho_mm": 1841,
+    "alto_mm": 1619,
+    "entre_ejes_mm": 2700,
+    "despeje_mm": 163,
+    "garantia": "5 años o 150.000 km",
+    "plazas": 5
+   },
+   "versiones": {
+    "105": {
+     "transmision": "Manual 6 vel.",
+     "pbt_kg": 1740,
+     "airbags": 4
+    },
+    "106": {
+     "transmision": "Automática DCT 7 vel.",
+     "pbt_kg": 1765,
+     "airbags": 6
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Doble airbag frontal",
+      "Airbag lateral",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Ayuda de descenso en pendiente",
+      "Monitor de presión de neumáticos",
+      "Cámara de marcha atrás",
+      "Sensores de estacionamiento traseros",
+      "Control de velocidad crucero",
+      "ISOFIX",
+      "Monitor de fatiga del conductor",
+      "Estacionamiento autónomo"
+     ],
+     "confort": [
+      "Climatizador bizona automático",
+      "Tapizado de cuero",
+      "Acceso Keyless",
+      "Arranque por botón",
+      "Smart key",
+      "Volante forrado en cuero",
+      "Respaldo trasero abatible 60/40",
+      "Sensor de lluvia",
+      "Sensor crepuscular"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Sistema de audio DTS 6 parlantes",
+      "USB delanteros y traseros"
+     ],
+     "iluminacion": [
+      "Faros LED",
+      "DRL",
+      "Follow me home"
+     ]
+    },
+    "106": {
+     "seguridad": [
+      "Airbag de cortina"
+     ],
+     "confort": [
+      "Levas al volante",
+      "Salida de aire 2da fila",
+      "Espejo interior electrocromático",
+      "Vidrios one touch x4",
+      "Espejos exteriores plegado eléctrico",
+      "Espejos exteriores calefactados",
+      "Iluminación interior multicolor"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Tablero digital 7\""
+     ]
+    },
+    "105": {
+     "multimedia": [
+      "Pantalla 10,25\"",
+      "Tablero 3,5\""
+     ]
+    }
+   },
+   "ficha_texto": "HAVAL JOLION (GWM Uruguay) - versiones: Elite 1,5T MT y Deluxe 1,5T DCT. Garantía 5 años o 150.000 km.\nMOTOR: 1.5 turbo nafta (4G15K), 174 HP (5.600 rpm) y 270 Nm (2.000 rpm); tracción 2WD; tanque 55 L.\nTRANSMISIÓN: Elite manual 6 velocidades; Deluxe automática DCT 7 velocidades.\nPESO BRUTO: Elite 1.740 kg; Deluxe 1.765 kg.\nDIMENSIONES: largo 4.472 mm, ancho 1.841 mm, alto 1.619 mm, entre ejes 2.700 mm, despeje 163 mm.\nCHASIS: suspensión delantera McPherson, trasera eje semirrígido, dirección eléctrica, freno de mano electrónico, discos en las 4 ruedas, neumáticos 215/60 R17, rueda de auxilio T135/90 R17.\nSEGURIDAD: doble airbag frontal y airbag lateral en ambas; airbag de cortina solo Deluxe. ABS+EBD, ESP, TCS, HHC, HDC, RMI, BAS, SCM, TPMS, cámara de reversa, sensores traseros x3, control crucero, ISOFIX, monitor de fatiga, EDR, estacionamiento autónomo, corte de combustible y desbloqueo en colisión.\nCONFORT: climatizador bizona automático; cuero; Keyless, botón de arranque, smart key x2, alarma, inmovilizador; Deluxe suma levas al volante, salidas de aire 2da fila, espejo electrocromático, vidrios one touch x4 con cierre desde llave, espejos exteriores con plegado eléctrico y calefaccionados, iluminación interior multicolor; Elite lleva espejo interior manual y one touch solo conductor. Asiento conductor manual 6 dir., pasajero manual 4 dir. Respaldo 60/40.\nMULTIMEDIA: Elite pantalla 10,25\" y tablero 3,5\"; Deluxe pantalla 12,3\" y tablero LCD 7\". Ambas: radio RDS, Bluetooth, Apple CarPlay / Android Auto, audio DTS 6 parlantes, USB 2 delanteros + 2 traseros.\nILUMINACIÓN: faros LED con ajuste eléctrico de altura, DRL, follow-me-home, luz de niebla trasera, tercera luz de stop LED.",
+   "confianza": "alta",
+   "notas": "La web de GWM Uruguay muestra 141 HP / 210 Nm para 'Jolion ICE' (dato más viejo); se usó la ficha oficial PDF (174 HP / 270 Nm). Airbags de Elite inferidos (frontal doble + lateral = 4); Deluxe 6. La columna de potencia/torque de Deluxe viene incompleta en la ficha: se asumió el mismo motor."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Haval H6",
+   "ids": [
+    107,
+    108,
+    109,
+    112
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Ficha tecnica H6 HEV y PHEV.txt",
+     "que": "ficha oficial GWM Uruguay H6 HEV/PHEV (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/haval-h6-hev",
+     "que": "web oficial H6 HEV"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/haval-h6-phev",
+     "que": "web oficial H6 PHEV"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/haval-h6-GT-phev",
+     "que": "web oficial H6 GT PHEV + ficha PDF"
+    }
+   ],
+   "pdf": [
+    "GWM Haval H6 GT PHEV.pdf"
+   ],
+   "fotos": [
+    "haval-h6-1.webp",
+    "haval-h6-2.webp",
+    "haval-h6-3.png",
+    "haval-h6-4.png",
+    "haval-h6-5.png",
+    "haval-h6-6.png",
+    "haval-h6-gt-1.png",
+    "haval-h6-gt-2.jpg",
+    "haval-h6-gt-3.jpg",
+    "haval-h6-gt-4.jpg",
+    "haval-h6-gt-5.jpg",
+    "haval-h6-gt-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "garantia": "5 años o 150.000 km",
+    "plazas": 5,
+    "consumo": "19,2 km/L mixto (HEV/PHEV, según web)"
+   },
+   "versiones": {
+    "107": {
+     "combustible": "Híbrido (HEV)",
+     "motor": "1.5 turbo + motor eléctrico",
+     "transmision": "Híbrida DHT",
+     "traccion": "2WD (delantera)",
+     "potencia_hp": 188,
+     "torque_nm": 375,
+     "neumaticos": "R19",
+     "largo_mm": 4703,
+     "ancho_mm": 1886,
+     "alto_mm": 1730,
+     "entre_ejes_mm": 2738,
+     "airbags": 6
+    },
+    "108": {
+     "combustible": "Híbrido enchufable (PHEV)",
+     "motor": "1.5 turbo + motores eléctricos",
+     "transmision": "Híbrida DHT",
+     "traccion": "2WD (FWD)",
+     "potencia_hp": 364,
+     "torque_nm": 760,
+     "autonomia_km": 100,
+     "neumaticos": "R19",
+     "largo_mm": 4703,
+     "ancho_mm": 1886,
+     "alto_mm": 1730,
+     "entre_ejes_mm": 2738,
+     "airbags": 6
+    },
+    "109": {
+     "combustible": "Híbrido enchufable (PHEV)",
+     "motor": "1.5 turbo + 2 motores eléctricos (Hi4)",
+     "transmision": "Híbrida DHT",
+     "traccion": "AWD (4WD Hi4)",
+     "potencia_hp": 364,
+     "torque_nm": 760,
+     "autonomia_km": 100,
+     "neumaticos": "R19",
+     "largo_mm": 4703,
+     "ancho_mm": 1886,
+     "alto_mm": 1730,
+     "entre_ejes_mm": 2738,
+     "airbags": 6
+    },
+    "112": {
+     "carroceria": "SUV coupé",
+     "combustible": "Híbrido enchufable (PHEV)",
+     "motor": "1.5 turbo 4 cil. + 2 motores eléctricos",
+     "transmision": "DHT 2 velocidades",
+     "traccion": "AWD (e-AWD)",
+     "potencia_hp": 393,
+     "torque_nm": 762,
+     "bateria_kwh": 34,
+     "autonomia_km": 180,
+     "tanque_l": 55,
+     "neumaticos": "235/55 R19",
+     "baul_l": 515,
+     "largo_mm": 4727,
+     "ancho_mm": 1940,
+     "alto_mm": 1729,
+     "despeje_mm": 172,
+     "velocidad_max_kmh": 180,
+     "aceleracion_0_100_s": 4.9,
+     "airbags": 6,
+     "consumo": "Carga AC 0-100% ~5 h; DC 10-80% ~29 min"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia",
+      "Alerta de salida de carril",
+      "Cámara 360°",
+      "Sensores de estacionamiento",
+      "Monitor de fatiga del conductor",
+      "Estacionamiento autónomo",
+      "ISOFIX",
+      "Monitor de presión de neumáticos"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Tapizado de cuero",
+      "Portón trasero eléctrico",
+      "Acceso Keyless",
+      "Arranque por botón",
+      "Filtro N95",
+      "Asiento conductor eléctrico"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Cargador inalámbrico",
+      "Pantalla multimedia 14,6\" (GT 12,3\")",
+      "Tablero digital 10,25\"",
+      "8 parlantes"
+     ]
+    },
+    "107": {
+     "seguridad": [
+      "Detección de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "AEB en intersecciones"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Memoria de asiento conductor",
+      "Iluminación ambiental"
+     ]
+    },
+    "108": {
+     "seguridad": [
+      "Detección de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "AEB en intersecciones"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Memoria de asiento conductor",
+      "Iluminación ambiental",
+      "Palanca de cambios en columna"
+     ]
+    },
+    "109": {
+     "seguridad": [
+      "Detección de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "AEB en intersecciones"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Memoria de asiento conductor",
+      "Iluminación ambiental",
+      "Palanca de cambios en columna",
+      "Modos Nieve / Arena / Off-Road"
+     ]
+    },
+    "112": {
+     "confort": [
+      "Techo panorámico",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Memoria de asiento conductor",
+      "Purificador de aire N95",
+      "Conducción One Pedal"
+     ],
+     "seguridad": [
+      "Detección de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Asistente de mantenimiento de carril"
+     ]
+    }
+   },
+   "ficha_texto": "HAVAL H6 (GWM Uruguay). Garantía 5 años o 150.000 km. Versiones en la lista: H6 HEV Deluxe, H6 PHEV 2WD, H6 PHEV 4WD y H6 GT PHEV 4WD.\nH6 HEV (híbrido autorecargable): motor 1.5T + eléctrico, potencia combinada 188 HP y 375 Nm, transmisión híbrida DHT, tracción delantera, rendimiento mixto 19,2 km/L (~5,1 L/100 km) según la web oficial. La ficha trae HEV Elite y HEV Deluxe (la lista solo Deluxe).\nH6 PHEV (híbrido enchufable): 1.5T + motores eléctricos, hasta 364 HP y 760 Nm según la web (no discrimina 2WD/4WD), hasta 100 km de autonomía eléctrica, rendimiento mixto 19,2 km/L; versiones Deluxe 2WD (FWD) y Deluxe 4WD con sistema Hi4 (un motor eléctrico por eje; modos Nieve/Arena/Off-Road solo en 4WD). Carga inalámbrica 50 W, pantalla multimedia 14,6\".\nDIMENSIONES H6 (HEV/PHEV): largo 4.703 mm, ancho 1.886 mm, alto 1.730 mm, entre ejes 2.738 mm. Neumáticos R19, suspensión delantera McPherson y trasera multibrazo, discos ventilados delante / sólidos atrás, estacionamiento automático.\nEQUIPAMIENTO COMÚN: portón trasero eléctrico con apertura por sensor, pantalla 14,6\" + tablero digital 10,25\", CarPlay/Android Auto inalámbrico, carga inalámbrica, 8 parlantes, asientos de cuero, conductor eléctrico 6 posiciones con lumbar, climatizador bizona, filtro N95, cámara 360°, chasis transparente, control crucero adaptativo (ACC), AEB, alerta/mantenimiento/centrado de carril, TSR, TJA, estacionamiento totalmente automático, 6 airbags.\nDESDE HEV DELUXE (no en HEV Elite): techo panorámico, memoria de asiento, asientos delanteros calefaccionados y ventilados, pasajero eléctrico, espejo interior electrónico, ICA, AEB en intersecciones, detección de punto ciego, alerta de tráfico cruzado trasero, frenado trasero lateral, RCW, iluminación ambiental.\nSOLO PHEV: palanca de cambios en columna, freno de estacionamiento electrónico por interruptor, umbrales de acero, computadora de abordo, multimedia V3.5; la PHEV 4WD suma modos Off-Road/Arena/Nieve.\nH6 GT PHEV 4WD (ficha oficial gwm.com.uy): SUV coupé; motor de combustión 1.5 turbo 16V inyección directa + 2 motores eléctricos (uno por eje), potencia combinada 393 HP, torque 762 Nm, transmisión DHT 2 velocidades, AWD inteligente (e-AWD); batería 34 kWh; autonomía 100% eléctrica 180 km (la web cita 116 km en otro párrafo); carga AC 0-100% ~5 h, DC 10-80% ~29 min; 0-100 km/h 4,9 s; velocidad máxima 180 km/h; tanque 55 L; neumáticos 235/55 R19; baúl 515 L; ángulos ataque 19,8° / salida 24,9°; largo 4.727, ancho 1.940, alto 1.729 mm, despeje 172 mm. Equipamiento: 6 airbags (la web dice 7), cuero, asiento conductor 8 posiciones eléctrico con memoria, delanteros ventilados y calefaccionados, techo panorámico, climatizador bizona, purificador N95, pantalla 12,3\" con CarPlay/Android Auto inalámbrico, tablero digital 10,25\", cargador inalámbrico, 8 parlantes, cámaras HD 360°, estacionamiento autónomo, ACC, AEB, LDW/LKA, BSD, RCTB, DFMS, One Pedal.",
+   "confianza": "media",
+   "notas": "Una sola entrada para H6 HEV/PHEV y H6 GT (la lista usa el mismo 'modelo'). Potencia/torque PHEV 2WD vs 4WD (364 HP / 760 Nm) viene de la web ('desde') y no se pudo discriminar por versión. H6 GT: la ficha dice 180 km eléctricos y 6 airbags; el texto de la web dice 116 km y 7 airbags (se usó la ficha PDF). 'Rendimiento mixto 19,2 km/L' es el dato de la web para HEV/PHEV."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Haval H7",
+   "ids": [
+    110,
+    111
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Haval_H7_PHEV.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/haval-h7-phev",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "haval-h7-1.png",
+    "haval-h7-2.png",
+    "haval-h7-3.png",
+    "haval-h7-4.png",
+    "haval-h7-5.png",
+    "haval-h7-6.png"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido enchufable (PHEV)",
+    "motor": "1.5 turbo + motores eléctricos",
+    "largo_mm": 4800,
+    "ancho_mm": 1950,
+    "alto_mm": 1843,
+    "garantia": "5 años o 150.000 km",
+    "airbags": 6,
+    "plazas": 5
+   },
+   "versiones": {
+    "110": {
+     "transmision": "DHT-1",
+     "traccion": "2WD",
+     "potencia_hp": 322,
+     "torque_nm": 540,
+     "consumo": "6,0 L/100 km mixto",
+     "neumaticos": "265/60 R18"
+    },
+    "111": {
+     "transmision": "DHT-3",
+     "traccion": "4WD",
+     "potencia_hp": 359,
+     "torque_nm": 760,
+     "consumo": "6,3 L/100 km mixto",
+     "neumaticos": "255/60 R19"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "Frenado autónomo de emergencia",
+      "Control crucero adaptativo",
+      "Cámara 360°",
+      "Detección de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Sensores de estacionamiento",
+      "ISOFIX",
+      "Monitor de presión de neumáticos"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos de cuero eléctricos ventilados",
+      "Climatizador bizona",
+      "Selector de cambios en columna",
+      "Descarga V2L",
+      "Toma 220 V"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Cargador inalámbrico 50 W",
+      "Pantalla multimedia 15\"",
+      "Tablero digital 12,3\"",
+      "Head-Up Display"
+     ]
+    },
+    "111": {
+     "confort": [
+      "Bloqueo de diferencial trasero",
+      "Modos Nieve / Arena / Barro"
+     ]
+    }
+   },
+   "ficha_texto": "HAVAL H7 PHEV (GWM Uruguay). Híbrido enchufable 1.5 turbo con transmisión dedicada DHT. Garantía 5 años o 150.000 km.\n2WD: DHT-1, 240 kW (~322 HP), 540 Nm, rendimiento mixto 6,0 L/100 km, neumáticos 265/60 R18. 4WD: DHT-3, 268 kW (~359 HP), 760 Nm, rendimiento mixto 6,3 L/100 km, neumáticos 255/60 R19; suma modos de manejo Nieve/Arena/Barro y bloqueo de diferencial trasero electrónico.\nDIMENSIONES: largo 4.800 mm, ancho 1.950 mm, alto 1.843 mm. Suspensión delantera MacPherson independiente, trasera multibrazo independiente, dirección eléctrica sensible a velocidad, freno de estacionamiento electrónico + Auto Hold, discos ventilados, rueda de auxilio exterior. Autonomía total hasta 1.000 km según la web.\nSEGURIDAD: 6 airbags (frontales, laterales, cortina), cinturones con pretensor, TCS, RMI, HDC, HHC, TPMS, sensores delanteros y traseros (4+4), cámara 360° con chasis transparente, AEB, ACC, mantenimiento/centrado de carril, BSW, RCTA, DFMS.\nCONFORT: cuero, conductor eléctrico 6 u 8 posiciones, asientos ventilados, memoria, techo solar panorámico, climatizador bizona, salidas traseras, V2L, toma 220 V (2,2 kW), arranque remoto.\nMULTIMEDIA: pantalla 15\" (web), tablero digital 12,3\", Head-Up Display, cargador inalámbrico 50 W, audio premium hasta 10 altavoces con subwoofer, CarPlay/Android Auto inalámbrico.",
+   "confianza": "media",
+   "notas": "La ficha PDF no separa columnas 2WD/4WD en el equipamiento: se cargó el equipamiento común más las diferencias que menciona la web para 4WD. Potencia en HP convertida desde kW (240 kW=322 HP, 268 kW=359 HP), es potencia combinada."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Tank 300",
+   "ids": [
+    113,
+    114
+   ],
+   "fuentes": [
+    {
+     "url": "https://gwm.com.uy/modelos/tank-300",
+     "que": "web oficial gwm.com.uy"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/tank-300 (botón Ficha técnica)",
+     "que": "ficha técnica PDF oficial GWM Uruguay"
+    }
+   ],
+   "pdf": [
+    "GWM Tank 300.pdf"
+   ],
+   "fotos": [
+    "tank-300-1.jpg",
+    "tank-300-2.webp",
+    "tank-300-3.jpg",
+    "tank-300-4.jpg",
+    "tank-300-5.jpg",
+    "tank-300-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido (HEV)",
+    "motor": "2.0 turbo inyección directa (E20CB, ciclo Miller) + motor eléctrico",
+    "cilindrada_cc": 2000,
+    "transmision": "Automática 8 vel.",
+    "traccion": "4x4 (AWD inteligente, bloqueos de diferencial)",
+    "potencia_hp": 341,
+    "torque_nm": 647,
+    "neumaticos": "265/65 R17 todo terreno",
+    "tanque_l": 70,
+    "plazas": 5,
+    "baul_l": 657,
+    "pbt_kg": 2552,
+    "largo_mm": 4760,
+    "ancho_mm": 1930,
+    "alto_mm": 1903,
+    "entre_ejes_mm": 2750,
+    "airbags": 6,
+    "garantia": "5 años o 150.000 km",
+    "consumo": "9,1 L/100 km mixto (10,6 ciudad / 7,4 carretera)"
+   },
+   "versiones": {
+    "113": {},
+    "114": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "Control de estabilidad",
+      "Control crucero adaptativo",
+      "Alerta de salida de carril",
+      "Asistente de mantenimiento de carril",
+      "Reconocimiento de señales de tráfico",
+      "Monitor de fatiga del conductor",
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Control de descenso en pendiente",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Frenado autónomo de emergencia"
+     ],
+     "confort": [
+      "Cuero Nappa",
+      "Asientos delanteros ventilados",
+      "Masajeador en asiento conductor",
+      "Asiento conductor eléctrico 10 posiciones",
+      "Techo solar",
+      "Climatizador bizona",
+      "Levas al volante",
+      "Acceso Keyless",
+      "Toma 220 V",
+      "Iluminación ambiental 64 colores",
+      "Estribos fijos"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla multimedia 12,3\"",
+      "Tablero digital 12,3\"",
+      "8 parlantes + subwoofer"
+     ],
+     "off-road": [
+      "Bloqueo de diferencial delantero, central y trasero",
+      "6 modos de manejo off-road",
+      "Control crucero off-road",
+      "Protector de bajos"
+     ]
+    }
+   },
+   "ficha_texto": "TANK 300 CONQUEROR HEV (GWM Uruguay). Híbrido autorecargable 4x4. Garantía 5 años o 150.000 km. La lista trae dos filas iguales: una es la edición color rojo y blanco MY26.\nMOTOR: 2.0 turbo inyección directa (E20CB, ciclo Miller): 241 HP (5.500 rpm) y 380 Nm (1.700-4.000 rpm); motor eléctrico 139 HP y 267 Nm; potencia combinada 341 HP y 647 Nm. Transmisión automática 8 velocidades. Tracción AWD inteligente con bloqueo de diferencial delantero, central y trasero (control eléctrico). Modos: nieve (4H), estándar (4H), experto, 4L (estándar, bache, roca, montaña, barro). Start/stop.\nCHASIS: suspensión delantera independiente McPherson, trasera multi-link; discos delanteros y traseros; llantas de aleación 17\" con neumáticos 265/65 R17 todo terreno; rueda de auxilio homogénea; dirección asistida eléctrica con 3 niveles.\nDIMENSIONES Y CAPACIDADES: largo 4.760 mm, ancho 1.930 mm, alto 1.903 mm, entre ejes 2.750 mm; peso bruto 2.552 kg; 5 plazas; baúl 657 L / 1.635 L con asientos abatidos; tanque 70 L. Rendimiento (ficha, cifras en L/100 km aunque el encabezado diga km/L): ciudad 10,6, mixto 9,1, carretera 7,4 (asignación inferida por el orden de la ficha).\nSEGURIDAD / ADAS: 6 airbags (frontal, lateral, cortina), ESP, TCS, RMI, TPMS, corte de combustible en colisión, HHC y HDC, DST, SCM, ACC, LDW, LKA, LCK, TSR, SAS, TJA, ICA, HBA, control crucero off-road, monitor de fatiga, luces altas automáticas, alarma de exceso de velocidad, 8 sensores de estacionamiento, cámara 360°, esquiva inteligente, ISOFIX x2, traba de niños, inmovilizador.\nEXTERIOR: pack estético off-road, barras de techo y pisaderas, puerto de alimentación trasero para remolque y preinstalación eléctrica de gancho, ganchos de remolque 2+2, protector de bajos 3 piezas, estribos fijos, cobertor de rueda de auxilio.\nINTERIOR: cuero Nappa, delanteros ventilados, masajeador del conductor, conductor eléctrico 10 posiciones, pasajero eléctrico 4, asiento trasero 60:40, luz ambiental 7/64 colores, tomas 12 V y 220 V, keyless, limpiaparabrisas con sensor de lluvia, techo solar con cortina, climatizador bizona con salidas traseras, purificador de aire, freno de mano electrónico + auto hold, levas al volante.\nMULTIMEDIA: pantalla táctil 12,3\" con Bluetooth, Apple CarPlay y Android Auto, doble pantalla 12,3\" (con tablero digital), 8 parlantes + subwoofer, USB dobles delanteros (A+C) y traseros (A).\nILUMINACIÓN: faros Full LED con regulación eléctrica, sensor crepuscular, antiniebla LED delanteros y traseros, DRL LED, follow me home.",
+   "confianza": "media",
+   "notas": "Los datos numéricos del PDF salieron desordenados (columnas desalineadas): tanque 70 L, baúl 657/1.635 L, PBV 2.552 kg y consumos se asignaron por orden/lógica. Confirmar consumo ciudad/mixto/carretera contra el PDF original. Las dos filas de la lista (113 rojo y blanco MY26 / 114) son la misma versión mecánica."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Ora 5",
+   "ids": [
+    115,
+    116
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/GWM ORA5.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/ora-5",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "ora-5-1.png",
+    "ora-5-2.jpg",
+    "ora-5-3.jpg",
+    "ora-5-4.jpg",
+    "ora-5-5.jpg",
+    "ora-5-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Eléctrico",
+    "autonomia_km": 520,
+    "autonomia_ciclo": "NEDC",
+    "largo_mm": 4471,
+    "ancho_mm": 1833,
+    "alto_mm": 1641,
+    "entre_ejes_mm": 2720,
+    "despeje_mm": 175,
+    "neumaticos": "225/60 R18",
+    "airbags": 6,
+    "baul_l": 422,
+    "garantia": "5 años o 150.000 km",
+    "plazas": 5,
+    "consumo": "Carga rápida en ~20 min"
+   },
+   "versiones": {
+    "115": {},
+    "116": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "ISOFIX",
+      "Cámara 360°",
+      "Sensores de estacionamiento traseros",
+      "Monitor de presión de neumáticos"
+     ],
+     "confort": [
+      "Aire acondicionado automático",
+      "Salidas de aire traseras",
+      "Volante de cuero",
+      "Modos de conducción Eco / Wellbeing / Normal / Sport",
+      "Freno de mano electrónico con Auto Hold",
+      "Regeneración ajustable"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "6 parlantes",
+      "USB delanteros (A+C) y trasero (C)"
+     ]
+    },
+    "115": {
+     "seguridad": [
+      "Control crucero"
+     ],
+     "confort": [
+      "Asientos de tela",
+      "Asiento conductor manual",
+      "Portón trasero manual"
+     ]
+    },
+    "116": {
+     "seguridad": [
+      "Control de crucero adaptativo",
+      "Frenado autónomo de emergencia",
+      "Alerta de colisión frontal",
+      "Alerta de salida de carril",
+      "Asistente de mantenimiento de carril",
+      "Detección de punto ciego",
+      "Reconocimiento de señales de tráfico",
+      "AEB en intersecciones"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos de eco cuero",
+      "Asiento conductor eléctrico con memoria",
+      "Asientos delanteros calefaccionados y ventilados",
+      "Volante calefactado",
+      "Portón trasero eléctrico",
+      "Cargador inalámbrico",
+      "Iluminación ambiental",
+      "Espejos exteriores con plegado automático"
+     ],
+     "multimedia": [
+      "Pantalla multimedia 14,6\"",
+      "Tablero digital 10,25\""
+     ]
+    }
+   },
+   "ficha_texto": "ORA 5 (GWM Uruguay) - SUV 100% eléctrico, versiones Middle y High. Garantía 5 años o 150.000 km.\nBATERÍA/AUTONOMÍA: 520 km NEDC, carga rápida en ~20 min; sistema de calentamiento de batería para clima frío, recuperación de energía ajustable, toma de carga combinada AC/DC estándar UE, cargador de emergencia, sonido de alerta para peatones. (La ficha no trae potencia ni kWh; no se inventaron.)\nDIMENSIONES: largo 4.471 mm, ancho 1.833 mm, alto 1.641 mm, despeje 175 mm, entre ejes 2.720 mm; baúl 422 L / 1.120 L con asientos rebatidos (web). Suspensión delantera MacPherson, trasera multibrazo; discos ventilados delanteros y traseros; neumáticos 225/60 R18, rueda de repuesto; modos Eco, Wellbeing, Normal, Sport; Auto Hold; TPMS.\nSEGURIDAD: 6 airbags, ABS+EBD, TCS, HHC, ISOFIX, bloqueo automático al conducir, desbloqueo tras colisión, radar trasero 4 sensores, cámara 360°. Middle: control crucero. High: ACC, AEB con peatones/ciclistas, TSR+ISA, LDW/LKA/LCK + evasión inteligente, AEB en intersecciones, BSD + DOW + ELK + RCTA/RCW, alerta y frenado de tráfico cruzado frontal.\nCONFORT: Middle: asientos de tela, conductor manual, portón manual, espejo manual, one-touch solo conductor. High: eco cuero, conductor eléctrico con memoria, pasajero eléctrico, calefacción y ventilación de asientos delanteros, volante calefaccionado, techo panorámico, portón eléctrico, carga inalámbrica, espejo interior automático, one-touch x4, plegado eléctrico de espejos, iluminación ambiental. Ambas: aire acondicionado automático, salidas traseras, volante de cuero.\nMULTIMEDIA: Middle sin la combinación de pantallas grandes; High con tablero 10,25\" + pantalla 14,6\". Ambas: CarPlay/Android Auto inalámbrico, USB (A+C delante, C atrás), 6 parlantes.\nILUMINACIÓN: faros y luces traseras LED, DRL, follow me home, ajuste eléctrico de altura, luces de lectura; ambiental solo High.",
+   "confianza": "media",
+   "notas": "Falta potencia (HP), torque, kWh de batería y tracción en la ficha oficial uruguaya. 115/116 de la lista ('Middle'/'High') coinciden con las columnas de la ficha."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Ora 03",
+   "ids": [
+    117
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Ora 03.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/ora-03",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "ora-03-1.png",
+    "ora-03-2.png",
+    "ora-03-3.webp",
+    "ora-03-4.png",
+    "ora-03-5.png",
+    "ora-03-6.png"
+   ],
+   "comun": {
+    "carroceria": "Hatchback",
+    "combustible": "Eléctrico",
+    "traccion": "Delantera",
+    "potencia_hp": 169,
+    "torque_nm": 250,
+    "carga_ac_kw": 11,
+    "carga_dc_kw": 80,
+    "velocidad_max_kmh": 160,
+    "aceleracion_0_100_s": 8.2,
+    "consumo": "16,7 kWh/100 km mixto",
+    "neumaticos": "215/50 R18",
+    "baul_l": 228,
+    "largo_mm": 4254,
+    "alto_mm": 1603,
+    "entre_ejes_mm": 2650,
+    "airbags": 7,
+    "garantia": "5 años o 150.000 km",
+    "plazas": 5
+   },
+   "versiones": {
+    "117": {
+     "bateria_kwh": 61.13,
+     "autonomia_km": 420,
+     "autonomia_ciclo": "WLTP (NEDC 500 km)",
+     "peso_kg": 1580
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ISOFIX",
+      "Cámara 360°",
+      "Frenado autónomo de emergencia",
+      "Control crucero adaptativo",
+      "Asistente de cambio de carril",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de apertura de puertas",
+      "Reconocimiento de señales de tráfico",
+      "Estacionamiento autónomo",
+      "Alerta de salida de carril",
+      "Asistente de mantenimiento de carril",
+      "Monitor de presión de neumáticos"
+     ],
+     "confort": [
+      "Tapizado de cuero",
+      "Climatizador automático",
+      "Techo panorámico con apertura",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados con masajeador",
+      "Volante calefaccionado",
+      "Portón eléctrico manos libres",
+      "Conducción One Pedal",
+      "Acceso Keyless"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Cargador inalámbrico",
+      "Tablero digital 10,25\"",
+      "Pantalla multimedia 10,25\"",
+      "6 parlantes"
+     ]
+    },
+    "117": {
+     "seguridad": [
+      "Asistente de carretera (HWA)",
+      "Alerta y frenado de tráfico cruzado delantero",
+      "Asistente de dirección de emergencia",
+      "Protección de flancos"
+     ],
+     "confort": [
+      "Pack estético deportivo",
+      "Mordazas de freno rojas",
+      "Llantas deportivas 18\"",
+      "Launch control"
+     ]
+    }
+   },
+   "ficha_texto": "ORA 03 (GWM Uruguay) - hatchback eléctrico, versiones Skin, SR y GT (la lista trae solo GT). Garantía 5 años o 150.000 km.\nBATERÍA/AUTONOMÍA: Skin 47,78 kWh, 310 km WLTP (400 NEDC); SR y GT 61,13 kWh, 420 km WLTP (500 NEDC). Carga CCS2: AC 11 kW (15-80% en 5,5 h Skin / 6,5 h SR-GT), DC 80 kW (20-80% en 40 min Skin / 50 min SR-GT). (La web cita 374 km WLTP y 40 min de carga rápida.)\nMOTOR: 126 kW = 169 HP, 250 Nm, tracción delantera, 0-100 km/h 8,2 s, velocidad máxima 160 km/h, consumo mixto 16,7 kWh/100 km. Peso en vacío 1.540 kg (Skin) / 1.580 kg (SR, GT). Baúl 228-858 L. Frenos de disco x4, neumáticos 215/50 R18.\nDIMENSIONES (ficha, asignación por layout): largo 4.254 mm, alto 1.603 mm, entre ejes 2.650 mm; también figuran 1.848 mm y 120 mm (ancho/despeje, sin confirmar).\nGT: pack estético deportivo, mordazas rojas, llantas deportivas 18\", launch control, portón eléctrico manos libres, techo panorámico, asiento conductor eléctrico 6 dir. con memoria, pasajero eléctrico 4, delanteros calefaccionados y ventilados con masaje, volante calefaccionado, espejos con memoria y plegado eléctrico, deshielador de parabrisas, estacionamiento autónomo, sensores frontales, protección de flancos (SDW), asistente de carretera (HWA), alerta y frenado de tráfico cruzado delantero, asistente de dirección de emergencia (ESA), LDW/LKA/ELK.\nTODAS: 7 airbags (frontales, laterales, cortina, central), ISOFIX, SCM, ABS+EBD+TCS+RMI+ESC, EPB, HAC, auto hold, One Pedal, regeneración ajustable, 5 modos de manejo, dirección eléctrica configurable, suspensión McPherson/eje semirrígido, AEB (vehículos, peatones, ciclistas), AEB en intersecciones, TSR, LCA, RCW, DOW, ACC+ICA+TJA, cámara 360°, HMA, tablero y pantalla de 10,25\", CarPlay/Android Auto inalámbrico, 6 parlantes, USB x3, faros LED con ajuste de altura, DRL, follow me home.",
+   "confianza": "media",
+   "notas": "Ancho/despeje de la ficha sin etiqueta clara: no se cargaron. Autonomía de GT: ficha 420 km WLTP vs web 374 km (probablemente otra versión/ciclo)."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Wingle 5",
+   "ids": [
+    118
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Wingle 5.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/wingle",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "wingle-1.png",
+    "wingle-2.png",
+    "wingle-3.png",
+    "wingle-4.png",
+    "wingle-5.png",
+    "wingle-6.png"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "combustible": "Nafta",
+    "motor": "2.4 nafta 4 cil.",
+    "cilindrada_cc": 2378,
+    "potencia_hp": 134,
+    "torque_nm": 200,
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2",
+    "tanque_l": 70,
+    "largo_mm": 5095,
+    "ancho_mm": 1800,
+    "alto_mm": 1730,
+    "entre_ejes_mm": 3050,
+    "despeje_mm": 194,
+    "peso_kg": 2035,
+    "pbt_kg": 2710,
+    "carga_util_kg": 675,
+    "neumaticos": "235/70 R16",
+    "plazas": 5,
+    "garantia": "3 años o 100.000 km",
+    "airbags": 2
+   },
+   "versiones": {
+    "118": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Airbags frontales",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Monitor de presión de neumáticos",
+      "Sensores de marcha atrás",
+      "ISOFIX",
+      "Aviso de cinturón no abrochado",
+      "Frenos a disco x4"
+     ],
+     "confort": [
+      "Climatizador manual",
+      "Asientos de cuero",
+      "Asiento conductor 6 direcciones",
+      "Llantas de aleación 16\"",
+      "Volante multifunción"
+     ],
+     "multimedia": [
+      "Radio AM/FM con USB y Bluetooth",
+      "4 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "WINGLE 5 LUXURY 4x2 MT DC (GWM Uruguay). Garantía 3 años o 100.000 km. Versiones en la ficha: Cabina Simple Luxury, Doble Cabina Luxury y Doble Cabina Dignity.\nMOTOR: nafta 2.378 cc, 134 HP (5.150 rpm), 200 Nm (2.000-3.000 rpm), manual 5 marchas, tracción 4x2, tanque 70 L.\nDIMENSIONES: largo 5.095 mm, ancho 1.800 mm, alto 1.730 mm; caja 1.380 x 1.460 x 480 mm; entre ejes 3.050 mm; despeje 194 mm; peso en vacío 2.035 kg; peso bruto 2.710 kg; carga de la caja 675 kg; carga con pasajeros 1.050 kg. Neumáticos 235/70 R16.\nCHASIS: suspensión delantera independiente doble brazo, trasera eje rígido con ballestas, dirección asistida eléctrica, columna ajustable.\nDOBLE CABINA LUXURY: llantas de aleación 16\", manijas cromadas, asientos de cuero, conductor 6 dir. manual, frenos a disco x4, 5 apoyacabezas, ISOFIX, traba de niños, aviso de cinturón pasajero, luces de lectura, 4 altavoces, volante de poliuretano multifunción, espejo interior manual.\nTODAS: ABS+EBD, ESP, TPMS, sensores de marcha atrás, airbags frontales, cinturones de 3 puntas, inmovilizador, cierre centralizado, climatizador manual, ventanas one touch con antipinzamiento, espejos con ajuste eléctrico y luz de giro, radio AM/FM con USB y Bluetooth, parrilla cromada, caja recubierta, tratamiento anticorrosión.",
+   "confianza": "alta",
+   "notas": "Fotos: la página gwm.com.uy/modelos/wingle muestra Wingle 5 y posiblemente Wingle 7 (algunas fotos pueden ser del Wingle 7)."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Poer Tool",
+   "ids": [
+    119,
+    120,
+    121
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Poer Tool.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/poer",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "poer-1.webp",
+    "poer-2.png",
+    "poer-3.png",
+    "poer-4.png",
+    "poer-5.png",
+    "poer-6.png"
+   ],
+   "comun": {
+    "carroceria": "Pick-up",
+    "motor": "2.0 turbo",
+    "transmision": "Manual 6 vel.",
+    "tanque_l": 80,
+    "neumaticos": "245/70 R17",
+    "largo_mm": 5425,
+    "ancho_mm": 1886,
+    "alto_mm": 1883,
+    "entre_ejes_mm": 3230,
+    "despeje_mm": 227,
+    "carga_util_kg": 1050,
+    "garantia": "3 años o 100.000 km",
+    "plazas": 5
+   },
+   "versiones": {
+    "119": {
+     "combustible": "Nafta",
+     "potencia_hp": 190,
+     "torque_nm": 360,
+     "traccion": "4x2"
+    },
+    "120": {
+     "carroceria": "Pick-up cabina simple",
+     "combustible": "Diésel",
+     "potencia_hp": 161,
+     "torque_nm": 400,
+     "traccion": "4x2"
+    },
+    "121": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Nafta",
+     "potencia_hp": 190,
+     "torque_nm": 360,
+     "traccion": "4x4"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Doble airbag frontal",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Cámara de marcha atrás",
+      "Sensores de estacionamiento"
+     ],
+     "confort": [
+      "Climatizador manual",
+      "Asientos de tela",
+      "Ventanas eléctricas",
+      "Asiento conductor manual 6 direcciones"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 9\"",
+      "Bluetooth",
+      "4 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "POER TOOL ELITE (GWM Uruguay) - pick-up mediana de trabajo. Garantía 3 años o 100.000 km.\nMOTORES 2.0 turbo: Diésel common rail con VGT 161 HP (3.600 rpm) y 400 Nm (1.500-2.500 rpm); Gasolina 190 HP (4.000 rpm) y 360 Nm (1.600-3.600 rpm). Transmisión manual 6 velocidades. Versiones de la lista: 4x2 gasolina (119), 4x2 diésel cabina simple (120), 4x4 gasolina doble cabina (121).\nDIMENSIONES: largo 5.425 mm, ancho 1.886 mm, alto 1.883 mm, entre ejes 3.230 mm, despeje 227 mm. Tanque 80 L, carga con pasajeros 1.050 kg, neumáticos 245/70 R17.\nCHASIS: dirección asistida hidráulica, frenos de disco delanteros y tambor traseros, suspensión delantera independiente de doble horquilla con barra estabilizadora, trasera eje rígido con paquete de resortes.\nEQUIPAMIENTO: pantalla táctil 9\", Bluetooth, CarPlay y Android Auto, 4 parlantes; asientos de tela; conductor manual 6 dir., pasajero manual 4 dir.; ventanas eléctricas; climatizador manual; luces DRL, antiniebla trasera, luz de freno elevada; llave plegable, inmovilizador, cierre centralizado, rueda auxiliar de acero. Seguridad: doble airbag frontal, ABS+EBD, ESC, TPMS, ISOFIX, cámara y sensores (según tabla de la ficha).",
+   "confianza": "media",
+   "notas": "Las filas de equipamiento de la ficha salieron truncadas (etiquetas incompletas), por eso el equipamiento es general. La columna 'Diésel 4x2' del PDF aparece sin equipamiento marcado (posible cabina simple básica). Las fotos del sitio son de la gama POER en general (la web agrupa Tool y Family)."
+  },
+  {
+   "marca": "GWM",
+   "modelo": "Poer Family",
+   "ids": [
+    122,
+    123,
+    124,
+    125,
+    126
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Poer Family.txt",
+     "que": "ficha oficial GWM Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://gwm.com.uy/modelos/poer",
+     "que": "web oficial"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "poer-1.webp",
+    "poer-2.png",
+    "poer-3.png",
+    "poer-4.png",
+    "poer-5.png",
+    "poer-6.png"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "motor": "2.0 turbo",
+    "transmision": "Automática 8 vel.",
+    "traccion": "4x4",
+    "tanque_l": 80,
+    "neumaticos": "265/60 R18",
+    "largo_mm": 5410,
+    "ancho_mm": 1934,
+    "alto_mm": 1886,
+    "entre_ejes_mm": 3230,
+    "despeje_mm": 227,
+    "carga_util_kg": 1050,
+    "garantia": "3 años o 100.000 km",
+    "plazas": 5
+   },
+   "versiones": {
+    "122": {
+     "combustible": "Nafta",
+     "potencia_hp": 190,
+     "torque_nm": 360,
+     "airbags": 2
+    },
+    "123": {
+     "combustible": "Nafta",
+     "potencia_hp": 190,
+     "torque_nm": 360,
+     "airbags": 4
+    },
+    "124": {
+     "combustible": "Diésel",
+     "potencia_hp": 161,
+     "torque_nm": 400,
+     "airbags": 2
+    },
+    "125": {
+     "combustible": "Diésel",
+     "potencia_hp": 161,
+     "torque_nm": 400,
+     "airbags": 4
+    },
+    "126": {
+     "combustible": "Diésel",
+     "potencia_hp": 161,
+     "torque_nm": 400,
+     "airbags": 6
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Doble airbag frontal",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Ayuda de descenso en pendiente",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Sensores de estacionamiento traseros"
+     ],
+     "confort": [
+      "Climatizador automático",
+      "Levas al volante",
+      "Asientos de eco cuero",
+      "5 modos de conducción",
+      "Freno de mano electrónico",
+      "Auto hold"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 9\"",
+      "Bluetooth",
+      "Arranque por botón"
+     ]
+    },
+    "125": {
+     "seguridad": [
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia",
+      "Alerta de salida de carril",
+      "Asistente de mantenimiento de carril",
+      "Cámara 360°",
+      "Alerta de tráfico cruzado trasero"
+     ],
+     "confort": [
+      "Asientos de cuero",
+      "Asientos delanteros calefaccionados",
+      "Asiento conductor eléctrico 6 direcciones",
+      "Toma 220 V"
+     ],
+     "multimedia": [
+      "Cargador inalámbrico",
+      "6 parlantes",
+      "Tablero 7\""
+     ]
+    },
+    "126": {
+     "seguridad": [
+      "Airbag de cortina",
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia",
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Techo solar",
+      "Asientos de cuero",
+      "Asientos delanteros calefaccionados",
+      "Asiento conductor eléctrico 6 direcciones",
+      "Toma 220 V"
+     ],
+     "multimedia": [
+      "Cargador inalámbrico",
+      "6 parlantes",
+      "Tablero 7\""
+     ]
+    },
+    "123": {
+     "seguridad": [
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia",
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Asientos de cuero",
+      "Asientos delanteros calefaccionados",
+      "Asiento conductor eléctrico 6 direcciones",
+      "Toma 220 V"
+     ],
+     "multimedia": [
+      "Cargador inalámbrico",
+      "6 parlantes",
+      "Tablero 7\""
+     ]
+    },
+    "122": {
+     "seguridad": [
+      "Cámara de retroceso",
+      "Cámara frontal",
+      "Control de velocidad crucero"
+     ],
+     "multimedia": [
+      "4 parlantes",
+      "Tablero 3,5\""
+     ]
+    },
+    "124": {
+     "seguridad": [
+      "Cámara de retroceso",
+      "Cámara frontal",
+      "Control de velocidad crucero"
+     ],
+     "multimedia": [
+      "4 parlantes",
+      "Tablero 3,5\""
+     ]
+    }
+   },
+   "ficha_texto": "POER FAMILY (GWM Uruguay) - pick-up doble cabina 4x4 con caja automática de 8 velocidades. Garantía 3 años o 100.000 km.\nMOTORES 2.0 turbo: Diésel common rail VGT 161 HP (3.600-5.500 rpm), 400 Nm (1.500-2.500 rpm); Gasolina 190 HP (4.000-5.500 rpm), 360 Nm (1.800-3.600 rpm). Tracción 4x4, transmisión automática 8 velocidades con palanca electrónica y modo parking, 5 modos de conducción (Estándar, Eco, Sport, 4L...). Tanque 80 L, carga con pasajeros 1.050 kg, neumáticos 265/60 R18.\nDIMENSIONES: largo 5.410 mm, ancho 1.934 mm, alto 1.886 mm, entre ejes 3.230 mm, despeje 227 mm. Dirección eléctrica, frenos traseros de disco, suspensión delantera independiente doble horquilla con estabilizadora, trasera eje rígido con paquete de resortes, piso de caja pintado.\nVERSIONES (orden de la ficha): diésel Luxury (124), diésel Elite (125), diésel Deluxe (126), gasolina Elite (122), gasolina Deluxe (123).\nLUXURY (diésel) y ELITE gasolina (las básicas): tablero 3,5\", conductor manual 6 dir., pasajero manual 4 dir., 4 parlantes, cámara de retroceso + cámara frontal, control de crucero simple, 2 sensores traseros, sin airbags laterales.\nELITE diésel / DELUXE gasolina: tablero 7\", cuero, asientos delanteros calefaccionados, conductor eléctrico 6 dir., pasajero eléctrico 4, airbags laterales, EDR, 6 parlantes, cargador inalámbrico, toma 220 V, luz de pie, sensores delanteros, cámara 360°, ACC, AEB con peatones, LDW, LKA, LCK, LCA, FCW, TSW, alerta de tráfico cruzado trasero, alerta de puerta abierta.\nDELUXE diésel: lo anterior más airbag de cortina y techo solar con control.\nTODAS: doble airbag frontal, ABS+EBD, TCS, RMI, ESC, BAS, HHC/HDC, TPMS, ISOFIX, climatizador automático, levas al volante, pantalla táctil 9\" con CarPlay/Android Auto cableado, Bluetooth, arranque por botón, faros LED, luces DRL, faros antiniebla delanteros y traseros, asientos de eco cuero, respaldo trasero 60:40.",
+   "confianza": "media",
+   "notas": "Mapeo versión->columna deducido del orden de la ficha (3 diésel Luxury/Elite/Deluxe + 2 gasolina Elite/Deluxe). En la lista: ELITE 4x4 AT GAS=122, DELUXE GAS=123, LUXURY DIE=124, ELITE DIE=125, DELUXE DIE=126. Cantidad de airbags inferida de las filas de la tabla y de la web (hasta 6)."
+  },
+  {
+   "marca": "Mitsubishi",
+   "modelo": "Eclipse Cross",
+   "ids": [
+    133
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Eclipse Cross.txt",
+     "que": "ficha oficial Mitsubishi Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.uy/eclipse-cross",
+     "que": "web oficial Mitsubishi Uruguay"
+    },
+    {
+     "url": "https://mitsubishi-motors.cl/modelos/eclipse-cross/",
+     "que": "Mitsubishi Chile (potencia 147 HP, fotos)"
+    }
+   ],
+   "pdf": [
+    "Mitsubishi Eclipse Cross.pdf"
+   ],
+   "fotos": [
+    "eclipse-cross-1.png",
+    "eclipse-cross-2.webp",
+    "eclipse-cross-3.webp",
+    "eclipse-cross-4.webp",
+    "eclipse-cross-5.webp",
+    "eclipse-cross-6.webp"
+   ],
+   "comun": {
+    "carroceria": "SUV coupé",
+    "combustible": "Nafta",
+    "motor": "1.5 turbo MIVEC 4 cil.",
+    "cilindrada_cc": 1499,
+    "transmision": "Automática CVT (modo manual 8 marchas)",
+    "traccion": "4x2 (la ficha ofrece también 4x4 S-AWC)",
+    "neumaticos": "225/55 R18",
+    "airbags": 7,
+    "potencia_hp": 147,
+    "garantia": "3 años o 100.000 km",
+    "plazas": 5
+   },
+   "versiones": {
+    "133": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Cámara de retroceso",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Frenado autónomo de emergencia",
+      "Mitigación de aceleración incorrecta (UMS)",
+      "Alerta de punto ciego",
+      "Asistente de cambio de carril",
+      "Alerta de tráfico cruzado trasero",
+      "ISOFIX",
+      "Alarma antirrobo",
+      "Inmovilizador",
+      "Control automático de luces altas"
+     ],
+     "confort": [
+      "Techo panorámico eléctrico",
+      "Climatizador bizona",
+      "Asientos delanteros calefaccionados",
+      "Control crucero",
+      "Levas al volante",
+      "Volante de cuero multifunción",
+      "Acceso Keyless",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Vidrios eléctricos x4",
+      "Asientos 60/40"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 8\"",
+      "8 parlantes",
+      "2 USB",
+      "Comando por voz"
+     ],
+     "exterior": [
+      "Llantas de aleación 18\"",
+      "Lavafaros",
+      "Rieles de techo",
+      "Luces DRL LED",
+      "Faros automáticos"
+     ]
+    }
+   },
+   "ficha_texto": "MITSUBISHI ECLIPSE CROSS (Mitsubishi Motors Uruguay). SUV coupé. Garantía 3 años o 100.000 km (garantía general Mitsubishi Uruguay). Referencia de precio en la web UY: desde U$S 39.990.\nMOTOR/TRANSMISIÓN: 1.5 turbo MIVEC, 1.499 cc; potencia 147 HP según Mitsubishi Chile (la ficha uruguaya no la informa); CVT con modo manual de 8 marchas y levas al volante; tracción 4x2 (la ficha también contempla 4x4 con S-AWC; la lista trae solo '4X2 1.5T'). Neumáticos 225/55 R18, llantas de aleación 18\". Frenos de disco, freno de estacionamiento eléctrico con Autohold, ABS+EBD.\nEXTERIOR: DRL LED, luces altas automáticas (AHB), rieles de techo, lavafaros, faros automáticos, faros y neblineros LED, techo solar panorámico eléctrico.\nINTERIOR: asientos 60/40, delanteros calefaccionados, 4 alzacristales eléctricos, keyless con botón de arranque, cierre centralizado con comando, multimedia con Smartphone Link, Apple CarPlay y Android Auto, pantalla táctil 8\", radio AM/FM, 2 USB y 8 parlantes (4 tweeter), control crucero, volante multifunción de cuero con levas, climatizador bizona, manos libres y comando por voz.\nSEGURIDAD: 7 airbags, alarma antirrobo, cámara de retroceso, sensores delanteros y traseros, control de estabilidad y tracción, frenado autónomo, asistente de arranque en pendiente, UMS, LCA, BSW, ISOFIX, inmovilizador. La 4x4 suma dos elementos extra marcados en la ficha sin etiqueta legible.",
+   "confianza": "media",
+   "notas": "Dimensiones, consumo, baúl y tanque no figuran en las fuentes uruguayas. Potencia 147 HP viene de Mitsubishi Chile (esa web indica 1.449 cc, error evidente: se usó 1.499 cc de la ficha uruguaya). El PDF oficial es una imagen sin texto."
+  },
+  {
+   "marca": "Mitsubishi",
+   "modelo": "Destinator",
+   "ids": [
+    134,
+    135
+   ],
+   "fuentes": [
+    {
+     "url": "https://cdn.prod.website-files.com/699c4e0430b11b7fea5bfc9b/6a4d2864fd8d23c8e11811eb_Destinator_Brochure_2026.pdf",
+     "que": "brochure oficial Mitsubishi Uruguay (matriz Exceed/Ultimate)"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.uy/destinator",
+     "que": "web oficial Mitsubishi Uruguay"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2026/07/lanzamiento-mitsubishi-destinator-los.html",
+     "que": "Autoblog Uruguay (pesos, precios de lanzamiento)"
+    },
+    {
+     "url": "https://mitsubishi-motors.cl/modelos/destinator/",
+     "que": "Mitsubishi Chile (fotos)"
+    }
+   ],
+   "pdf": [
+    "Mitsubishi Destinator Brochure 2026.pdf"
+   ],
+   "fotos": [
+    "destinator-1.png",
+    "destinator-2.webp",
+    "destinator-3.webp",
+    "destinator-4.webp",
+    "destinator-5.webp",
+    "destinator-6.webp"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.5 turbo MIVEC 4B40 4 cil.",
+    "potencia_hp": 160,
+    "torque_nm": 250,
+    "transmision": "Automática CVT",
+    "traccion": "2WD (delantera)",
+    "neumaticos": "225/55 R18",
+    "plazas": 7,
+    "largo_mm": 4680,
+    "ancho_mm": 1840,
+    "alto_mm": 1780,
+    "entre_ejes_mm": 2815,
+    "despeje_mm": 214,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "134": {
+     "peso_kg": 1450
+    },
+    "135": {
+     "peso_kg": 1460
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Sensor de estacionamiento trasero",
+      "Cámara trasera",
+      "Monitor multiambiente 360°",
+      "Alerta de punto ciego",
+      "Asistente de cambio de carril",
+      "Control activo de movimiento (AYC)",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Alarma antirrobo"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Ventilación 2ª y 3ª fila",
+      "Control crucero",
+      "Acceso Keyless",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Selector de modos de conducción (Normal/Mojado/Grava/Lodo/Asfalto)",
+      "Volante forrado en cuero",
+      "Cargador inalámbrico",
+      "Pantalla digital del conductor 8\"",
+      "Rack de techo",
+      "Iluminación LED",
+      "Modo de carga plana 3ª fila"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "USB en 1ª, 2ª y 3ª fila",
+      "Transmisión de audio digital (DAB)"
+     ]
+    },
+    "134": {
+     "confort": [
+      "Tapizado de tela",
+      "Asiento conductor manual",
+      "Porta lentes de sol",
+      "Luz de techo 2ª fila"
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "6 parlantes"
+     ]
+    },
+    "135": {
+     "seguridad": [
+      "Alerta de tráfico cruzado trasero (RCTA)"
+     ],
+     "confort": [
+      "Techo panorámico eléctrico",
+      "Cuero sintético",
+      "Asiento conductor eléctrico",
+      "Portón trasero eléctrico manos libres con memoria de altura",
+      "Iluminación ambiental multicolor",
+      "Faros automáticos",
+      "Limpiaparabrisas con sensor de lluvia",
+      "Llantas 18\" bitono",
+      "Luz de lectura trasera 2ª fila"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Sonido Yamaha Premium 8 altavoces"
+     ]
+    }
+   },
+   "ficha_texto": "MITSUBISHI DESTINATOR (Mitsubishi Motors Uruguay, lanzamiento 2026) - SUV familiar de 7 plazas (3 filas). Versiones: Exceed 1.5 Turbo CVT 2WD y Ultimate 1.5 Turbo CVT 2WD. Garantía 3 años o 100.000 km. Precios de lanzamiento (Autoblog): Exceed U$S 49.990, Ultimate U$S 54.990.\nMOTOR: 1.5 turbo MIVEC intercooled 4B40, 160 HP (161 cv), 250 Nm a 2.000 rpm, inyección multipunto; transmisión CVT; tracción delantera; frenos disco 16\" delante y 15\" atrás; suspensión McPherson con estabilizadora adelante y barra de torsión atrás; 5 modos de conducción (Normal, Mojado, Grava, Lodo, Asfalto/Ruta). Neumáticos 225/55 R18 (llanta gris oscuro en Exceed, bitono en Ultimate).\nDIMENSIONES: largo 4.680 mm, ancho 1.840 mm, alto 1.780 mm, entre ejes 2.815 mm, trocha 1.580/1.590 mm, despeje 214 mm; ángulos de aproximación 21°, bajada 20,8°, salida 25,5°. Peso en orden de marcha: Exceed 1.450 kg, Ultimate 1.460 kg (Autoblog).\nSEGURIDAD (ambas): 6 airbags (frontales, laterales delanteros y cortina), cinturones de 3 puntas con pretensor en las 3 filas, recordatorio de cinturón en todas las plazas, ISOFIX y tether en 2ª fila, bloqueo de seguridad para niños, ABS+EBD+asistencia de frenado, ASC y TCL, HSA, sensor de estacionamiento trasero, cámara trasera, monitor multiambiente (vista aérea con 4 cámaras), BSW con LCA, AYC, TPMS, inmovilizador, alarma. RCTA solo en Ultimate.\nEXTERIOR: Exceed sin techo panorámico; Ultimate con techo panorámico eléctrico. Ambas: rack de techo, retrovisores eléctricos plegables con intermitente, vidrio laminado UV, desempañador trasero, faros LED en T, DRL, antiniebla LED; portón trasero eléctrico manos libres con memoria de altura solo en Ultimate.\nINTERIOR: Exceed tela y conductor con ajuste manual; Ultimate cuero sintético y conductor eléctrico (deslizante, reclinable, altura, inclinación). Ambas: volante inclinable y telescópico forrado en cuero, freno de estacionamiento eléctrico con Auto Hold, controles en el volante, 2ª fila plegable con reposabrazos central, 3ª fila plegable (modo de carga plana), climatizador automático bizona con ventilación 2ª y 3ª fila, nanoe X, consola refrigerada, cargador inalámbrico, USB tipo A y C en las 3 filas, toma 12 V, control de crucero.\nMULTIMEDIA: Exceed pantalla de audio 8\" con enlace a smartphone y 6 altavoces; Ultimate pantalla 12,3\" con sistema Yamaha Premium de 8 altavoces. Ambas: pantalla digital del conductor de 8\", DAB, Apple CarPlay/Android Auto.\nILUMINACIÓN: Ultimate con iluminación ambiental multicolor, faros automáticos y luz de lectura trasera; Exceed con luz de techo 2ª fila y sin faros automáticos.\nCOLORES: Blanco Perlado, Plata, Gris Grafito, Azul Lunar, Rojo Metálico, Negro.",
+   "confianza": "alta",
+   "notas": "Matriz Exceed/Ultimate leída del brochure oficial (imagen); ítems con símbolo ambiguo (Inmovilizador) se asumieron presentes en ambas. Peso de Autoblog (orden de marcha). El brochure no da consumo, tanque ni baúl."
+  },
+  {
+   "marca": "Mitsubishi",
+   "modelo": "Outlander",
+   "ids": [
+    136,
+    137,
+    138,
+    139
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Outlander.txt",
+     "que": "ficha Mitsubishi Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.uy/outlander",
+     "que": "web oficial Mitsubishi Uruguay"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.ar/vehicles/outlander",
+     "que": "Mitsubishi Argentina (fotos)"
+    }
+   ],
+   "pdf": [
+    "Mitsubishi Outlander.pdf"
+   ],
+   "fotos": [
+    "outlander-1.png",
+    "outlander-2.webp",
+    "outlander-3.webp",
+    "outlander-4.webp",
+    "outlander-5.webp",
+    "outlander-6.webp"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "2.5 DOHC inyección directa 4 cil.",
+    "cilindrada_cc": 2488,
+    "potencia_hp": 181,
+    "transmision": "Automática CVT 8 vel.",
+    "neumaticos": "255/45 R20",
+    "largo_mm": 4710,
+    "alto_mm": 1745,
+    "entre_ejes_mm": 2706,
+    "baul_l": 331,
+    "tanque_l": 55,
+    "airbags": 7,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "136": {
+     "traccion": "4x2 (2WD)",
+     "peso_kg": 1686,
+     "ancho_mm": 1862
+    },
+    "137": {
+     "traccion": "4WD",
+     "peso_kg": 1686,
+     "ancho_mm": 1862
+    },
+    "138": {
+     "traccion": "4x2 (2WD)",
+     "plazas": 5,
+     "peso_kg": 1686,
+     "ancho_mm": 1862
+    },
+    "139": {
+     "traccion": "4WD",
+     "plazas": 7,
+     "peso_kg": 1757,
+     "ancho_mm": 1862
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Mitigación de colisión frontal",
+      "Alerta de cambio involuntario de carril",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de atención del conductor",
+      "ISOFIX",
+      "Control crucero"
+     ],
+     "confort": [
+      "Butaca eléctrica del conductor",
+      "Asientos delanteros calefaccionados",
+      "Acceso Keyless",
+      "Botón de arranque",
+      "Maletero con apertura one touch",
+      "Volante de cuero",
+      "Espejo fotocromático",
+      "Espejos plegables eléctricos"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Bluetooth"
+     ],
+     "exterior": [
+      "Llantas de aleación 20\"",
+      "Faros LED adaptativos",
+      "Lavafaros",
+      "Barras de techo"
+     ]
+    },
+    "139": {
+     "seguridad": [
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Climatizador automático 3 zonas",
+      "Asientos de cuero",
+      "Butaca eléctrica del acompañante",
+      "Techo panorámico con apertura eléctrica",
+      "Sensor de lluvia",
+      "Cargador inalámbrico",
+      "7 plazas"
+     ],
+     "multimedia": [
+      "Pantalla 9\"",
+      "Sonido BOSE premium"
+     ]
+    }
+   },
+   "ficha_texto": "MITSUBISHI OUTLANDER (New Outlander, Mitsubishi Motors Uruguay). Garantía 3 años o 100.000 km. Versiones en la lista: 4x2 / 2WD 5P, 4WD y 4WD Plus 7P. Precios web UY: 2WD desde U$S 59.990, 4WD Plus U$S 69.990.\nMOTOR: 2.5 DOHC inyección directa Euro 6, 2.488 cc, 181 HP; CVT de 8 velocidades con modo deportivo. 4x2 tracción delantera 2WD; 4x4 y 4x4 Plus 4WD con control electrónico. Dirección eléctrica, suspensión McPherson/multilink, discos ventilados delante y atrás, neumáticos 255/45 R20 con llantas de aleación 20\".\nDIMENSIONES: 4.710 x 1.862 x 1.745 mm (ancho 1.897 mm en el catálogo de Argentina), entre ejes 2.706 mm, peso 1.686 kg (4x2 y 4x4) / 1.757 kg (Plus), baúl 331 L (2.217 L abatido), tanque 55 L. Plazas: la 4WD Plus 7; la lista indica '2WD 5P' (5 plazas).\nCOMÚN A LAS 3 VERSIONES: 7 airbags, ABS+EBD, alzacristales eléctricos, computadora de abordo, barras de techo, control de crucero con comandos al volante, butaca eléctrica del conductor, sensores de estacionamiento delanteros y traseros, ESC, TCS, botón de arranque, multimedia con Bluetooth, Apple CarPlay y Android Auto (7\"), faros LED adaptativos con regulación automática, DRL, lavafaros, antiniebla delanteros y traseros, espejos plegables eléctricos, maletero one touch con ajuste de altura, volante de cuero, delanteros calefaccionados, keyless, espejo fotocromático, FCM, LDW, BSW, LCA, RCTA, Driver Attention Alert.\nSOLO EN 4WD PLUS 7P: climatizador automático 3 zonas, cuero, butaca eléctrica del acompañante, pantalla 9\" (las otras 7\"), sonido premium BOSE (la web uruguaya habla de Yamaha), sensor de lluvia, techo solar panorámico eléctrico, monitoreo 360°, cargador inalámbrico.",
+   "confianza": "media",
+   "notas": "El PDF de la web uruguaya es el catálogo de Mitsubishi Argentina (2.5L GLS AT Full: 184 CV, 225/45 R20, 7 plazas): se usó solo como referencia; los datos por versión salen de la ficha local y de la web UY. La distinción 136 vs 138 (ambas 4x2) y las plazas 5/7 se infieren del nombre de la lista; confirmar con el concesionario."
+  },
+  {
+   "marca": "Mitsubishi",
+   "modelo": "L200",
+   "ids": [
+    140,
+    141
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Mitsubishi-L200- FICHA NUEVA.txt",
+     "que": "ficha oficial Mitsubishi Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.uy/l200",
+     "que": "web oficial Mitsubishi Uruguay"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.ar/vehicles/l200",
+     "que": "Mitsubishi Argentina (fotos)"
+    }
+   ],
+   "pdf": [
+    "Mitsubishi L200.pdf"
+   ],
+   "fotos": [
+    "l200-1.png",
+    "l200-2.webp",
+    "l200-3.webp",
+    "l200-4.webp",
+    "l200-5.webp",
+    "l200-6.webp"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "tanque_l": 75,
+    "largo_mm": 5320,
+    "ancho_mm": 1866,
+    "entre_ejes_mm": 3130,
+    "plazas": 5,
+    "airbags": 7,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "140": {
+     "combustible": "Diésel",
+     "motor": "2.4 diésel 4N16",
+     "cilindrada_cc": 2442,
+     "potencia_hp": 181,
+     "torque_nm": 430,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x4 (Super Select 4WD-II)",
+     "velocidad_max_kmh": 180,
+     "neumaticos": "265/60 R18",
+     "despeje_mm": 228,
+     "alto_mm": 1795,
+     "peso_kg": 1975,
+     "pbt_kg": 3000,
+     "carga_util_kg": 1025,
+     "remolque_kg": 3500
+    },
+    "141": {
+     "combustible": "Diésel",
+     "motor": "2.4 diésel 4N16",
+     "cilindrada_cc": 2442,
+     "potencia_hp": 181,
+     "torque_nm": 430,
+     "transmision": "Automática 6 vel.",
+     "traccion": "4x4 (Super Select 4WD-II, bloqueo diferencial trasero)",
+     "velocidad_max_kmh": 177,
+     "neumaticos": "265/60 R18",
+     "despeje_mm": 222,
+     "alto_mm": 1795,
+     "peso_kg": 2056,
+     "pbt_kg": 3000,
+     "carga_util_kg": 1035,
+     "remolque_kg": 3500
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Monitor de presión de neumáticos",
+      "Cámara trasera",
+      "Frenado autónomo de emergencia",
+      "Alerta de punto ciego",
+      "Luces altas automáticas",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Acceso Keyless",
+      "Volante forrado en cuero",
+      "Vidrios eléctricos one touch conductor",
+      "Asiento pasajero manual 4 direcciones"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 9\"",
+      "6 altavoces",
+      "USB A + USB C"
+     ]
+    },
+    "140": {
+     "seguridad": [
+      "Alerta de tráfico cruzado trasero",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Asistente de cambio de carril"
+     ],
+     "confort": [
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 8 direcciones",
+      "Climatizador bizona"
+     ],
+     "multimedia": [
+      "Tablero con pantalla color 7\""
+     ]
+    },
+    "141": {
+     "seguridad": [
+      "Alerta de tráfico cruzado trasero",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Cámara 360°",
+      "Ayuda de descenso en pendiente"
+     ],
+     "confort": [
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 8 direcciones",
+      "Climatizador bizona con forzador trasero",
+      "Cargador inalámbrico"
+     ],
+     "multimedia": [
+      "Tablero con pantalla color 7\""
+     ]
+    }
+   },
+   "ficha_texto": "MITSUBISHI L200 / NEW L200 (Mitsubishi Motors Uruguay). Pick-up doble cabina. Garantía 3 años o 100.000 km. Precio web UY de la versión de entrada: GLX 4x2 MT Nafta desde U$S 33.990.\nVersiones de la ficha oficial: [A] 2WD GLX 5MT Nafta, [B] 2WD GLX 6MT Diésel, [C] 4WD GLS 6MT Diésel, [D] 4WD GLS 6AT Diésel. Mapeo a la lista: 'NEW L200 2.4N 4X2 MT GLX'=A (142); '2.4D HR 4x2 MT'=B (144); '2.4 DIT 4x4 MT'=C (145 y L200 140); '2.4 DIT 4x4 AT'=D (146 y L200 141). 'NEW L200 2.4N 4X4 MT' (143) y 'GLS+ SHP 4X4 AT' (147) no figuran en la ficha.\nMOTOR Y TRANSMISIÓN: A 4G64 nafta 2.351 cc 126 HP / 194 Nm, manual 5, 2WD, 152 km/h. B 4N16 diésel 2.442 cc 147 HP / 330 Nm, manual 6, 2WD, 170 km/h. C 4N16 181 HP / 430 Nm, manual 6, Super Select 4WD-II, 180 km/h, 7 modos de manejo. D igual que C con automática 6AT, 177 km/h y bloqueo del diferencial trasero. Tanque 75 L.\nCHASIS: delantera doble brazo con resorte helicoidal, trasera ballestas, dirección eléctrica, discos ventilados delanteros (290 mm A/B, 320 mm C/D), tambores traseros. Llantas aleación 16\" (265/70 R16) en A y B, 18\" (265/60 R18) en C y D.\nDIMENSIONES: largo 5.320 mm, ancho 1.865-1.868 mm, alto 1.775 (A) / 1.795 (B, C, D), entre ejes 3.130 mm, despeje 212 (A) / 222 (B, D) / 228 (C); caja 1.555 x 1.545 x 525 mm; peso vacío A 1.690, B 1.800, C 1.975, D 2.056 kg; PBT A 2.635, B 2.910, C/D 3.000 kg; carga útil A 945, B 1.110, C 1.025, D 1.035 kg; remolque con frenos A 1.800 kg, B/C/D 3.500 kg.\nSEGURIDAD (todas): 7 airbags (frontales, laterales, cortina, rodillas conductor), ABS+EBD+ESP+TRC, HSA, TPMS, cámara trasera, AEB, BSM, luces altas automáticas, ISOFIX, limitador de velocidad. Solo C y D: RCTA, asistente de cambio de carril (LCA/LDC), AYC, sensores de estacionamiento. Solo D: HDC, cámara 360° (MAM con MOD), sensor crepuscular.\nEXTERIOR: A/B parrilla negra mate, manijas negras, faros halógenos; C/D parrilla piano, manijas cromadas, limpiaparabrisas con sensor de lluvia, faros LED con regulación de altura.\nINTERIOR: A/B tela, conductor manual 6 dir., climatizador 1 zona, tablero con display monocromático 3,5\"; C/D cuero, conductor eléctrico 8 dir., climatizador bizona (D con forzador trasero), tablero con pantalla color 7\"; cargador inalámbrico solo D. Todas: multimedia 9\" con CarPlay/Android Auto, 6 altavoces, USB A+C, keyless, volante de cuero multifunción.",
+   "confianza": "media",
+   "notas": "Las versiones 143 (2.4N 4X4 MT) y 147 (GLS+ SHP 4X4 AT) no están en la ficha oficial: quedan sin datos propios. En 'L200' (140/141) se asumió que son las mismas 4x4 diésel C/D de la New L200."
+  },
+  {
+   "marca": "Mitsubishi",
+   "modelo": "New L200",
+   "ids": [
+    142,
+    143,
+    144,
+    145,
+    146,
+    147
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Mitsubishi-L200- FICHA NUEVA.txt",
+     "que": "ficha oficial Mitsubishi Uruguay (curada localmente)"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.uy/l200",
+     "que": "web oficial Mitsubishi Uruguay"
+    },
+    {
+     "url": "https://www.mitsubishi-motors.com.ar/vehicles/l200",
+     "que": "Mitsubishi Argentina (fotos)"
+    }
+   ],
+   "pdf": [
+    "Mitsubishi L200.pdf"
+   ],
+   "fotos": [
+    "l200-1.png",
+    "l200-2.webp",
+    "l200-3.webp",
+    "l200-4.webp",
+    "l200-5.webp",
+    "l200-6.webp"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "tanque_l": 75,
+    "largo_mm": 5320,
+    "ancho_mm": 1866,
+    "entre_ejes_mm": 3130,
+    "plazas": 5,
+    "airbags": 7,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "142": {
+     "combustible": "Nafta",
+     "motor": "2.4 nafta 4G64",
+     "cilindrada_cc": 2351,
+     "potencia_hp": 126,
+     "torque_nm": 194,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 (2WD)",
+     "velocidad_max_kmh": 152,
+     "neumaticos": "265/70 R16",
+     "despeje_mm": 212,
+     "alto_mm": 1775,
+     "peso_kg": 1690,
+     "pbt_kg": 2635,
+     "carga_util_kg": 945,
+     "remolque_kg": 1800
+    },
+    "143": {},
+    "144": {
+     "combustible": "Diésel",
+     "motor": "2.4 diésel 4N16",
+     "cilindrada_cc": 2442,
+     "potencia_hp": 147,
+     "torque_nm": 330,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2 (2WD)",
+     "velocidad_max_kmh": 170,
+     "neumaticos": "265/70 R16",
+     "despeje_mm": 222,
+     "alto_mm": 1795,
+     "peso_kg": 1800,
+     "pbt_kg": 2910,
+     "carga_util_kg": 1110,
+     "remolque_kg": 3500
+    },
+    "145": {
+     "combustible": "Diésel",
+     "motor": "2.4 diésel 4N16",
+     "cilindrada_cc": 2442,
+     "potencia_hp": 181,
+     "torque_nm": 430,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x4 (Super Select 4WD-II)",
+     "velocidad_max_kmh": 180,
+     "neumaticos": "265/60 R18",
+     "despeje_mm": 228,
+     "alto_mm": 1795,
+     "peso_kg": 1975,
+     "pbt_kg": 3000,
+     "carga_util_kg": 1025,
+     "remolque_kg": 3500
+    },
+    "146": {
+     "combustible": "Diésel",
+     "motor": "2.4 diésel 4N16",
+     "cilindrada_cc": 2442,
+     "potencia_hp": 181,
+     "torque_nm": 430,
+     "transmision": "Automática 6 vel.",
+     "traccion": "4x4 (Super Select 4WD-II, bloqueo diferencial trasero)",
+     "velocidad_max_kmh": 177,
+     "neumaticos": "265/60 R18",
+     "despeje_mm": 222,
+     "alto_mm": 1795,
+     "peso_kg": 2056,
+     "pbt_kg": 3000,
+     "carga_util_kg": 1035,
+     "remolque_kg": 3500
+    },
+    "147": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Ayuda de arranque en pendiente",
+      "Monitor de presión de neumáticos",
+      "Cámara trasera",
+      "Frenado autónomo de emergencia",
+      "Alerta de punto ciego",
+      "Luces altas automáticas",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Acceso Keyless",
+      "Volante forrado en cuero",
+      "Vidrios eléctricos one touch conductor",
+      "Asiento pasajero manual 4 direcciones"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 9\"",
+      "6 altavoces",
+      "USB A + USB C"
+     ]
+    },
+    "142": {
+     "confort": [
+      "Tapizado de tela",
+      "Climatizador automático 1 zona",
+      "Asiento conductor manual 6 direcciones"
+     ],
+     "multimedia": [
+      "Tablero con display monocromático 3,5\""
+     ]
+    },
+    "144": {
+     "confort": [
+      "Tapizado de tela",
+      "Climatizador automático 1 zona",
+      "Asiento conductor manual 6 direcciones"
+     ],
+     "multimedia": [
+      "Tablero con display monocromático 3,5\""
+     ]
+    },
+    "145": {
+     "seguridad": [
+      "Alerta de tráfico cruzado trasero",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Asistente de cambio de carril"
+     ],
+     "confort": [
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 8 direcciones",
+      "Climatizador bizona"
+     ],
+     "multimedia": [
+      "Tablero con pantalla color 7\""
+     ]
+    },
+    "146": {
+     "seguridad": [
+      "Alerta de tráfico cruzado trasero",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Cámara 360°",
+      "Ayuda de descenso en pendiente"
+     ],
+     "confort": [
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 8 direcciones",
+      "Climatizador bizona con forzador trasero",
+      "Cargador inalámbrico"
+     ],
+     "multimedia": [
+      "Tablero con pantalla color 7\""
+     ]
+    }
+   },
+   "ficha_texto": "MITSUBISHI L200 / NEW L200 (Mitsubishi Motors Uruguay). Pick-up doble cabina. Garantía 3 años o 100.000 km. Precio web UY de la versión de entrada: GLX 4x2 MT Nafta desde U$S 33.990.\nVersiones de la ficha oficial: [A] 2WD GLX 5MT Nafta, [B] 2WD GLX 6MT Diésel, [C] 4WD GLS 6MT Diésel, [D] 4WD GLS 6AT Diésel. Mapeo a la lista: 'NEW L200 2.4N 4X2 MT GLX'=A (142); '2.4D HR 4x2 MT'=B (144); '2.4 DIT 4x4 MT'=C (145 y L200 140); '2.4 DIT 4x4 AT'=D (146 y L200 141). 'NEW L200 2.4N 4X4 MT' (143) y 'GLS+ SHP 4X4 AT' (147) no figuran en la ficha.\nMOTOR Y TRANSMISIÓN: A 4G64 nafta 2.351 cc 126 HP / 194 Nm, manual 5, 2WD, 152 km/h. B 4N16 diésel 2.442 cc 147 HP / 330 Nm, manual 6, 2WD, 170 km/h. C 4N16 181 HP / 430 Nm, manual 6, Super Select 4WD-II, 180 km/h, 7 modos de manejo. D igual que C con automática 6AT, 177 km/h y bloqueo del diferencial trasero. Tanque 75 L.\nCHASIS: delantera doble brazo con resorte helicoidal, trasera ballestas, dirección eléctrica, discos ventilados delanteros (290 mm A/B, 320 mm C/D), tambores traseros. Llantas aleación 16\" (265/70 R16) en A y B, 18\" (265/60 R18) en C y D.\nDIMENSIONES: largo 5.320 mm, ancho 1.865-1.868 mm, alto 1.775 (A) / 1.795 (B, C, D), entre ejes 3.130 mm, despeje 212 (A) / 222 (B, D) / 228 (C); caja 1.555 x 1.545 x 525 mm; peso vacío A 1.690, B 1.800, C 1.975, D 2.056 kg; PBT A 2.635, B 2.910, C/D 3.000 kg; carga útil A 945, B 1.110, C 1.025, D 1.035 kg; remolque con frenos A 1.800 kg, B/C/D 3.500 kg.\nSEGURIDAD (todas): 7 airbags (frontales, laterales, cortina, rodillas conductor), ABS+EBD+ESP+TRC, HSA, TPMS, cámara trasera, AEB, BSM, luces altas automáticas, ISOFIX, limitador de velocidad. Solo C y D: RCTA, asistente de cambio de carril (LCA/LDC), AYC, sensores de estacionamiento. Solo D: HDC, cámara 360° (MAM con MOD), sensor crepuscular.\nEXTERIOR: A/B parrilla negra mate, manijas negras, faros halógenos; C/D parrilla piano, manijas cromadas, limpiaparabrisas con sensor de lluvia, faros LED con regulación de altura.\nINTERIOR: A/B tela, conductor manual 6 dir., climatizador 1 zona, tablero con display monocromático 3,5\"; C/D cuero, conductor eléctrico 8 dir., climatizador bizona (D con forzador trasero), tablero con pantalla color 7\"; cargador inalámbrico solo D. Todas: multimedia 9\" con CarPlay/Android Auto, 6 altavoces, USB A+C, keyless, volante de cuero multifunción.",
+   "confianza": "media",
+   "notas": "Las versiones 143 (2.4N 4X4 MT) y 147 (GLS+ SHP 4X4 AT) no están en la ficha oficial: quedan sin datos propios. En 'L200' (140/141) se asumió que son las mismas 4x4 diésel C/D de la New L200."
+  }
+ ]
+}

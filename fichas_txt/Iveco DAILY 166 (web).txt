@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Iveco DAILY; confianza media)
+Fuentes:
+- ficha oficial iveco.com.uy Iveco Tector 17-280 (170E28) cabina con dormitorio / doble: https://www.iveco.com.uy/productos/tector-170e28-cab-dormitorio
+- linea Tector (Brasil), referencia de nombre: https://www.iveco.com/brasil/Tector
+Notas: Cifras de largo/peso/carga útil heredadas de la cabina simple (PDF idéntico en sitio). Verificar.
+
+Iveco Tector 170E28 (17-280) 4x2 cabina con dormitorio (cabina doble en la lista). Misma mecánica que la cabina simple: FPT NEF 6.0 L 6 cil., 280 CV (276 HP), 950 Nm, Euro 5 SCR, caja Eaton FS 6406 B de 6 marchas, eje Meritor MS 23-245. PBT 16.900 kg, CMT 33.000 kg. Entre ejes de la lista 5.670 mm. El PDF de Uruguay para esta versión repite las cifras de la cabina simple (largo 8.660 mm, carga útil 11.509 kg); considerar que con cabina larga el peso en orden de marcha aumenta y la carga útil baja. Neumáticos 275/80 R22.5, tanque 275 L.

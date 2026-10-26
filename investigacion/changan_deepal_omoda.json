@@ -1,0 +1,1676 @@
+{
+ "grupo": "changan_deepal_omoda",
+ "modelos": [
+  {
+   "marca": "Changan",
+   "modelo": "CS55 Plus PHEV ELITE",
+   "ids": [
+    92,
+    93
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Changan CS55 Plus Phev LUXURY.pdf",
+     "que": "ficha oficial Santa Rosa / changan.uy"
+    },
+    {
+     "url": "https://changan.uy/modelos/cs55-plus-idd",
+     "que": "sitio oficial changan.uy (versiones, ruedas, pantallas, precios)"
+    }
+   ],
+   "pdf": [
+    "Changan CS55 Plus Phev LUXURY.pdf"
+   ],
+   "fotos": [
+    "cs55-plus-phev-1.jpg",
+    "cs55-plus-phev-2.jpg",
+    "cs55-plus-phev-3.jpg",
+    "cs55-plus-phev-4.jpg",
+    "cs55-plus-phev-5.jpg",
+    "cs55-plus-phev-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido enchufable (PHEV)",
+    "motor": "1.5 turbo 4 cil. + motor eléctrico (sistema Plus iDD)",
+    "transmision": "Automática DHT",
+    "potencia_hp": 212,
+    "torque_nm": 330,
+    "autonomia_km": 107,
+    "autonomia_ciclo": "NEDC eléctrica 107 km; combinada 1040 km",
+    "traccion": "4x2"
+   },
+   "versiones": {
+    "92": {
+     "neumaticos": "R18 (llantas de aleación 18\")"
+    },
+    "93": {
+     "neumaticos": "R19 (llantas de aleación 19\")"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Prevención de vuelcos",
+      "Airbags de conductor, pasajero y cortina",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Radares de estacionamiento delanteros y traseros",
+      "Cámara 360°",
+      "ISOFIX",
+      "Alerta de neumáticos",
+      "Frenos delanteros ventilados / traseros sólidos"
+     ],
+     "confort": [
+      "Arranque sin llave",
+      "Climatizador automático (una zona)",
+      "Filtro PM2.5",
+      "Control de crucero",
+      "Asiento conductor eléctrico 6 posiciones",
+      "Techo solar eléctrico con anti-atrapamiento",
+      "Espejos exteriores eléctricos",
+      "Modos de manejo Eco / Normal / Sport",
+      "Apertura de tapa de combustible electrónica",
+      "USB 1 delante / 2 detrás"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Tablero digital LCD 10\"",
+      "Comando de voz en inglés y español",
+      "Faros LED",
+      "Bluetooth"
+     ]
+    },
+    "92": {
+     "confort": [
+      "Asiento pasajero manual 4 posiciones",
+      "Pantalla central 10,25\"",
+      "Techo solar estándar"
+     ]
+    },
+    "93": {
+     "seguridad": [
+      "Control crucero adaptativo (ACC)",
+      "Alerta de colisión frontal",
+      "Alerta de salida de carril",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones",
+      "Monitor de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Centrado en el carril",
+      "Asistente en atascos de tráfico",
+      "Asistente de estacionamiento automático",
+      "Crucero con asistencia de conducción nivel 2"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Barras de techo",
+      "Portón trasero eléctrico con apertura por sensor",
+      "Asiento conductor eléctrico con memoria y bienvenida",
+      "Asiento pasajero eléctrico 4 posiciones",
+      "Espejos calefactados con plegado automático",
+      "Luces altas inteligentes",
+      "Pantalla central 12,3\""
+     ]
+    }
+   },
+   "ficha_texto": "CHANGAN CS55 PLUS PHEV (SUV híbrida enchufable, sistema Plus iDD). Versiones: Luxury (id 92) y Elite (id 93).\nMOTOR Y TRANSMISIÓN: 1.5 turbo + motor eléctrico, transmisión automática DHT, modos Eco / Normal / Sport. Potencia combinada 215 CV (212 HP) y 330 Nm. Modos: 100% eléctrico, híbrido paralelo y rango extendido (REEV). Autonomía eléctrica 107 km (NEDC), autonomía combinada 1040 km (NEDC; la ficha dice entre 1000 y 1100 km). Carga enchufable (conector tipo 2).\nCHASIS: suspensión delantera McPherson, trasera multibrazo; frenos delanteros ventilados y traseros sólidos; llantas R18 (Luxury) y R19 (Elite).\nSEGURIDAD (ambas): ABS + EBD, ESP, TCS, BA, HHC, HDC, prevención de vuelcos, Auto Hold, freno de mano eléctrico, airbag conductor, pasajero y cortina, radares delanteros y traseros, cámara 360°, ISOFIX, alerta de presión de neumáticos.\nADAS (solo Elite): crucero adaptativo (ACC), alerta de colisión frontal, alerta de salida de carril, AEB (ciudad y peatones), asistente de cambio de carril con punto ciego y alerta de apertura de puerta, centrado en el carril, asistente en atascos, estacionamiento automático, conducción asistida nivel 2. La Luxury trae solo control de crucero simple.\nCONFORT: ambas con arranque sin llave, climatizador una zona con filtro PM2.5, asiento conductor eléctrico 6 posiciones, techo solar eléctrico. Elite: techo solar panorámico con barras, portón eléctrico con sensor, asiento conductor con memoria y bienvenida, asiento pasajero eléctrico, espejos con calefacción y plegado automático, luz alta inteligente, visera con luz. Luxury: techo solar estándar, asiento pasajero manual.\nMULTIMEDIA: tablero LCD 10\", Apple CarPlay y Android Auto, voz en español e inglés, USB 1 delante y 2 detrás. Pantalla central 10,25\" (Luxury) y 12,3\" (Elite). Sin carga inalámbrica.\nPrecios publicados en changan.uy: Luxury USD 29.990, Elite USD 32.990.",
+   "confianza": "alta",
+   "notas": "Ficha PDF dice pantalla 10,25\" / 12,30\" y llantas R18/R19; changan.uy dice 10,2\"/12,3\" y 18\"/19\". En la lista ambas filas tienen modelo 'CS55 Plus PHEV ELITE' (id 92 = Luxury, 93 = Elite). Dimensiones y tanque no figuran en la ficha ni en el sitio de Uruguay."
+  },
+  {
+   "marca": "Changan",
+   "modelo": "HUNTER REEV",
+   "ids": [
+    94,
+    95
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Changan Hunter.pdf",
+     "que": "ficha oficial Santa Rosa"
+    },
+    {
+     "url": "https://changan.uy/modelos/hunter",
+     "que": "changan.uy (autonomía, versiones, precios leasing)"
+    }
+   ],
+   "pdf": [
+    "Changan Hunter.pdf"
+   ],
+   "fotos": [
+    "hunter-reev-1.jpg",
+    "hunter-reev-2.jpg",
+    "hunter-reev-3.jpg",
+    "hunter-reev-4.jpg",
+    "hunter-reev-5.jpg",
+    "hunter-reev-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "combustible": "Eléctrico de autonomía extendida (REEV)",
+    "motor": "Generador D20TG-AB (Euro 5) + motores eléctricos",
+    "transmision": "Automática DHT",
+    "norma_emisiones": "Euro 5",
+    "plazas": 5,
+    "puertas": 4,
+    "bateria_kwh": 31.18,
+    "airbags": 6,
+    "largo_mm": 5380,
+    "ancho_mm": 1980,
+    "entre_ejes_mm": 3180,
+    "neumaticos": "R17 delantero / R18 trasero (ficha); 18\" según web"
+   },
+   "versiones": {
+    "94": {
+     "traccion": "4x2 (trasera)",
+     "potencia_hp": 174,
+     "torque_nm": 320,
+     "autonomia_km": 133,
+     "alto_mm": 1885
+    },
+    "95": {
+     "traccion": "4x4",
+     "potencia_hp": 268,
+     "torque_nm": 470,
+     "autonomia_km": 131,
+     "alto_mm": 1875
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Auto Hold",
+      "Alerta de colisión frontal",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones",
+      "Mantenimiento de carril",
+      "Alerta de salida de carril",
+      "Monitor de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Control crucero adaptativo",
+      "Asistente en atascos de tráfico",
+      "Centrado en el carril",
+      "Arranque sin llave",
+      "Cierre infantil eléctrico"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Asiento conductor eléctrico con memoria",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Espejos calefactados con memoria y plegado automático",
+      "Faros LED",
+      "Luz alta inteligente",
+      "Iluminación ambiental",
+      "Tomacorriente 12V fila delantera y trasera",
+      "Cubierta enrollable de caja",
+      "Escalón desplegable integrado"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Carga inalámbrica de celular",
+      "Sistema de audio 14 altavoces",
+      "Comando de voz",
+      "Reconocimiento de gestos",
+      "USB-C delantero y trasero"
+     ]
+    },
+    "94": {
+     "confort": [
+      "Asientos de tela y cuero sintético con ajuste manual"
+     ]
+    },
+    "95": {
+     "confort": [
+      "Asientos de cuero sintético con ajuste eléctrico conductor y pasajero"
+     ]
+    }
+   },
+   "ficha_texto": "CHANGAN HUNTER REEV (pick-up doble cabina híbrida enchufable de autonomía extendida). Versiones: 4x2 (id 94) y 4x4 (id 95).\nMOTOR: generador a combustión D20TG-AB (Euro 5) que carga la batería de 31,18 kWh; transmisión automática DHT. Autonomía eléctrica 133 km (4x2) y 131 km (4x4) NEDC; autonomía combinada 1031 km NEDC (web). Carga rápida en 0,5 h.\nPOTENCIA: 4x2: motor eléctrico trasero 130 kW (174 HP), par 320 Nm, tracción trasera. 4x4: motor delantero 70 kW + trasero 130 kW = 200 kW (268 HP), par 470 Nm.\nDIMENSIONES: largo 5380 mm, ancho 1980 mm, alto 1885 mm (4x2) / 1875 mm (4x4), distancia entre ejes 3180 mm, vías 1610/1630 mm, caja de carga 1600 x 1595 x 520 mm, 4 puertas, 5 plazas.\nCHASIS: suspensión delantera McPherson, trasera independiente multibrazo (no es eje rígido); dirección asistida con modos ajustables; frenos de disco ventilados en las 4 ruedas; llantas de aluminio, rodado R17 delantero y R18 trasero según ficha.\nSEGURIDAD (ambas): 6 airbags (conductor, pasajero, laterales delanteros y traseros, cortinas), ABS + EBD, ESP, TCS, BA, HHC, HDC, Auto Hold, cinturones de 3 puntos con pretensor, cierre infantil eléctrico, arranque y acceso sin llave. ADAS completo: FCW, LDW, AEB-P, ELK, LKA, LDCA, RCTA, SEW, BSD, RCTB, ACC, LCC, TJA, LDC.\nCONFORT: climatizador bizona, asiento conductor eléctrico con memoria y lumbar, asientos delanteros calefaccionados y ventilados, espejos calefactados con memoria y plegado automático, faros LED con luz alta inteligente, iluminación ambiental multicolor, puertas sin marco, escalón desplegable y cubierta enrollable de caja. 4x2: asientos tela y cuero sintético con ajuste manual. 4x4: cuero sintético con ajuste eléctrico.\nMULTIMEDIA: pantalla 12,3\" con rotación, panel de instrumentos digital 7,5\", CarPlay y Android Auto, cargador inalámbrico, audio de 14 altavoces, asistente de voz, gestos, USB-C delante y detrás.\nPrecio leasing publicado en changan.uy: 4x2 USD 31.990, 4x4 USD 37.990.",
+   "confianza": "media",
+   "notas": "Valores de potencia/par leídos de la tabla de la ficha (columna sin motor delantero = 4x2). No figura peso, carga útil, remolque ni tanque en las fuentes. La ficha lista suspensión trasera multibrazo (distinto de un eje rígido típico de pick-up)."
+  },
+  {
+   "marca": "Changan",
+   "modelo": "EADO Plus PHEV",
+   "ids": [
+    96,
+    97
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Eado Plus IDD.pdf",
+     "que": "ficha oficial Santa Rosa"
+    },
+    {
+     "url": "https://changan.uy/modelos/eado",
+     "que": "changan.uy (versiones, autonomía, precios)"
+    }
+   ],
+   "pdf": [
+    "Eado Plus IDD.pdf"
+   ],
+   "fotos": [
+    "eado-plus-phev-1.jpg",
+    "eado-plus-phev-2.jpg",
+    "eado-plus-phev-3.jpg",
+    "eado-plus-phev-4.jpg",
+    "eado-plus-phev-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Híbrido enchufable (PHEV)",
+    "motor": "1.5 turbo 4 cil. + motor eléctrico (iDD)",
+    "cilindrada_cc": 1500,
+    "transmision": "Automática E-CVT / DHT",
+    "potencia_hp": 212,
+    "torque_nm": 330,
+    "bateria_kwh": 18.99,
+    "autonomia_km": 125,
+    "autonomia_ciclo": "NEDC eléctrica 125 km (web); combinada 995 km",
+    "largo_mm": 4785,
+    "ancho_mm": 1840,
+    "alto_mm": 1460,
+    "entre_ejes_mm": 2765,
+    "traccion": "4x2",
+    "airbags": 6
+   },
+   "versiones": {
+    "96": {
+     "neumaticos": "R17 (llantas de aleación 17\")"
+    },
+    "97": {
+     "neumaticos": "R18 (llantas de aleación 18\")"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Alerta de presión de neumáticos",
+      "Freno de estacionamiento eléctrico",
+      "Sensores de estacionamiento traseros",
+      "ISOFIX",
+      "Arranque sin llave"
+     ],
+     "confort": [
+      "Climatizador automático (una zona)",
+      "Asiento conductor eléctrico 6 posiciones",
+      "Techo solar eléctrico",
+      "Espejos exteriores eléctricos",
+      "Modos de manejo"
+     ],
+     "multimedia": [
+      "Tablero digital LCD 10\"",
+      "Pantalla central 13,2\"",
+      "Cámara 360°",
+      "Bluetooth",
+      "USB 1 delante / 2 detrás",
+      "Comando de voz en español"
+     ]
+    },
+    "96": {
+     "seguridad": [
+      "Control de crucero"
+     ],
+     "confort": [
+      "Portón trasero eléctrico"
+     ]
+    },
+    "97": {
+     "seguridad": [
+      "Control crucero adaptativo (ACC)",
+      "Alerta de colisión frontal",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones",
+      "Monitor de punto ciego",
+      "Asistente de cambio de carril",
+      "Centrado en el carril",
+      "Asistente en atascos de tráfico",
+      "Cámara panorámica 540°"
+     ],
+     "confort": [
+      "Asiento conductor con memoria y bienvenida",
+      "Espejos calefactados con plegado automático",
+      "Pantalla central 13,2\" + tablero digital 10,25\""
+     ]
+    }
+   },
+   "ficha_texto": "CHANGAN EADO PLUS PHEV (sedán híbrido enchufable iDD). Versiones: Luxury (id 96) y Elite (id 97).\nMOTOR: 1.5 turbo + motor eléctrico, 158 kW (212 HP) y 330 Nm combinados, transmisión E-CVT (web: DHT automática), batería 18,99 kWh, carga tipo 2. Autonomía eléctrica 125 km NEDC (web), autonomía combinada 995 km NEDC.\nDIMENSIONES: largo 4785, ancho 1840, alto 1460, distancia entre ejes 2765 mm; vías 1570/1580. Llantas R17 (Luxury) y R18 (Elite). Suspensión delantera McPherson, trasera multibrazo; discos ventilados adelante y sólidos atrás.\nSEGURIDAD (ambas): 6 airbags (conductor, pasajero, laterales delanteros, cortinas), ABS, EBD, ESP, TCS, BA, HHC, alerta de presión de neumáticos, freno de mano eléctrico, sensores traseros, cámara panorámica (360° Luxury / 540° Elite), ISOFIX. ADAS (solo Elite): ACC, FCW, AEB (ciudad y peatones), asistencia de cambio de carril con punto ciego, centrado en el carril, asistente en atascos, conducción asistida nivel 2. Luxury lleva control de crucero simple.\nCONFORT: climatizador una zona, asiento conductor eléctrico 6 posiciones (memoria y bienvenida solo Elite), techo solar eléctrico corredizo, espejos eléctricos (calefacción y plegado automático solo Elite). La ficha indica portón eléctrico solo en Luxury (dato dudoso).\nMULTIMEDIA: tablero LCD 10\", pantalla central 13,2\" (la ficha PDF indica 10,25\"/12,25\"), Bluetooth, USB 1 delante y 2 detrás, voz en español.\nPrecios en changan.uy: Luxury USD 29.990, Elite USD 32.990.",
+   "confianza": "media",
+   "notas": "Discrepancia pantalla central: ficha PDF 10,25\"/12,25\" vs changan.uy 13,2\" (se usó 13,2\"). La ficha marca portón eléctrico solo en Luxury y control de crucero simple solo en Luxury (puede ser desalineación de la tabla). Neumáticos R17/R18 asignados Luxury/Elite por orden de columnas."
+  },
+  {
+   "marca": "Changan",
+   "modelo": "UNI-T",
+   "ids": [
+    98
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Changan Unit.pdf",
+     "que": "ficha oficial Santa Rosa (versión 11/2022)"
+    },
+    {
+     "url": "https://changan.com.pe/vehiculo/uni-t/",
+     "que": "fotos oficiales Changan Perú (UNI-T ya no figura en changan.uy)"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2022/06/lanzamiento-changan-uni-t-15-300t-gdi.html",
+     "que": "Autoblog Uruguay (versiones Evolution/Techno)"
+    }
+   ],
+   "pdf": [
+    "Changan Unit.pdf"
+   ],
+   "fotos": [
+    "uni-t-1.jpg",
+    "uni-t-2.jpg",
+    "uni-t-3.jpg",
+    "uni-t-4.jpg",
+    "uni-t-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.5 GDI turbo 4 cil.",
+    "cilindrada_cc": 1494,
+    "potencia_hp": 180,
+    "torque_nm": 300,
+    "transmision": "Automática de doble embrague 7 vel. (7DCT)",
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "largo_mm": 4515,
+    "ancho_mm": 1870,
+    "alto_mm": 1565,
+    "entre_ejes_mm": 2710,
+    "peso_kg": 1465,
+    "baul_l": 350,
+    "neumaticos": "245/45 R20",
+    "airbags": 6
+   },
+   "versiones": {
+    "98": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Auto Hold",
+      "Monitoreo de presión de neumáticos",
+      "Control crucero adaptativo (ACC) con Stop & Go",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones",
+      "Alerta de colisión frontal",
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros y traseros",
+      "ISOFIX",
+      "Cierre automático por velocidad",
+      "Arranque sin llave"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Climatizador automático (una zona)",
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 6 posiciones",
+      "Asientos delanteros calefaccionados",
+      "Apoyabrazos delantero con caja refrigerada",
+      "Sensor de lluvia",
+      "Espejos eléctricos calefactados y plegables",
+      "Faros LED",
+      "Iluminación ambiental multicolor",
+      "Modos de manejo Normal / Sport"
+     ],
+     "multimedia": [
+      "Pantalla central 10,3\"",
+      "Tablero digital",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Comando de voz",
+      "Navegación GPS",
+      "Grabadora de conducción"
+     ]
+    },
+    "Techno": {
+     "seguridad": [
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Reconocimiento de límite de velocidad",
+      "Asistente en atascos de tráfico",
+      "Asistente de cambio de carril con punto ciego",
+      "Freno de mano eléctrico + estacionamiento inteligente",
+      "Arranque remoto del motor"
+     ],
+     "confort": [
+      "Luz alta inteligente",
+      "Soporte lumbar eléctrico conductor",
+      "Purificación de aire inteligente con ionizador",
+      "Sensor de calidad de aire"
+     ]
+    }
+   },
+   "ficha_texto": "CHANGAN UNI-T (SUV compacta). La lista trae una sola fila (id 98); la ficha distingue dos versiones: Evolution y Techno.\nMOTOR: 1.5 GDI turbo (1494 cc), 180 HP, 300 Nm entre 1250 y 3500 rpm, caja automática de doble embrague de 7 velocidades (7DCT), tracción delantera, modos Normal y Sport.\nDIMENSIONES: largo 4515, ancho 1870, alto 1565, distancia entre ejes 2710 mm, peso bruto 1840 kg, peso en vacío 1465 kg, baúl 350 L (la tabla de la ficha viene corrida una posición y se reordenó). Llantas de aluminio 20\", neumáticos 245/45 R20, rueda de repuesto de acero T125/80 R17.\nCHASIS: suspensión delantera McPherson, trasera multilink; frenos delanteros ventilados y traseros sólidos; dirección eléctrica.\nSEGURIDAD (ambas): 6 airbags (conductor y pasajero, laterales, cortinas), ABS + EBD + BA, TCS, ESP, HHC, HDC, Auto Hold, TPMS, ACC con Stop & Go, AEB ciudad/interurbano, AEB peatón, FCW, cámara de retroceso y panorámica 360° HD grabable, sensores delanteros y traseros, ISOFIX, bloqueo automático por velocidad, desbloqueo en colisión, arranque y acceso sin llave. Solo Techno: alerta y corrección de salida de carril, reconocimiento de límite de velocidad, asistente en congestión, asistente de cambio de carril con punto ciego, freno de mano eléctrico con estacionamiento inteligente, arranque remoto.\nCONFORT (ambas): techo panorámico, tapizado de cuero, asiento conductor eléctrico 6 vías, asientos delanteros calefaccionados, climatizador automático, salida de aire trasera, apoyabrazos delantero refrigerado, sensor de lluvia, espejos eléctricos calefactados y plegables, faros LED con encendido automático, luces diurnas LED, iluminación ambiental. Solo Techno: luz alta inteligente, lumbar eléctrico, purificador de aire con ionizador y sensor de calidad de aire.\nMULTIMEDIA: pantalla 10,3\", Bluetooth, control de voz, GPS, USB; CarPlay se incorporó de serie según prensa.\nColores: gris universo, negro, blanco, gris átomo, azul cielo y rojo nebulosa.",
+   "confianza": "media",
+   "notas": "UNI-T ya no figura en changan.uy; la ficha es de 11/2022. La fila de la lista no dice Evolution o Techno: las diferencias de Techno están bajo la clave 'Techno'. Medidas reordenadas por corrimiento de columnas en la tabla de la ficha (largo 4515 / ancho 1870 / alto 1565 / entre ejes 2710, coherentes con prensa). Tanque y consumo no figuran. Fotos oficiales de Changan Perú."
+  },
+  {
+   "marca": "Changan",
+   "modelo": "LUMIN",
+   "ids": [
+    99
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Brochure Changan Lumin (2).pdf",
+     "que": "brochure oficial Santa Rosa"
+    },
+    {
+     "url": "https://changan.uy/modelos/lumin",
+     "que": "changan.uy"
+    }
+   ],
+   "pdf": [
+    "Brochure Changan Lumin (2).pdf"
+   ],
+   "fotos": [
+    "lumin-ev-1.jpg",
+    "lumin-ev-2.jpg",
+    "lumin-ev-3.jpg",
+    "lumin-ev-4.jpg",
+    "lumin-ev-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Hatchback",
+    "combustible": "Eléctrico",
+    "motor": "Motor eléctrico síncrono de imán permanente",
+    "transmision": "Reducción fija",
+    "traccion": "4x2 (delantera)",
+    "potencia_hp": 47,
+    "torque_nm": 83,
+    "velocidad_max_kmh": 101,
+    "bateria_kwh": 17.65,
+    "autonomia_km": 190,
+    "autonomia_ciclo": "NEDC 190 km (web: 205 km CLTC)",
+    "consumo": "10,4 kWh/100 km NEDC",
+    "carga_ac_kw": 3.3,
+    "largo_mm": 3270,
+    "ancho_mm": 1700,
+    "alto_mm": 1545,
+    "entre_ejes_mm": 1980,
+    "peso_kg": 855,
+    "neumaticos": "165/70 R14 (llantas de acero)",
+    "puertas": 3,
+    "airbags": 2
+   },
+   "versiones": {
+    "99": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags frontales",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Asistente de arranque en pendiente",
+      "Monitoreo de presión de neumáticos",
+      "Cinturones de 3 puntos en todas las plazas",
+      "Desbloqueo automático en colisión",
+      "Bloqueo automático de puertas",
+      "Frenos delanteros de disco / traseros de tambor"
+     ],
+     "confort": [
+      "Aire acondicionado frío/calor",
+      "Asientos de tela",
+      "Asientos delanteros con ajuste manual",
+      "Asiento trasero abatible 50/50",
+      "Luz de posición LED",
+      "Regulación de altura de faros",
+      "Dirección asistida eléctrica",
+      "Modos de manejo Sport / Eco",
+      "Manijas de puerta ocultas"
+     ],
+     "multimedia": [
+      "Pantalla multimedia 8,5\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Comandos de audio al volante",
+      "Tablero LCD 7\"",
+      "Toma 12V",
+      "USB de carga"
+     ]
+    }
+   },
+   "ficha_texto": "CHANGAN LUMIN (city car 100% eléctrico). Versión única (id 99).\nMOTOR Y BATERÍA: motor síncrono de imán permanente 35 kW (47 HP), 83 Nm, velocidad máxima 101 km/h, batería LFP de 17,65 kWh, autonomía 190 km NEDC (changan.uy publica 205 km CLTC), consumo 10,4 kWh/100 km, potencia de carga 3,3 kW (AC), tracción delantera, modos Sport / Eco.\nDIMENSIONES: 3270 x 1700 x 1545 mm, distancia entre ejes 1980 mm, peso en vacío 855 kg. Neumáticos 165/70 R14 en llantas de acero con embellecedores.\nCHASIS: suspensión delantera McPherson, trasera de brazo arrastrado no independiente, dirección eléctrica, carrocería monocasco, frenos de disco adelante y tambor atrás.\nSEGURIDAD: airbags delanteros, ABS + EBD, ESC, asistente de arranque en pendiente, TPMS, cinturones de 3 puntos en todas las plazas, bloqueo automático y desbloqueo en colisión.\nCONFORT: aire acondicionado, tapizado de tela, ajuste manual delantero en 4 direcciones, respaldo trasero 50/50, faros halógenos, luz LED de posición, regulación de altura de faros, follow-me-home, manijas ocultas, apertura de valija manual.\nMULTIMEDIA: pantalla 8,5\", CarPlay y Android Auto, Bluetooth, comandos al volante, tablero LCD 7\", 12V y USB.",
+   "confianza": "alta",
+   "notas": "Autonomía: brochure 190 km NEDC vs changan.uy 205 km CLTC (ciclos distintos). La ficha no indica plazas ni baúl."
+  },
+  {
+   "marca": "Deepal",
+   "modelo": "G318",
+   "ids": [
+    100
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) DEEPAL G318.pdf",
+     "que": "ficha oficial Santa Rosa (versión 03/2025)"
+    },
+    {
+     "url": "https://deepal.uy/modelos/deepal-g318",
+     "que": "sitio oficial deepal.uy"
+    }
+   ],
+   "pdf": [
+    "DEEPAL G318.pdf"
+   ],
+   "fotos": [
+    "deepal-g318-1.jpg",
+    "deepal-g318-2.jpg",
+    "deepal-g318-3.jpg",
+    "deepal-g318-4.jpg",
+    "deepal-g318-5.jpg",
+    "deepal-g318-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Eléctrico de autonomía extendida (REEV)",
+    "motor": "1.5 turbo (generador, 110 kW) + 2 motores eléctricos",
+    "cilindrada_cc": 1500,
+    "transmision": "Automática (reducción eléctrica)",
+    "traccion": "AWD",
+    "potencia_hp": 424,
+    "torque_nm": 575,
+    "bateria_kwh": 35.07,
+    "autonomia_km": 168,
+    "autonomia_ciclo": "NEDC eléctrica 168 km",
+    "largo_mm": 5010,
+    "ancho_mm": 1985,
+    "alto_mm": 1960,
+    "entre_ejes_mm": 2880,
+    "peso_kg": 2360,
+    "pbt_kg": 2800,
+    "neumaticos": "255/55 R20 (repuesto full size)",
+    "airbags": 6,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "100": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Prevención de vuelcos",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Bloqueo de diferencial trasero",
+      "Modos todoterreno",
+      "Cámara 360°",
+      "Radares de estacionamiento",
+      "Monitoreo de presión de neumáticos",
+      "ISOFIX",
+      "Control crucero adaptativo (IACC)",
+      "Asistente de cambio de carril con punto ciego",
+      "Arranque sin llave",
+      "Gancho de remolque delantero y trasero"
+     ],
+     "confort": [
+      "Techo panorámico con apertura",
+      "Asientos de cuero",
+      "Asientos delanteros eléctricos",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Soporte lumbar eléctrico",
+      "Climatizador automático",
+      "Filtro PM2.5",
+      "Ionizador de aire",
+      "Portón trasero eléctrico",
+      "Manijas de puerta ocultas",
+      "Espejos eléctricos calefactados con plegado automático",
+      "Sensor de lluvia",
+      "Luz ambiental multicolor",
+      "Cierre de ventanas a distancia",
+      "Faros LED"
+     ],
+     "multimedia": [
+      "Pantalla central 14,6\"",
+      "Tablero digital 10,25\"",
+      "Apple CarPlay / Android Auto",
+      "Navegación GPS en línea",
+      "Comando de voz en español",
+      "Bluetooth",
+      "USB",
+      "Audio de alta fidelidad con amplificador",
+      "Carga inalámbrica de celular",
+      "Actualizaciones OTA"
+     ]
+    }
+   },
+   "ficha_texto": "DEEPAL G318 (SUV todoterreno de autonomía extendida REEV). Versión única (id 100).\nMOTOR Y BATERÍA: generador 1.5 turbo (modelo HE1.5TG-AA, inyección directa) de 110 kW (148 HP) y 220 Nm que carga la batería; 2 motores eléctricos con potencia total de 316 kW (185 kW + 131 kW, unos 424 HP) y par 310 + 265 Nm. Batería 35,07 kWh, autonomía eléctrica 168 km NEDC. Tracción integral (4 ruedas) con bloqueo de diferencial trasero y modos ECO / CONFORT / SPORT / PERSONALIZADO; cargador de a bordo de 6 kW, carga lenta y rápida (estándar europeo).\nDIMENSIONES: largo 5010, ancho 1985, alto 1960, distancia entre ejes 2880 mm, peso en vacío 2360 kg, peso bruto 2800 kg. Neumáticos 255/55 R20 con rueda de repuesto de tamaño completo.\nCHASIS: suspensión delantera doble horquilla, trasera multilink de 5 enlaces; la ficha menciona suspensión neumática y 'alfombra mágica' con reductor de velocidad; frenos de disco ventilados en las 4 ruedas; dirección eléctrica con 3 niveles.\nSEGURIDAD: 6 airbags (conductor, pasajero, laterales delanteros y traseros, cortina), ABS + EBD, ESP, TCS, frenado activo, BA, HHC, HDC, ROM, Auto Hold, control todoterreno, TPMS directo, cámara panorámica 540° con grabación, radares, IACC (crucero adaptativo integrado), asistente de cambio de carril, ISOFIX.\nCONFORT: techo panorámico con apertura eléctrica, asientos de cuero con ajuste eléctrico, calefacción y ventilación (3 niveles), lumbar eléctrico, climatizador con filtro PM2.5 e ionizador, portón trasero eléctrico, manijas ocultas, espejos eléctricos calefactados y plegables, limpiaparabrisas trasero, sensor de lluvia, luz ambiental, portaequipajes profesional con luces de techo y de camping, ganchos de remolque.\nMULTIMEDIA: pantalla central 14,6\", tablero 10,25\", CarPlay y Android Auto, navegación en línea, voz en español, audio de alta fidelidad con amplificador, cargador inalámbrico (40 W según web), OTA.\nGarantía vehículo 5 años o 150.000 km y batería 8 años o 150.000 km (informada para la gama Deepal en la ficha del S7 y del Jaecoo/Omoda de la misma importadora).",
+   "confianza": "media",
+   "notas": "Potencia combinada 424 HP calculada de 316 kW; la ficha rotula el par como '(hp)' pero son Nm. Hay un contradicción de unidades en 'Potencia máxima del motor (kw) 185+131'. Plazas no figuran. La ficha menciona 'Suspensión neumática' en una fila poco clara. Garantía tomada de la ficha S7 (no figura en la del G318). Precio no publicado en deepal.uy."
+  },
+  {
+   "marca": "Deepal",
+   "modelo": "DEEPAL S7",
+   "ids": [
+    101,
+    102
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) DEEPAL-ficha- S7_2025_CUADRADO_2 (1).pdf",
+     "que": "ficha oficial Santa Rosa"
+    },
+    {
+     "url": "https://deepal.uy/modelos/deepal-s7",
+     "que": "sitio oficial deepal.uy"
+    }
+   ],
+   "pdf": [
+    "DEEPAL-ficha- S7_2025_CUADRADO_2 (1).pdf"
+   ],
+   "fotos": [
+    "deepal-s7-1.jpg",
+    "deepal-s7-2.jpg",
+    "deepal-s7-3.jpg",
+    "deepal-s7-4.jpg",
+    "deepal-s7-5.jpg",
+    "deepal-s7-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "plazas": 5,
+    "largo_mm": 4750,
+    "ancho_mm": 1930,
+    "alto_mm": 1625,
+    "entre_ejes_mm": 2900,
+    "peso_kg": 1990,
+    "traccion": "4x2 (trasera)",
+    "neumaticos": "R20 (llantas de aleación)",
+    "airbags": 6,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "101": {
+     "combustible": "Eléctrico",
+     "motor": "Motor eléctrico trasero",
+     "potencia_hp": 255,
+     "torque_nm": 320,
+     "bateria_kwh": 67,
+     "autonomia_km": 620,
+     "autonomia_ciclo": "CLTC 620 km"
+    },
+    "102": {
+     "combustible": "Eléctrico de autonomía extendida (REEV)",
+     "motor": "Generador 1.5 L + motor eléctrico",
+     "cilindrada_cc": 1500,
+     "potencia_hp": 235,
+     "torque_nm": 236,
+     "bateria_kwh": 37.7,
+     "autonomia_km": 1120,
+     "autonomia_ciclo": "CLTC combinada 1120 km (eléctrica ~200 km)"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Cámara 360°",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones",
+      "Alerta de colisión frontal",
+      "Alerta de colisión trasera",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Monitor de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Frenado en tráfico cruzado trasero",
+      "Alerta de apertura de puertas",
+      "Control crucero adaptativo",
+      "Centrado en el carril",
+      "Asistente en atascos de tráfico",
+      "Arranque sin llave",
+      "ISOFIX",
+      "Gancho de remolque delantero y trasero"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Asientos de cuero de microfibra",
+      "Asiento conductor eléctrico con memoria",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Climatizador bizona",
+      "Filtro PM2.5",
+      "Portón trasero eléctrico",
+      "Manijas de puerta ocultas retráctiles",
+      "Puertas sin marco",
+      "Espejos eléctricos calefactados con memoria y plegado automático",
+      "Iluminación ambiental multicolor",
+      "Head-up display",
+      "Faros LED",
+      "Luz alta inteligente"
+     ],
+     "multimedia": [
+      "Pantalla central 15,6\" giratoria",
+      "Apple CarPlay / Android Auto",
+      "Carga inalámbrica de celular",
+      "Reconocimiento de gestos",
+      "Comando de voz",
+      "Audio 14 altavoces",
+      "USB-C delantero y trasero"
+     ]
+    }
+   },
+   "ficha_texto": "DEEPAL S7 (SUV eléctrica). Versiones: EV 100% eléctrica (id 101) y REEV de autonomía extendida (id 102).\nMOTOR Y BATERÍA: EV: 255 HP, 320 Nm, batería 67 kWh, autonomía 620 km (CLTC). REEV: 235 HP, 236 Nm, generador 1.5 L, batería 37,7 kWh según la tabla (el texto de la misma ficha menciona batería de 21,7 kWh y 200 km eléctricos), autonomía combinada 1120 km (CLTC). Tracción trasera, carga con conector tipo 2.\nDIMENSIONES: 4750 x 1930 x 1625 mm, distancia entre ejes 2900 mm, peso en vacío 1990 kg, vías 1640/1650 mm. Llantas de aluminio R20.\nCHASIS: suspensión delantera McPherson, trasera multibrazo independiente; dirección asistida sensible a la velocidad con modos; frenos delanteros ventilados y traseros sólidos.\nSEGURIDAD (ambas): 6 airbags, ABS + EBD, ESP, TCS, BA, HHC, HDC, Auto Hold, freno de mano eléctrico, cierre infantil eléctrico, cámaras 360° (5 cámaras y radares), ADAS completo (FCW, AEB, AEB-P, LDW, LKA, ELK, LCDA, RCTA, RCTB, RCW, SEW, BSD, ACC, LCC, TJA, LDC), arranque y acceso sin llave, antirrobo BCM.\nCONFORT (ambas): asientos de cuero de microfibra, conductor con memoria, asientos delanteros calefaccionados y ventilados, climatizador bizona con sensor de calidad de aire y filtro PM2.5 de alta eficiencia, techo panorámico, portón trasero eléctrico, manijas retráctiles, puertas sin marco, espejos con memoria y plegado automático, iluminación ambiental, head-up display, faros LED.\nMULTIMEDIA (ambas): pantalla central 15,6\" giratoria, CarPlay y Android Auto, cargador inalámbrico (40 W según web), gestos, voz, audio de marca de 14 altavoces, USB-C delante y detrás.\nGARANTÍA: vehículo 5 años o 150.000 km, batería 8 años o 150.000 km. Colores: gris grafito, verde océano, negro obsidiana, verde cítrico, naranja solar, blanco polar.",
+   "confianza": "media",
+   "notas": "Columna de la tabla: la primera columna (batería 37,7, 235 HP, 236 Nm, generador 1.5 L, 1120 km) es la REEV y la segunda (67 kWh, 255 HP, 320 Nm, 620 km) la EV; el texto de la ficha dice batería REEV 21,7 kWh / 200 km eléctricos (contradice 37,7). Los ADAS y el resto del equipamiento figuran 'en todas' pero no se confirmaron diferencias entre EV y REEV. Se ignoró 'altura libre 1640' (error de la ficha). El PDF del S7 también estaba en deepal.uy."
+  },
+  {
+   "marca": "Deepal",
+   "modelo": "DEEPAL S5",
+   "ids": [
+    103,
+    104
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) DEEPAL-ficha-S05 (1).pdf",
+     "que": "ficha oficial Santa Rosa (modelo S05)"
+    },
+    {
+     "url": "https://deepal.uy/modelos/deepal-s05",
+     "que": "sitio oficial deepal.uy"
+    }
+   ],
+   "pdf": [
+    "DEEPAL-ficha-S05 (1).pdf"
+   ],
+   "fotos": [
+    "deepal-s5-1.jpg",
+    "deepal-s5-2.jpg",
+    "deepal-s5-3.jpg",
+    "deepal-s5-4.jpg",
+    "deepal-s5-5.jpg",
+    "deepal-s5-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "largo_mm": 4620,
+    "ancho_mm": 1900,
+    "alto_mm": 1600,
+    "entre_ejes_mm": 2880,
+    "norma_emisiones": "Euro V",
+    "traccion": "4x2 (trasera)",
+    "neumaticos": "245 mm de ancho, aro 20\" (perfil no indicado)",
+    "airbags": 6,
+    "carga_ac_kw": 7,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "103": {
+     "combustible": "Eléctrico",
+     "motor": "Motor eléctrico trasero 175 kW",
+     "potencia_hp": 235,
+     "torque_nm": 320,
+     "bateria_kwh": 56.12,
+     "autonomia_km": 458,
+     "autonomia_ciclo": "NEDC 458 km",
+     "peso_kg": 1770
+    },
+    "104": {
+     "combustible": "Eléctrico de autonomía extendida (REEV)",
+     "motor": "Generador 72 kW + motor eléctrico trasero 160 kW",
+     "potencia_hp": 215,
+     "torque_nm": 320,
+     "bateria_kwh": 27.28,
+     "autonomia_km": 158,
+     "autonomia_ciclo": "NEDC eléctrica 158 km",
+     "peso_kg": 1835
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags (conductor, pasajero, laterales, cortinas)",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Prevención de vuelcos",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Cámara 360°",
+      "Radares de estacionamiento delanteros y traseros",
+      "Monitoreo de presión de neumáticos",
+      "Alerta de colisión frontal",
+      "Frenado autónomo de emergencia (AEB)",
+      "AEB con peatones y ciclistas",
+      "Control crucero adaptativo",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Centrado en el carril",
+      "Asistente en atascos de tráfico",
+      "Monitor de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Frenado en tráfico cruzado trasero",
+      "Alerta de apertura de puertas",
+      "Monitoreo de fatiga del conductor",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Techo panorámico fijo",
+      "Cuero sintético",
+      "Asiento conductor eléctrico 6 posiciones con memoria",
+      "Asiento pasajero eléctrico con memoria",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Climatizador automático (una zona)",
+      "Filtro PM2.5",
+      "Portón trasero eléctrico",
+      "Manijas de puerta ocultas",
+      "Puertas sin marco",
+      "Espejos eléctricos calefactados con memoria y plegado automático",
+      "Faros LED",
+      "Luz alta inteligente",
+      "Sensor de lluvia",
+      "Arranque sin llave"
+     ],
+     "multimedia": [
+      "Pantalla central 15,4\" giratoria",
+      "Head-up display AR 50\"",
+      "Apple CarPlay / Android Auto",
+      "Carga inalámbrica de celular 50 W",
+      "Comando de voz en español",
+      "Conectividad 4G / Wi-Fi",
+      "Actualizaciones OTA",
+      "Navegación en línea",
+      "USB-C trasero"
+     ]
+    },
+    "103": {
+     "confort": [
+      "Subwoofer / amplificador de audio",
+      "Iluminación ambiental multicolor"
+     ]
+    }
+   },
+   "ficha_texto": "DEEPAL S5 (la ficha dice S05; SUV eléctrica). Versiones: EV 100% eléctrica (id 103) y REEV de autonomía extendida (id 104).\nMOTOR Y BATERÍA: EV: motor trasero 175 kW (235 HP), 320 Nm, batería 56,12 kWh, autonomía 458 km (NEDC), carga rápida 30-80% en 15 min, carga lenta AC 7 kW en ≤ 8 h. REEV: generador de 72 kW + motor trasero de 160 kW (215 HP), 320 Nm, batería 27,28 kWh, autonomía eléctrica 158 km NEDC, carga rápida 30-80% en 20 min, carga lenta ≤ 6 h. Tracción trasera, modos Estándar/Confort, Sport, ECO y Personalizado, recuperación de energía, función de central eléctrica móvil. Norma Euro V.\nDIMENSIONES: 4620 x 1900 x 1600 mm, distancia entre ejes 2880 mm; peso en vacío 1770 kg (EV) / 1835 kg (REEV); peso bruto 2150 / 2210 kg. Llantas de aleación de 20\", neumáticos de ancho 245.\nCHASIS: suspensión delantera McPherson, trasera multilink; frenos delanteros ventilados y traseros sólidos; dirección eléctrica sensible a la velocidad.\nSEGURIDAD (ambas): 6 airbags, ABS, EBD, ESP, TCS, BA, DBF, ROM, HHC, HDC, Auto Hold, cámara panorámica 360° y de 540°, chasis transparente, radares delanteros y traseros, FCW, AEB, AEB peatón y ciclista, ACC / IACC, LDW, LKA, LCC, TJA, BSD, LCA, DOW, RCTA, RCTB, RCW, ELK, monitor de fatiga del conductor, reconocimiento facial, ISOFIX.\nCONFORT (ambas): puertas sin marco, manijas ocultas, portón eléctrico con memoria, techo panorámico fijo, asientos de cuero sintético con 6 ajustes eléctricos, memoria, calefacción y ventilación en conductor y pasajero, climatizador automático con filtro PM2.5, espejos eléctricos con memoria, faros LED con luz alta adaptativa. Solo EV: audio con subwoofer/amplificador e iluminación ambiental multicolor.\nMULTIMEDIA: pantalla central 15,4\" giratoria 2.5K, HUD AR de 50\", CarPlay y Android Auto, cargador inalámbrico de 50 W, voz en español, 4G/Wi-Fi, OTA, navegación en línea, control remoto del vehículo por app, radio FM/AM y DAB.\nGarantía: vehículo 5 años o 150.000 km, batería 8 años o 150.000 km (gama Deepal).",
+   "confianza": "media",
+   "notas": "Orden de columnas asumido por coherencia (columna 1 con 27,28 kWh y 158 km = REEV; columna 2 con 56,12 kWh y 458 km = EV). La web deepal.uy indica pantalla 15,6\" (la ficha 15,4\") y carga inalámbrica de 40 W (ficha 50 W). Neumático solo con ancho 245 y rodado 20; perfil no figura. Garantía de la ficha del S7."
+  },
+  {
+   "marca": "Omoda",
+   "modelo": "E5",
+   "ids": [
+    43,
+    44,
+    45
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Omoda E5 modelos 2027.pdf",
+     "que": "ficha oficial Santa Rosa 2027"
+    },
+    {
+     "url": "https://omodajaecoo.com.uy/modelos/omoda-e5",
+     "que": "omodajaecoo.com.uy (versiones, autonomía NEDC, precios)"
+    }
+   ],
+   "pdf": [
+    "Omoda E5 modelos 2027.pdf"
+   ],
+   "fotos": [
+    "omoda-e5-1.jpg",
+    "omoda-e5-2.jpg",
+    "omoda-e5-3.jpg",
+    "omoda-e5-4.jpg",
+    "omoda-e5-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Eléctrico",
+    "motor": "Motor eléctrico delantero 155 kW",
+    "transmision": "Reducción fija",
+    "traccion": "4x2 (delantera)",
+    "potencia_hp": 208,
+    "torque_nm": 288,
+    "largo_mm": 4545,
+    "ancho_mm": 1830,
+    "alto_mm": 1588,
+    "entre_ejes_mm": 2630,
+    "neumaticos": "215/60 R17 (repuesto T125/80 R17)",
+    "plazas": 5,
+    "puertas": 5,
+    "airbags": 7,
+    "carga_ac_kw": 11,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "43": {
+     "bateria_kwh": 50.6,
+     "autonomia_km": 350,
+     "autonomia_ciclo": "WLTP 350 km (web: 401 km NEDC)",
+     "baul_l": 370
+    },
+    "44": {
+     "bateria_kwh": 50.6,
+     "autonomia_km": 350,
+     "autonomia_ciclo": "WLTP 350 km (web: 401 km NEDC)",
+     "baul_l": 370
+    },
+    "45": {
+     "bateria_kwh": 58.9,
+     "autonomia_km": 430,
+     "autonomia_ciclo": "WLTP 430 km (web: 505 km NEDC)",
+     "baul_l": 370
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags (frontales, laterales, cortina y central)",
+      "ABS + EPS",
+      "Control de estabilidad",
+      "Auto Hold",
+      "Monitoreo directo de presión de neumáticos",
+      "Cámara de retroceso",
+      "Sensores de estacionamiento 2 delanteros + 4 traseros",
+      "Anclajes ISOFIX",
+      "Bloqueo automático de puertas en marcha",
+      "Frenos delanteros ventilados / traseros sólidos"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Filtro PM0.3",
+      "Desempañador automático",
+      "Entrada y arranque sin llave",
+      "Barras de techo",
+      "Espejos eléctricos calefactados",
+      "Limpiaparabrisas con sensor de lluvia",
+      "Luneta térmica",
+      "Modos de manejo ECO / SPORT / NORMAL",
+      "Recuperación de energía de frenado ajustable",
+      "Salida 220V (V2L)"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "USB-C delantero y trasero"
+     ]
+    },
+    "43": {
+     "seguridad": [
+      "Faros halógenos"
+     ],
+     "confort": [
+      "Tapizado de tela",
+      "Asiento conductor manual 6 posiciones",
+      "Portón trasero manual",
+      "Pantalla central 12,3\"",
+      "Tablero digital 8\""
+     ]
+    },
+    "44": {
+     "seguridad": [
+      "Faros LED",
+      "Monitor de punto ciego",
+      "Alerta de apertura de puertas",
+      "Alerta de colisión trasera",
+      "Alerta de tráfico cruzado trasero",
+      "Frenado en tráfico cruzado trasero",
+      "Control inteligente de velocidad (ISA)",
+      "Cámara panorámica 540°"
+     ],
+     "confort": [
+      "Tapizado de cuero sintético",
+      "Asiento conductor eléctrico 6 posiciones con masaje",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Asiento pasajero eléctrico 6 posiciones",
+      "Portón trasero eléctrico",
+      "Pantalla central 15,6\"",
+      "Tablero digital 8,88\"",
+      "Carga inalámbrica de celular 50 W"
+     ]
+    },
+    "45": {
+     "seguridad": [
+      "Faros LED",
+      "Monitor de punto ciego",
+      "Alerta de apertura de puertas",
+      "Alerta de colisión trasera",
+      "Alerta de tráfico cruzado trasero",
+      "Frenado en tráfico cruzado trasero",
+      "Control inteligente de velocidad (ISA)",
+      "Cámara panorámica 540°",
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia (AEB)",
+      "Alerta de colisión frontal",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Mantenimiento de carril de emergencia",
+      "Asistente en atascos de tráfico",
+      "Asistente de cambio de carril",
+      "Luz alta inteligente"
+     ],
+     "confort": [
+      "Techo solar eléctrico",
+      "Tapizado de cuero sintético",
+      "Asiento conductor eléctrico 6 posiciones con masaje",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Asiento pasajero eléctrico 6 posiciones",
+      "Portón trasero eléctrico",
+      "Pantalla central 15,6\"",
+      "Tablero digital 8,88\"",
+      "Carga inalámbrica de celular 50 W",
+      "Audio 8 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "OMODA E5 EV 2027 (SUV eléctrica fastback). Versiones de la lista: Comfort STD (id 43), Luxury STD (id 44) y Luxury (batería grande, id 45; la ficha la llama 'Luxury 430').\nMOTOR Y BATERÍA: motor eléctrico delantero 155 kW (208 HP), 288 Nm, tracción delantera. Comfort y Luxury STD: batería 50 kWh (omodajaecoo.com.uy: 50,6 kWh), 350 km WLTP (web: 401 km NEDC). Luxury 430: batería 60 kWh (web: 58,9 kWh), 430 km WLTP (web: 505 km NEDC). Carga CCS tipo 2: 10-100% en unos 26 min en corriente continua, 6 h en AC (wallbox 11 kW). Recuperación de energía ajustable, salida de 220 V, modo de climatización ultrarrápido.\nDIMENSIONES: 4545 x 1830 x 1588 mm, distancia entre ejes 2630 mm, baúl 370 L (la web indica 442 L). Neumáticos 215/60 R17, llantas de aluminio, repuesto tipo T. Suspensión delantera McPherson, trasera multilink; frenos delanteros ventilados y traseros sólidos.\nSEGURIDAD (todas): 7 airbags (frontales, laterales, cortina y central), ABS, EPS, Auto Hold, TPMS directo, cámara de retroceso, sensores de estacionamiento 2 + 4, ISOFIX, bloqueo automático de puertas. Comfort: faros halógenos. Luxury STD y Luxury: faros LED, punto ciego, alerta de apertura de puertas, alertas y frenado de tráfico cruzado trasero, ISA, cámara 540°. Solo Luxury (430): ACC, AEB, FCW, LDW, LKA, ELK, LDP, TJA, ICA, evasión inteligente, asistente de cambio de carril, luz alta/baja automática.\nCONFORT: climatizador bizona con filtro PM0.3, arranque sin llave, barras de techo, espejos eléctricos calefactados, sensor de lluvia. Comfort: tela, conductor manual 6 posiciones, portón manual, pantalla 12,3\" y tablero 8\". Luxury STD y Luxury: cuero sintético, asientos eléctricos calefaccionados y ventilados con masaje en el conductor, portón eléctrico, pantalla 15,6\" y tablero 8,88\", carga inalámbrica de 50 W. Techo solar eléctrico solo en Luxury (430), que también lleva audio de 8 parlantes.\nGARANTÍA: vehículo 5 años o 150.000 km y batería 8 años o 150.000 km (omodajaecoo.com.uy).\nPrecios en la web: Comfort USD 25.990, Luxury USD 27.990, Luxury LR USD 31.990.",
+   "confianza": "media",
+   "notas": "Hay dos juegos de cifras: la ficha PDF 2027 (50/60 kWh, 350/430 km WLTP, baúl 370 L) y omodajaecoo.com.uy (50,6/58,9 kWh, 401/505 km NEDC, baúl 442 L); se muestran ambos. En la ficha, la página de conectividad (parlantes, carga inalámbrica, cámaras) venía con guiones sin columnas claras: esos datos se tomaron de la web. La fila id 45 de la lista dice solo 'LUXURY' (se interpreta como la Luxury de batería grande)."
+  },
+  {
+   "marca": "Omoda",
+   "modelo": "C5",
+   "ids": [
+    46,
+    47
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Omoda 5 Super Hybrid System (SHS).pdf",
+     "que": "ficha oficial Santa Rosa (PDF solo imágenes, curada visualmente)"
+    },
+    {
+     "url": "https://omodajaecoo.com.uy/modelos/omoda-5",
+     "que": "omodajaecoo.com.uy (Omoda 5 SHS)"
+    }
+   ],
+   "pdf": [
+    "Omoda 5 Super Hybrid System (SHS).pdf"
+   ],
+   "fotos": [
+    "omoda-5-1.jpg",
+    "omoda-5-2.jpg",
+    "omoda-5-3.jpg",
+    "omoda-5-4.jpg",
+    "omoda-5-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido (HEV)",
+    "motor": "1.5 turbo 4 cil. + motor eléctrico (Super Hybrid System)",
+    "cilindrada_cc": 1498,
+    "transmision": "Automática DHT",
+    "traccion": "4x2 (delantera)",
+    "potencia_hp": 221,
+    "torque_nm": 290,
+    "consumo": "19,6 km/l combinado WLTP",
+    "aceleracion_0_100_s": 7.9,
+    "plazas": 5,
+    "largo_mm": 4450,
+    "ancho_mm": 1830,
+    "alto_mm": 1588,
+    "entre_ejes_mm": 2600,
+    "tanque_l": 51,
+    "baul_l": 292,
+    "airbags": 7,
+    "garantia": "Vehículo 5 años o 150.000 km"
+   },
+   "versiones": {
+    "46": {
+     "neumaticos": "17\" (llantas de aleación)"
+    },
+    "47": {
+     "neumaticos": "18\" (llantas de aleación)"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags (frontal doble, laterales, central delantero y cortinas)",
+      "ABS + EBD",
+      "Asistente de frenado",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Control de crucero con limitador de velocidad",
+      "Sensores de estacionamiento",
+      "ISOFIX",
+      "Alarma antirrobo",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Monitor de punto ciego",
+      "Alerta de colisión frontal",
+      "Frenado autónomo de emergencia (AEB)",
+      "Asistente en atascos de tráfico",
+      "Alerta de colisión trasera",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de apertura de puertas"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Arranque sin llave",
+      "Iluminación ambiental multicolor",
+      "Volante de cuero con ajuste de 4 direcciones",
+      "Alzacristales one touch",
+      "Luces altas/bajas automáticas",
+      "Faros con encendido automático",
+      "Luces diurnas LED",
+      "Modos de manejo Confort / Eco / Sport"
+     ],
+     "multimedia": [
+      "Pantalla central 12,3\"",
+      "Tablero digital 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Comando de voz inteligente"
+     ]
+    },
+    "46": {
+     "seguridad": [
+      "Cámara de retroceso",
+      "Faros halógenos"
+     ],
+     "confort": [
+      "Asientos de cuero y tela",
+      "Asiento delantero manual 6 vías",
+      "Audio Omoda 6 parlantes",
+      "Espejo interior con atenuación manual"
+     ]
+    },
+    "47": {
+     "seguridad": [
+      "Cámara 360°",
+      "Conector para grabadora DVR",
+      "Faros LED",
+      "Faros antiniebla delanteros"
+     ],
+     "confort": [
+      "Techo solar",
+      "Portón trasero eléctrico",
+      "Espejos exteriores plegables eléctricos",
+      "Barras de techo",
+      "Asientos de cuero sintético",
+      "Asiento delantero eléctrico 6 vías",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Audio SONY 8 parlantes",
+      "Carga inalámbrica de celular 50 W",
+      "Espejo interior con atenuación automática"
+     ]
+    }
+   },
+   "ficha_texto": "OMODA 5 SUPER HYBRID SYSTEM (SHS), fila 'C5' de la lista. Híbrido autorrecargable (HEV, no enchufable). Versiones: Luxury (id 46) y Premium (id 47).\nMOTOR: 1.5 turbo (1498 cc) + motor eléctrico, potencia combinada 224 CV (221 HP), 290 Nm, transmisión DHT, tracción delantera, 0-100 km/h en 7,9 s, consumo combinado 19,6 km/l (WLTP), tanque 51 L. Modos Confort / Eco / Sport.\nDIMENSIONES: largo 4450, ancho 1830, alto 1588, distancia entre ejes 2600 mm, 5 plazas, baúl 292 L según la ficha (la web indica 372 L), rueda de repuesto temporal. Suspensión delantera McPherson, trasera multilink; frenos delanteros ventilados y traseros sólidos.\nSEGURIDAD (ambas): 7 airbags (frontal doble, laterales delanteros, central delantero, cortinas), ISOFIX, alarma, BAS, EBD, ABS, control de crucero con limitador, sensores de estacionamiento, Auto Hold, EPB. ADAS de serie: LDW, LDP, BSD, FCW, AEB, TJA, RCW, RCTA, DOW. Luxury: cámara de retroceso y llantas 17\". Premium: cámara 360°, conector DVR y llantas 18\".\nEXTERIOR: Luxury con faros halógenos; Premium con faros LED, antiniebla delanteros, techo solar, espejos de cierre eléctrico y portón trasero eléctrico, barras de techo (hasta 75 kg). Ambas con luces diurnas LED, luces traseras LED, antiniebla trasero, follow-me-home. 8 colores.\nINTERIOR: iluminación ambiental multicolor, volante de cuero con ajuste de 4 vías, arranque sin llave, climatizador bizona, alzacristales one touch, tablero LCD 12,3\" y pantalla central 12,3\", CarPlay y Android Auto, comando de voz. Luxury: asientos de cuero y tela, butacas con ajuste manual de 6 vías, audio Omoda 6 parlantes. Premium: cuero sintético, butacas eléctricas de 6 vías calefaccionadas y ventiladas, audio SONY 8 parlantes, cargador inalámbrico de 50 W, espejo con atenuación automática.\nGarantía 5 años o 150.000 km. Precios web: Luxury USD 28.990, Premium USD 30.990.",
+   "confianza": "alta",
+   "notas": "La ficha PDF es solo imágenes y ya estaba transcripta en fichas_txt. Baúl: ficha 292 L vs web 372 L. La ficha dice '6 airbags' pero enumera 7 posiciones (la web dice 7). El techo solar de la Premium no se aclara si es panorámico."
+  },
+  {
+   "marca": "Jaecoo",
+   "modelo": "J5",
+   "ids": [
+    48,
+    49
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Jaecoo5 Comfort-Luxury 2027.pdf",
+     "que": "ficha oficial Santa Rosa 2027"
+    },
+    {
+     "url": "https://omodajaecoo.com.uy/modelos/jaecoo-5",
+     "que": "omodajaecoo.com.uy (versiones, precios)"
+    }
+   ],
+   "pdf": [
+    "Jaecoo5 Comfort-Luxury 2027.pdf"
+   ],
+   "fotos": [
+    "jaecoo-5-1.jpg",
+    "jaecoo-5-2.jpg",
+    "jaecoo-5-3.jpg",
+    "jaecoo-5-4.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Eléctrico",
+    "motor": "Motor eléctrico delantero 155 kW",
+    "transmision": "Reducción fija",
+    "traccion": "4x2 (delantera)",
+    "potencia_hp": 211,
+    "torque_nm": 288,
+    "bateria_kwh": 58.9,
+    "autonomia_km": 461,
+    "autonomia_ciclo": "NEDC 461 km",
+    "carga_dc_kw": 130,
+    "velocidad_max_kmh": 175,
+    "aceleracion_0_100_s": 7.7,
+    "largo_mm": 4380,
+    "ancho_mm": 1860,
+    "alto_mm": 1650,
+    "entre_ejes_mm": 2620,
+    "despeje_mm": 184,
+    "peso_kg": 1715,
+    "baul_l": 480,
+    "remolque_kg": 1250,
+    "neumaticos": "235/55 R18",
+    "plazas": 5,
+    "puertas": 5,
+    "airbags": 6,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "48": {},
+    "49": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Sensores de estacionamiento traseros",
+      "Monitoreo de presión de neumáticos",
+      "Control de crucero",
+      "Alerta de límite de velocidad",
+      "ISOFIX",
+      "Inmovilizador de motor",
+      "Alarma antirrobo"
+     ],
+     "confort": [
+      "Climatizador bizona",
+      "Llave inteligente",
+      "Arranque sin llave",
+      "Llantas de aleación 18\"",
+      "Espejos eléctricos",
+      "Sensor de lluvia",
+      "Luces altas/bajas automáticas",
+      "Luces diurnas LED",
+      "Modos de manejo Eco / Normal / Sport",
+      "Recuperación de energía ajustable",
+      "Enchufe 220V"
+     ],
+     "multimedia": [
+      "Tablero digital 8\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Comando de voz",
+      "USB-C delantero",
+      "Wi-Fi integrado"
+     ]
+    },
+    "48": {
+     "seguridad": [
+      "Cámara de retroceso"
+     ],
+     "confort": [
+      "Faros halógenos",
+      "Tapizado de tela",
+      "Asiento conductor manual 6 posiciones",
+      "Barras de techo decorativas"
+     ],
+     "multimedia": [
+      "Audio 6 parlantes"
+     ]
+    },
+    "49": {
+     "seguridad": [
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Monitor de punto ciego",
+      "Asistente de cambio de carril",
+      "Control crucero adaptativo",
+      "Frenado autónomo de emergencia (AEB)",
+      "Alerta de colisión frontal",
+      "Alerta de tráfico cruzado trasero",
+      "Frenado en tráfico cruzado trasero",
+      "Asistente en atascos de tráfico",
+      "Alerta de apertura de puertas",
+      "Alerta de colisión trasera",
+      "Mantenimiento de carril de emergencia",
+      "Luz alta inteligente"
+     ],
+     "confort": [
+      "Faros LED",
+      "Techo panorámico",
+      "Tapizado símil cuero",
+      "Asiento conductor eléctrico 6 posiciones",
+      "Asientos delanteros ventilados",
+      "Asiento pasajero eléctrico 4 posiciones",
+      "Portón trasero eléctrico",
+      "Carga inalámbrica de celular",
+      "Vidrios insonorizados",
+      "Barras de techo con carga",
+      "Iluminación ambiental multicolor",
+      "Espejos con plegado eléctrico y calefacción"
+     ],
+     "multimedia": [
+      "Pantalla central 13,2\"",
+      "Audio 8 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "JAECOO 5 EV 2027 (SUV eléctrica compacta, hatchback de dos volúmenes). Versiones: Comfort (id 48) y Luxury (id 49).\nMOTOR Y BATERÍA: motor eléctrico delantero 155 kW (211 CV / 208 HP), 288 Nm, tracción delantera. Batería LFP 58,9 kWh con refrigeración líquida, autonomía 461 km (NEDC), carga rápida DC hasta 130 kW (30-80% en unos 28 min), 0-100 km/h en 7,7 s, velocidad máxima 175 km/h, capacidad de remolque 1250 kg con freno / 750 kg sin freno, enchufe de 220 V. Modos Eco / Normal / Sport (más modos de terreno) y recuperación de frenado en 3 niveles.\nDIMENSIONES: 4380 x 1860 x 1650 mm, distancia entre ejes 2620 mm, despeje 184 mm, peso en orden de marcha 1715 kg, baúl 480 L (la web indica 384 / 480 L), 5 plazas. Neumáticos 235/55 R18, llantas de aleación bitono. Suspensión trasera independiente; frenos delanteros ventilados y traseros sólidos.\nSEGURIDAD (ambas): 6 airbags, ABS + EBD + BAS + EBA, TCS, RSC, HAC, HDC, Auto Hold, EPB, TPMS indirecto, control de crucero con límite de velocidad, inmovilizador y alarma, sensores traseros. Comfort: cámara de retroceso. Luxury: cámara panorámica 540° HD, sensores delanteros, DVR en el espejo y la suite ADAS completa (17 sistemas: LDW, LKA, LDP, BSD, LCA, ACC, ICA, FCW, RCTA, RCTB, AEB, TJA, IES, DOW, RCW, MCB, ELK, DAI).\nCONFORT: climatizador bizona, llave inteligente PEPS, arranque sin llave, sensor de lluvia, luces diurnas LED. Comfort: faros halógenos, tela, conductor manual 6 posiciones, pasajero manual 4 posiciones, barras de techo decorativas, espejos plegables manuales. Luxury: faros LED, techo panorámico con cortina eléctrica, símil cuero, asientos delanteros eléctricos y ventilados, portón eléctrico, vidrios acústicos y de privacidad, iluminación ambiental, espejos con plegado eléctrico y calefacción, cargador inalámbrico, barras de techo con capacidad de carga.\nMULTIMEDIA: tablero digital 8\", CarPlay y Android Auto, Bluetooth, T-Box con Wi-Fi, voz offline, USB-C delante y USB en segunda fila. Comfort: audio de 6 parlantes (pantalla central menor, tamaño no indicado). Luxury: pantalla táctil 13,2\" y audio de 8 parlantes.\nPrecios web: Comfort USD 27.990, Luxury USD 30.990. Garantía 5 años o 150.000 km y batería 8 años o 150.000 km.",
+   "confianza": "alta",
+   "notas": "El tamaño de la pantalla central de la Comfort no figura. En la lista el modelo se llama 'J5' (Jaecoo 5)."
+  },
+  {
+   "marca": "Jaecoo",
+   "modelo": "J6",
+   "ids": [
+    50,
+    51
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) JAECOO 6.pdf",
+     "que": "ficha oficial Santa Rosa"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2024/12/lanzamiento-jaecoo-6-ev-y-7-phev-los.html",
+     "que": "Autoblog Uruguay: lanzamiento Jaecoo 6 EV (autonomía WLTP)"
+    },
+    {
+     "url": "https://www.zigwheels.co.th/en/new-cars/jaecoo/6-ev/images",
+     "que": "fotos (galería Tailandia; no hay galería del Jaecoo 6 en omodajaecoo.com.uy)"
+    }
+   ],
+   "pdf": [
+    "JAECOO 6.pdf"
+   ],
+   "fotos": [
+    "jaecoo-6-1.jpg",
+    "jaecoo-6-2.jpg",
+    "jaecoo-6-3.jpg",
+    "jaecoo-6-4.jpg",
+    "jaecoo-6-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Eléctrico",
+    "transmision": "Reducción fija",
+    "velocidad_max_kmh": 150,
+    "largo_mm": 4342,
+    "ancho_mm": 1930,
+    "alto_mm": 1741,
+    "entre_ejes_mm": 2715,
+    "despeje_mm": 195,
+    "baul_l": 264,
+    "plazas": 5,
+    "puertas": 5,
+    "airbags": 6,
+    "neumaticos": "245/55 R19",
+    "carga_dc_kw": 60,
+    "carga_ac_kw": 6.6,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "50": {
+     "motor": "Motor eléctrico trasero 135 kW",
+     "traccion": "4x2 (trasera)",
+     "potencia_hp": 184,
+     "torque_nm": 220,
+     "bateria_kwh": 65.69,
+     "autonomia_km": 460,
+     "autonomia_ciclo": "NEDC 460 km (prensa: 363 km WLTP)",
+     "aceleracion_0_100_s": 10.5,
+     "peso_kg": 1827,
+     "pbt_kg": 2202,
+     "consumo": "15,5 kWh/100 km CLTC"
+    },
+    "51": {
+     "motor": "2 motores eléctricos (70 kW delantero + 135 kW trasero)",
+     "traccion": "4x4 (AWD)",
+     "potencia_hp": 279,
+     "torque_nm": 385,
+     "bateria_kwh": 69.77,
+     "autonomia_km": 430,
+     "autonomia_ciclo": "NEDC 430 km (prensa: 365 km WLTP)",
+     "aceleracion_0_100_s": 6.5,
+     "peso_kg": 1917,
+     "pbt_kg": 2292,
+     "consumo": "16,5 kWh/100 km CLTC"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Auto Hold",
+      "Freno de estacionamiento eléctrico",
+      "Cámara 360°",
+      "Cámara de punto ciego",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Monitoreo de presión de neumáticos",
+      "Alerta de salida de carril",
+      "Mantenimiento de carril",
+      "Alerta de colisión frontal",
+      "Alerta de colisión trasera",
+      "Monitor de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de apertura de puertas",
+      "Frenado autónomo de emergencia (AEB)",
+      "Mantenimiento de carril de emergencia",
+      "Asistente en atascos de tráfico",
+      "Control crucero adaptativo",
+      "Alerta de fatiga del conductor",
+      "ISOFIX",
+      "Alarma antirrobo"
+     ],
+     "confort": [
+      "Techo panorámico con cortina eléctrica",
+      "Climatizador bizona",
+      "Filtro PM2.5",
+      "Salidas de aire traseras",
+      "Llave inteligente",
+      "Arranque sin llave",
+      "Portón trasero eléctrico",
+      "Manijas de puerta ocultas",
+      "Espejos eléctricos con plegado automático, calefacción y memoria",
+      "Sensor de lluvia",
+      "Luz alta automática",
+      "Faros LED",
+      "Luz ambiental multicolor",
+      "Guantera central calefaccionada y refrigerada",
+      "Volante forrado en eco cuero",
+      "Portaequipajes",
+      "Modos de manejo Sport / Economy / Standard / Mud / Snow / Sand",
+      "V2L (carga de dispositivos)"
+     ],
+     "multimedia": [
+      "Pantalla central 15,6\"",
+      "Tablero digital 9,2\"",
+      "Apple CarPlay / Android Auto",
+      "Carga inalámbrica de celular 50 W",
+      "Comando de voz",
+      "Dashcam",
+      "Audio Infinity / Pioneer",
+      "Puertos 2 USB + 2 USB-C"
+     ]
+    }
+   },
+   "ficha_texto": "JAECOO 6 EV (SUV eléctrica). Versiones: Luxury 4x2 (id 50) y Flagship 4x4 (id 51).\nMOTOR Y BATERÍA: Luxury 4x2: motor trasero de 135 kW (184 HP), 220 Nm, batería LFP CATL de 65,69 kWh, autonomía 460 km NEDC (prensa uruguaya: 363 km WLTP), 0-100 km/h en 10,5 s. Flagship 4x4: dos motores (70 kW delantero + 135 kW trasero), 279 HP, 385 Nm (165 + 220 Nm), batería de 69,77 kWh, autonomía 430 km NEDC (prensa: 365 km WLTP), 0-100 km/h en 6,5 s. Velocidad máxima 150 km/h. Carga rápida DC hasta 60 kW (30-80% en 30 min), carga AC 6,6 kW (13 h), toma CCS2 europea, acondicionamiento de batería y refrigeración líquida. Consumo CLTC 15,5 / 16,5 kWh/100 km.\nDIMENSIONES: 4342 x 1930 x 1741 mm, distancia entre ejes 2715 mm, despeje 195 mm, baúl 264 L, radio de giro 5,7 m, ángulos de ataque 32° y salida 34° en vacío. Peso en vacío 1827 kg (Luxury) y 1917 kg (Flagship); peso máximo 2202 / 2292 kg. Neumáticos 245/55 R19 (sin rueda de repuesto, kit de reparación).\nCHASIS: suspensión delantera McPherson, trasera multilink; frenos de disco en las 4 ruedas; dirección eléctrica; modos Sport, Economy, Standard, Mud, Snow, Sand y ADAS con memoria; frenado regenerativo.\nSEGURIDAD (ambas): 6 airbags, ABS + EBD + EBA, TCS, ESC, HDC, Auto Hold, EPB, TPMS, cámara 360° y de punto ciego, sensores delanteros y traseros, LDW, FCW, RCW, LDP, DOW, BSD, RCTA, AEB, ELK, TJA, DAI, ACC, alerta de fatiga, ISOFIX, alarma antirrobo.\nCONFORT (ambas): techo panorámico con cortina eléctrica, climatizador bizona con filtro PM2.5 y salidas traseras, portón eléctrico, manijas ocultas, espejos con plegado automático, desempañador, memoria y tilt-down, llave inteligente y NFC, faros LED con luz alta automática, ambiental multicolor, guantera calefaccionada y refrigerada, V2L.\nMULTIMEDIA (ambas): pantalla 15,6\", tablero LCD 9,2\", CarPlay y Android Auto, cargador inalámbrico 50 W, dashcam, audio Pioneer/Infinity, 2 USB + 2 USB-C, asistente de voz.\nGarantía vehículo 5 años o 150.000 km y batería 8 años o 150.000 km. Colores: negro, blanco, gris, plateado, verde, azul.",
+   "confianza": "media",
+   "notas": "El Jaecoo 6 no figura en omodajaecoo.com.uy (sin página de modelo ni precio actual). Las filas con valores distintos por versión en la tabla de equipamiento de la ficha quedaron sin etiqueta ('Luxury NO; Flagship SÍ'), por lo que no se atribuyó ningún ítem a una sola versión. Orden de columnas de la tabla de parámetros inferido por coherencia (primera = 184 HP 4x2). Fotos: una de Autoblog Uruguay (lanzamiento) y cuatro de la galería de zigwheels.co.th (930 px, de terceros, sin marca de agua)."
+  },
+  {
+   "marca": "Jaecoo",
+   "modelo": "J7",
+   "ids": [
+    52
+   ],
+   "fuentes": [
+    {
+     "url": "(ficha local) Jaecoo7 PHEV.pdf",
+     "que": "ficha oficial Santa Rosa (PDF de imágenes, texto reconocido)"
+    },
+    {
+     "url": "https://omodajaecoo.com.uy/modelos/jaecoo-7",
+     "que": "omodajaecoo.com.uy (Jaecoo 7 SHS P)"
+    }
+   ],
+   "pdf": [
+    "Jaecoo7 PHEV.pdf"
+   ],
+   "fotos": [
+    "jaecoo-7-1.jpg",
+    "jaecoo-7-2.jpg",
+    "jaecoo-7-3.jpg",
+    "jaecoo-7-4.jpg",
+    "jaecoo-7-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido enchufable (PHEV)",
+    "motor": "1.5 TGDI turbo (105 kW / 142 HP) + motor eléctrico 150 kW (204 HP)",
+    "cilindrada_cc": 1500,
+    "transmision": "Automática 1DHT (híbrida dedicada)",
+    "traccion": "4x2 (delantera)",
+    "potencia_hp": 346,
+    "torque_nm": 525,
+    "bateria_kwh": 18.3,
+    "tanque_l": 60,
+    "consumo": "1,0 L/100 km WLTP (batería cargada); 5,3 L/100 km homologado (web); EV 15,9 kWh/100 km WLTP",
+    "largo_mm": 4500,
+    "ancho_mm": 1865,
+    "alto_mm": 1670,
+    "entre_ejes_mm": 2672,
+    "baul_l": 340,
+    "neumaticos": "235/50 R19",
+    "plazas": 5,
+    "airbags": 7,
+    "garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+   },
+   "versiones": {
+    "52": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "7 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de frenado",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Monitoreo de presión de neumáticos",
+      "Limitador de velocidad",
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Cámara de retroceso con guías dinámicas",
+      "Inmovilizador de motor",
+      "ISOFIX",
+      "Frenado autónomo de emergencia (AEB)",
+      "Control crucero adaptativo",
+      "Alerta de colisión frontal",
+      "Alerta de salida de carril",
+      "Asistente en atascos de tráfico",
+      "Asistente de crucero integrado",
+      "Luz alta inteligente",
+      "Monitor de punto ciego",
+      "Alerta de apertura de puertas",
+      "Frenado en tráfico cruzado trasero",
+      "Mantenimiento de carril de emergencia",
+      "Prevención de salida de carril",
+      "Control de velocidad en curvas",
+      "Alerta de colisión trasera",
+      "Monitor de fatiga del conductor",
+      "Detección de signos vitales de menores"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Techo de vidrio eléctrico",
+      "Tapa de combustible eléctrica",
+      "Asientos y volante de cuero",
+      "Volante calefaccionado",
+      "Asiento conductor eléctrico 8 posiciones con memoria",
+      "Asiento pasajero eléctrico 4 posiciones con memoria",
+      "Asientos delanteros calefaccionados",
+      "Asientos delanteros ventilados",
+      "Espejos con memoria y plegado eléctrico",
+      "Apoyabrazos delantero refrigerado",
+      "Climatizador bizona",
+      "Filtro N95",
+      "Vidrios insonorizados",
+      "Barras de techo",
+      "Sensor de lluvia",
+      "Faros LED",
+      "Modos de manejo incluyendo terreno difícil"
+     ],
+     "multimedia": [
+      "Pantalla central 10,25\"",
+      "Apple CarPlay / Android Auto",
+      "Head-up display",
+      "Carga inalámbrica de celular",
+      "Comando de voz",
+      "Audio 8 parlantes",
+      "Grabadora de conducción",
+      "4 puertos USB-A + USB-C"
+     ]
+    }
+   },
+   "ficha_texto": "JAECOO 7 PHEV (SUV híbrida enchufable, 'SHS P'), id 52, versión única con tracción delantera (2WD).\nMOTOR: 1.5 TGDI turbo de 105 kW (142 HP) y 215 Nm + motor eléctrico de 150 kW (204 HP) y 310 Nm; potencia combinada 255 kW (346 HP) y 525 Nm; transmisión 1DHT; tracción delantera. Batería 18,3 kWh, tanque 60 L, toma de carga CCS2 tipo F. Consumo eléctrico 15,9 kWh/100 km WLTP; consumo híbrido 1,0 L/100 km WLTP con batería cargada (la web indica 5,3 L/100 km homologado), autonomía total superior a 1000 km según la web.\nDIMENSIONES: 4500 x 1865 x 1670 mm, distancia entre ejes 2672 mm, baúl 340 L (1265 L con asientos abatidos), 5 plazas. Llantas de aleación 19\", neumáticos 235/50 R19. Suspensión delantera McPherson, trasera multilink; frenos delanteros ventilados y traseros de disco; dirección eléctrica.\nSEGURIDAD: 7 airbags, ABS + EBD, ESP, EPB con Auto Hold, HDC, HAC, TPMS, limitador de velocidad, cinturones con pretensor, ISOFIX, cámaras HD 540°, sensores delanteros y traseros, inmovilizador, 16 sistemas ADAS (AEB, ACC, FCW, LDW, TJA, ICA, IHC, BSD, DOW, RCTB, ELK, LDP, CSA, RCW, DMS, detección de signos vitales infantil).\nCONFORT: llave inteligente, techo de vidrio eléctrico, asientos y volante de cuero, volante calefaccionado, conductor eléctrico de 8 posiciones con memoria y bienvenida, pasajero eléctrico con memoria, asientos delanteros calefaccionados y ventilados, head-up display, apoyabrazos refrigerado, climatizador bizona con AQS y filtro N95, vidrios insonorizados, ventanas one touch, barras de techo, faros LED, follow-me-home, 5 modos de conducción incluyendo terreno difícil.\nMULTIMEDIA: pantalla 10,25\" con CarPlay y Android Auto inalámbricos, cargador inalámbrico, 4 USB-A y USB-C, comandos de voz, 8 parlantes, grabadora de conducción.\nPrecio web: USD 39.990. Garantía 5 años o 150.000 km y batería 8 años o 150.000 km.",
+   "confianza": "media",
+   "notas": "El PDF de la ficha tiene dos bloques (con y sin 'tracción 2WD' explícita); se tomó el 2WD por el nombre de la fila ('1.5T 2WD'). Peso total 1870 kg figura en la ficha pero con un rótulo ambiguo (no se cargó). La capacidad de carga de la batería (potencia) no figura."
+  }
+ ]
+}

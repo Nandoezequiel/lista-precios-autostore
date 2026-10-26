@@ -1,0 +1,6 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (JMC Carrying EV; confianza media)
+Fuentes:
+- ficha oficial jmc.com.uy: https://www.jmc.com.uy/modelos/carrying-ev
+Notas: Asignación de valores del PDF por suma de pesos (1970+1540=3510). La lista de equipamiento del sitio parece plantilla compartida con otros modelos; solo se usaron ítems coincidentes con el PDF (airbags=2, cámara 360° y pantalla 10,1" provienen del sitio).
+
+JMC Carrying EV Caja (JX1040TEABEV), camión liviano 100% eléctrico. Motor trasero TZ190XY113 de 122 CV (~120 HP) y 240 Nm. Batería CATL LFP de 64 kWh refrigerada por aire con calefacción, autonomía 260 km CLTC, carga rápida DC CCS2 y lenta AC. Tara 1970 kg, carga útil 1540 kg, PBT 3510 kg, entre ejes 3100 mm, altura 2200 mm. Caja interna 3,80 x 1,79 x 0,40 m (externa 3,89 x 1,88 x 0,40). 2 plazas, neumáticos 195/75 R16LT 12PR, rueda de auxilio completa, ABS. Equipo: A/A, calefacción, EPS, tablero TFT 7", vidrios eléctricos, llave plegable, columna regulable 4 vías, cierre central. Garantía 3 años/100.000 km y batería 5 años/150.000 km. Precio sitio USD 29.900.

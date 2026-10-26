@@ -1,0 +1,612 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Deepal S05: REEV (autonomía extendida) y BEV (eléctrico). ■ en la ficha = lo trae.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 2]
+  (FICHA)
+
+  (TÉCNICA)
+
+
+
+## VERSIÓN
+
+
+
+## Nivel
+
+  (Configuración)
+
+  (Emisión Euro V Euro V)
+
+  (Longitud total (mm) 4620 4620)
+
+  (Ancho total (mm) 1900 1900)
+
+  (Altura total (mm) 1600 1600)
+
+  (Distancia entre ejes (mm) 2880 2880)
+
+  (Parámetros)
+
+  (Tara / peso bruto del vehículo (kg) 2210 2150)
+
+  (Peso en vacío (kg) 1835 1770)
+
+
+
+## Capacidad de asientos
+
+  (Estructura Compacto Compacto)
+
+  (Autonomía (WLTC) 158 NEDC (km) 458 NEDC (km))
+
+  (Potencia máxima del motor (kW) 72 175)
+
+  (Torque máximo / par total del motor (Nm) 125 320)
+
+- Número de motores de accionamiento Motor único Motor único Motor síncrono de imán permanente Potencia máxima del motor trasero (kW) 160 175: en todas
+
+  (Par máximo del motor trasero (Nm) 320 320)
+
+- Capacidad de la batería (kWh) 27,28 56,12 Motor Precalentamiento de la batería: en todas
+
+- eléctrico Función de central eléctrica móvil Potencia máxima carga lenta 7 kW 7 kW: en todas
+
+- Tiempo de carga lento (horas) ≤6 horas ≤8 horas Función de carga rápida normal Tiempo de carga rápida normal (min) 20 minutos 15 minutos: en todas
+
+- Capacidad de carga rápida normal (%) 30% - 80% 30% - 80% Puerto de carga manual: en todas
+
+- Puerto de carga externa conector tipo II (estándar europeo): en todas
+
+- Modo de conducción: motor trasero, tracción trasera: en todas
+
+- Dirección Suspensión delantera independiente McPherson: en todas
+
+- Suspensión trasera independiente de múltiples enlaces del chasis: en todas
+
+- Tipo de energía: asistencia electrónica de potencia: en todas
+
+- Dirección electrica sensible: en todas
+
+- Freno delantero de disco ventilado: en todas
+
+- Freno trasero de disco sólido: en todas
+
+- Freno de estacionamiento electrónico Ancho de neumático 245 245: en todas
+
+
+
+## Freno de Perfil de neumático
+
+- Ruedas de 20 pulgadas rueda: en todas
+
+- Neumáticos de lujo: en todas
+
+- Ruedas de aleación de aluminio: en todas
+
+- Cubierta de cubo de rueda encapsulada: en todas
+
+- Herramientas para reparación de neumáticos: en todas
+
+- Calibradores fijos ordinarios: en todas
+
+
+[página 3]
+
+
+## VERSIÓN
+
+- Airbag frontal del conductor: en todas
+
+- Airbag lateral conductor: en todas
+
+- Airbag frontal del pasajero: en todas
+
+- Airbag lateral pasajero: en todas
+
+- Airbags laterales de cortina integrados delanteros y traseros: en todas
+
+- Indicador de presión de los neumáticos: en todas
+
+- Cinturones de seguridad del conductor con ajuste: en todas
+
+- Alarma de cinturón de seguridad no abrochado del conductor: en todas
+
+- Cinturones de seguridad del pasajero ajustables: en todas
+
+- Alarma de cinturón de seguridad no abrochado del pasajero: en todas
+
+- Cinturón de seguridad segunda fila ordinario: en todas
+
+- Alarma de cinturón de seguridad no abrochado de segunda fila: en todas
+
+- Cinturones de seguridad en asientos izquierdo, central y derecho: en todas
+
+- Interfaz de asiento de seguridad para niños ISOFIX: en todas
+
+- Asa de seguridad para pasajeros: en todas
+
+- Manija de seguridad de la segunda fila: en todas
+
+- Sistema de frenos antibloqueo (ABS) Seguridad: en todas
+
+- Sistema de distribución electrónica de frenado (EBD): en todas
+
+- Sistema de estabilidad del vehículo (ESP / DSC / ESC): en todas
+
+- Control de tracción (TCS / ASR / TRS): en todas
+
+- Asistencia de frenado (EBA / BAS / BA): en todas
+
+- Función de frenado dinámico (DBF): en todas
+
+- Prevención de vuelcos (ROM): en todas
+
+- Sistema de control de asistencia para arranque en pendiente: en todas
+
+- Sistema de control de descenso de pendientes: en todas
+
+- Función antivuelco electrónica: en todas
+
+- Aviso de radar de estacionamiento delantero: en todas
+
+- Advertencia de radar de estacionamiento trasero: en todas
+
+- Imagen panorámica de 540°: en todas
+
+- Bloqueo automático al salir del coche: en todas
+
+- Bloqueo automático del sensor de velocidad: en todas
+
+- Desbloqueo automático de puertas tras una colisión: en todas
+
+- Bloqueo de un toque para lado del pasajero (pantalla control central): en todas
+
+- Sonido de advertencia de conducción a baja velocidad: en todas
+
+- Modo de conducción estándar / confort: en todas
+
+- Modo de conducción deportivo: en todas
+
+- Control de Modo de conducción ECO: en todas
+
+- conducción Modo de conducción personalizado: en todas
+
+- Recuperación de energía: en todas
+
+- Aparcamiento automático (AUTO HOLD): en todas
+
+
+
+## Radar de ondas
+
+
+
+## Conducción Radar ultrasónico
+
+
+
+## inteligente Cámara de visión envolvente
+
+
+
+## Cámara HD
+
+- Advertencia de colisión frontal (FCW): en todas
+
+- Frenado automático de emergencia (AEB): en todas
+
+- Control de crucero adaptativo de velocidad máxima (ACC): en todas
+
+- Mini - funcionalidad completa: en todas
+
+- Advertencia de colisión frontal para peatones (FCW-P): en todas
+
+- Advertencia de colisión frontal ciclista (FCW): en todas
+
+- Frenado automático de emergencia peatón (AEB-P): en todas
+
+- ACC + IACC Frenado automático de emergencia ciclista: en todas
+
+- (mini) Gestión de luces altas (HMA): en todas
+
+- Advertencia de cambio de carril (LDW): en todas
+
+- Recordatorio de distancia segura: en todas
+
+- Advertencia de exceso de velocidad: en todas
+
+- Asistente de mantenimiento de carril (LKA): en todas
+
+- Control de crucero adaptativo inteligente integrado (IACC): en todas
+
+- Centrado en el carril (LCC): en todas
+
+- Asistente para atascos (TJA): en todas
+
+
+[página 4]
+
+
+## VERSIÓN
+
+- Imagen panorámica de 360 (AVM): en todas
+
+- Imagen panorámica (2D/3D): en todas
+
+- Chasis transparente: en todas
+
+- Vista panorámica activada por radar: en todas
+
+- Asistencia de visión en rampa: en todas
+
+- Grabadora de conducción con vista envolvente (DVR): en todas
+
+- Frenado automático de emergencia en intersecciones (AEB): en todas
+
+- ACC + IACC Frenado automático de emergencia a baja velocidad (LAEB): en todas
+
+- (mini) Entrada y salida remotas con llave (RSIO): en todas
+
+- Advertencia de colisión trasera (RCW): en todas
+
+- Alerta de tráfico cruzado trasero (RCTA): en todas
+
+- Frenado de tráfico cruzado en reversa (RCTB): en todas
+
+- Mantenimiento de carril de emergencia (ELK): en todas
+
+- Detección de punto ciego (BSD): en todas
+
+- Asistente de cambio de carril (LCA): en todas
+
+- Advertencia de apertura de puerta (DOW): en todas
+
+- Puerta batiente: en todas
+
+- Puertas sin marco: en todas
+
+- Manija de puerta delantera electrónica triangular oculta: en todas
+
+- Manija de puerta trasera electrónica triangular oculta: en todas
+
+- Baúl trasero eléctrico: en todas
+
+- Memoria troncal de baúl trasero: en todas
+
+- Apertura del maletero para escapar: en todas
+
+- Anti-pinzamiento del maletero: en todas
+
+
+
+## Llave de control remoto
+
+- Arranque sin llave por sensor: en todas
+
+- Entrada sin llave por sensor: en todas
+
+- Apariencia Función de búsqueda de coche por control remoto: en todas
+
+- / antirrobo Cierre centralizado con mando a distancia: en todas
+
+- Control remoto de apertura y cierre de ventanas: en todas
+
+- Apertura del maletero con mando a distancia: en todas
+
+- Conducción del dispositivo de bloqueo automático de puertas: en todas
+
+- Doble clic en puerta trasera para bloquear el coche: en todas
+
+- BCM antirrobo: en todas
+
+- Parrilla especial activa: en todas
+
+- Gancho de remolque delantero: en todas
+
+- Varilla hidráulica de soporte del capó: en todas
+
+- Cubierta de guarnición para cabina: en todas
+
+- Placa de protección inferior de la cabina: en todas
+
+- Tubo de escape (salida única de un solo lado): en todas
+
+- Faros LED integrados con luces altas y bajas: en todas
+
+- Faros no pasantes: en todas
+
+- Faros delanteros divididos: en todas
+
+- Faros automáticos: en todas
+
+- Iluminación Ajuste manual de la altura de los faros: en todas
+
+- Apagado retardado de los faros exterior: en todas
+
+- Asistente de luces altas adaptativas: en todas
+
+- luz trasera LED: en todas
+
+- Luces traseras de tipo pasante: en todas
+
+- luz antiniebla trasera LED: en todas
+
+- Luces de circulación diurna: en todas
+
+- Volante de cuero sintético: en todas
+
+- Ajuste del volante (4 posiciones): en todas
+
+- Dispositivo electrónico de mano: en todas
+
+- Espejo retrovisor interior antideslumbrante automático Interior: en todas
+
+- Panel de instrumentos de plástico: en todas
+
+- Gancho de red para fijación de equipaje (punto de anclaje): en todas
+
+- Pedal: en todas
+
+- Organizador de carga blanda extensible: en todas
+
+
+[página 5]
+
+
+## VERSIÓN
+
+- Claraboya panorámica integrada (no se puede abrir): en todas
+
+- Tragaluz verde y gris: en todas
+
+- Parasol eléctrico: en todas
+
+- Elevación y bajada de ventanillas con un solo toque + antipinzamiento: en todas
+
+- Función automática de descongelación y desempañado de ventanas: en todas
+
+- Apagado automático en caso de lluvia: en todas
+
+- Espejo de cortesía del conductor: en todas
+
+- Luz del espejo de cortesía del conductor Techo,: en todas
+
+- Espejo de cortesía del pasajero: en todas
+
+- vidrios y Luz del espejo de cortesía del pasajero: en todas
+
+- espejos Parasol común: en todas
+
+- Limpiaparabrisas sin marco: en todas
+
+- Limpiaparabrisas con sensor de lluvia: en todas
+
+- Espejos exteriores calefactados: en todas
+
+- Ajuste eléctrico de los retrovisores exteriores: en todas
+
+- Retrovisores exteriores plegables eléctricamente: en todas
+
+- Plegado automático de espejos retrovisores externos al bloquear: en todas
+
+- Espejo retrovisor exterior se baja al dar marcha atrás: en todas
+
+- Retrovisores exteriores con función de memoria: en todas
+
+  (Tamaño del instrumento Por determinar Por determinar)
+
+- Resolución de la pantalla del instrumento Por determinar Por determinar Instrumento LCD Tamaño del HUD 50 pulgadas 50 pulgadas: en todas
+
+- Pantalla de visualización frontal con proyección AR-HUD Pantalla de control central 15,4 pulgadas 15,4 pulgadas: en todas
+
+- Resolución de la pantalla de control central 2.5k 2.5k Pantalla giratoria electrónica: en todas
+
+- Función Bluetooth: en todas
+
+- Interconexión de dispositivos inteligentes: en todas
+
+- Control de voz básico: en todas
+
+- Sistema de interacción de voz inteligente: en todas
+
+- Diálogo continuo de varias rondas: en todas
+
+- Zona de cuatro tonos: en todas
+
+- Altavoces externos: en todas
+
+
+
+## Número de altavoces externos
+
+- Sistema de monitoreo de fatiga del conductor (DMS): en todas
+
+- Reconocimiento facial: en todas
+
+- Control de coche en 3D: en todas
+
+- Cabina WIFI en el coche: en todas
+
+- Voz en línea a tiempo completo inteligente: en todas
+
+- Música en línea: en todas
+
+- Servicio backend manual con un solo clic: en todas
+
+- Tienda de aplicaciones: en todas
+
+- Actualización OTA: en todas
+
+- Monitoreo antirrobo, rastreo, prohibición de arranque del motor: en todas
+
+- Búsqueda inteligente de pilas: en todas
+
+- Conexión a Internet (4G): en todas
+
+- Actualización remota OTA: en todas
+
+- Llamo (consulta de navegación en zonas desconocidas): en todas
+
+- Registro de conducción del usuario: en todas
+
+- Vídeo en línea: en todas
+
+- Navegación en línea: en todas
+
+- Control remoto de puertas: en todas
+
+- Control remoto de ventanas: en todas
+
+- Control remoto de asientos: en todas
+
+- Control remoto del aire acondicionado: en todas
+
+- Arranque del vehículo por control remoto: en todas
+
+- Consulta / diagnóstico del estado del vehículo por control remoto: en todas
+
+- Gestión de carga por control remoto: en todas
+
+- Encuentra un coche por control remoto: en todas
+
+
+[página 6]
+
+
+## VERSIÓN
+
+  (Número de puertos USB 1 delantero, 1 trasero 1 delantero, 1 trasero)
+
+  (Cantidad de puertos tipo C 0 antes y 1 después 0 antes y 1 después)
+
+  (Carga en Potencia de carga por cable del teléfono móvil (W) 18 semanas 18 semanas)
+
+  (el coche Número de carga inalámbrica de teléfonos móviles 1 antes y 0 después 1 antes y 0 después)
+
+- Potencia de carga inalámbrica del teléfono móvil (W) 50 W 50 W Fuente de alimentación de 12 V: en todas
+
+- Asientos ordinarios: en todas
+
+- Asientos divididos: en todas
+
+- Cuero sintético: en todas
+
+- Asiento eléctrico con ajuste de 6 posiciones: en todas
+
+- Soporte lumbar eléctrico de 2 vías: en todas
+
+- Ajuste manual del reposacabezas del conductor: en todas
+
+- Función de calefacción del asiento del conductor (cojín + respaldo): en todas
+
+- Función de ventilación del asiento del conductor (cojín + respaldo): en todas
+
+- Cortesía del asiento del conductor: en todas
+
+- Memoria del asiento del conductor: en todas
+
+- Bolsa de almacenamiento para asiento del conductor: en todas
+
+- Asiento eléctrico del conductor con ajuste de 4 posiciones: en todas
+
+- Ajuste eléctrico del reposapiernas (ángulo) en asiento del conductor Asientos: en todas
+
+- Ajuste manual del reposacabezas en asiento del conductor: en todas
+
+- Soporte para las piernas del asiento del pasajero: en todas
+
+- Función de calefacción del asiento del pasajero (cojín + respaldo): en todas
+
+- Función de ventilación del asiento del pasajero (cojín + respaldo): en todas
+
+- Cortesía del asiento del pasajero: en todas
+
+- Memoria del asiento del pasajero: en todas
+
+- Bolsa de almacenamiento para asiento del pasajero: en todas
+
+- Ajuste manual del reposacabezas del pasajero: en todas
+
+- Asientos de la segunda fila 4-6 plegables: en todas
+
+- Apoyabrazos central delantero: en todas
+
+- Portavasos delantero normal: en todas
+
+- Reposacabezas de la segunda fila con reposabrazos central integrado: en todas
+
+- Apoyabrazos independiente del asiento de la segunda fila: en todas
+
+- Altavoces de marca común: en todas
+
+
+
+## Parlantes
+
+- Audio / Subwoofer/amplificador: REEV NO; BEV SÍ
+
+- iluminación Iluminación ambiental multicolor: REEV NO; BEV SÍ
+
+- interior Luces de lectura delanteras: en todas
+
+- Luces de lectura traseras: en todas
+
+- Luz del maletero: en todas
+
+
+[página 7]
+
+
+## VERSIÓN
+
+- Aire acondicionado con control de temperatura PTC: en todas
+
+- Control automático del aire acondicionado: en todas
+
+- Aire acondicionado de zona única Temperatura: en todas
+
+- Salidas de aire acondicionado de la segunda fila: en todas
+
+- Ventilación manual del aire acondicionado: en todas
+
+- Filtro de aire acondicionado PM2.5: en todas
+
+- Color interior: estrella negra brillante gris roca / naranja Idioma y visualización de pantalla del sistema en el extranjero Inglés y español Inglés y español: en todas
+
+- Timón izquierdo Otros: en todas
+
+- Función de zona horaria completa: en todas
+
+- Radio FM/AM: en todas
+
+- Radio digital DAB Interacción de voz + idioma de navegación Inglés y español Inglés y español: en todas
+
+- Apple CarPlay + Android Auto: en todas
+
+- Función de estacionamiento en marcha N: en todas
+
+- Interfaz de carga estándar europea a estándar estadounidense con instalación trasera (carga rápida + lenta + estación de energía móvil): en todas
+
+  (Deepal Uruguay)
+
+  (Nota: Las especiﬁcaciones aplican para Deepal S05 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de laboratorio, que pueden no)
+
+  (reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa Rosa Automotores S.A. se reserva el derecho de)
+
+  (efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas y certiﬁcadas por Santa Rosa Automotores S.A para este modelo,)
+
+  (conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar)
+
+  (sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los)
+
+  (tapizados en caso que se aplique están fabricados en cuero automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores)
+
+  (reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa)
+
+  (autorización escrita de Santa Rosa Automotores Uruguay S.A.)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+S05

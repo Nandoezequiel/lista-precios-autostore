@@ -1,0 +1,1200 @@
+{
+ "grupo": "jmc",
+ "modelos": [
+  {
+   "modelo": "JMEV",
+   "ids": [
+    59,
+    60
+   ],
+   "fuentes": [
+    {
+     "url": "https://jmev.com.uy/jmev-3",
+     "que": "sitio oficial JMEV Uruguay (Santa Rosa) JMEV 3"
+    },
+    {
+     "url": "https://jmev.com.uy/jmev-2",
+     "que": "sitio oficial JMEV Uruguay JMEV 2"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2026/06/lanzamiento-jmc-jmev-2.html",
+     "que": "prensa Autoblog Uruguay"
+    }
+   ],
+   "pdf": [
+    "JMEV 3.pdf",
+    "JMEV 2.pdf"
+   ],
+   "fotos": [
+    "jmev-3-1.png",
+    "jmev-2-1.png",
+    "jmev-2-2.png",
+    "jmev-2-3.png",
+    "jmev-2-4.png"
+   ],
+   "comun": {
+    "carroceria": "Hatchback",
+    "combustible": "Eléctrico",
+    "traccion": "4x2",
+    "transmision": "Automática (reductora 1 vel.)",
+    "garantia": "3 años o 100.000 km; batería 8 años o 120.000 km (catálogo; el sitio dice 5 años/120.000 km)",
+    "puertas": 5,
+    "airbags": 2
+   },
+   "versiones": {
+    "59": {
+     "nombre_oficial": "JMEV 3",
+     "plazas": 5,
+     "potencia_hp": 67,
+     "torque_nm": 125,
+     "bateria_kwh": 31.2,
+     "autonomia_km": 320,
+     "autonomia_ciclo": "NEDC (catálogo; el sitio indica CLTC)",
+     "largo_mm": 3720,
+     "ancho_mm": 1640,
+     "alto_mm": 1535,
+     "entre_ejes_mm": 2390,
+     "peso_kg": 1030,
+     "velocidad_max_kmh": 110,
+     "neumaticos": "165/65 R15",
+     "precio_usd": 15990
+    },
+    "60": {
+     "nombre_oficial": "JMEV 2",
+     "plazas": 4,
+     "potencia_hp": 40,
+     "torque_nm": 85,
+     "bateria_kwh": 15.86,
+     "autonomia_km": 200,
+     "autonomia_ciclo": "CLTC",
+     "largo_mm": 3500,
+     "ancho_mm": 1646,
+     "alto_mm": 1456,
+     "entre_ejes_mm": 2340,
+     "peso_kg": 890,
+     "velocidad_max_kmh": 100,
+     "neumaticos": "165/65 R14",
+     "precio_usd": 13990
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "2 airbags",
+      "Monitoreo de presión de neumáticos",
+      "Anclaje ISOFIX",
+      "Seguro para niños en puerta trasera",
+      "Apagado automático en colisión"
+     ],
+     "confort": [
+      "Dirección asistida eléctrica",
+      "Asistente de arranque en pendiente",
+      "Columna de dirección plegable",
+      "Kit anti pinchazos",
+      "Carga rápida CCS2"
+     ],
+     "multimedia": [
+      "2 puertos USB",
+      "2 parlantes"
+     ]
+    },
+    "59": {
+     "seguridad": [
+      "Control de estabilidad",
+      "Freno de disco en 4 ruedas",
+      "Radar de estacionamiento trasero",
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Llantas de aleación",
+      "Autohold",
+      "Freno de estacionamiento electrónico",
+      "Luces LED delanteras",
+      "Antiniebla trasero"
+     ],
+     "multimedia": [
+      "Pantalla 10,1\"",
+      "Wi-Fi"
+     ]
+    },
+    "60": {
+     "seguridad": [
+      "Freno de disco delantero y tambor trasero",
+      "Alerta sonora para peatones",
+      "Cámara de reversa"
+     ],
+     "multimedia": [
+      "Pantalla 9\""
+     ]
+    }
+   },
+   "ficha_texto": "JMEV 3 (id 59) y JMEV 2 (id 60): citycars 100% eléctricos importados de China, distribuidos por Santa Rosa. JMEV 3: motor eléctrico 50 kW / 67 HP, 125 Nm, batería de litio 31,2 kWh, autonomía 320 km (NEDC según catálogo; CLTC según sitio), 0-50 km/h en 4,5 s, 110 km/h, carga CCS2 (20-80% en 40 min DC). Dimensiones 3720 x 1640 x 1535 mm, entre ejes 2390, 1030 kg, neumáticos 165/65 R15, frenos de disco en 4 ruedas, pantalla 10,1\", cámara 360°, Wi-Fi, llantas de aleación, Autohold, freno de estacionamiento electrónico, ESC. Precio sitio USD 15.990. JMEV 2: motor síncrono de imanes permanentes 30 kW / 40 HP, 85 Nm, batería de litio 15,86 kWh, autonomía 200 km CLTC, 100 km/h, CCS2 (20-80% en 35 min DC), 3500 x 1646 x 1456 mm, entre ejes 2340, 890 kg, neumáticos 165/65 R14, freno de disco delantero y tambor trasero, pantalla 9\", cámara y sensor de reversa, sin ESC. Precio sitio USD 13.990. Ambos: 2 airbags frontales, ABS+EBD, TPMS, ISOFIX, dirección eléctrica, asistente en pendiente, kit anti pinchazos. Garantía 3 años o 100.000 km, batería 8 años/120.000 km (catálogo).",
+   "confianza": "alta",
+   "notas": "Fila 'JMEV 3'/'JMEV 2' = modelos homónimos. Contradicciones: autonomía JMEV 3 320 km (sitio/catálogo) vs 330 km (Autoblog, 31,9 kWh); garantía batería 8 años (catálogo) vs 5 años (sitio). Plazas JMEV 2 (4) y JMEV 3 (5) según descripción del sitio/prensa, no del catálogo. Precios del sitio, sin verificar vigencia. Solo 5 fotos (JMEV 3 una sola).",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "JMEV GSE",
+   "ids": [
+    61
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2024/08/lanzamiento-jmc-jmev-gse.html",
+     "que": "prensa Autoblog Uruguay (lanzamiento 8/2024)"
+    }
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Eléctrico",
+    "transmision": "Automática (reductora 1 vel.)",
+    "traccion": "Delantera",
+    "potencia_hp": 148,
+    "torque_nm": 225,
+    "bateria_kwh": 60,
+    "autonomia_km": 450,
+    "autonomia_ciclo": "WLTC",
+    "largo_mm": 4675,
+    "ancho_mm": 1835,
+    "alto_mm": 1480,
+    "entre_ejes_mm": 2500,
+    "despeje_mm": 145,
+    "peso_kg": 1570,
+    "baul_l": 411,
+    "velocidad_max_kmh": 140,
+    "aceleracion_0_100_s": 9.6,
+    "neumaticos": "215/50 R17",
+    "plazas": 5,
+    "puertas": 4,
+    "airbags": 2,
+    "garantia": "4 años o 100.000 km; batería 5 años o 150.000 km"
+   },
+   "versiones": {
+    "61": {
+     "nombre_oficial": "Family"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "2 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Monitoreo de presión de neumáticos",
+      "Anclaje ISOFIX",
+      "Cámara 360°",
+      "Radar de estacionamiento trasero",
+      "Freno de estacionamiento electrónico con Auto-Hold"
+     ],
+     "confort": [
+      "Climatizador digital",
+      "Control crucero",
+      "Arranque por botón",
+      "Tapizado eco-cuero",
+      "Modos de manejo Eco / Normal / Sport"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Instrumental digital 10,25\""
+     ]
+    }
+   },
+   "ficha_texto": "JMEV GSE Family: sedán eléctrico, motor síncrono de imanes permanentes 110 kW (~148 HP; Autoblog dice 147 cv), 225 Nm, tracción delantera, reductora de 1 relación. Batería LFP 60 kWh, autonomía 450 km WLTC. Carga rápida DC 30-80% en 30 min, AC 8-10 h. 0-100 km/h 9,6 s, 140 km/h. 4675 x 1835 x 1480 mm, entre ejes 2500, despeje 145, baúl 411 L, 1570 kg. Suspensión McPherson / multibrazo, discos ventilados adelante y sólidos atrás, neumáticos 215/50 R17. Equipo: 2 airbags, ABS/EBD/EBA, ASR/VDC, HHC, ISOFIX, TPMS, pantalla 12,3\" con CarPlay/Android Auto, instrumental LCD 10,25\", cámara 360°, sensores traseros, climatizador digital, control crucero, auto-hold. Garantía 4 años/100.000 km, batería 5 años/150.000 km. La versión Luxury (118 kW) suma airbags laterales y de cortina, ACC, AEB, BSW, LKA, LCA, TSR, full LED y asientos eléctricos, pero la lista solo trae 'Family'.",
+   "confianza": "media",
+   "notas": "Única fuente: prensa (2024); jmc.com.uy y jmev.com.uy ya no listan el GSE (solo JMEV 2 y 3), puede estar discontinuado. Sin fotos oficiales descargadas. Precio 2024 leasing taxi USD 29.990 + IVA.",
+   "marca": "JMC",
+   "pdf": [],
+   "fotos": []
+  },
+  {
+   "modelo": "Grand Avenue",
+   "ids": [
+    62,
+    63,
+    64
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/grand-avenue",
+     "que": "ficha oficial jmc.com.uy"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2026/08/lanzamiento-jmc-grand-avenue-gl-23-tdci.html",
+     "que": "prensa Autoblog (versión 4x4 AT)"
+    }
+   ],
+   "pdf": [
+    "JMC Grand Avenue.pdf"
+   ],
+   "fotos": [
+    "grand-avenue-1.jpg",
+    "grand-avenue-2.jpg",
+    "grand-avenue-3.jpg",
+    "grand-avenue-4.jpg",
+    "grand-avenue-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "combustible": "Diésel",
+    "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+    "cilindrada_cc": 2296,
+    "potencia_hp": 177,
+    "norma_emisiones": "Euro VI",
+    "largo_mm": 5450,
+    "ancho_mm": 1935,
+    "alto_mm": 1872,
+    "entre_ejes_mm": 3270,
+    "tanque_l": 80,
+    "plazas": 5,
+    "puertas": 4,
+    "airbags": 4,
+    "garantia": "3 años o 100.000 km",
+    "caja_carga_mm": "1546 x 1595 x 546"
+   },
+   "versiones": {
+    "62": {
+     "traccion": "4x2",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    },
+    "63": {
+     "traccion": "4x4 con reductora y bloqueo de diferencial central",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    },
+    "64": {
+     "traccion": "4x4 con reductora y bloqueo de diferencial central",
+     "transmision": "Automática 8 vel. (ZF)",
+     "torque_nm": 445,
+     "neumaticos": "265/65 R18",
+     "peso_kg": 1825,
+     "carga_util_kg": 800
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Radar de estacionamiento delantero y trasero",
+      "Cámara de reversa",
+      "2 airbags frontales",
+      "Airbag lateral",
+      "Anclaje ISOFIX",
+      "Inmovilizador",
+      "Freno de disco en 4 ruedas"
+     ],
+     "confort": [
+      "Arranque por botón y acceso sin llave",
+      "Control crucero",
+      "Climatizador",
+      "Tapizado cuero sintético",
+      "Levas al volante (paddle shift)",
+      "Volante ajustable"
+     ],
+     "multimedia": [
+      "Pantalla 10\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "Radio",
+      "Instrumental TFT 3,5\""
+     ]
+    }
+   },
+   "ficha_texto": "JMC Grand Avenue (diésel), pick-up doble cabina para 5 plazas. Motor 2.3 turbodiésel Ford Puma (fabricado en China por Jiangling), 177 HP, 400 Nm @1400-2800 rpm en las versiones manuales y 445 Nm @1500-2400 rpm en la 4x4 AT, inyección directa common rail, Euro VI (con depósito de urea de 10 L). Versiones: 4x2 MT y 4x4 MT con caja manual Magna de 6 marchas, 4x4 AT con automática de 8 marchas. 4x4 con reductora y bloqueo de diferencial central. Suspensión delantera doble parrilla con resortes, trasera eje rígido con elásticos; frenos de disco en 4 ruedas; ángulo de ataque/salida 30º/26º. Dimensiones 5450 x 1935 x 1872 mm, entre ejes 3270, trocha 1620, caja de carga 1546 x 1595 x 546 mm, tanque 80 L. Neumáticos 265/65 R17 (R18 en la 4x4 AT). Tara 1825 kg y carga útil 800 kg (versión 4x4 AT). Equipamiento: acceso sin llave y botón de arranque, pantalla 10\" con CarPlay/Android Auto, control crucero, climatizador, cuero sintético, paddle shift, ABS/EBD/ESP/TCS/HLA/HDC, sensores y cámara trasera, 4 airbags (2 frontales + laterales), ISOFIX. Garantía 3 años o 100.000 km.",
+   "confianza": "media",
+   "notas": "La ficha PDF tiene tabla en columnas mezcladas; asigné torque 400 a las manuales y 445 a la AT (Autoblog) y neumáticos R17/R18 por inferencia (R18 confirmado para la AT por Autoblog). Peso y carga útil solo conocidos para la 4x4 AT. Diferencias de equipamiento 4x2 vs 4x4 no desglosadas.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "Grand Avenue OFF ROAD",
+   "ids": [
+    65,
+    66
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/grand-avenue-pro",
+     "que": "ficha oficial jmc.com.uy Grand Avenue Pro"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2026/08/lanzamiento-jmc-grand-avenue-pro.html",
+     "que": "prensa Autoblog Grand Avenue Pro"
+    }
+   ],
+   "pdf": [
+    "JMC Grand Avenue Pro.pdf"
+   ],
+   "fotos": [
+    "grand-avenue-pro-1.png",
+    "grand-avenue-pro-2.png",
+    "grand-avenue-pro-3.png",
+    "grand-avenue-pro-4.png",
+    "grand-avenue-pro-5.png",
+    "grand-avenue-pro-6.png"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "motor": "2.3 turbo 4 cil. (Ford-Jiangling)",
+    "cilindrada_cc": 2296,
+    "traccion": "4x4 con reductora, bloqueo de diferencial central y trasero",
+    "transmision": "Automática 8 vel. (ZF)",
+    "norma_emisiones": "Euro VI",
+    "largo_mm": 5535,
+    "ancho_mm": 2055,
+    "alto_mm": 1920,
+    "entre_ejes_mm": 3270,
+    "despeje_mm": 255,
+    "tanque_l": 80,
+    "carga_util_kg": 975,
+    "plazas": 5,
+    "puertas": 4,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km",
+    "caja_carga_mm": "1546 x 1595 x 546",
+    "neumaticos": "265/70 R17 (ficha PDF); Autoblog indica 285/65 R17 All-Terrain"
+   },
+   "versiones": {
+    "65": {
+     "nombre_oficial": "Grand Avenue Pro 4x4 AT Diésel Luxury",
+     "combustible": "Diésel",
+     "motor": "2.3 TDCi turbodiésel common rail",
+     "potencia_hp": 177,
+     "torque_nm": 445,
+     "peso_kg": 2310,
+     "pbt_kg": 3285
+    },
+    "66": {
+     "nombre_oficial": "Grand Avenue Pro 4x4 AT Nafta Luxury",
+     "combustible": "Nafta",
+     "motor": "2.3 GTDi EcoBoost turbo inyección directa",
+     "potencia_hp": 255,
+     "torque_nm": 450,
+     "peso_kg": 2230,
+     "pbt_kg": 3205
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD",
+      "Control de estabilidad",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Control crucero adaptativo",
+      "Frenado automático de emergencia",
+      "Mantenimiento de carril",
+      "Monitoreo de presión de neumáticos",
+      "Radar de estacionamiento delantero y trasero",
+      "Cámara de reversa",
+      "Anclaje ISOFIX",
+      "Freno de estacionamiento electrónico con Auto-Hold",
+      "Diferencial trasero bloqueable"
+     ],
+     "confort": [
+      "Techo solar",
+      "Tapizado de cuero",
+      "Asiento conductor eléctrico 8 vías",
+      "Asiento acompañante eléctrico 6 vías",
+      "Climatizador",
+      "Arranque por botón y acceso sin llave",
+      "Sensor de lluvia",
+      "Levas al volante (paddle shift)",
+      "Estribos laterales",
+      "Barras de techo",
+      "Bedliner"
+     ],
+     "multimedia": [
+      "Pantalla 10,1\"",
+      "Apple CarPlay / Android Auto",
+      "Bluetooth",
+      "6 parlantes",
+      "Instrumental TFT 3,5\""
+     ]
+    }
+   },
+   "ficha_texto": "Grand Avenue Pro (en la lista 'Grand Avenue OFF ROAD'), versión única Luxury 4x4 AT con dos motores. Id 65: diésel 2.3 TDCi 177 HP, 445 Nm @1500-2400, tara 2310 kg, PBT 3285 kg. Id 66: nafta 2.3 GTDi EcoBoost 255 HP a 5500 rpm, 450 Nm @1500-2400, tara 2230 kg, PBT 3205 kg. Ambas: automática ZF de 8 marchas, 4x4 con reductora, bloqueos de diferencial central y trasero, modos de conducción (Normal, Eco, Sport, Nieve, Roca, Arena, Barro). Suspensión delantera doble horquilla con muelles, trasera eje rígido con ballestas; frenos de disco en 4 ruedas; dirección eléctrica; ángulos 32º ataque / 24,5º ventral / 27º salida; despeje 255 mm; vadeo 900 mm. Dimensiones 5535 x 2055 x 1920 mm, entre ejes 3270, caja 1546 x 1595 x 546 mm, carga útil 975 kg, tanque 80 L. Equipo: 6 airbags, control crucero adaptativo, AEB y mantenimiento de carril, TPMS, techo solar, cuero con asientos eléctricos, pantalla 10,1\" CarPlay/Android Auto, 6 parlantes, cámara y sensores, freno eléctrico con Auto-Hold, estribos, barras de techo, bedliner. Garantía 3 años o 100.000 km.",
+   "confianza": "media",
+   "notas": "Asumo que 'OFF ROAD 4X4 AT Diesel LUXURY' = Pro diésel y '4X4 AT GL LUXURY' = Pro nafta (GL=gasolina); ninguna fuente usa 'OFF ROAD'. Alternativa: 'GL' = Grand Avenue GL 2.3 TDCi 4x4 AT de Autoblog (177 HP/445 Nm, 5450 mm). Verificar con el vendedor. Neumáticos: PDF 265/70 R17, Autoblog 285/65 R17 AT.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "L536",
+   "ids": [
+    67
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/l536-furgon",
+     "que": "ficha oficial jmc.com.uy New Touring"
+    }
+   ],
+   "pdf": [
+    "JMC New Touring L536.pdf"
+   ],
+   "fotos": [
+    "touring-1.jpg",
+    "touring-2.jpg",
+    "touring-3.jpg",
+    "touring-4.jpg",
+    "touring-5.jpg",
+    "touring-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "Furgón",
+    "combustible": "Diésel",
+    "motor": "2.0 turbodiésel JX4D20A6H 4 cil.",
+    "cilindrada_cc": 2000,
+    "potencia_hp": 144,
+    "torque_nm": 355,
+    "norma_emisiones": "Euro VI",
+    "transmision": "Manual 6 vel.",
+    "traccion": "4x2 trasera (rueda trasera simple)",
+    "neumaticos": "215/75 R16LT",
+    "pbt_kg": 3800,
+    "peso_kg": 2200,
+    "carga_util_kg": 1600,
+    "entre_ejes_mm": 2933,
+    "alto_mm": 2498,
+    "plazas": 3,
+    "garantia": "3 años o 100.000 km",
+    "caja_carga_mm": "2570 x 1780 x 1720",
+    "volumen_carga_m3": 7.9,
+    "precio_usd": 28990
+   },
+   "versiones": {
+    "67": {
+     "nombre_oficial": "New Touring JX5045XXYTDA-L6"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Cinturones de 3 puntos en todas las plazas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción"
+     ]
+    }
+   },
+   "ficha_texto": "JMC New Touring (L536), furgón diésel. Motor 2.0 turbodiésel JX4D20A6H, 146 CV (144 HP) a 3200 rpm, 355 Nm entre 1400 y 2600 rpm, inyección Bosch, Euro VI, caja manual de 6 marchas, 3 plazas. Tara 2200 kg, carga útil 1600 kg, PBT 3800 kg. Entre ejes 2933 mm, altura 2498 mm. Caja de carga 2,57 x 1,78 x 1,72 m (~7,9 m3). Neumáticos 215/75 R16LT, sin rueda trasera doble. ABS, A/A y calefacción. Garantía 3 años o 100.000 km. Precio sitio USD 28.990.",
+   "confianza": "media",
+   "notas": "El PDF tiene valores desalineados; los pesos se asignaron por suma (2200+1600=3800). Plazas y 6 marchas deducidas del orden del texto. Equipamiento: solo ABS, A/A y calefacción confirmados.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N720 2800",
+   "ids": [
+    68,
+    69
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2019/07/lanzamiento-jmc-n720.html",
+     "que": "prensa Autoblog 2019 (lanzamiento N720)"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+    "cilindrada_cc": 2771,
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera",
+    "garantia": "3 años o 100.000 km",
+    "entre_ejes_mm": 2800,
+    "norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019"
+   },
+   "versiones": {
+    "68": {
+     "carroceria": "Chasis cabina"
+    },
+    "69": {
+     "carroceria": "Camión liviano con caja",
+     "caja_carga_mm": "3360 x 1940 x 380",
+     "carga_util_kg": 1910,
+     "peso_kg": 2365
+    }
+   },
+   "ficha_texto": "JMC N720 con distancia entre ejes de 2800 mm, cabina simple, rueda trasera simple (id 68 chasis cabina, id 69 con caja). Motor 2.8 turbodiésel (2771 cc), caja manual de 5 marchas, tracción trasera. Datos del lanzamiento 2019 (Autoblog) para cabina simple: caja 3360 x 1940 x 380 mm, carga útil 1910 kg, tara 2365 kg, 92 CV y 210 Nm (Euro II). La versión actual con motor JX493ZLQ4 Euro IV declara ~107 HP y 285 Nm. Garantía 3 años o 100.000 km.",
+   "confianza": "baja",
+   "notas": "Sin ficha oficial actual (el modelo ya no figura en jmc.com.uy; reemplazado por el N822). Datos de 2019 de otra generación. 'Full' en el nombre de versión no interpretable. Sin fotos oficiales.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "N720 3360",
+   "ids": [
+    70,
+    71,
+    72
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2019/07/lanzamiento-jmc-n720.html",
+     "que": "prensa Autoblog 2019"
+    },
+    {
+     "url": "https://www.montevideo.com.uy/Airbag/Lanzamiento-JMC-presenta-su-nueva-linea-de-camiones-livianos-N720-uc723726",
+     "que": "prensa Montevideo Portal 2019"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+    "cilindrada_cc": 2771,
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera, rueda trasera doble",
+    "garantia": "3 años o 100.000 km",
+    "entre_ejes_mm": 3360,
+    "largo_mm": 5995,
+    "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+    "potencia_hp": 107,
+    "torque_nm": 285
+   },
+   "versiones": {
+    "70": {
+     "nombre_oficial": "Cabina simple Medium Caja Full",
+     "carga_util_kg": 3400
+    },
+    "71": {
+     "nombre_oficial": "Cabina simple Wide Caja Full",
+     "carga_util_kg": 4435,
+     "peso_kg": 2565,
+     "caja_carga_mm": "4120 x 2140 x 440"
+    },
+    "72": {
+     "nombre_oficial": "Doble cabina Medium Caja Full",
+     "carga_util_kg": 2285,
+     "peso_kg": 2615,
+     "caja_carga_mm": "3400 x 2140 x 440",
+     "plazas": 5
+    }
+   },
+   "ficha_texto": "JMC N720 3360 (entre ejes 3360 mm, rueda trasera doble). Motor 2.8 turbodiésel 2771 cc, manual 5 marchas. Cabina simple Medium: ~3,4 t de carga (prensa 2019). Cabina simple Wide: caja 4120 x 2140 x 440 mm, carga útil 4435 kg, tara 2565 kg. Doble cabina Medium: caja 3400 x 2140 x 440, carga 2285 kg, tara 2615 kg. Largo total 5995 mm. Potencia 107 HP / 285 Nm con motor Euro IV (en 2019: 115 cv, Euro III). Garantía 3 años o 100.000 km.",
+   "confianza": "baja",
+   "notas": "Datos del lanzamiento 2019; el N720 ya no se publica en el sitio. Cifras por versión inferidas del orden de la nota de prensa. Sin fotos.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "Carrying EV",
+   "ids": [
+    73
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/carrying-ev",
+     "que": "ficha oficial jmc.com.uy"
+    }
+   ],
+   "pdf": [
+    "JMC Carrying EV.pdf"
+   ],
+   "fotos": [
+    "carrying-ev-1.jpg",
+    "carrying-ev-2.png",
+    "carrying-ev-3.png"
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Eléctrico",
+    "motor": "Eléctrico trasero TZ190XY113",
+    "potencia_hp": 120,
+    "torque_nm": 240,
+    "bateria_kwh": 64,
+    "autonomia_km": 260,
+    "autonomia_ciclo": "CLTC",
+    "transmision": "Automática (reductora)",
+    "traccion": "4x2 trasera",
+    "peso_kg": 1970,
+    "carga_util_kg": 1540,
+    "pbt_kg": 3510,
+    "entre_ejes_mm": 3100,
+    "alto_mm": 2200,
+    "caja_carga_mm": "3800 x 1790 x 400 (interna)",
+    "plazas": 2,
+    "neumaticos": "195/75 R16LT 12PR",
+    "airbags": 2,
+    "garantia": "3 años o 100.000 km; batería 5 años o 150.000 km",
+    "precio_usd": 29900
+   },
+   "versiones": {
+    "73": {
+     "nombre_oficial": "Carrying EV Caja JX1040TEABEV"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD",
+      "Airbag conductor",
+      "Airbag acompañante",
+      "Control de estabilidad",
+      "Monitoreo de presión de neumáticos",
+      "Freno de disco en 4 ruedas",
+      "Anclaje ISOFIX",
+      "Apagado automático en colisión"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción",
+      "Dirección asistida eléctrica",
+      "Levantavidrios eléctricos",
+      "Llave a distancia plegable",
+      "Carga rápida CCS2",
+      "Modos de manejo Normal / Eco"
+     ],
+     "multimedia": [
+      "Pantalla 10,1\"",
+      "Cámara 360°",
+      "Instrumental TFT 7\""
+     ]
+    }
+   },
+   "ficha_texto": "JMC Carrying EV Caja (JX1040TEABEV), camión liviano 100% eléctrico. Motor trasero TZ190XY113 de 122 CV (~120 HP) y 240 Nm. Batería CATL LFP de 64 kWh refrigerada por aire con calefacción, autonomía 260 km CLTC, carga rápida DC CCS2 y lenta AC. Tara 1970 kg, carga útil 1540 kg, PBT 3510 kg, entre ejes 3100 mm, altura 2200 mm. Caja interna 3,80 x 1,79 x 0,40 m (externa 3,89 x 1,88 x 0,40). 2 plazas, neumáticos 195/75 R16LT 12PR, rueda de auxilio completa, ABS. Equipo: A/A, calefacción, EPS, tablero TFT 7\", vidrios eléctricos, llave plegable, columna regulable 4 vías, cierre central. Garantía 3 años/100.000 km y batería 5 años/150.000 km. Precio sitio USD 29.900.",
+   "confianza": "media",
+   "notas": "Asignación de valores del PDF por suma de pesos (1970+1540=3510). La lista de equipamiento del sitio parece plantilla compartida con otros modelos; solo se usaron ítems coincidentes con el PDF (airbags=2, cámara 360° y pantalla 10,1\" provienen del sitio).",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N822 2850 CHASIS",
+   "ids": [
+    74
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/n822-2850-chasis",
+     "que": "ficha oficial jmc.com.uy"
+    }
+   ],
+   "pdf": [
+    "JMC N822 2850 Chasis.pdf"
+   ],
+   "fotos": [
+    "n822-chasis-1.png",
+    "n822-chasis-2.png",
+    "n822-chasis-3.png",
+    "n822-chasis-4.png"
+   ],
+   "comun": {
+    "carroceria": "Chasis cabina",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+    "cilindrada_cc": 2772,
+    "potencia_hp": 118,
+    "torque_nm": 325,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera",
+    "neumaticos": "7.0R16 14PR",
+    "garantia": "3 años sin límite de kilometraje",
+    "plazas": 2,
+    "entre_ejes_mm": 2850,
+    "alto_mm": 2435,
+    "peso_kg": 1980,
+    "carga_util_kg": 1980,
+    "pbt_kg": 3960
+   },
+   "versiones": {
+    "74": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Cinturones de 3 puntos en todas las plazas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción"
+     ]
+    }
+   },
+   "ficha_texto": "JMC N822 2850 chasis cabina (JX1044TC5). Motor 2.8 turbodiésel 2772 cc, 120 CV (~118 HP) a 3400 rpm, 325 Nm a 1800-2200 rpm, Euro V, inyección Bosch, caja manual 5 marchas, tracción 4x2 trasera. Entre ejes 2850 mm, altura 2435 mm. Tara 1980 kg, carga útil 1980 kg, PBT 3960 kg. 2 plazas, ABS, A/A, calefacción, neumáticos 7.0R16 14PR, sin rueda trasera doble. Garantía 3 años sin límite de km.",
+   "confianza": "media",
+   "notas": "Pesos por suma (1980+1980=3960); tara y carga idénticas: verificar.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N822 2850 CAJA",
+   "ids": [
+    75
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/n822-2850-caja",
+     "que": "ficha oficial jmc.com.uy"
+    }
+   ],
+   "pdf": [
+    "JMC N822 2850 Caja.pdf"
+   ],
+   "fotos": [
+    "n822-caja-1.png",
+    "n822-caja-2.jpg",
+    "n822-caja-3.jpg",
+    "n822-caja-4.jpg",
+    "n822-caja-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+    "cilindrada_cc": 2772,
+    "potencia_hp": 118,
+    "torque_nm": 325,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera",
+    "neumaticos": "7.0R16 14PR",
+    "garantia": "3 años sin límite de kilometraje",
+    "plazas": 2,
+    "entre_ejes_mm": 2850,
+    "alto_mm": 2435,
+    "peso_kg": 2380,
+    "carga_util_kg": 1980,
+    "pbt_kg": 4360,
+    "caja_carga_mm": "3700 x 2000 x 460 (interna); externa 3750 x 2080 x 530",
+    "precio_usd": 21300
+   },
+   "versiones": {
+    "75": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Cinturones de 3 puntos en todas las plazas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción"
+     ]
+    }
+   },
+   "ficha_texto": "JMC N822 2850 con caja (JX1044TC5). Motor 2.8 turbodiésel 2772 cc, 120 CV (~118 HP) a 3400 rpm, 325 Nm a 1800-2200 rpm, Euro V, Bosch, manual de 5 marchas, 4x2. Entre ejes 2850 mm, altura 2435 mm. Tara 2380 kg, carga útil 1980 kg (el sitio indica 1910 kg), PBT 4360 kg. Caja interna 3,70 x 2,00 x 0,46 m, externa 3,75 x 2,08 x 0,53 m. 2 plazas, ABS, A/A, calefacción, 7.0R16 14PR. Garantía 3 años. Precio sitio USD 21.300.",
+   "confianza": "alta",
+   "notas": "Carga útil: PDF 1980 kg vs sitio 1910 kg (usé el PDF; 2380+1980=4360 coincide con el PBT).",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N822 2850 DC",
+   "ids": [
+    76
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/n822-2850-caja",
+     "que": "familia N822 2850, sin ficha propia de doble cabina"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión liviano doble cabina",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+    "cilindrada_cc": 2772,
+    "potencia_hp": 118,
+    "torque_nm": 325,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera",
+    "neumaticos": "7.0R16 14PR",
+    "garantia": "3 años sin límite de kilometraje",
+    "plazas": 5,
+    "entre_ejes_mm": 2850
+   },
+   "versiones": {
+    "76": {}
+   },
+   "ficha_texto": "JMC N822 2850 doble cabina con caja. Comparte el motor del N822 2850: 2.8 turbodiésel 2772 cc, ~118 HP, 325 Nm, Euro V, manual de 5 marchas, 4x2, entre ejes 2850 mm. El sitio oficial lo lista en el formulario pero no tiene página ni ficha propia; pesos y medidas de caja no disponibles.",
+   "confianza": "baja",
+   "notas": "Sin ficha propia. Motor y entre ejes inferidos de la familia 2850; plazas=5 supuesto por ser doble cabina. Sin fotos.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "N822 3815",
+   "ids": [
+    77
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/n822-3815-caja",
+     "que": "ficha oficial jmc.com.uy"
+    }
+   ],
+   "pdf": [
+    "JMC N822 3815 Caja.pdf"
+   ],
+   "fotos": [
+    "n822-3815-1.png",
+    "n822-3815-2.jpg",
+    "n822-3815-3.jpg"
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "motor": "2.9 turbodiésel JX4D30D5H 4 cil. Bosch",
+    "cilindrada_cc": 2892,
+    "potencia_hp": 154,
+    "torque_nm": 440,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 6 vel.",
+    "traccion": "4x2 trasera, rueda trasera doble",
+    "neumaticos": "8.25R16 / 7.5R16 16PR",
+    "entre_ejes_mm": 3815,
+    "alto_mm": 2455,
+    "peso_kg": 3260,
+    "carga_util_kg": 5000,
+    "pbt_kg": 8260,
+    "plazas": 2,
+    "garantia": "3 años sin límite de kilometraje"
+   },
+   "versiones": {
+    "77": {
+     "nombre_oficial": "JX1079TK24 caja (en lista); ficha JX1079TK25"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Cinturones de 3 puntos en todas las plazas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción"
+     ]
+    }
+   },
+   "ficha_texto": "JMC N822 3815 Cargo (JX1079TK25). Motor 2.9 turbodiésel JX4D30D5H de 2892 cc, 156 CV (~154 HP) a 2800 rpm, 440 Nm a 1400-2400 rpm, Euro V, Bosch, manual de 6 marchas, rueda trasera doble. Entre ejes 3815 mm, altura 2455 mm. Tara 3260 kg, carga útil 5000 kg, PBT 8260 kg. 2 plazas, ABS, A/A, calefacción. Neumáticos 8.25R16 y 7.5R16 16PR. Garantía 3 años sin límite de km.",
+   "confianza": "media",
+   "notas": "La lista dice JX1079TK24, la ficha oficial JX1079TK25. Medidas de caja no publicadas. Asignación de neumáticos por eje ambigua en el PDF.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N822 3360",
+   "ids": [
+    78,
+    79,
+    80
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/volcadora-cabina-simple",
+     "que": "mismo chasis 3360 en ficha volcadora (referencia)"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+    "cilindrada_cc": 2772,
+    "potencia_hp": 118,
+    "torque_nm": 325,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera, rueda trasera doble",
+    "neumaticos": "7.0R16 10PR",
+    "garantia": "3 años sin límite de kilometraje",
+    "plazas": 2,
+    "entre_ejes_mm": 3360
+   },
+   "versiones": {
+    "78": {
+     "nombre_oficial": "Cabina simple Medium caja"
+    },
+    "79": {
+     "nombre_oficial": "Doble cabina Medium caja",
+     "plazas": 5
+    },
+    "80": {
+     "nombre_oficial": "Cabina simple Wide caja"
+    }
+   },
+   "ficha_texto": "JMC N822 con distancia entre ejes de 3360 mm (Medium y Wide, cabina simple o doble) con caja. Motor 2.8 turbodiésel 2772 cc, ~118 HP, 325 Nm, Euro V, manual 5 marchas, 4x2 con rueda trasera doble. No hay ficha oficial de estas versiones con caja; el sitio las lista solo en el formulario de contacto. El chasis 3360 de las volcadoras tiene PBT 6000 kg.",
+   "confianza": "baja",
+   "notas": "Sin ficha por versión; motor y neumáticos tomados de la familia N822 y de la ficha volcadora (mismo chasis 3360). Sin fotos.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "N822 VOLCADORA",
+   "ids": [
+    81,
+    82
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/volcadora-cabina-simple",
+     "que": "ficha oficial volcadora CS"
+    },
+    {
+     "url": "https://www.jmc.com.uy/modelos/volcadora-doble-cabina",
+     "que": "ficha oficial volcadora DC"
+    }
+   ],
+   "pdf": [
+    "JMC N822 Volcadora CS.pdf",
+    "JMC N822 Volcadora DC.pdf"
+   ],
+   "fotos": [
+    "n822-volcadora-cs-1.png",
+    "n822-volcadora-dc-1.jpg",
+    "n822-volcadora-dc-2.jpg",
+    "n822-volcadora-dc-3.jpg",
+    "n822-volcadora-dc-4.jpg"
+   ],
+   "comun": {
+    "carroceria": "Camión volcador",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+    "cilindrada_cc": 2772,
+    "potencia_hp": 118,
+    "torque_nm": 325,
+    "norma_emisiones": "Euro V",
+    "transmision": "Manual 5 vel.",
+    "traccion": "4x2 trasera, rueda trasera doble",
+    "neumaticos": "7.0R16 10PR",
+    "garantia": "3 años sin límite de kilometraje",
+    "plazas": 2,
+    "entre_ejes_mm": 3360,
+    "alto_mm": 2260,
+    "pbt_kg": 6000
+   },
+   "versiones": {
+    "81": {
+     "nombre_oficial": "Volcadora cabina simple JMT3054XTG25",
+     "peso_kg": 2680,
+     "carga_util_kg": 3320,
+     "plazas": 2
+    },
+    "82": {
+     "nombre_oficial": "Volcadora doble cabina JMT3054XTSG25",
+     "peso_kg": 2760,
+     "carga_util_kg": 3240,
+     "caja_carga_mm": "3000 x 2000 x 400 (interna)",
+     "plazas": 5
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS",
+      "Cinturones de 3 puntos en todas las plazas"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Calefacción"
+     ]
+    }
+   },
+   "ficha_texto": "JMC N822 Volcadora (Medium, entre ejes 3360 mm), motor 2.8 turbodiésel JX493ZLQ5C, 120 CV (~118 HP), 325 Nm, Euro V, manual 5 marchas, rueda trasera doble, neumáticos 7.0R16 10PR, ABS, A/A, calefacción. PBT 6000 kg. Cabina simple (JMT3054XTG25): tara 2680 kg, carga útil 3320 kg. Doble cabina (JMT3054XTSG25): tara 2760 kg, carga útil 3240 kg, caja volcadora interior 3,00 x 2,00 x 0,40 m. Garantía 3 años sin límite de km.",
+   "confianza": "media",
+   "notas": "Pesos asignados por suma al PBT 6000. Medidas de caja de la CS no publicadas. Altura 2,26 m inferida de la posición en la tabla. Fotos: 1 de la CS, 4 de la DC.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "NHR",
+   "ids": [
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.montevideo.com.uy/Airbag/JMC-lanza-una-promocion-con-precios-preferenciales-en-tres-de-sus-modelos-uc783412",
+     "que": "prensa Montevideo Portal (promoción NHR)"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión liviano",
+    "combustible": "Diésel",
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "83": {
+     "nombre_oficial": "Cabina simple chasis STD",
+     "carroceria": "Chasis cabina"
+    },
+    "84": {
+     "nombre_oficial": "Cabina simple chasis Full",
+     "carroceria": "Chasis cabina"
+    },
+    "85": {
+     "nombre_oficial": "Cabina simple caja STD"
+    },
+    "86": {
+     "nombre_oficial": "Cabina simple caja Full"
+    },
+    "87": {
+     "nombre_oficial": "Cabina simple Box"
+    },
+    "88": {
+     "nombre_oficial": "Doble cabina caja",
+     "plazas": 5
+    }
+   },
+   "ficha_texto": "JMC NHR: línea de camiones livianos de Santa Rosa (anterior al N720/N822), motor diésel con ABS, rueda trasera simple. Versiones en la lista: cabina simple en chasis, con caja y 'Box', y doble cabina con caja. Garantía 3 años o 100.000 km. No se hallaron fichas con motor, potencia, PBT ni medidas de caja: el modelo ya no figura en jmc.com.uy.",
+   "confianza": "baja",
+   "notas": "Sin ficha técnica oficial vigente; solo prensa antigua (promoción ~USD 18.990 + IVA para Box y Doble cabina caja, ~2021). Sin fotos.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "N800 Wrecker",
+   "ids": [
+    89
+   ],
+   "comun": {
+    "carroceria": "Camión liviano - auxilio (wrecker)",
+    "combustible": "Diésel",
+    "entre_ejes_mm": 3360
+   },
+   "versiones": {
+    "89": {
+     "nombre_oficial": "N800 Wrecker 3360"
+    }
+   },
+   "ficha_texto": "JMC N800 Wrecker 3360: camión de auxilio (grúa/plataforma) con distancia entre ejes de 3360 mm (dato tomado del nombre de la versión). No se encontró ficha técnica ni mención en jmc.com.uy ni en prensa uruguaya: se desconocen motor, potencia, PBT y equipamiento.",
+   "confianza": "baja",
+   "notas": "Sin datos en ninguna fuente consultada. Posible modelo fuera de catálogo o bajo pedido. El combustible diésel es supuesto.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  },
+  {
+   "modelo": "Workshop",
+   "ids": [
+    90
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/workshop",
+     "que": "ficha oficial jmc.com.uy"
+    }
+   ],
+   "pdf": [
+    "JMC Workshop.pdf"
+   ],
+   "fotos": [
+    "workshop-1.jpg",
+    "workshop-2.png"
+   ],
+   "comun": {
+    "carroceria": "Camión liviano cabina triple",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ4 common rail intercooler",
+    "cilindrada_cc": 2771,
+    "potencia_hp": 107,
+    "torque_nm": 285,
+    "norma_emisiones": "Euro IV",
+    "transmision": "Manual 5 vel. + marcha atrás",
+    "traccion": "4x2",
+    "neumaticos": "7.00 R16 LT 8PR",
+    "entre_ejes_mm": 3360,
+    "peso_kg": 3750,
+    "carga_util_kg": 2550,
+    "pbt_kg": 6300,
+    "plazas": 8,
+    "largo_mm": 5995,
+    "ancho_mm": 1885,
+    "alto_mm": 2160,
+    "despeje_mm": 200,
+    "caja_carga_mm": "1890 x 1740 x 440"
+   },
+   "versiones": {
+    "90": {
+     "nombre_oficial": "Workshop JX5043XGCML2"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS"
+     ],
+     "confort": [
+      "Aire acondicionado",
+      "Levantavidrios eléctricos",
+      "Volante regulable",
+      "Radio"
+     ]
+    }
+   },
+   "ficha_texto": "JMC Workshop cabina triple (JX5043XGCML2): camión para 7 pasajeros + conductor con caja abierta y portaequipajes en techo. Motor 2.8 turbodiésel JX493ZLQ4 (2771 cc) common rail con intercooler, 80 kW / 107 HP a 3600 rpm, 285 Nm a 2000 rpm, Euro IV, manual de 5 marchas, 2WD. Entre ejes 3360 mm, medidas exteriores 5995 x 1885 x 2160 mm, caja 1890 x 1740 x 440 mm, despeje 200 mm, giro 13,6 m. Peso en vacío 3750 kg, capacidad de carga 2550 kg, PBT 6300 kg. Neumáticos 7.00 R16 LT 8PR. Equipo: A/A, cristales eléctricos, bloqueo, ABS, odómetro digital, tacómetro, radio, volante regulable, barra protectora de luneta.",
+   "confianza": "media",
+   "notas": "Pesos asignados por suma (3750+2550=6300), peso en vacío alto para este tipo de camión: verificar. Trocha ambigua en la tabla (no incluida). Garantía no legible en el PDF.",
+   "marca": "JMC"
+  },
+  {
+   "modelo": "N720 VOLCADORA DC",
+   "ids": [
+    91
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.jmc.com.uy/modelos/volcadora-doble-cabina",
+     "que": "referencia: volcadora N822 DC (modelo sucesor)"
+    },
+    {
+     "url": "https://www.jmc.com.uy/modelos/workshop",
+     "que": "motor JX493ZLQ4 Euro IV compartido"
+    }
+   ],
+   "comun": {
+    "carroceria": "Camión volcador doble cabina",
+    "combustible": "Diésel",
+    "motor": "2.8 turbodiésel JX493ZLQ4",
+    "cilindrada_cc": 2771,
+    "potencia_hp": 107,
+    "torque_nm": 285,
+    "norma_emisiones": "Euro IV",
+    "transmision": "Manual 5 vel.",
+    "entre_ejes_mm": 3360,
+    "plazas": 5,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "91": {
+     "nombre_oficial": "N720 MED DC VOL E4 JX1064TSG24"
+    }
+   },
+   "ficha_texto": "JMC N720 Medium doble cabina volcadora, homologación Euro IV (E4), código JX1064TSG24. Motor 2.8 turbodiésel 2771 cc (JX493ZLQ4, el de la ficha Workshop), 107 HP, 285 Nm, manual de 5 marchas, entre ejes 3360 mm (Medium). El N720 ya no está en el sitio oficial; lo reemplaza la volcadora N822 DC. No hay tara, carga ni medidas de caja publicadas.",
+   "confianza": "baja",
+   "notas": "Sin ficha oficial. Motor deducido de la ficha Workshop (misma generación Euro IV). Sin fotos.",
+   "marca": "JMC",
+   "pdf": [],
+   "equipamiento": {},
+   "fotos": []
+  }
+ ]
+}

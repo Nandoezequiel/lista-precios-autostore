@@ -1,0 +1,279 @@
+
+--- p1 ---
+HUNTER
+REEV
+
+--- p2 ---
+Dirección asistida con inducción de velocidad
+Modo de dirección asistida ajustable
+Suspeción independiente Mac Pherson
+Suspención independiente multibrazo
+Tracción trasera
+Columna de dirección abseorvente de energía en colisiones
+Llantas de aluminio
+Rodado R17 delantera R18 trasera
+Frenos delanteros disco ventilado
+Frenos traseros disco ventilado
+ABS + EBD
+ESP
+TCS
+Asistencia de franado (BA)
+Control de asistencia en pendiente (HHC)
+Control de descenso en pendientes (HDC)
+Autohold
+Desbloqueo automático en caso de colisión de la puerta
+Bloqueo automático por indución de velocidad
+Airbag para el conductor
+Airbag para el pasajero delantero
+Airbag lateral para la fila delantera y trasera
+Cortinas de seguridad de gas integrada en filas delantera y trasera
+Cierre infantil electrónico
+Cinturón 3 puntos limitación de fuerza y pretensado (frontal)
+Cinturón 3 puntos limitación de fuerza y pretensado (trasero)
+Arranque sin llave
+Acceso sin llave
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Seguridad y confort
+Tipos de vehículo
+REEV 4x2
+REEV 4x4
+D20TG-AB
+Euro 5
+■
+■
+31.18
+-
+130
+130
+320
+0.5
+Modelo de motor
+Normas de emisiones del motor
+Tapa del motor
+Cubierta de insonorización del capó
+Capacidad de la batería (kWh)
+Potencia del motor de tracción delantera (kW)
+Potencia del motor de tracción trasera (kW)
+Potencia total del motor eléctrico (kW)
+Par motor total de combustión (Nm)
+Tiempo de carga rápida (h)
+Combinación de potencia
+D20TG-AB
+Euro 5
+■
+■
+31.18
+70
+130
+200
+470
+0.5
+Motor
+Motor de
+batería
+5380*1980*1885
+1600*1595*520
+3180
+1610
+1630
+133
+4
+5
+5380*1980*1875
+1600*1595*520
+3180
+1610
+1630
+131
+4
+5
+Dimensiones del vehículo (mm)
+Tamaño de la caja de carga (mm)
+Distancia entre ejes (mm)
+Distancia entre ejes delantera (mm)
+Distancia entre ejes trasera (mm)
+Autonomía eléctrica NEDC (km)
+Número de puertas
+Número de asientos
+Parámetros básicos
+Parámetros
+del vehículo
+
+--- p3 ---
+1
+1
+■
+■
+6 direcciones
+4 direcciones
+■
+■
+■
+■
+4 direcciones
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Tomacorriente 12V fila delantera
+Tomacorriente 12V fila trasera
+Manija interior eléctrica de la puerta
+Asiento cuero y tela
+Alcance de ajsute asiento conductor
+Soporte lumbar eléctrico asiento conductor
+Función de memoria asiento conductor
+Asistente asiento conductor
+Asiento calefaccionado conductor
+Asiento ventilado conductor
+Alcance de ajuste asiento pasajero delantero
+Asiento calefaccionado pasajero delantero
+Asiento ventilado pasajero delantero
+Respaldo 4/6 asiento trasero separación abatible
+Reposacabezas asiento central trasero
+Ajuste en altura de reposacabezas asientos traseros
+Apoyabrazos central (con portavasos) en asientos traseros
+Doble acristalamiento en la puerta delantera y ventana
+Cierre automático en días lluviosos
+Desempañado de parabrisas delantero automático
+Descongelación y desempañado de la ventana trasera
+Modo de ajuste: eléctrico
+Calefacción de los espejos retrovisores exteriores
+Memoria de posición de los espejos retrovisores
+Plegado automático de los espejos exteriores al estacionar
+Espejo retrovisor interior antiviento automático
+Climatizador bi zona
+ADAS
+Interior
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Advertencia de colisión frontal (FCW)
+Advertencia de salida de carril (LDW)
+Freno de emergencia automático reconocimiento peatones  (AEB-P)
+Asistencia de mantenimiento de carril en emergencias (ELK)
+Asistencia para mantener carril (LKA)
+Alerta de cambio de carril (LDCA)
+Advertencia de colisión trasera lateral (RCTA)
+Advertencia de apertura de puertas (SEW)
+Detección de punto ciego (BSD)
+Freno de emergencia lateral en reversa (RCTB)
+Control de crucero adaptativo (ACC)
+Control de centrado en el carril (LCC)
+Asistencia en atasco de tráfico (TJA)
+Control de desviación ltaeral (LDC)
+
+--- p4 ---
+MONTEVIDEO · ALVISI, Avda. Garibaldi 2352 / 2209 9637 | 2203 1924 · VIPERCAR, Gral. Flores 3431 / 2204 4444 · PASCUAL AUTOMOTORES, Camino Carrasco 151, esq. Manuel Albo / 2601 1794 · OSCAR PISANO AUTOMÓVILES, 
+Avda. Millán 4328 / 2356 1015 ·  HILTON MOTORS, Ejido 1576 / 2903 0733 · CASEY, José L. Terra 2122 / 2929 6969 · INTERIOR · RIVERA: HORIZONTE AUTOMÓVILES, Joaquín Suárez 767 / 4623 6748 · SALTO: OMAR CASTRO 
+AUTOMÓVILES, Rivera 1001 / 4733 4623 · PAYSANDÚ: WAVE AUTOMOTORES, Setembrino Pereda 975 / 4722 5178 | 4724 3459· CANELONES, CAR ONE,  Ruta Interbalnearia y Camino de Los Horneros, 15800 Ciudad de la Costa / 
+26816890 int 5300 - 5301 - 5035 / 091 44 55 88 / 091 801 515 / 092 504 455 · CANELONES, PANDO: MOREIRA AUTOMÓVILES,  Piedras esq. Roosevelt, 2292 2683 | 2292–1631 · CANELONES / LAS PIEDRAS: MOREIRA AUTOMÓVILES, 
+Avda. Dr. Enrique Pouey esq. Manuel Freire / 2369-9847 · SAN JOSÉ: AUTOMOTORA CABRERA /SANTA ROSA AUTOMOTORES, Luis A. de Herrera 550, 4342 1392 · MALDONADO: RENAULT PUNTA DEL ESTE, Avda. Martiniano Chiossi 
+esq. Thailandia / 42261900 · ROCHA: RENAULT NISSAN JMC CHANGAN, Ruta 9 y Ruta 15 · TACUAREMBÓ: GREGORIO RÍOS AUTOMOTORES, Avda. Pablo Ríos 154 / 4632 2203.
+*IMÁGENES MERAMENTE ILUSTRATIVAS 
+Recomendamos
+Cerro Largo 907 l      092 480 707
+Versión 02 04/2025
+■
+■
+LED
+■
+■
+■
+■
+■
+LED
+■
+■
+■
+■
+■
+Desbloqueo táctil en pantalla
++ presionar para abrir
+Función de cierre retardado de los faros
+Encendido y apagao automático de los faros
+Tipo de faros
+Luz de carretera inteligente (FAB)
+Faros antiniebla traseros
+Lámpara de reversa LED
+Ajuste manual electrónico de la altura de los faros
+Función de bienvenida de luces delanteras y traseras
+Tipo de luces traseras
+Función advertencia frenado emergencia (intermintente doble)
+Lámpara de advertencia de puerta abierta
+Iluminación ambiental LED (multicolor)
+Lar
+Puertas sin marco
+Modo de apertura del tanque de nafta
+Modo de apertura de tapa de interfaz de carga
+Cabina Inteligente
+Exterior
+■
+■
+■
+■
+■
+■
+12,3
+■
+■
+■
+Reconocimiento de gestos
+Asistente de voz inteligente
+Apple CarPlay
+Android Auto
+Cargador inalámbrico para celulares
+Rotación de pantalla
+Pantalla central
+USB C en fila delantera
+USB C en fila trasera
+Sistema de audio 14 altavoces

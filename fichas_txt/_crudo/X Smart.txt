@@ -1,0 +1,118 @@
+
+--- p1 ---
+ZEEKR X SMART
+Especificaciones
+Modelo 2025
+
+--- p2 ---
+Versiones
+Motor
+Electro motor - Single
+Tracción
+2WD
+Autonomía
+330 km WLTP
+Aceleración
+0 – 100 km en 5,6 segundos
+X Smart
+Batería
+49 kWh Lithium-ion
+Carga
+· Carga rápida DC (LFP 120 kW )
+· Carga AC (11 kW)
+Torque (N*m)
+343
+Potencia
+200/272 (kW/HP)
+
+--- p3 ---
+Chasis
+Suspención frontal
+MacPherson
+Suspensión trasera
+Multilink
+X Smart
+Freno de estacionamiento
+electrónico (EPB)
+Múltiples modos de conducción
+Llanta Star Hub de 18”
+Neumático 235/55R18
+
+--- p4 ---
+Dimensiones
+· Largo (mm): 4.432
+· Ancho (mm): 1.836
+· Altura (mm): 1.566
+· Distancia entre ejes (mm): 2.750
+X Smart
+· Altura libre al suelo (mm): 191
+· Peso en vacío (kg): 1.855
+· Capacidad del baúl : 362 litros / 1,182
+
+--- p5 ---
+¿Título?
+· Ventanas sin marco en puertas delanteras y traseras
+· Apertura eléctrica de puertas delanteras y traseras
+· Techo panorámico con protección térmica
+· Espejos retrovisores exteriores eléctricos
+(Con calefacción, plegado, memoria y función de inclinación automática al retroceder)
+· Espejos exteriores con luces direccionales integradas
+· Limpiaparabrisas delanteros: Sensibles a la lluvia, arranque automático
+· Limpiaparabrisas trasero: Sin brazo (o sin estructura)
+X Smart
+
+--- p6 ---
+Especificaciones
+X Smart
+Intelligent Cockpit & Mobility Ecology
+· Cluster: Cluster LCD Full HD, 8.8''
+· Disposición CSD: Pantalla táctil de 14.6''
+· Audio de alto rendimiento con 7 altavoces
+· Carga inalámbrica para teléfono móvil.
+· Carplay & Android Auto
+Seguridad
+· Grabadora de video digital (DVR)
+· 7 Airbags
+· Recordatorio de cinturón de seguridad delantero y 
+trasero con sensor de presión e indicador sonoro
+· Cierres eléctricos para niños
+· Funciones ESP (incluye Control de Descenso en 
+Pendientes (HDC), Programa Antivuelco (ARP))
+· Funciones ABS (incluye Distribución Electrónica de 
+Frenado (EBD))
+· Control Electrónico de Tracción (TCS/ASR)
+· Control de Frenado en Curvas (CBC)
+· Sistema de Monitoreo de Presión de Neumáticos 
+(TPMS)
+· Sistema de Asistencia de Frenado (incluye destello 
+de luz de frenado de emergencia)
+· Alerta sonora para peatones a baja velocidad
+ADAS
+· Cámara 360°
+· CMSF (Asistencia de Mitigación de Colisión frontal) 
+(Peatones) (Frenado Autónomo de Emergencia - 
+AEB-C, AEB-P, AEB-Cy)
+· CMSR (Asistencia de Mitigación de Colisión trasera)
+· ELKA (Asistencia de mantenimiento de carril de 
+emergencia)
+· TSI (Información de señales de tráfico)
+· LDW (Alerta de salida de carril)
+· LKA (Sistema de mantenimiento de carril)
+· LDP (Prevención de salida de carril)
+· EMA (Asistencia en maniobras evasivas)
+· FCTA (Alerta de tráfico cruzado frontal)
+· RCTA (Alerta de tráfico cruzado trasero)
+· DOW (Alerta de puerta abierta)
+· DPS (Monitor de rendimiento del conductor)
+· LCA (Asistencia de cambio de carril)
+Clean Climate-Controlled Cockpit
+· HVAC: Control automático de temperatura electrónica 
+(EATC), climatizador de 2 zonas
+· Sensor de calidad del aire (AQS); filtro N95
+· Salidas de aire delanteras en el tablero: Ocultas y con 
+ajuste eléctrico
+· Salidas de aire en el pilar B
+
+--- p7 ---
+
+--- p8 ---

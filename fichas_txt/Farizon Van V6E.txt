@@ -1,0 +1,158 @@
+
+--- p1 ---
+V6E
+SSTA
+
+--- p2 ---
+V6E-SSTA
+Peso Bruto (kg)
+Peso en orden de marcha (kg)
+Ancho externo de la cabina (mm)
+Dimensiones del vehículo L*W*H (mm)
+Dimensiones internas de la caja L*W*H (mm)
+Distancia entre ejes (mm)
+Asientos
+Capacidad de caja (m³) 
+Velocidad máxima (km/h)
+Autonomía
+Voltage (V)
+Marca/Tipo/Capacidad de Batería (kWh)
+Preservación de la batería
+Tipo de refrigeración
+Eje Motriz
+Potencia máxima (kW/hp)
+Torque máximo (NM)
+Tipo de refrigeración
+Sistema de recuperación de energía de frenado
+Carga DC
+Carga AC
+Asistencia de dirección
+Suspensión delantera/trasera
+Tamaño
+Material de llantas
+Monitoreo de presión de neumáticos (TPMS)
+Rueda de Auxilio
+Sistema de freno de mano
+Frenos
+Asistencia de frenado
+Color de cabina
+Espejos de puertas
+Cristales
+Limpiaparabrisas
+Tapizado
+Cinturón de seguridad
+Parasol
+Airbag
+Interior
+Ventana trasera
+Piso
+Puntos de anclaje
+Puertas traseras
+Puerta lateral
+Llave
+Selector de cambios
+Modos de conducción
+Volante
+Climatizador
+Iluminación exterior
+Iluminación interior
+Multimedia
+Bloqueo automático, advertencia sonora de 
+seguridad al peatón a baja velocidad, corte de 
+colisión, desbloqueo de colisión, aviso de puertas 
+abiertas
+SI
+Si
+VERSIÓN 
+ 
+       SSTA (CATL 41.86)
+Vehículo
+Peso
+Dimensiones
+Performance
+Batería
+Motor eléctrico
+Carga
+Dirección
+Suspensión
+Ruedas
+Sistema de frenado
+Exterior
+Interior
+Caja
+Puertas
+Conducción
+Conﬁguración
+electrónicos
+Sistema de asistencia
+de seguridad
+Asistente de
+estacionamiento
+Asistencias de manejo
+Propulsión
+Chasis
+Interior/Exterior
+Electrónicos
+Asist. de seguridad
+2715
+1585
+1730
+4845×1730×1985
+2800×1600×1270 con tapizado interior
+3100
+2
+5.9 sin tapizados / 5.7 con tapizados
+110
+260km WLTC
+335
+CATL/LFP/41.86
+Sistema de acondicionamiento frío/calor
+Aire frío
+Trasero
+100/134
+300
+Líquida
+Sistema de freno regenerativo (L1/L2/L3)
+Del 20% al 100% en 35 min. / Del 20% al 100% en
+75 min. / 45 kW máximo.
+Del 20% al 100% en 6.7 horas / 6.6 kW máximo
+EPS
+Delantera McPherson/Eje rígido
+195/70R15 LT
+Acero
+Indicador en pantallas
+Rueda de auxilio de tamaño completo
+Mecánico
+Discos frontales y tambor trasero
+ABS
+Blanco Zero
+Regulación y plegado eléctrico con desempañador
+Alzacristales eléctricos One Touch
+Automáticos con sensor de lluvia
+Tela
+Cinturón de seguridad de 3 puntas
+Conductor y acompañante
+Conductor y acompañante
+Tapizado de techo y paneles laterales
+No, posibilidad de vidriar
+PVC
+Anillas en piso de la caja
+Apertura hasta 270°
+Si, lado derecho
+Tipo navaja con control remoto
+Selector de cambios giratorio
+Standard + ECO + Power
+Multifunción
+Digital
+DRL Led c/sensor crepuscular (encendido 
+automático). Demás luces halógenas.
+Luz en la caja y luz de lectura en la cabina
+Pantalla con conexión para Smartphone por USB, 
+Bluetooth, radio y toma de 12V
+Bloqueo automático, advertencia de baja
+velocidad, corte de colisión, desbloqueo
+de colisión, aviso de puertas abiertas
+Radar de reversa, sensor de estacionamiento
+trasero, cámara de reversa
+Ayuda de arranque en pendiente (HAC) +
+Ayuda de descenso en pendiente (HDC)

@@ -1,0 +1,149 @@
+# paginas: 19,20,21,22
+VERSIONES del Deepal S7: REEV (autonomía extendida) y BEV (eléctrico).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 19]
+  (FICHA)
+  (TÉCNICA)
+
+## VERSIÓN
+  (Capacidad de la Batería 37.7 KW 67 KW)
+  (Max Potencia 235 HP 255 HP)
+  (Unidad de Max Torque 236 Nm 320 Nm)
+  (potencia Carga Externa Conector Tipo II Conector Tipo II)
+  ((Estándar Europeo) (Estándar Europeo))
+  (Generador de Energía 1.5 L -)
+  (Autonomía (CLCT) 1120 (Combinado) 620)
+  (Largo (mm) 4750)
+  (Ancho (mm) 1930)
+  (Altura (mm) 1625)
+  (Dimensiones Distancia entre ejes (mm) 2900)
+  (Ancho de vía delantero (mm) 1640)
+  (Ancho de vía trasero (mm) 1650)
+  (Altura libre al suelo (mm) 1640)
+- Dirección asistida con inducción de velocidad: en todas
+- Modo de dirección asistida ajustable: en todas
+- Suspensión independiente MacPherson: en todas
+- Suspensión independiente multibrazo: en todas
+- Seguridad Tracción trasera: en todas
+- y confort Columna de dirección absorbente de energía en colisiones: en todas
+- Llantas de aluminio: en todas
+- Rodado R20: en todas
+- Frenos delanteros disco ventilado: en todas
+- Frenos traseros disco sólido: en todas
+
+[página 20]
+
+## VERSIÓN
+- ABS + EBD: en todas
+- ESP: en todas
+- TCS: en todas
+- Asistencia de frenado (BA): en todas
+- Control de asistencia en pendientes (HHC): en todas
+- Control de descenso en pendientes (HDC): en todas
+- Autohold: en todas
+- Desbloqueo automático en caso de colisión de la puerta: en todas
+- Bloqueo automático por inducción de velocidad: en todas
+- Seguridad Freno de estacionamiento eléctrico: en todas
+- y confort Airbag para el conductor: en todas
+- Airbag para el pasajero delantero: en todas
+- Airbag lateral para la fila delantera: en todas
+- Cortina seguridad de gas integrada en filas delantera y trasera: en todas
+- Cierre infantil electrónico: en todas
+- Cinturón 3 puntos limitación de fuerza y pretensado (frontal): en todas
+- Cinturón 3 puntos limitación de fuerza y pretensado (trasero): en todas
+- Arranque sin llave: en todas
+- Acceso sin llave: en todas
+- Anti-robo BCM (Módulo de Control de Carrocería): en todas
+- Advertencia de colisión frontal (FCW) Freno de emergencia automático: en todas
+- Advertencia de salida de carril (LDW): en todas
+- Freno emergencia automático reconocimiento peatones (AEB-P): en todas
+- Asistencia de mantenimiento de carril en emergencias (ELK): en todas
+- Asistencia para mantener el carril (LKA): en todas
+- Alerta de cambio de carril (LCDA): en todas
+- Advertencia de colisión trasera lateral (RCTA): en todas
+- ADAS Advertencia de colisión trasera (RCW): en todas
+- Advertencia de apertura de puertas (SEW): en todas
+- Detección de punto ciego (BSD): en todas
+- Freno de emergencia lateral en reversa (RCTB): en todas
+- Control de crucero adaptativo (ACC): en todas
+- Control de centrado en el carril (LCC): en todas
+- Asistencia en atascos de tráfico (TJA): en todas
+- Control de desviación lateral (LDC): en todas
+- : en todas
+
+[página 21]
+
+## VERSIÓN
+
+## Tomacorriente 12V fila delantera
+
+## Tomacorriente 12V fila trasera
+- Manija interior eléctrica de la puerta: en todas
+- Asientos en cuero de microfibra Alcance de ajuste asiento conductor 6 direcciones 6 direcciones: en todas
+- Soporte lumbar eléctrico asiento conductor 4 direcciones 4 direcciones Función de memoria asiento conductor: en todas
+- Asistente asiento conductor: en todas
+- Asiento calefaccionado conductor: en todas
+- Asiento ventilado conductor Alcance de ajuste asiento pasajero delantero 4 direcciones 4 direcciones: en todas
+- Asiento calefaccionado pasajero delantero: en todas
+- Asiento ventilado pasajero delantero: en todas
+- Respaldo 4/6 asiento trasero separación abatible: en todas
+- Reposacabezas asiento central trasero: en todas
+- Interior Ajuste en altura de reposacabezas asientos traseros: en todas
+- Apoyabrazos central (con portavasos) en asientos traseros: en todas
+- Interfaz de asiento infantil ISOFIX en asientos traseros: en todas
+- Doble acristalamiento en la puerta delantera y ventana: en todas
+- Cierre automático en días lluviosos: en todas
+- Desempañado de parabrisas delantero automatico: en todas
+- Descongelación y desempañado de la ventana trasera: en todas
+- Modo de ajuste: eléctrico: en todas
+- Calefacción de los espejos retrovisores exteriores: en todas
+- Memoria de posición de los espejos retrovisores: en todas
+- Plegado automático de los espejos exteriores al estacionar: en todas
+- Inclinación automática hacia abajo al retroceder: en todas
+- Espejo retrovisor interior antiviento automático: en todas
+- Climatizador bi zona: en todas
+- Monitoreo de la calidad del aire interior y exterior (sensor de PM2.5): en todas
+- Función de filtrado de PM2.5 de alta eficiencia: en todas
+- Reconocimiento de gestos: en todas
+- Asistente de voz inteligente: en todas
+- Apple CarPlay: en todas
+- Android Auto: en todas
+- Cabina Cargador inalámbrico para celulares: en todas
+- inteligente Rotación de pantalla Pantalla central 15,6 15,6: en todas
+
+## USB C en fila delantera
+
+## USB C en fila trasera
+- Sistema de sonido - radio: en todas
+- Sistema de audio de marca con 14 altavoces: en todas
+
+[página 22]
+
+## VERSIÓN
+- Función de cierre retardado de los faros: en todas
+- Encendido y apagado automático de los faros Tipo de faros LED LED: en todas
+- Luz de carretera inteligente (FAB): en todas
+- Faros antiniebla traseros: en todas
+- Lámpara de reversa LED Exterior: en todas
+- Ajuste manual electrónico de la altura de los faros: en todas
+- Función de bienvenida de las luces delanteras y traseras Tipo de luces traseras LED LED: en todas
+- Función advertencia frenado emergencia (intermitente doble): en todas
+- Lámpara de advertencia de puerta abierta: en todas
+- Iluminación ambiental LED (multicolor): en todas
+- Techo solar: en todas
+- Puertas sin marco: en todas
+- Gancho de remolque delantero: en todas
+- Gancho de remolque trasero Modo de apertura del tanque de nafta - Desbloqueo táctil en pantalla: en todas
+  (+ presionar para abrir)
+  (Modo de apertura de tapa de interfaz de carga - Presionar para abrir)
+- Apertura por control remoto Baúl: en todas
+- Apertura trasera eléctrica: en todas
+  (Deepal Uruguay)
+  (Nota: Las especiﬁcaciones aplican para Deepal S7 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de)
+  (laboratorio, que pueden no reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa)
+  (Rosa Automotores S.A. se reserva el derecho de efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas)
+  (y certiﬁcadas por Santa Rosa Automotores S.A para este modelo, conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y)
+- disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los tapizados eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores reales de la pintura, así como también la textura de los: no la trae ninguna
+  (materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa autorización escrita de Santa Rosa)
+  (Automotores Uruguay S.A.)

@@ -1,0 +1,45 @@
+# paginas: 9
+VERSIONES del Nissan Versa (1.6 L, 118 HP, 149 Nm): Sense Manual, Advance Manual, Advance Automática (CVT) y Exclusive Automática.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 9]
+  (FICHA TÉCNICA NISSAN VERSA)
+- Motor 1.6 L - 4 cilindros - 16 válvulas - Nafta Potencia (Hp) - Par (Nm @ rpm) 118 - 149 / 4000 118 - 149 / 4000 118 - 149 / 4000 118 - 149 / 4000: en todas
+- Suspensión y Frenos Delantera Mc Pherson con barra estabilizadora + Trasera con barra estabilizadora: en todas
+- Discos ventilados delanteros y tambor trasero Dimensiones / Capacidad: en todas
+  (Longitud total (m) 4.495 4.495 4.495 4.495)
+  (Ancho (m) 1.740 1.740 1.740 1.740)
+  (Altura total (m) 1.465 1.465 1.465 1.475)
+  (Altura al piso (mm) 138 138 138 240)
+  (Peso en vacío (Kg) 1.092 1.114 1.104 1.148)
+  (Peso máximo en vacío (Kg) 1.094 1.116 1.104 1.148)
+  (GVWR (Kg) 1.532 1.532 1.644 1.644)
+- Capacidad del baúl (L) 466 482 482 482 Tanque de combustible de 41 (L) Llantas: en todas
+  (Tipo de neumáticos 195 / 65 R15 205 / 55 R16 205 / 55 R16 205 / 50 R17)
+- Tamaño y material de la rueda Acero 15 " Aleación 16 " Aleación 16 " Aleación 17 " Neumático de repuesto temporal + Llanta de acero Conducción: en todas
+- Dirección asistida electrónicamente: en todas
+- Luces LED: Sense Manual NO; Advance Manual NO; Advance Automática NO; Exclusive Automática SÍ
+- Luces antinieblas delanteras: Sense Manual NO; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática SÍ
+- Tablero con velocímetro y panel de instrumentos color de 7": Sense Manual NO; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática SÍ
+- Volante con manos integrados: Sense Manual NO; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática NO
+- Comando de apertura de puertas con inmovilizador + alarma + apertura del baúl: Sense Manual NO; Advance Manual NO; Advance Automática SÍ; Exclusive Automática SÍ
+- Cámara periférica 360° con detección de objetos en movimiento (I-AVM): Sense Manual NO; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática SÍ
+- Cargador inalámbrico: Sense Manual NO; Advance Manual NO; Advance Automática SÍ; Exclusive Automática SÍ
+- Sensor de estacionamiento trasero Interior: en todas
+- Aire acondicionado Manual Manual Manual Climatizador P L ATA Vidrios eléctricos Multimedia con Android Auto® y Carplay® Pantalla de 7 " Pantalla de 7 " Pantalla de 7 " Pantalla de 8 " A Z U L Z A F I R O: en todas
+- Apertura y cierre centralizado de puertas Tapizado de asientos Tela Tela Tela Cuero: en todas
+  (G R I S O F O R D)
+- Exterior Alerón trasero: Sense Manual NO; Advance Manual NO; Advance Automática NO; Exclusive Automática SÍ
+- Espejos exteriores eléctrico Seguridad y asistencias de manejo: Sense Manual SÍ; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática NO
+- Airbag conductor + Acompañante + Lateral + Cortina (6): en todas
+- Isofix + Top Tether: en todas
+- Dispositivos antirrobo con Inmovilizador + Alarma: en todas
+- Freno antibloqueo ABS + Distribución de fuerza de frenado EBD + Asistencia de frenado (BA): en todas
+- Control dinámico vehicular (VDC): en todas
+- Asistente de arranque en pendientes (HSA): en todas
+- Monitor Inteligente de Visión Circundante (AVM + MOD Cámara periférica 360°) B L A N C O P E R L A: Sense Manual NO; Advance Manual SÍ; Advance Automática SÍ; Exclusive Automática SÍ
+- Frenado de Emergencia Inteligente (FEB): en todas
+- Advertencia de Colisión Frontal (FCW): en todas
+- Advertencia de Punto Ciego (BSW): Sense Manual NO; Advance Manual NO; Advance Automática NO; Exclusive Automática SÍ
+- Alerta de tráfico Cruzado Trasero (RCTA): Sense Manual NO; Advance Manual NO; Advance Automática NO; Exclusive Automática SÍ
+- Alerta de conducción inteligente (DAA): Sense Manual NO; Advance Manual NO; Advance Automática NO; Exclusive Automática SÍ

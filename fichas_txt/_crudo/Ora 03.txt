@@ -1,0 +1,552 @@
+
+--- p1 ---
+ 
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Autonomía hasta
+420 km / WLTP
+Carga rápida
+en 40 mins
+Seguridad avanzada
+7 airbags + ADAS
+
+--- p2 ---
+Autonomía WLTP (km)
+Autonomia genérica NEDC (km)
+Tipo de cargador
+Potencia máxima de carga AC (kW)
+Potencia máxima de carga DC (kW)
+Capacidad de bateria (kW/h)
+Carga AC 15 a 80% (H)
+Carga DC 20 al 80% (mins)
+Peso en vacio (Kg)
+Capacidad de baul min- max (L)
+Velocidad máxima (km/h)
+De 0 a 100 km/h (s)
+Consumo mixto (kWh/100)
+Potencia máxima
+Torque máximo
+Frenos
+Neumáticos medida
+Especificaciones básicas
+310
+400
+47,78
+5,5
+40
+420
+420
+1540
+1580
+500
+500
+CCS2
+11
+80
+CCS2
+11
+80
+CCS2
+11
+80
+6,5
+61,13
+50
+6,5
+61,13
+50
+228-858
+228-858
+228-858
+8,2
+160
+16,7
+8,2
+160
+16,7
+8,2
+160
+16,7
+126KW - 169HP
+1580
+Disco x4
+250Nm
+215/50 R18
+126KW - 169HP
+Disco x4
+250Nm
+215/50 R18
+126KW - 169HP
+Disco x4
+250Nm
+215/50 R18
+Skin
+SR
+GT
+Pack estético standard
+Pack estético deportivo
+Antena de tiburón
+Manijas de puerta color carroceria
+Portón con apertura manual
+Portón con apertura eléctrica y manos libres
+Techo panorámico con apertura
+Mordazas de freno plateadas
+Mordazas de freno rojas
+Exterior
+Skin
+SR
+GT
+●
+●
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+●
+●
+x
+●
+●
+●
+●
+x
+x
+x
+●
+Asientos
+Skin
+SR
+GT
+●
+●
+●
+●
+x
+x
+x
+●
+●
+●
+●
+●
+x
+●
+●
+x
+●
+●
+●
+●
+●
+Tapizados de cuero
+Asiento del conductor ajustable en 6 direcciones electricamente
+Asiento del conductor ajustable en 6 direcciones electricamente con memoria
+Asiento del pasajero ajustable en 4 direcciones electricamente
+Asientos delanteros calefactados
+Asientos delanteros ventilados con masajeador
+Apoyabrazos central trasero con posavasos
+Volante forrado en cuero
+Volante calefactado
+Parasoles con espejo de cortesia
+Parasoles con espejo de cortesia iluminado
+Espejo retrovisor interior electrocromatico
+Agarraderas de techo
+Cobertor de baúl
+Skin
+Interior
+SR
+GT
+●
+●
+●
+x
+●
+●
+●
+●
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Tablero de instrumentos 10.25"
+Pantalla multimedia 10.25"
+Bluetooth 
+Puertos USB delanteros y traseros (x 3)
+6 parlantes
+Apple CarPlay & Android Auto Inalámbrico
+Toma de 12V
+Cargador inalámbrico para smartphones
+Skin
+Multimedia
+SR
+GT
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Skin
+Chasis y suspensión
+SR
+GT
+Nivel de regeneración ajustable
+Conducción One Pedal
+Modo de manejo（Standard, ECO, Sport, Auto, ECO+)
+Launch control
+Tracción delantera
+Dirección asistida eléctricamente configurable (Ligero, Confort y Sport)
+Columna de dirección ajustable en 4 direcciones
+Suspensión delantera - McPherson
+Suspensión trasera - Eje semi rígido
+Auto hold
+TPMS
+Llantas de aleación 18"
+Llantas de aleación deportivas18"
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+●
+Skin
+Conducción inteligente
+Dimensiones
+SR
+GT
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+x
+x
+●
+x
+x
+●
+x
+x
+●
+x
+●
+●
+Arranque rápido inteligente
+Smart key X2
+Acceso Keyless
+Bloqueo automático de puertas
+Bloqueo de puertas para niños
+Desbloqueo automático de puertas ante colisión
+Advertencia de colisión frontal (FCW) + Frenado autónomo de
+emergenciavehiculos- peatones - ciclistas (AEB, AEB-P/B) 
+Frenado de emergencia en intersecciones (AEB-JA)
+Lector de señales de tránsito+aviso de velocidad (TSR)
+Asistente de cambio de carril (LCA)
+Sensores de proximidad traseros con advertencia y frenado de tráfico cruzado
+Advertencia de choque posterior (RCW)
+Advertencia de apertura de puertas (DOW)
+Alerta de exceso de velocidad
+Control crucero adaptativo (ACC) + Control crucero inteligente (ICA) + Control
+crucero de baja velocidad (TJA) + Control de giro inteligente (ATC)
+Aviso de cambio de carril (LDW) + Asistente de mantenimiento de carril (LKA) +
+Mantenimiento de carril de emergencia (ELK) + Esquiva inteligente (IE)
+Monitor de presión de neumáticos (TPMS)
+Estacionamiento autónomo
+Cámara 360°
+Asistente de carretera (HWA)
+Alerta y frenado de tráfico cruzado delantero (FCTA+FCTB) 
+Asistente de dirección de emergencia (ESA) 
+Sensores de proximidad frontales con activación a baja velocidad
+Frenado de emergencia en maniobras (MEB)
+Protección de flancos (SDW)
+Vidrios y Espejos
+Skin
+Climatización
+SR
+GT
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Climatizador automático
+Desempañador automático
+Indicador de temperatura exterior
+Skin
+SR
+GT
+●
+●
+●
+●
+x
+x
+x
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+Vidrios one touch con antipinzamiento X4
+Espejos retrovisores exteriores ajustables electricamente,
+plegado eléctrico, desempañador y luz de giro
+Espejos retrovisores exteriores ajustables electricamente,
+con memoria, plegado eléctrico, desempañador y luz de giro
+Deshielador de parabrisas
+Sensor de lluvia
+Desempañador de luneta
+Seguridad
+Skin
+Iluminación
+SR
+GT
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Luces frontales LED con ajuste de altura
+Sensor crepuscular
+Follow me home
+Luces alta automáticas de carretera (HMA)
+Luz de niebla trasera
+Tercera luz de freno LED
+DRL 
+Luz de bienvenida
+Skin
+SR
+GT
+7 airbags: doble airbag frontal + laterales + cortina + central 
+Airbag del pasajero desactivable 
+Cinturones delanteros con pretensores y limitador de carga
+Cinturones traseros laterales con pretensores y limitador de carga
+ISOFIX 
+Recordatorio cinturón de seguridad 
+SCM sistema de mitigación de segunda colisión
+ABS+EBD+TCS+RMI+ESC 
+Freno de mano eléctrico EPB 
+Ayuda de atranque en pendiente HAC
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+120 mm
+2650 mm
+4254 mm
+1848 mm
+1603 mm
+SKIN
+SR

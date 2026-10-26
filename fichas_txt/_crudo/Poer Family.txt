@@ -1,0 +1,750 @@
+
+--- p1 ---
+ 
+3
+AÑOS
+o
+ 
+1
+0
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+
+--- p2 ---
+Motor
+Combustible
+Potencia (HP/RPM)
+Torque (HP/RPM)
+Tracción
+Capacidad estanque de combustible (L)
+Capacidad de carga con pasajeros (kg)
+Neumáticos
+Sistema de Dirección
+Frenos
+Transmisión
+Suspensión delantera
+Suspensión trasera
+Piso de la caja
+Especificaciones básicas
+80
+1050
+265/60 R18
+Asistida eléctricamente
+4x4
+ Traseros de disco
+Independiente de doble horquilla con barra estabilizadora 
+Automática 8 velocidades
+Eje rígido con paquete de resortes
+Pintado
+2.0 Turbo
+Diesel Common Rail VGT
+2.0 Turbo
+Gasolina
+190 HP / 4000 a 5500 RPM
+360 Nm / 1800 а 3600 RPM
+161 HP / 3600 a 5500 RPM
+400 Nm / 1500 a 2500 RPM
+Volante forrado en cuero
+Levas al volante
+Climatizador automático
+Salidas traseras de aire al centro
+Portón con apertura manual
+Sistema multimedia MP5
+Tablero de instrumentos con pantalla color 3.5"
+Tablero de instrumentos con pantalla color 7"
+Techo solar
+Control de techo solar
+5 modos de conducción: Estándar, Eco, Sport, 4L
+Dirección asistida electricamente
+Freno de mano eléctrico
+Función auto-hold
+Torque de dirección dinámico
+Portalentes para el conductor
+Parasol del pasajero con espejo
+Bloqueo/Desbloqueo de puertas central
+Luz de pie
+Toma corriente 220V
+Palanca de cambio electrónica
+Modo parking electrónico
+Botón de liberación de la palanca de cambios
+Indicador de marchas
+Equipamiento
+Luxury
+Elite
+Deluxe
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+●
+●
+x
+x
+●
+Elite
+Deluxe
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+x
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+x
+x
+x
+●
+●
+●
+x
+x
+x
+●
+●
+x
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+x
+●
+●
+x
+x
+●
+●
+x
+x
+●
+x
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Asientos
+Asientos de eco-cuero
+Asientos de cuero
+Ajuste de asiento del conductor manual en 6 direcciones
+Ajuste de asiento del conductor eléctrico en 6 direcciones
+Ajuste de asiento del pasajero manual en 4 direcciones
+Ajuste de asiento del pasajero eléctrico en 4 direcciones
+Calefacción en asientos delanteros
+Respaldo abatible 60:40
+Base abatible 60:40
+Apoyacabezas central trasero
+Apoyabrazos central trasero
+Bluetooth 
+Arranque por botón
+CarPlay & Android Auto Cableado
+Cargador inalámbrico
+Pantalla táctil de 9"
+4 parlantes
+6 parlantes
+Multimedia
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+x
+●
+●
+x
+x
+●
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+Dimensiones
+Vidrios y Espejos
+Otros
+●
+x
+●
+x
+●
+x
+●
+●
+●
+●
+●
+x
+●
+●
+x
+●
+●
+●
+●
+●
+Llave inteligente
+Llave estándar
+Rueda de auxilio full size
+Triángulo de alerta
+Alzacristales one-tocuh y anti-pinzamiento asiento 
+conductor
+Alzacristales eléctrico asiento pasajero
+Alzacristales eléctrico asientos traseros
+Espejo retrovisor manual
+Espejo retrovisor eléctrico
+Espejos exteriores con ajuste electrico y plegado manual
+Espejos exteriores con ajuste y plegado eléctrico
+Luneta trasera con línea térmica
+Seguridad activa y pasiva
+Iluminación
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Faros LED
+Luces con encendido automático
+Luces con ajuste eléctrico de altura
+Luces con apagado automático
+Faros antiniebla delanteros con luz de dirección 
+integrada
+Faros antiniebla traseros
+Luces traseras LED con efecto secuencial
+Doble airbag frontal
+Doble airbag lateral delantero
+Airbag de cortina
+Grabadora de datos EDR
+Frenos ABS + EBD 
+Control de tracción TCS
+Sistema de mitigación de vuelcos RMI
+Control electrónico de estabilidad ESC 
+Sistema de asistencia de frenado BAS 
+Asistente de arranque en pendiente
+Asistente de descenso en pendiente
+Sensores traseros (2)
+Sensores delanteos (2)
+Asistente de tráfico cruzado trasero
+Cámara de retroceso
+Cámara de punto ciego frontal
+Cámara 360°
+Monitoreo de presión de neumáticos(TPMS)
+Bloqueo automático de puertas
+Sistema de alerta de frenado (ESS)
+Luces DRL
+Sensores externos delanteros
+Alerta de puerta abierta
+Inmovilizador de motor
+Velocímetro y alarma de velocidad ajustable
+Cinturones de seguridad con pretensores y limitadores 
+de carga delanteros
+Cinturones de seguridad traseros de 3 puntos
+ISOFIX
+Corta flujo de combustible automático en caso de 
+accidente
+Desbloqueo de puertas automático en caso de 
+accidente
+Cámara frontal
+Cámara frontal inteligente
+Control de crucero
+Control crucero adaptativo
+Alerta de salida de carril LDW
+Asistencia de mantenimiento de carril LKA
+Mantenimiento central de carril LCK
+Asistencia de cambio de carril LCA
+Alerta de colisión frontal FCW
+Frenado autónomo de emergencia con detección de 
+peatones AEB
+Alerta de señales de tránsito TSW
+Alarma por exceso de velocidad
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+3230 mm
+227 mm
+5410 mm
+1934 mm
+1886 mm
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+●
+●
+●
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+x
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+x
+●
+●
+●
+x
+x
+●
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+●
+●
+x
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+x
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+Luxury
+Elite
+Deluxe
+Elite
+Deluxe
+●
+x
+x
+x
+●
+●
+x
+●
+●
+x
+●
+●
+●
+x
+x
+●
+x
+●
+x
+●
+x
+●
+●
+x
+●
+x
+●
+●
+x
+●
+●
+x
+●
+x
+●
+x
+●
+●
+x
+●
+x
+●
+●
+x
+●
+x
+●
+●
+x
+●
+●
+x
+●
+x
+●

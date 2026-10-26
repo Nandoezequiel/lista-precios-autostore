@@ -1,0 +1,334 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Leapmotor C10: BEV (eléctrico) y REEV (ultra-híbrido, autonomía extendida). • = lo trae; «-» = no.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 5]
+  (EQUIPAMIENTOS Y)
+
+  (FUNCIONALIDADES C10)
+
+  (Exterior)
+
+- : en todas
+
+- Conmutador automático de luces altas: en todas
+
+- Faros Full LED automáticos con función: en todas
+
+  ("Follow me home")
+
+  (Luz trasera Full-LED con animación y barra)
+
+- : en todas
+
+  (de luces integrada)
+
+- Neblineros delanteros y traseros: en todas
+
+- Maletero eléctrico: en todas
+
+- Portaequipajes de techo: en todas
+
+- Retrovisores con ajuste eléctrico, memoria,: en todas
+
+  (calefacción, auto-rebatimiento y "tilt down")
+
+- Techo panorámico Sky View con 2,1m²: en todas
+
+  (Interior)
+
+- Apoyabrazos central trasero: en todas
+
+- Asiento del conductor con memoria y: en todas
+
+  (función "Welcome")
+
+- Asientos con revestimento premium: en todas
+
+  (Asientos delanteros calefaccionados)
+
+- : en todas
+
+  (y ventilados)
+
+  (Asientos traseros abatibles (60/40) con)
+
+- : en todas
+
+  (regulación de inclinación)
+
+- Iluminación de ambiente "Smart Light": en todas
+
+- : en todas
+
+  (Portarevistas tras asientos delanteros)
+
+- Pasasol con espejo iluminado: en todas
+
+- Volante regulable en altura y profundidad: en todas
+
+- Volante multifunción calefaccionado con: en todas
+
+  (revestimiento premium)
+
+
+
+## Seguridad
+
+- 7 Airbags (2 frontales, 2 laterales,: en todas
+
+  (2 cortina y 1 central))
+
+- Asistente de control de descenso (HDC): en todas
+
+- Asistente de arranque en pendiente (HHC): en todas
+
+- Control de estabilidad (ESC): en todas
+
+- Control de tracción (TCS): en todas
+
+- Desbloqueo automático de puertas: en todas
+
+  (con sensor de colisión)
+
+- Frenos ABS: en todas
+
+- ISOFIX con Top Tether: en todas
+
+  (Comfort)
+
+- Climatizador automático de dos zonas: en todas
+
+- Freno de estacionamiento electrónico: en todas
+
+  ((EPB) y Auto-Hold)
+
+- Función "Vehicle to load" (V2L) - 220V / 3.300W: en todas
+
+  (Modo de conducción eco, comfort, sport y)
+
+- -: BEV SÍ; REEV NO
+
+  (personalizado)
+
+  (Modo de conducción comfort, sport y)
+
+- : BEV NO; REEV SÍ
+
+  (personalizado)
+
+  (Modos de energía EV+, EV, Combustible)
+
+- : BEV NO; REEV SÍ
+
+  (y Potencia+)
+
+  (Control directo de presión de los)
+
+- : en todas
+
+  (neumáticos (TPMS))
+
+  (Salida de aire acondicionado para los)
+
+- : en todas
+
+  (asientos traseros)
+
+- Sensor de lluvia: en todas
+
+- Sensor de estacionamiento trasero: en todas
+
+
+[página 6]
+  (Tecnología de a bordo)
+
+- 4 puertos USB (2 USB-C + 2 USB-A): en todas
+
+  (Appstore Leapmotor con aplicativos)
+
+- de música, navegación online y: en todas
+
+  (entretenimento integrados)
+
+  (Cámara de 360° con función de)
+
+- : en todas
+
+  (vehiculo invisible)
+
+- Cargador de celular inalámbrico: en todas
+
+- Central Multimedia Leap One 14,6": en todas
+
+- Llave tipo tarjeta NFC: en todas
+
+- Llave digital - Smartphone as a Key: en todas
+
+- Conexión 4G con actualizaciones: en todas
+
+  (remotas (OTA))
+
+- Control de voz con reconocimiento doble: en todas
+
+- Leap+ Connect (App de servicios conectados): en todas
+
+- Tablero de instrumentos digital de 10,25: en todas
+
+  (Sistema de sonido premium con)
+
+- : en todas
+
+  (12 parlantes)
+
+  (LEAP Pilot - Sistemas de)
+
+  (ayuda a la conducción)
+
+- Alerta de colisión frontal (FCW): en todas
+
+  (Alerta de tráﬁco trasero cruzado con)
+
+- : en todas
+
+  (frenado autónomo (RCTA/RCTB))
+
+  (Alertas de fatiga y distracción del)
+
+- : en todas
+
+  (conductor con cámara (DDAW/ADDW))
+
+- Asistente de tránsito parado (TJA): en todas
+
+  (Asistente de mantenimiento de carril)
+
+- : en todas
+
+  (de emergencia (ELKA))
+
+- Asistente de velocidad inteligente (ISA): en todas
+
+- Alerta de apertura de puertas (DOW): en todas
+
+- Alerta de colisión trasera (RCW): en todas
+
+- Alerta de salida y asistencia de mantenimiento: en todas
+
+  (de carril (LDW/LKA))
+
+- Control de centrado de carril (LCC): en todas
+
+- Detección de punto ciego (BSD): en todas
+
+- Frenado de emergencia autónomo (AEB): en todas
+
+- Piloto Automático Inteligente (ICC): en todas
+
+
+
+## Extras
+
+- Kit de reparación de neumáticos: en todas
+
+- Frunk (Maletero frontal): BEV SÍ; REEV NO
+
+- Cargador portátil T2M2: en todas
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+Ficha técnica
+y funcionalidades
+Leapmotor C10
+
+[texto de la página 2]
+Interior marrón disponible para la versión REEV
+Interior negro disponible para la versión REEV
+Interior oscuro disponible para la versión BEV
+COLORES Y 
+ACABADOS C10
+VERDE BOREAL
+GRIS NOCTURNO
+NEGRO ECLIPSE
+GRIS TUNDRA
+BLANCO AMANECER
+
+[texto de la página 3]
+Dimensiones y capacidades
+• Longitud total (mm): 4.739
+• Ancho total (s/ retrovisores) (mm): 1.900
+• Altura total (mm): 1.680
+• Distancia entre ejes (mm): 2.825
+• Altura libre al suelo (mm): 180
+• Volumen maletero - hasta nivel del asiento (L): 517
+• Volumen maletero - hasta nivel del techo (L): 685
+• Volumen maletero con asientos abatidos (L): 1.677
+Motores y batería
+• Motor eléctrico síncrono de imanes permanentes (PMSM)
+• Potencia (cv): 218
+• Torque (Nm): 320
+• Batería LFP de 69,9 kWh con refrigeración líquida 
+• Potencia de carga OBC/AC (kW): 11
+• Tiempo de recarga AC: 3,9h (30%-80%) 7,8h (5%-100%)
+• Potencia máxima de carga de DC (kW): 84
+• Tiempo de recarga DC: 30min (30%-80%)
+• Tracción: trasera
+Desempeño
+• Autonomía eléctrica (km) (NEDC): 480km
+• Velocidad máxima (Km/h): 170km
+Suspensión
+• Suspensión delantera McPherson
+• Suspensión trasera Multi-link
+• Dirección eléctrica
+• Frenos a disco delanteros y traseros
+• Llantas de aleación de 20" con neumáticos 245/45
+Garantía (Vehículo/Batería):
+ 
+• 4 años o 100mil km / 8 años o 160mil km
+ESPECIFICACIONES TÉCNICAS C10 BEV
+
+[texto de la página 4]
+ESPECIFICACIONES TÉCNICAS
+ULTRA-HÍBRIDO C10 REEV
+Dimensiones y capacidades
+• Longitud (mm): 4.739
+• Ancho total (s/ retrovisores) (mm): 1.900
+• Altura total (mm): 1.680
+• Distancia entre ejes (mm): 2.825
+• Altura libre al suelo (mm): 180
+• Volumen maletero - hasta nivel del asiento (L): 450
+• Volumen maletero - hasta nivel del techo (L): 618
+• Volumen maletero con asientos abatidos (L): 1.610
+Motores y batería
+• Motor eléctrico síncrono de imanes permanentes (PMSM)
+• Potencia (cv): 215
+• Torque (Nm): 320
+• Motor generador 1.5L con inyección directa
+• Tanque de combustible (L): 50
+• Batería: LFP de 28,4kWh con refrigeración líquida
+• Potencia de carga OBC/AC (kW): 6,6
+• Tiempo de recarga AC: 3h (30%-80%) y 6h (5%-100%)
+• Potencia máxima de carga de DC (kW): 65
+• Tempo de recarga DC: 18min (30%-80%)
+• Tracción: trasera
+Desempeño
+• Autonomía eléctrica (km) (NEDC): 170km
+• Autonomía combinada (km) (NEDC):  1150km
+• Velocidad máxima (Km/h): 170km
+Suspensión
+• Suspensión frontal McPherson
+• Suspensión trasera Multi-link
+• Dirección Eléctrica
+• Frenos a disco delanteros y traseros
+• Llantas de aleación de 20" con neumáticos 245/45
+Garantía (Vehículo/ Batería): 
+• 4 años o 100mil km / 8 años o 160mil km
+
+[texto de la página 7]
+La información sobre los modelos y sus características corresponde a una deﬁnición en el momento de la
+impresión de este documento; no puede considerarse contractual. Stellantis se reserva el derecho de modiﬁcar
+las características de los modelos presentados sin previo aviso, sin necesidad de actualizar este documento.
+leapmotorchile.cl
+UN SALTO A LA NUEVA ERA 
+Más información
+sobre el C10

@@ -1,0 +1,6 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (JMC N822 2850 DC; confianza baja)
+Fuentes:
+- familia N822 2850, sin ficha propia de doble cabina: https://www.jmc.com.uy/modelos/n822-2850-caja
+Notas: Sin ficha propia. Motor y entre ejes inferidos de la familia 2850; plazas=5 supuesto por ser doble cabina. Sin fotos.
+
+JMC N822 2850 doble cabina con caja. Comparte el motor del N822 2850: 2.8 turbodiésel 2772 cc, ~118 HP, 325 Nm, Euro V, manual de 5 marchas, 4x2, entre ejes 2850 mm. El sitio oficial lo lista en el formulario pero no tiene página ni ficha propia; pesos y medidas de caja no disponibles.

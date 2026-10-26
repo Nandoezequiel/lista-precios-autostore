@@ -1,0 +1,190 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+## Especificaciones básicas  [columnas: Skin | SR | GT]
+- Autonomía WLTP (km): Skin: 310; SR: 420; GT: 420
+- Autonomia genérica NEDC (km): Skin: 400; SR: 500; GT: 500
+- Tipo de cargador: Skin: CCS2; SR: CCS2; GT: CCS2
+- Potencia máxima de carga AC (kW): Skin: 11; SR: 11; GT: 11
+- Potencia máxima de carga DC (kW): Skin: 80; SR: 80; GT: 80
+- Capacidad de bateria (kW/h): Skin: 47,78; SR: 61,13; GT: 61,13
+- Carga AC 15 a 80% (H): Skin: 5,5; SR: 6,5; GT: 6,5
+- Carga DC 20 al 80% (mins): Skin: 40; SR: 50; GT: 50
+- Peso en vacio (Kg): Skin: 1540; SR: 1580; GT: 1580
+- Capacidad de baul min- max (L): Skin: 228-858; SR: 228-858; GT: 228-858
+- Velocidad máxima (km/h): Skin: 160; SR: 160; GT: 160
+- De 0 a 100 km/h (s): Skin: 8,2; SR: 8,2; GT: 8,2
+- Consumo mixto (kWh/100): Skin: 16,7; SR: 16,7; GT: 16,7
+- Potencia máxima: Skin: 126KW - 169HP; SR: 126KW - 169HP; GT: 126KW - 169HP
+- Torque máximo: Skin: 250Nm; SR: 250Nm; GT: 250Nm
+- Frenos: Skin: Disco x4; SR: Disco x4; GT: Disco x4
+- Neumáticos medida: 215/50 R18 215/50 R18 215/50 R18
+
+## Exterior  [columnas: Skin | SR | GT]
+- Pack estético standard: Skin SÍ; SR SÍ; GT NO
+- Pack estético deportivo: Skin NO; SR NO; GT SÍ
+- Antena de tiburón: en todas las versiones
+- Manijas de puerta color carroceria: en todas las versiones
+- Portón con apertura manual: Skin SÍ; SR NO; GT NO
+- Portón con apertura eléctrica y manos libres: Skin NO; SR SÍ; GT SÍ
+- Techo panorámico con apertura: Skin NO; SR SÍ; GT SÍ
+- Mordazas de freno plateadas: Skin SÍ; SR SÍ; GT NO
+- Mordazas de freno rojas: Skin NO; SR NO; GT SÍ
+
+## Asientos  [columnas: Skin | SR | GT]
+- Tapizados de cuero: en todas las versiones
+- Asiento del conductor ajustable en 6 direcciones electricamente: Skin SÍ; SR NO; GT NO
+- Asiento del conductor ajustable en 6 direcciones electricamente con memoria: Skin NO; SR SÍ; GT SÍ
+- Asiento del pasajero ajustable en 4 direcciones electricamente: en todas las versiones
+- Asientos delanteros calefactados: Skin NO; SR SÍ; GT SÍ
+- Asientos delanteros ventilados con masajeador: Skin NO; SR SÍ; GT SÍ
+- Apoyabrazos central trasero con posavasos: en todas las versiones
+
+## Vidrios y Espejos  [columnas: Skin | SR | GT]
+- Vidrios one touch con antipinzamiento X4: en todas las versiones
+- Espejos retrovisores exteriores ajustables electricamente,: Skin SÍ; SR NO; GT NO
+- plegado eléctrico, desempañador y luz de giro
+- Espejos retrovisores exteriores ajustables electricamente,: Skin NO; SR SÍ; GT SÍ
+- con memoria, plegado eléctrico, desempañador y luz de giro
+- Deshielador de parabrisas: Skin NO; SR SÍ; GT SÍ
+- Sensor de lluvia: en todas las versiones
+- Desempañador de luneta: en todas las versiones
+
+## Seguridad  [columnas: Skin | SR | GT]
+- 7 airbags: doble airbag frontal + laterales + cortina + central: en todas las versiones
+- Airbag del pasajero desactivable: en todas las versiones
+- Cinturones delanteros con pretensores y limitador de carga: en todas las versiones
+- Cinturones traseros laterales con pretensores y limitador de carga: en todas las versiones
+- ISOFIX: en todas las versiones
+- Recordatorio cinturón de seguridad: en todas las versiones
+- SCM sistema de mitigación de segunda colisión: en todas las versiones
+- ABS+EBD+TCS+RMI+ESC: en todas las versiones
+- Freno de mano eléctrico EPB: en todas las versiones
+- Ayuda de atranque en pendiente HAC: en todas las versiones
+
+## Chasis y suspensión  [columnas: Skin | SR | GT]
+- Nivel de regeneración ajustable: en todas las versiones
+- Conducción One Pedal: en todas las versiones
+- Modo de manejo（Standard, ECO, Sport, Auto, ECO+): en todas las versiones
+- Launch control: Skin NO; SR NO; GT SÍ
+- Tracción delantera: en todas las versiones
+- Dirección asistida eléctricamente configurable (Ligero, Confort y Sport): en todas las versiones
+- Columna de dirección ajustable en 4 direcciones: en todas las versiones
+- Suspensión delantera McPherson: en todas las versiones
+- Suspensión trasera Eje semi rígido: en todas las versiones
+- Auto hold: en todas las versiones
+- TPMS: en todas las versiones
+- Llantas de aleación 18": Skin SÍ; SR SÍ; GT NO
+- Llantas de aleación deportivas18": Skin NO; SR NO; GT SÍ
+
+## Interior  [columnas: Skin | SR | GT]
+- Volante forrado en cuero: en todas las versiones
+- Volante calefactado: Skin NO; SR SÍ; GT SÍ
+- Parasoles con espejo de cortesia: Skin SÍ; SR SÍ; GT NO
+- Parasoles con espejo de cortesia iluminado: Skin NO; SR NO; GT SÍ
+- Espejo retrovisor interior electrocromatico: en todas las versiones
+- Agarraderas de techo: en todas las versiones
+- Cobertor de baúl: en todas las versiones
+- Colores disponibles
+- SKIN
+- @gwm_uruguay: gwm.uruguay
+
+## Conducción inteligente  [columnas: Skin | SR | GT]
+- Arranque rápido inteligente: en todas las versiones
+- Smart key X2: en todas las versiones
+- Acceso Keyless: en todas las versiones
+- Bloqueo automático de puertas: en todas las versiones
+- Bloqueo de puertas para niños: en todas las versiones
+- Desbloqueo automático de puertas ante colisión: en todas las versiones
+- Advertencia de colisión frontal (FCW) + Frenado autónomo de: en todas las versiones
+- emergenciavehiculos- peatones ciclistas (AEB, AEB-P/B)
+- Frenado de emergencia en intersecciones (AEB-JA): en todas las versiones
+- Lector de señales de tránsito+aviso de velocidad (TSR): en todas las versiones
+- Asistente de cambio de carril (LCA): en todas las versiones
+- Sensores de proximidad traseros con advertencia y frenado de tráfico cruzado: en todas las versiones
+- Advertencia de choque posterior (RCW): en todas las versiones
+- Advertencia de apertura de puertas (DOW): en todas las versiones
+- Alerta de exceso de velocidad: en todas las versiones
+- Control crucero adaptativo (ACC) + Control crucero inteligente (ICA) + Control: en todas las versiones
+- crucero de baja velocidad (TJA) + Control de giro inteligente (ATC)
+- Aviso de cambio de carril (LDW) + Asistente de mantenimiento de carril (LKA): Skin NO; SR SÍ; GT SÍ
+- Mantenimiento de carril de emergencia (ELK) + Esquiva inteligente (IE)
+- Monitor de presión de neumáticos (TPMS): en todas las versiones
+- Estacionamiento autónomo: Skin NO; SR SÍ; GT SÍ
+- Cámara 360°: en todas las versiones
+- Asistente de carretera (HWA): Skin NO; SR NO; GT SÍ
+- Alerta y frenado de tráfico cruzado delantero (FCTA+FCTB): Skin NO; SR NO; GT SÍ
+- Asistente de dirección de emergencia (ESA): Skin NO; SR NO; GT SÍ
+- Sensores de proximidad frontales con activación a baja velocidad: Skin NO; SR SÍ; GT SÍ
+- Frenado de emergencia en maniobras (MEB): en todas las versiones
+- Protección de flancos (SDW): Skin NO; SR SÍ; GT SÍ
+
+## Multimedia  [columnas: Skin | SR | GT]
+- Tablero de instrumentos 10.25": en todas las versiones
+- Pantalla multimedia 10.25": en todas las versiones
+- Bluetooth: en todas las versiones
+- Puertos USB delanteros y traseros (x 3): en todas las versiones
+- 6 parlantes: en todas las versiones
+- Apple CarPlay & Android Auto Inalámbrico: en todas las versiones
+- Toma de 12V: en todas las versiones
+- Cargador inalámbrico para smartphones
+
+## Climatización  [columnas: Skin | SR | GT]
+- Climatizador automático: en todas las versiones
+- Desempañador automático: en todas las versiones
+- Indicador de temperatura exterior: en todas las versiones
+
+## Iluminación  [columnas: Skin | SR | GT]
+- Luces frontales LED con ajuste de altura: en todas las versiones
+- Sensor crepuscular: en todas las versiones
+- Follow me home: en todas las versiones
+- Luces alta automáticas de carretera (HMA): en todas las versiones
+- Luz de niebla trasera: en todas las versiones
+- Tercera luz de freno LED: en todas las versiones
+- DRL: en todas las versiones
+- Luz de bienvenida: en todas las versiones
+- Dimensiones
+- : 1848 mm
+- 120 mm
+- 2650 mm
+- 4254 mm
+- : 1603 mm
+- SR
+- GWM Uruguay gwm.com.uy
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Autonomía hasta
+420 km / WLTP
+Carga rápida
+en 40 mins
+Seguridad avanzada
+7 airbags + ADAS

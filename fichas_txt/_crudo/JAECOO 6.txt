@@ -1,0 +1,528 @@
+
+--- p1 ---
+6
+
+--- p2 ---
+6
+FICHA
+TÉCNICA
+Parámetros
+básicos
+FLAGSHIP 4X4
+VERSIÓN
+Categorización
+Torque máximo (N · m)
+Velocidad máxima (km/h)
+Aceleración 0-100km/h
+Potencia ( HP - kW)
+Garantía de la bateria
+Garantía del vehiculo
+Autonomía (NEDC) km
+Colores de carrocería
+Color interior
+SUV - B
+220
+150
+10.5 s
+184 HP - 137 kW
+8 años o 150.000km
+5 años o 150.000km
+460
+Negro, blanco, gris, plateado, verde, azul
+Negro 
+SUV - B
+Delantero-165/Trasero-220
+150
+6.5 s
+279 HP - 208 kW
+8 años o 150.000km
+5 años o 150.000km
+430
+Negro, blanco, gris, plateado, verde, azul
+Negro 
+LUXURY 4X2
+Dimensiones
+Largo (mm)
+Ancho (mm)
+Alto (mm)
+Distancia entre ejes (mm)
+Trocha delantera (mm)
+Trocha trasera (mm)
+Despeje (mm)
+Ángulo de ataque (°)
+Ángulo de salida (°)
+Radio de giro mínimo (m)
+Tipo de carrocería
+Puertas
+Ocupantes
+Capacidad de baúl (L)
+Peso en vacío (kg)
+Peso máximo admisible (kg)
+4342
+1930
+1741
+2715
+1626
+1645
+195 (Máxima carga)
+32° (Vacío) / 30° (Máxima carga)
+34° (Vacío) / 31° (Máxima carga)
+5.7 m
+SUV
+5
+5
+264
+1827
+2202
+4342
+1930
+1741
+2715
+1626
+1645
+195 (Máxima carga)
+32° (Vacío) / 30° (Máxima carga)
+34° (Vacío) / 31° (Máxima carga)
+5.7 m
+SUV
+5
+5
+264
+1917
+2292
+Impulsores
+y Batería
+Tipo de motor
+Potencia (kw)
+Potencia (Ps)
+Cantidad de motores
+Eje tractor
+Tipo de batería
+Fabricante de la batería
+Tipo de refrigeración de la batería
+Capacidad de la batería (kWh)
+Densidad energética de la batería (Wh/kg)
+Consumo en ciclo CLTC (kWh/100km)
+Toma de carga CCS2 europea
+Tipo de apertura de la puerta de carga
+Tiempo de carga rápida (min)
+Rango de funcionamiento de carga rápida (%)
+Tiempo de carga CA (h)
+Potencia máxima de carga en CC
+Potencia máxima de carga en CA
+Acondicionamiento de batería
+Motor permanente sincrónico
+135 kw
+184 Ps
+1
+Trasero
+LFP
+CATL
+Líquida
+65.69 kwh
+139,0
+15,5
+•
+Eléctrica
+30 min
+30%~80%
+13h
+60 kw
+6.6 kw
+•
+Motor permanente sincrónico
+Delantero 70 kw Trasero 135 kw
+279 Ps
+2
+Trasero y delantero
+LFP
+CATL
+Líquida
+69.77 kwh
+139,5
+16,5
+•
+Eléctrica
+30 min
+30%~80%
+13h
+60 kw
+6.6 kw
+•
+
+--- p3 ---
+Chasis
+FLAGSHIP 4X4
+VERSIÓN
+Tracción
+Suspensión delantera
+Suspensión trasera
+Tipo de asistencia de dirección
+Tipo de carrocería
+2WD
+McPherson
+Multi-link
+Eléctrica
+Autoportante
+4WD
+McPherson
+Multi-link
+Eléctrica
+Autoportante
+LUXURY 4X2
+Exterior
+Llantas de aluminio
+Manijas de puerta ocultas
+Portaequipajes
+Cierre centralizado
+Aviso de olvido de telefono en cargador inalambrico
+Alarma anti robo
+Acceso Keyless y arranque por botón
+Llaves incluidas
+•
+•
+•
+•
+•
+•
+•
+2 llaves inalámbricas,
+1 NFC y 1 mecánica
+•
+•
+•
+•
+•
+•
+•
+2 llaves inalámbricas,
+1 NFC y 1 mecánica
+Seguridad
+activa y pasiva
+6 airbags (frontales, laterales y de cortina)
+TPMS
+Cinturones delanteros con precarga y limitador de fuerza
+Cinturones traseros con limitador de fuerza
+Aviso de cinturón no abrochado en plazas delanteras
+Bloqueo automático de puertas en rodaje
+ISOFIX
+ABS Frenos antibloqueo
+EBD Distribución de fuerza de frenado
+EBA Asistente de frenado de urgencia
+TCS Control de tracción
+ESC Control de estabilidad
+CST Frenado confortable
+CRBS Frenado regenerativo coordinado
+LDW Alerta de cambio de carril
+FCW Alerta de colisión frontal
+RCW Alerta de colisión trasera
+LDP Asistente de salida de carril
+DOW Advertencia de apertura de puerta
+BSD Alerta de punto ciego
+RCTA Alerta de tráfico trasero cruzado
+AEB Frenado autónomo de emergencia
+ELK Asistente de mantenimiento de carril de emergencia
+TJA Asistente de atascos de tránsito
+DAI Alerta de vehículo precedente
+Alerta pasiva de fatiga para conductor
+•
+Indicación en pantalla
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Indicación en pantalla
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Conducción
+y ADAS
+Sensores de estacionamiendo delanteros
+con activación automática a baja velocidad
+Sensores de estacionamiento traseros
+Cámara 360°
+Cámara de punto ciego
+ACC control crucero adaptativo
+Modos de manejo
+Modos de manejo con memoria de selección
+Selector de modos de manejo
+Regeneración
+EPB freno de mano eléctrico
+AutoHold
+Ayuda de arranque en pendiente
+Luces de frenado de urgencia
+HDC Ayuda de descenso en pendiente
+•
+•
+•
+•
+•
+Sports,
+economy,
+standard
+•
+Desde la pantalla central
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Sports, economy,
+standard, mud ground,
+snow, sandy land
+•
+Selector de cristal iluminado
+•
+•
+•
+•
+•
+•
+Neumáticos
+y frenos
+Frenos a disco x4
+Neumáticos delanteros
+Neumáticos traseros
+Kit de reparación de neumáticos
+•
+245/55 R19
+245/55 R19
+•
+•
+245/55 R19
+245/55 R19
+•
+
+--- p4 ---
+Interior
+FLAGSHIP 4X4
+VERSIÓN
+Apertura eléctrica de puertas
+Guantera con apertura y cierre eléctrico
+Volante multifunción forrado en eco cuero ajustable en 4 posiciones
+Selector de marchas electrónico
+Volante calefaccionado
+Plancha de abordo de material blando
+Cargador por inducción para smartphones 50W
+Cobertor de baúl
+Puntos de fijación y bolsillo en el baúl
+•
+•
+•
+•
+-
+•
+•
+•
+•
+•
+•
+•
+•
+-
+•
+•
+•
+•
+LUXURY 4X2
+Multimedia
+Pantalla multimedia tamaño
+Tablero de instrumentos LCD tamaño
+Dashcam
+Modo de bienvenida
+Conexión con smarthphones
+Puertos de datos / carga
+Toma 12 V en el baúl
+V2L (Vehicle to load)
+Cantidad de altavoces
+Altavoz exterior
+Marca de altavoces
+15.6"
+9.2"
+•
+Luz ambiental
+Car Play & Android auto
+2USB + 2USB-C
+•
+•
+8
+•
+Pioneer
+15.6"
+9.2"
+•
+Luz ambiental
+Car Play & Android auto
+2USB + 2USB-C
+•
+•
+12
+•
+Infinity
+Iluminación
+DRL, Luces bajas, altas, posición, traseras, giros, balizas y de niebla
+Luz alta automática
+Sensor crepuescular
+Ajuste eléctrico de altura de luces
+Follow me home
+Luz de lectura en plazas delanteras y traseras
+Luz interior ambiental
+Luz de charco
+Reposapies iluminados
+LED
+•
+•
+•
+•
+•
+Multicolor ajustable
+•
+•
+LED
+•
+•
+•
+•
+•
+Multicolor ajustable
+•
+•
+
+--- p5 ---
+Vidrios y
+Espejos
+FLAGSHIP 4X4
+VERSIÓN
+Ventanas eléctricas con one touch, antipinzamiento
+y cierre automático con el bloqueo de puertas x4
+Parabrisas con deshielador
+Vidrios frontales con tratamiento acústico
+Desempañador trasero
+Techo de vidrio panorámico con cortina eléctrica
+Espejos exteriores con ajuste y plegado automático
+eléctrico en bloqueo, desempañador, tilt down y memoria
+Espejo retrovisor interior
+Parasol con espejo y luz de cortesía
+Limpiaparabrisas delantero
+Limpia luneta
+•
+-
+•
+•
+•
+•
+Manual
+•
+Automático con
+sensor de lluvia
+•
+•
+-
+•
+•
+•
+•
+Automático
+•
+Automático con
+sensor de lluvia
+•
+LUXURY 4X2
+Climatización
+Climatizador automático bizona
+Activación del A/C con el arranque remoto
+Salida de aire plazas traseras
+Indicador de temperatura exterior
+Filtro PM2.5 
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Adicionales
+Cargador de emergencia
+Guantera central calefaccionada y refrigerada
+Asistente de voz
+RDS+AM
+Portón eléctrico
+Protector de batería
+Herramientas*
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+*Líquido para reparación de neumáticos, triángulo de advertencia, chaleco reflectante, gancho de remolque, cargador de emergencia.
+Nota: Las especiﬁcaciones aplican para JAECOO 6 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de laboratorio, que pueden no 
+reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa Rosa Automotores S.A. se reserva el derecho de 
+efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas y certiﬁcadas por Santa Rosa Automotores S.A para este modelo, 
+conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar 
+sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los 
+tapizados – en caso que se aplique – están fabricados en cuero automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores 
+reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa 
+autorización escrita de Santa Rosa Automotores Uruguay S.A.
+omodajaecoo.uy
+Omoda Uruguay
+omoda.com.uy

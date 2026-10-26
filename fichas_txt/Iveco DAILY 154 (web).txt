@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Iveco DAILY; confianza baja)
+Fuentes:
+- pagina oficial iveco.com.uy Daily Furgon 30-160 (sin pagina propia 30-130): https://www.iveco.com.uy/productos/daily-furgon-30-160
+- Autoblog Uruguay, lanzamiento Daily 30-130 (2021): https://www.autoblog.com.uy/2021/11/lanzamiento-iveco-daily.html
+Notas: No hay ficha oficial vigente del 30-130; motor y potencia salen de prensa, la carrocería del PDF 30-160. Volumen: la lista dice 12 m3, Autoblog 2021 decía 10,8 m3. Verificar con el importador.
+
+IVECO Daily Furgón 30-130 (rueda simple, 12 m3 según la lista). Motor 2.3 diésel turbo de 130 CV con caja manual de 6 velocidades (dato de prensa: Autocosmos Chile y Autoblog Uruguay 2021). El importador (Santa Rosa) ya no publica ficha propia del 30-130: el PDF vigente es del 30-160, del que se tomó la carrocería (misma plataforma/carrocería): distancia entre ejes 3.520 mm, largo 6.072 mm, ancho cabina con retrovisores 2.429 mm, alto 2.779 mm, caja de 12 m3 (largo 3.540 mm, ancho interno 1.800 mm, alto 1.900 mm), puerta lateral 1.216 x 1.800 mm, puertas traseras 1.530 x 1.800 mm, altura al piso de carga 657 mm, PBT 3.500 kg, carga útil aprox. 1.000 kg, tanque 65 L. Autoblog 2021 mencionaba 10,8 m3, 6.089 mm de largo, carga útil 1.280 kg, tanque 70 L y U$S 32.600 (versión de entonces). Seguridad: ABS, EBD, ESP, ASR y Hill Holder.

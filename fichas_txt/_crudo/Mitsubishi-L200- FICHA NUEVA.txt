@@ -1,0 +1,703 @@
+
+--- p1 ---
+
+--- p2 ---
+MODELO
+Código
+Potencia
+Torque
+Desplazamiento
+Combustible
+Caja de cambios
+Tracción
+Bloqueo de diferencial trasero
+Capacidad tanque de combustible
+Velocidad máxima
+Modos de manejo
+Chasis
+Suspensión delantera
+Suspensión trasera
+Frenos delanteros
+Frenos traseros
+Llantas
+Rueda de auxilio
+Medida neumáticos
+Dirección
+Dimensiones - Especificaciones
+Largo (mm)
+Ancho (mm)
+Alto (mm)
+Distancia entre ejes (mm)
+Despeje mínimo (mm)
+Largo interior caja (mm)
+Ancho interior caja total pasaruedas 
+(mm)
+Ancho interior caja entre pasaruedas 
+(mm)
+Alto interior caja (mm)
+Radio mínimo de giro (m)
+Peso en vacío (Kg)
+Peso máximo admisible (Kg)
+Capacidad máxima de carga (Kg)
+Capacidad máxima de remolque con 
+frenos (Kg)
+Capacidad máxima de remolque sin 
+frenos (Kg)
+Ángulo de ataque (°)
+Ángulo ventral (°)
+Ángulo de salida (°)
+2WD GLX 5MT - Nafta
+4G64
+94 KW - 126 HP / 5250 
+RPM
+194 NM / 4000 RPM
+2351 cm3
+Nafta
+5MT (R5M21)
+2WD
+-
+75L
+152 km/h
+-
+Doble brazo con resorte 
+helicoidal
+Elásticos
+Disco ventilado de 
+290mm con mordaza de 
+doble pistón
+Tambor de 11.6"
+16" en aleación color gris 
+plata
+Homogénea
+265/70R16
+Asistida eléctricamente
+5.320
+1.868
+1.775
+3.130
+212
+1.555
+1.545
+1.135
+525
+6,6
+1.690
+2.635
+945
+1800
+750
+28,9
+21,9
+22,8
+2WD GLX 6MT - Diesel 
+4N16
+110 KW - 147 HP / 3500 
+RPM
+330 NM / 1500-3000 RPM
+2442 cm3
+Diesel
+6MT (R6MMA)
+2WD
+-
+75L
+170 km/h
+-
+Doble brazo con resorte 
+helicoidal
+Elásticos
+Disco ventilado de 
+290mm con mordaza de 
+doble pistón
+Tambor de 11.6"
+16" en aleación color gris 
+plata
+Homogénea
+265/70R16
+Asistida eléctricamente
+5.320
+1.865
+1.795
+3.130
+222
+1.555
+1.545
+1.135
+525
+6,2
+1.800
+2.910
+1.110
+3500
+750
+28,9
+22,1
+21,9
+4WD GLS 6MT - Diesel 
+4N16
+135 KW - 181 HP / 3500 
+RPM
+430 NM / 2250-2500 RPM
+2442 cm3
+Diesel
+6MT(V6MAA)
+Super Select 4WD-II
+-
+75L
+180 km/h
+7
+Doble brazo con resorte 
+helicoidal
+Elásticos
+Disco ventilado de 
+320mm con mordaza de 
+doble pistón
+Tambor de 11.6"
+18" en aleación color gris 
+plata
+Homogénea
+265/60R18
+Asistida eléctricamente
+5.320
+1.865
+1.795
+3.130
+228
+1.555
+1.545
+1.135
+525
+6,6
+1.975
+3.000
+1.025
+3500
+750
+30,4
+23,4
+22,8
+4WD GLS 6AT - Diesel
+4N16
+135 KW - 181 HP / 3500 
+RPM
+430 NM / 2250-2500 RPM
+2442 cm3
+Diesel
+6AT
+Super Select 4WD-II
+Equipa
+75L
+177 km/h
+7
+Doble brazo con resorte 
+helicoidal
+Elásticos
+Disco ventilado de 
+320mm con mordaza de 
+doble pistón
+Tambor de 11.6"
+18" en aleación color gris 
+plata
+Homogénea
+265/60R18
+Asistida eléctricamente
+5.320
+1.865
+1.795
+3.130
+222
+1.555
+1.545
+1.135
+525
+6,6
+2.056
+3.000
+1.035
+3500
+750
+30,4
+23,4
+22,8
+
+--- p3 ---
+Seguridad
+Traba de niños
+Cinturones 
+Apoyacabezas
+Recordatorio de cinturón de seguridad 
+Sensores de estacionamiento
+Sistema de cámara
+HSA Ayuda de arranque en pendientes
+HDC Ayuda de descenso en pendiente
+ABS+EBD+ESP+TRC
+TPMS
+Airbags
+Desactivación airbag pasajero
+Limitador de velocidad
+ISOFIX
+AEB Frenado autónomo de emergencia
+BSM Alerta de punto ciego
+AHB Luces altas automáticas
+RCTA Rear cross traffic alert
+LCA Asistente de cambio de carril
+LDC Asistente de cambio de carril
+AYC Active Yaw Control
+Exterior
+Paragolpes delantero
+Parrilla frontal
+Manijas de puertas
+Manija del portón
+Marcos de las ventanas
+Parabrisas
+Limpiaparabrisas
+Vidrios traseros
+Espejos exteriores
+Luneta térmica
+Sensor crepuscular
+Faros delanteros
+DRL
+Faros auxiliares
+Luz de niebla trasera
+Luces traseras
+Follow me home
+Puntos de anclaje en caja de carga
+Cubrecarter
+Protector de cabina en la parte frontal 
+de la caja
+Equipada
+5 de tres puntas con 
+pretensores y limitador 
+de fuerza para las plazas 
+delanteras
+5
+5
+-
+Trasera
+Equipada
+-
+Equipada
+Equipada
+7 (Frontales, laterales, de 
+cortina y de rodillas para 
+el conductor)
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+-
+-
+-
+-
+Color carrocería
+Negro mate
+Negras
+Cromada con cerradura
+Color carrocería
+Con reducción de rayos 
+UV
+Manual con intermitente 
+y 2 velocidades
+Tintados con reducción 
+de rayos UV
+Sin pintar con plegado y 
+comando eléctrico, 
+desempañador y luz de 
+giro LED
+Equipada
+-
+Halógenos
+Halógenas
+Halógenos
+Halógena
+Halógenas
+Equipada
+4
+Equipada
+Equipada
+Equipada
+5 de tres puntas con 
+pretensores y limitador 
+de fuerza para las plazas 
+delanteras
+5
+5
+-
+Trasera
+Equipada
+-
+Equipada
+Equipada
+7 (Frontales, laterales, de 
+cortina y de rodillas para 
+el conductor)
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+-
+-
+-
+-
+Color carrocería
+Negro mate
+Negras
+Cromada con cerradura
+Color carrocería
+Con reducción de rayos 
+UV
+Manual con intermitente 
+y 2 velocidades
+Tintados con reducción 
+de rayos UV
+Sin pintar con plegado y 
+comando eléctrico, 
+desempañador y luz de 
+giro LED
+Equipada
+-
+Halógenos
+Halógenas
+Halógenos
+Halógena
+Halógenas
+Equipada
+4
+Equipada
+Equipada
+Equipada
+5 de tres puntas con 
+pretensores y limitador 
+de fuerza para las plazas 
+delanteras
+5
+5
+Delanteros y traseros
+Trasera
+Equipada
+-
+Equipada
+Equipada
+7 (Frontales, laterales, de 
+cortina y de rodillas para 
+el conductor)
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Color carrocería
+Negro piano
+Cromadas
+Cromada con cerradura
+Negros
+Con reducción de rayos 
+UV
+Automático con sensor 
+de lluvia
+Tintados con reducción 
+de rayos UV
+Cromados con plegado y 
+comando eléctrico, 
+desempañador y luz de 
+giro LED
+Equipada
+-
+LED con regulación de 
+altura
+LED
+LED
+LED
+LED
+Equipada
+4
+Equipada
+Equipada
+Equipada
+5 de tres puntas con 
+pretensores y limitador 
+de fuerza para las plazas 
+delanteras
+5
+5
+Delanteros y traseros
+Multi around monitor con 
+Moving Object 
+Detection [MOD]
+Equipada
+Equipada
+Equipada
+Equipada
+7 (Frontales, laterales, de 
+cortina y de rodillas para 
+el conductor)
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Equipada
+Color carrocería con 
+detalles cromados
+Negro piano
+Cromadas
+Cromada con cerradura
+Negros
+Con reducción de rayos 
+UV
+Automático con sensor 
+de lluvia
+Tintados con reducción 
+de rayos UV
+Cromados con plegado y 
+comando eléctrico, 
+desempañador y luz de 
+giro LED
+Equipada
+Equipada
+LED con regulación de 
+altura
+LED
+LED
+LED
+LED
+Equipada
+4
+Equipada
+Equipada
+MODELO
+2WD GLX 5MT - Nafta
+2WD GLX 6MT - Diesel 
+4WD GLS 6MT - Diesel
+4WD GLS 6AT - Diesel 
+
+--- p4 ---
+Interior
+Tapizados
+Color interior
+Plancha de abordo
+Guantera superior
+Guantera Inferior
+Consola central
+Volante
+Pomo de cambios
+Asiento del conductor
+Asiento del pasajero
+Apoyabrazo central trasero
+Paneles de puerta
+Manijas interiores de puerta
+Agarraderas de techo
+Vidrios
+Climatizador
+Multimedia
+Altavoces
+Puertos USB
+Cargador de smartphones por inducción
+Parasoles
+Iluminación
+Espejo retrovisor
+Porta anteojos
+Tablero de instrumentos
+Cenicero
+Conveniencia
+Acceso y arranque
+Cierre centralizado
+Tela con costuras visibles
+Negro
+Tapizada en cuero 
+sintético
+Con tapa
+Con tapa y cerradura
+Con apoyabrazos y 
+portavasos
+Multifunción forrado en 
+cuero ajustable en 4 
+direcciones
+Tapizado en cuero
+Con regulación manual 
+en 6 direcciones
+Con regulación manual 
+en 4 direcciones
+Equipada, con portavasos
+Tapizados en cuero con 
+apoyabrazos
+Cromadas
+Fijas
+Eléctricos con one touch 
+y antipinzamiento para el 
+conductor, eléctricos para 
+los pasajeros
+Automático de una zona
+9" con Android Auto y 
+Apple Carplay
+6
+USB A + USB C Frontales
+-
+Equipada
+Plafón general con luces 
+de lectura delanteras
+Equipada con antiencan-
+dilamiento manual
+Equipada
+De agujas con display 
+monocromático de 3.5"
+-
+Keyless
+Equipada, con destrabe 
+automático en caso de 
+colisión
+Tela con costuras visibles
+Negro
+Tapizada en cuero 
+sintético
+Con tapa
+Con tapa y cerradura
+Con apoyabrazos y 
+portavasos
+Multifunción forrado en 
+cuero ajustable en 4 
+direcciones
+Tapizado en cuero
+Con regulación manual 
+en 6 direcciones
+Con regulación manual 
+en 4 direcciones
+Equipada, con portavasos
+Tapizados en cuero con 
+apoyabrazos
+Cromadas
+Fijas
+Eléctricos con one touch 
+y antipinzamiento para el 
+conductor, eléctricos para 
+los pasajeros
+Automático de una zona
+9" con Android Auto y 
+Apple Carplay
+6
+USB A + USB C Frontales
+-
+Equipada
+Plafón general con luces 
+de lectura delanteras
+Equipada con antiencan-
+dilamiento manual
+Equipada
+De agujas con display 
+monocromático de 3.5"
+-
+Keyless
+Equipada, con destrabe 
+automático en caso de 
+colisión
+Cuero con costuras grises
+Negro
+Tapizada en cuero 
+sintético
+Con tapa
+Con tapa y cerradura
+Con apoyabrazos y 
+portavasos
+Multifunción forrado en 
+cuero ajustable en 4 
+direcciones
+Tapizado en cuero
+Con regulación eléctrica 
+en 8 direcciones
+Con regulación manual 
+en 4 direcciones
+Equipada, con portavasos
+Tapizados en cuero con 
+apoyabrazos
+Cromadas
+Plegables
+Eléctricos con one touch 
+y antipinzamiento para el 
+conductor, eléctricos para 
+los pasajeros
+Automático Bizona
+9" con Android Auto y 
+Apple Carplay
+6
+USB A + USB C Frontales
+-
+Equipada con espejos de 
+cortesía
+Plafón general central y 
+luces de lectura delan-
+teras
+Equipada con antiencan-
+dilamiento manual
+Equipada
+De agujas con pantalla 
+color de 7"
+-
+Keyless
+Equipada, con destrabe 
+automático en caso de 
+colisión
+Cuero con costuras grises
+Negro
+Tapizada en cuero 
+sintético
+Con tapa
+Con tapa y cerradura
+Con apoyabrazos y 
+portavasos
+Multifunción forrado en 
+cuero ajustable en 4 
+direcciones
+Tapizado en cuero
+Con regulación eléctrica 
+en 8 direcciones
+Con regulación manual 
+en 4 direcciones
+Equipada, con portavasos
+Tapizados en cuero con 
+apoyabrazos
+Cromadas
+Plegables
+Eléctricos con one touch 
+y antipinzamiento para el 
+conductor, eléctricos para 
+los pasajeros
+Automático Bizona con 
+forzador de aire para las 
+plazas traseras
+9" con Android Auto y 
+Apple Carplay
+6
+USB A + USB C Frontales
+Equipada
+Equipada con espejos de 
+cortesía
+Plafón general central y 
+luces de lectura delan-
+teras
+Equipada con antiencan-
+dilamiento manual
+Equipada
+De agujas con pantalla 
+color de 7"
+Removible
+Keyless
+Equipada, con destrabe 
+automático en caso de 
+colisión
+MODELO
+2WD GLX 5MT - Nafta
+2WD GLX 6MT - Diesel 
+4WD GLS 6MT - Diesel 
+4WD GLS 6AT - Diesel 

@@ -1,0 +1,14 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Nissan New Sentra B18 (MX); confianza baja)
+Fuentes:
+- lanzamiento SR Midnight Uruguay (Autoblog Uruguay), specs y equipamiento SR: https://www.autoblog.com.uy/2025/08/lanzamiento-nissan-sentra-sr-midnight.html
+- prueba Sentra Exclusive CVT / diferencias Advance-SR-Exclusive (generación previa, usar con cautela): https://www.autoblog.com.uy/2020/10/prueba-nissan-sentra-20-exclusive-cvt.html
+- página oficial nissan.com.uy (ya muestra la nueva generación B19): https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/sentra.html
+Notas: No hay ficha oficial de la B18 en nissan.com.uy (el sitio ya muestra la B19). Datos de SR/Midnight de Autoblog Uruguay (2025); Advance/Exclusive inferidos de la prueba 2020 (generación anterior). 'SENTRA SR CVT' (id 1) asumido como el SR de Uruguay. Potencia 145 cv/HP según fuentes UY (otros mercados citan 149 hp).
+
+Nissan Sentra B18 (MX, ref. Uruguay). Sedán mediano, 5 plazas, nafta. Origen México (Aguascalientes). Garantía 3 años / 100.000 km.
+MOTOR Y TRANSMISIÓN: 2.0 L (1.997 cc) 4 cil., 16 válvulas, inyección directa; 145 HP a 6.000 rpm, 196 Nm a 4.000 rpm. CVT Xtronic D-Step con 8 marchas simuladas, tracción delantera. Consumo declarado 5,2 L/100 km mixto. Combustible recomendado: nafta premium.
+DIMENSIONES: largo 4.646 mm, ancho 1.815 mm, alto 1.459 mm, entre ejes 2.710 mm. Baúl 466 L, tanque 47 L. Peso 1.396 kg (SR Midnight).
+CHASIS: delantera independiente con estabilizadora, trasera multilink; discos ventilados adelante y sólidos atrás; dirección eléctrica. Neumático auxilio temporal T125/70 D16.
+VERSIONES: Advance CVT (17", tela, pantalla 8", cámara trasera, 6 parlantes); SR CVT (18", cuero SR, Bose 8 parlantes, techo solar, levas, cámara 360°, paquete de asistencias: frenado de emergencia, alerta de colisión, punto ciego, tráfico cruzado, atención del conductor; parrilla/spoiler/escape deportivos); Exclusive CVT (17", eco-cuero, asiento conductor eléctrico con lumbar, asientos y volante calefaccionados, retrovisor automático, encendido remoto, frenado con detección de peatones, alerta de abandono de carril, intervención de carril, TPMS, control crucero inteligente); SR Midnight (edición limitada sobre SR: carrocería y detalles en negro, llantas negras 18", U$S 36.990).
+SEGURIDAD COMÚN: 6 airbags, ABS+EBD+BA, VDC, TCS, HSA, alerta de asiento trasero, alarma.
+NOTA: el detalle de Advance y Exclusive proviene de la prueba de la generación previa (2020); solo la SR/Midnight está confirmada para el modelo actual.

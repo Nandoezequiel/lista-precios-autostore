@@ -1,0 +1,171 @@
+# paginas: 2
+
+## Especificaciones básicas  [columnas: Élite | Deluxe]
+- Cilindrada (L): 1.5 4 cilindros 16V
+- Motorización: Híbrida auto-recargable
+
+## Transmisión  [columnas: Automática | DHT]
+- Potencia motor a combustión (Hp): 94
+- Torque motor a combustión(Nm): 125
+- Potencia motor eléctrico (Hp): 154
+- Torque motor eléctrico (Nm): 250
+- Potencia combinada(Hp): 188
+- Torque combinada (Nm): 375
+- Tracción: 2WD
+- Dirección: Asistida electricamente
+- Emisión: EuroV+
+- Peso bruto (kg): 1826
+- Rendimiento mixto (km/L): 20,8
+
+## Chasis  [columnas: Élite | Deluxe]
+
+## Suspensión delantera  [columnas: Independiente | McPherson]
+- Suspensión trasera: Viga de torsión
+- Dirección asistida eléctrica: en todas las versiones
+- Cambio eléctrico: en todas las versiones
+- Freno de mano electrónico (EPB): en todas las versiones
+- Auto Hold (Retención automática): en todas las versiones
+- Frenos de disco: en todas las versiones
+- Modo de conducción (Estándar, Eco, Sport, Nieve): en todas las versiones
+- Modo de dirección (Deportivo, Confort, Manejo): en todas las versiones
+- Dirección asistida con ajuste según la velocidad: en todas las versiones
+- 215/60 R17: Independiente SÍ; McPherson NO
+- 225/55 R18: Independiente NO; McPherson SÍ
+- Tratamiento anticorrosión: en todas las versiones
+
+## Exterior  [columnas: Élite | Deluxe]
+- Manijas exteriores del color de la carrocería: en todas las versiones
+- Antena de radio tipo aleta de tiburón en el techo: en todas las versiones
+- Limpiaparabrisas con sensor de lluvia: en todas las versiones
+- Faros automáticos: en todas las versiones
+- Rines de aleación de aluminio: en todas las versiones
+- Portón trasero manual: en todas las versiones
+
+## Interior  [columnas: Élite | Deluxe]
+- Interior negro: en todas las versiones
+- Volante de cuero: en todas las versiones
+- Volante ajustable manualmente en 2 direcciones: en todas las versiones
+- Computadora de viaje: en todas las versiones
+- Panel de instrumentos digital de 7" (LCD): en todas las versiones
+- Visera con espejo de maquillaje y luz: en todas las versiones
+- Cargador inalámbrico: Élite NO; Deluxe SÍ
+- Toma de corriente delantera de 12V: en todas las versiones
+- Descansabrazos del asiento delantero: en todas las versiones
+- Posavasos delantero: en todas las versiones
+
+## Asientos  [columnas: Élite | Deluxe]
+- Asientos de cuero: en todas las versiones
+- Asiento del conductor ajustable manualmente en 6 direcciones: Élite SÍ; Deluxe NO
+- Asiento del conductor ajustable eléctricamente en 6 direcciones: Élite NO; Deluxe SÍ
+- Asiento del pasajero delantero ajustable manualmente en 4 direcciones: en todas las versiones
+- Asientos traseros abatibles 60/40: en todas las versiones
+- Asientos delanteros calefactados con ajuste eléctrico: Élite NO; Deluxe SÍ
+- Reposacabezas central trasero: en todas las versiones
+- Descansabrazos central de la segunda fila de asientos (con portavasos): en todas las versiones
+
+## Climatización  [columnas: Élite | Deluxe]
+- Climatizador bizona: en todas las versiones
+- Salida de aire de asientos traseros (arriba): en todas las versiones
+- Salida de aire de asientos traseros (abajo): en todas las versiones
+- Indicador de temperatura exterior: en todas las versiones
+- Filtro de polvo: en todas las versiones
+- Fluido refrigerante HFC-134a: en todas las versiones
+
+## Iluminación  [columnas: Élite | Deluxe]
+- Faros LED: en todas las versiones
+- Faros con ajuste eléctrico de altura: en todas las versiones
+- Iluminación de camino a casa: en todas las versiones
+- Luces antiniebla traseras: en todas las versiones
+- Luces de circulación diurna (DRL): en todas las versiones
+- Lámpara de freno de alto nivel: en todas las versiones
+- Luz de lectura sin control de techo solar: en todas las versiones
+- Luz de cúpula: en todas las versiones
+- Sistema de advertencia de luces encendidas: en todas las versiones
+- Luz del maletero: en todas las versiones
+- Colores disponibles
+- @gwm_uruguay: gwm.uruguay
+
+## Seguridad activa y pasiva  [columnas: Élite | Deluxe]
+- Doble airbag SRS: en todas las versiones
+- Airbags laterales delanteros: en todas las versiones
+- Airbags de cortina laterales: en todas las versiones
+- Cinturones de seguridad delanteros ajustables con pretensor: en todas las versiones
+- Cinturón de seguridad de 3 puntos en los asientos de la segunda fila: en todas las versiones
+- Cinturones de seguridad traseros con pretensor: en todas las versiones
+- Sistema de advertencia de cinturón de seguridad delantero desabrochado: en todas las versiones
+- Columna de dirección de absorción de energía: en todas las versiones
+- Frenos ABS + EBD: en todas las versiones
+- Control de estabilidad electrónico (ESC): en todas las versiones
+- Sistema de control de tracción (TCS): en todas las versiones
+- Control de retención en pendiente (HHC): en todas las versiones
+- Control de descenso en pendiente (HDC): en todas las versiones
+- Mitigación de vuelcos (RMI): en todas las versiones
+- Asistencia de frenado (BA): en todas las versiones
+- Módulo de control de suspensión (SCM): en todas las versiones
+- Sistema de anulación de frenos: en todas las versiones
+- Sistema de alarma de frenado de emergencia: en todas las versiones
+- Sistema de monitoreo de presión de neumáticos (TPMS): en todas las versiones
+- Función de desbloqueo automático en caso de colisión: en todas las versiones
+- Sistema de corte de combustible en caso de colisión: en todas las versiones
+- Sistema de asistencia de estacionamiento: Élite SÍ; Deluxe NO
+- Video en reversa + Estacionamiento dinámico: Élite SÍ; Deluxe NO
+- Vista de 360 grados: Élite NO; Deluxe SÍ
+- Sistema de control de crucero: Élite SÍ; Deluxe NO
+- ACC + Asistencia inteligente de crucero + Asistencia inteligente para giros: Élite NO; Deluxe SÍ
+- Asistencia en atascos de tráfico: Élite NO; Deluxe SÍ
+- Advertencia de colisión frontal (FCW): Élite NO; Deluxe SÍ
+- Frenado automático de emergencia para peatones y bicicletas (AEB): Élite NO; Deluxe SÍ
+- Advertencia de salida de carril (LDW): Élite NO; Deluxe SÍ
+- Asistencia de mantenimiento de carril (LKA): Élite NO; Deluxe SÍ
+- Sistema inteligente de evasión de peligros: Élite NO; Deluxe SÍ
+- Asistencia en intersecciones con AEB: Élite NO; Deluxe SÍ
+- Asistencia de cambio de carril (LCA): Élite NO; Deluxe SÍ
+- Advertencia de lado trasero + Freno de advertencia de lado trasero: Élite NO; Deluxe SÍ
+- Advertencia de tráfico cruzado trasero (RCW): Élite NO; Deluxe SÍ
+- Advertencia de atención del conductor (DOW): Élite NO; Deluxe SÍ
+- Mantenimiento electrónico de carril (ELK): Élite NO; Deluxe SÍ
+- ISOFIX: en todas las versiones
+- Detección de somnolencia del conductor: en todas las versiones
+- Registrador de datos de eventos (EDR): en todas las versiones
+- Inmovilizador: en todas las versiones
+- Llave inteligente: en todas las versiones
+- Sistema de entrada sin llave: en todas las versiones
+- Sistema de arranque con botón: en todas las versiones
+- Función de localización del coche: en todas las versiones
+- Inmovilizador de motor: en todas las versiones
+- Sistema de alarma antirrobo: en todas las versiones
+- Función de bloqueo mientras se conduce: en todas las versiones
+- Cierre centralizado de puertas: en todas las versiones
+- Función de bloqueo automático de retorno: en todas las versiones
+- Función de protección contra errores de bloqueo: en todas las versiones
+- Sistema de advertencia de puerta abierta: en todas las versiones
+- Kit de reparación de neumáticos: en todas las versiones
+
+## Multimedia  [columnas: Élite | Deluxe]
+- Computador abordo: en todas las versiones
+- Bluetooth: en todas las versiones
+- Pantalla touch de 10.25 pulgadas: Élite SÍ; Deluxe NO
+- Pantalla touch de 12.3 pulgadas: Élite NO; Deluxe SÍ
+- Apple CarPlay & Android Auto: en todas las versiones
+- Puertos USB dobles (asientos delanteros): en todas las versiones
+- Puertos USB dobles (asientos traseros): en todas las versiones
+- 6 altavoces: en todas las versiones
+- Volumen de radio con ajuste automático: en todas las versiones
+
+## Vidrios y espejos exteriores  [columnas: Élite | Deluxe]
+- Espejo retrovisor interno manual antideslumbrante: Élite SÍ; Deluxe NO
+- Espejo retrovisor interno electrónico antideslumbrante con alarma SBR: Élite NO; Deluxe SÍ
+- Alzavidrios eléctricos: en todas las versiones
+- Alzavidrio conductor con función one-touch y anti-pinzamiento: Élite SÍ; Deluxe NO
+- Alzavidrio en las cuatro puertas con función one-touch y anti-pinzamiento: Élite NO; Deluxe SÍ
+- Espejo retrovisor exterior plegable + ajuste eléctrico: Élite SÍ; Deluxe NO
+- + señalizador lateral
+- Espejo retrovisor exterior plegable + ajuste eléctrico: Élite NO; Deluxe SÍ
+- + calefacción + señalizador lateral
+- Desempañador por cable calefactor (luneta trasera): en todas las versiones
+- Dimensiones
+- 1574 mm
+- : 163 mm
+- : 2700 mm
+- 1841 mm: 4472 mm
+- GWM Uruguay gwm.com.uy

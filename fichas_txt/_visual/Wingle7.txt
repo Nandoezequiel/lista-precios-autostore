@@ -1,0 +1,102 @@
+# paginas: 2
+ESPECIFICACIONES: motor GW4D20D, 2.0 L 4 cilindros en línea con TGV, diésel common-rail, 148 HP / 4000 rpm, torque 320 Nm / 1400-2800, caja manual de 6 marchas, caja de carga 1680 x 1460 x 480 mm, peso bruto 1880 kg (4x2) y 1920 kg (4x4), capacidad de carga de la caja 675 kg, con pasajeros 1050 kg, frenos de disco en las 4 ruedas. Dimensiones: largo 5350 mm, distancia entre ejes 3350 mm, despeje 213 mm, ancho 1750 mm, alto 2150 mm.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+
+## Especificaciones básicas
+  (Código de motor GW4D20D)
+  (Descripción motor 2.0l 4 cilindros en línea con TGV)
+  (Sistema de alimentación Diesel con sistema de inyección)
+  (Common-rail)
+  (Potencia (HP / rpm) 148 / 4000)
+  (Torque (NM / rpm) 320 / 1400 - 2800)
+- Caja de cambios Manual 6 marchas Largo-Alto-Ancho caja (mm) Peso bruto (Kg) 1880 1920: no la trae ninguna
+  (Capacidad carga de caja (Kg) 675)
+  (Capacidad de carga con pasajeros (Kg) 1.050)
+  (Frenos Disco x4)
+
+## Chasis y dirección
+- 2WD: Luxury 4x2 SÍ; Luxury 4x4 NO
+- 4WD con acople eléctrico: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Dirección asistida hidráulicamente: en todas
+- Columna de dirección ajustable en altura: en todas
+- Bloqueo de diferencial trasero: Luxury 4x2 NO; Luxury 4x4 SÍ
+
+## Exterior
+- Rueda de auxilio: en todas
+- Llantas de aleación de 16": en todas
+- Neumáticos 235/70R16: en todas
+- Tratamiento anticorrosión: en todas
+- Barra de caja: en todas
+- Puntos de anclaje en el exterior de la caja: en todas
+- Cubre caja de membrana líquida: en todas
+
+## Interior
+- Interior color negro: en todas
+- Tablero, pantalla multimedia y consola con brillo ajustable: en todas
+- Toma de 12V: en todas
+- Proteccion interior de zócalos: en todas
+- Encendedor: en todas
+- Asientos de Eco cuero: en todas
+- Asiento del conductor ajustable en 6 direcciones eléctricamente: en todas
+- Asiento del pasajero ajustable en 4 direcciones manualmente: en todas
+
+## Seguridad
+- Frenos ABS+EBD: en todas
+- Asistente de frenado (BA): en todas
+- Control de estabilidad (ESP): en todas
+- Discos de freno ventilados x4: en todas
+- Monitoreo de presión de neumaticos (TPMS): en todas
+- Sensores de estacionamiento traseros: en todas
+- Cámara de marcha atrás con líneas de guia: en todas
+- 6 airbags (Frontal, lateral, cortina): en todas
+- Cinturones de 5 puntas y apoyacabezas en todas la plazas: en todas
+- Aviso de cinturón no abrochado en plazas delanteras: en todas
+- Traba de niños: en todas
+- Cierre automático de puertas en rodaje (15km/h): en todas
+- Desbloqueo automático de puertas en caso de colisión: en todas
+- Corte de combustible en caso de choque: en todas
+- Barras de refuerzo en puertas para choques laterales: en todas
+- ISOFIX: en todas
+- Inmbolizador de motor: en todas
+- Cierre centralizado a distancia: en todas
+- Bloqueo automático en rodaje: en todas
+- Funcion de encontrar el vehiculo: en todas
+- Aviso de puerta abierta: en todas
+- Alarma de olvido de llave: en todas
+  (Color disponible)
+  (@gwm_uruguay gwm.uruguay)
+
+## Multimedia
+- Pantalla tactil con: Luxury 4x2 NO; Luxury 4x4 SÍ
+- 6 altavoces: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Controles multimedia: Luxury 4x2 NO; Luxury 4x4 SÍ
+
+## Vidrios/Espejos
+- Alzacristales: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Espejos exteriores y plegado manual. Color carroceria: Luxury 4x2 NO; Luxury 4x4 SÍ
+
+## Iluminación
+- Luz de niebla: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Luz de niebla trasera: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Sensor crepuescular: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Faros delanteros: Luxury 4x2 NO; Luxury 4x4 SÍ
+- DRL Luces diurnas: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Tercera luz de freno: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Luces de curva: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Faros delanteros: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Luces de lectura: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Iluminación central: Luxury 4x2 NO; Luxury 4x4 SÍ
+
+## Climatización
+- Climatizador: Luxury 4x2 NO; Luxury 4x4 SÍ
+- Filtro de habitáculo: Luxury 4x2 NO; Luxury 4x4 SÍ
+  (Dimensiones)
+  (213 mm)
+  (3350 mm)
+  (5350 mm)
+  (2150 mm)
+  (1750 mm)
+  (480 mm)
+  (1460 mm 1680 mm)
+  (GWM Uruguay gwm.com.uy)

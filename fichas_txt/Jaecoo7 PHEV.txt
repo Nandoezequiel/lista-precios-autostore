@@ -1,0 +1,285 @@
+
+--- p1 ---
+
+--- p2 ---
+
+--- p3 ---
+
+--- p4 ---
+Tipo de toma de carga
+Motor ICE
+Motor Eléctrico
+Potencia ICE
+Torque ICE
+Potencia EV
+Torque EV
+Potencia combinada
+Torque combinado
+CCS2 TYPE F 
+1.5TGDI
+150 KW
+142 HP(105kW）
+215Nm
+204 HP
+310Nm
+346HP(255kW)
+525Nm
+Tracción
+Suspensión delantera McPherson
+•
+Suspension trasera multilink
+•
+Frenos a disco delanteros ventilados
+•
+Frenos a disco traseros
+•
+Transmisión
+1DHT
+FRENOS
+Consumo EV (kWh)
+EV 15.9 kWh/100km（WLTP)
+Consumo ICE
+1.0L /100km（WLTP)
+CONSUMO
+Tipo de toma de carga
+Motor ICE
+Motor Eléctrico
+Potencia ICE
+Torque ICE
+Potencia EV
+Torque EV
+Potencia combinada
+Torque combinado
+CCS2 TYPE F 
+1.5TGDI
+150 KW
+142 HP(105kW）
+215Nm
+204 HP
+310Nm
+346HP(255kW)
+525Nm
+Tracción
+2WD
+Suspensión delantera McPherson
+•
+Suspension trasera multilink
+•
+Frenos a disco delanteros ventilados
+•
+Frenos a disco traseros
+•
+Transmisión
+1DHT
+FRENOS
+CONSUMO
+TRANSMISIÓN  
+
+--- p5 ---
+
+--- p6 ---
+Capacidad de tanque
+Capacidad de bateria
+Llantas de aleacion de 19"
+Largo / Ancho / Altura
+Distancia entre Ejes
+Neumaticos
+Capacidad de pasajeros
+Capacidad de baul (L)
+Capacidad de baul con asientos rebaidos
+60L
+18.3 kWh
+•
+4500/1865/1670
+2672
+235/50 R19
+5
+340
+1265
+Capacidad de tanque
+Peso vehicular total (kg)
+Capacidad de bateria
+Llantas de aleacion de 19"
+Largo / Ancho / Altura
+Distancia entre Ejes
+Neumáticos
+Capacidad de pasajeros
+Capacidad de baúl (L)
+Capacidad de baúl con asientos rebaidos
+60L
+18.3 kWh
+•
+4500/1865/1670
+2672
+235/50 R19
+5
+340
+1265
+1870
+EPS Dirección asistida eléctricamente
+•
+DIRECCIÓN
+1,670
+
+--- p7 ---
+AEB Frenado autónomo de emergencia
+ACC Control Crucero adaptativo
+FCW  Advertencia de colisión frontal
+LDW Alerta de salida de carril
+TJA Asistente para atascos de tráfico
+ICA Mantenimiento de carril semi autónomo
+IHC Luces altas automáticas inteligentes
+BSD Alerta de punto ciego
+DOW Advertencia de apertura de puertas
+RCTB Alerta de tráfico cruzado trasero con frenado de emergencia
+ELK Asistente de mantenimiento de carril de emergencia
+LDP Asistente de prevención de salida del carril
+CSA Control inteligente de velocidad en curvas
+RCW Advertencia de colisión trasera
+DMS Monitor de fatiga
+Detección infantil de signos vitales
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+--- p8 ---
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+BS + EBD
+ESP（EBA+TCS+HA）
+Freno de mano electrónico EPB con Autohold
+Ayuda de descenso en pendiente (HDC)
+Sistema de Monitoreo de Presión de Neumáticos (TPMS)
+Ayuda de arranque en pendientes (HAC)
+Limitador de velocidad (ASL)
+Cinturones de seguridad delanteros con pretensor
+Cinturones de seguridad traseros con pretensor
+7 Airbags
+ISOFIX
+Sistema de cámaras HD 540°
+Inmobilizador de motor 
+Sensores de estacionamiento delanteros
+Sensores de estacionamiento traseros
+Cámara de visión trasera (con guías dinámicas)
+
+--- p9 ---
+
+--- p10 ---
+CONFORT Y MULTIMEDIA
+Acceso Keyless
+Techo de vidrio eléctrico 
+Bloqueo de puertas en rodaje
+Boca de carga de combustible con apertura eléctrica
+Radio con bluetooth
+Pantalla multimedia de 10.25" con android auto y CarPlay  inalambrico
+4 Puertos USB A delanteros y traseros 
+Puerto USB tipo C de carga
+Cargador de smartphones inalambrico
+Comandos vocales
+8 Parlantes
+Grabadora de conducción
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+CONFORT Y MULTIMEDIA
+     
+
+--- p11 ---
+Asientos y volante tapizados en cuero
+Volante multifunción ajustable en 4 direcciones
+Volante calefaccionado
+Asiento del conductor ajustable en 8 direcciones 
+eléctricamente con memoria
+Asiento del conductor con función de bienvenida
+Asientos del pasajero ajustable eléctricamente en 
+4 posiciones con memoria
+Asientos delanteros calefaccionados y ventilados 
+Espejos con memoria
+Asiento trasero abatible 1/3 - 2/3
+Head-up display
+Apoyabrazos delantero central refrigerado
+Vidrios insonorizados
+Ventanas eléctricas one touch con antipinzamiento
+Climatizador bizona con AQS y filtro N95 y salida para plazas traseras
+Espejo retrovisor interior antiencandilamiento manual
+Toma de 12V en el baúl
+Vidrios tintados
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+--- p12 ---
+
+--- p13 ---
+Espejos retrovisores calefactados con ajuste y plegado electrico
+Manijas de puerta color carroceria
+Barras de techo
+Sensor de lluvia
+Proyección de luz de bienvenida
+Faros ajustables eléctricamente
+Follow-me-home
+DRL LED
+Espejos retrovisdores exteriores con luces de giro
+Luces y frontales y traseras LED
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+--- p14 ---

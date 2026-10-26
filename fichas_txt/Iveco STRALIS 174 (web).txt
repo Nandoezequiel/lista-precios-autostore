@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Iveco STRALIS; confianza media)
+Fuentes:
+- ficha oficial iveco.com.uy S-Way 480 6x2 neumática: https://www.iveco.com.uy/productos/s-way-480-suspension-neumatica
+- Iveco Brasil S-Way 6x2 480: https://www.iveco.com/brasil/Pesados-S-Way/Pesados-6x2-480
+Notas: El modelo en la lista dice 'STRALIS' pero es la S-Way (sucesora del Stralis). 'Tracto Doble (Brasil)' no verificado en el sitio brasileño; el sitio indica 6x2 Mega Cab, entre ejes 3.170/3.450 mm y PBT 27.200 kg.
+
+Iveco S-Way 480 6x2 con suspensión neumática (en la lista figura como STRALIS S WAY 480, Brasil). Ver ficha del modelo S-WAY (id 176): FPT Cursor 13 de 12.900 cm3, 480 CV, 2.450 Nm, caja ZF TraXon de 12 marchas, PBT 27.200 kg, CMT 60.000 kg, eje trasero 2,85:1, 295/80 R22.5, entre ejes 3.200 o 3.500 mm.

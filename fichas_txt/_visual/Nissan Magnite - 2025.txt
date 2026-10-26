@@ -1,0 +1,55 @@
+# paginas: 13
+VERSIONES del Nissan Magnite (1.0 L Turbo 3 cilindros, nafta): Advance Manual (5 cambios, 99 HP), Advance Automático (CVT, 99 HP), Exclusive Manual y Exclusive Automático.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 13]
+  (FICHA TÉCNICA NISSAN MAGNITE)
+- Motor y caja de cambios 1.0 L Turbo (999 cm³) - 3 cilindros - 12 valvulas - Nafta Potencia (Hp) - Par (Nm @ rpm) 99 - 160 / 2800 99 - 152 / 2200 99 - 160 / 2800 99 - 152 / 2200: en todas
+  (Caja de cambios Manual de 5 cambios Xtronic - CVT Manual de 5 cambios Xtronic - CVT)
+- Suspensión y Frenos Delantera Mc Pherson + Trasera con Amortiguadores Telescópicos: en todas
+- Discos ventilados delanteros y Tambor trasero Dimensiones / Capacidad: en todas
+  (Longitud total (m) 3.994 3.994 3.994 3.994)
+  (Ancho total (m) 1.938 1.938 1.938 1.938)
+  (Altura total (m) 1.572 1.572 1.572 1.572)
+  (Distancia entre ejes (m) 2.501 2.501 2.501 2.501)
+  (Despeje (mm) 205 205 205 205)
+  (Peso en vacío (Kg) 1.105 1.131 1.105 1.131)
+  (Peso bruto (Kg) 1.480 1.506 1.480 1.506)
+- Capacidad del maletero (L) - Capacidad del maletero con asientos rebatidos (L) 336 - 690 336 - 690 336 - 690 336 - 690 Tanque de combustible de 36 (L) Llantas y neumáticos: en todas
+  (Tipo de neumáticos 195 / 60 R16 195 / 60 R16 195 / 60 R16 195 / 60 R16)
+  (Tamaño y material de las llantas Aleación bi tono R16 Aleación bi tono R16 Aleación bi tono R16 Aleación bi tono R16)
+  (Neumático de repuesto 195 / 65 R16 195 / 65 R16 195 / 65 R16 195 / 65 R16)
+- Conducción Dirección asistida eléctrica: en todas
+- Panel de instrumentos analogico con pantala digital TFT de 7" Volante multifunción con comandos Forrado en cuero Forrado en cuero: en todas
+- Vidrios eléctricos en las 4 ventanas: en todas
+- Cierre central de puertas: en todas
+- Llave inteligente I-Key con desbloqueo de aproximación, bloqueo de alejamiento: en todas
+- Parabrisas tonalizado: en todas
+- Limitador de velocidad: Advance Manual SÍ; Advance Automático SÍ; Exclusive Manual NO; Exclusive Automático NO
+- Monitor de presión de neumáticos: en todas
+- Espejos laterales con ajuste y plegado eléctrico: en todas
+- Faros delanteros con iluminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Faron camineros con iluminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Luces de circulación diurna LED: en todas
+- Faros traseros con iliminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Monitor de visión periférica 360° Interior: en todas
+- Aire acondicionado automático: en todas
+- Iluminación ambiental de la cabina: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Asientos tapizados en cuero: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Pack de decoración interior: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+- Multimedia de 8" compatible con Android Auto® + Carplay® inalámbrico y 6 parlantes: en todas
+- Consola central con apoyabrazos ÓPALO ÁRTICO OXFORD Exterior: en todas
+- Antena de tiburón: en todas
+- Barras de techo con capacidad hasta 50 Kg: en todas
+- Aleron trasero: en todas
+- Manijas de puerta exteriores cromadas y espejos color carrocería Seguridad y asistencias de manejo: en todas
+- Inmovilizador + Alarma: en todas
+- Airbags frontales (2), laterales (2) y cortina (2): en todas
+- Cinturón de seguridad con pretenso: en todas
+- Sistema de frenos antibloqueo (ABS): en todas
+- Asistente de frenado de emergencia (EBA): en todas
+- Control de la dinámica del vehículo (VDC): en todas
+- Monitoreo de presión de neumáticos (TPMS) BITONO: en todas
+- Control de velocidad crucero (CC): en todas
+- Sistema de control de tracción (TCS) ROJO PLATA AZUL: en todas
+- Asistente de arranque en pendiente (HAS): en todas

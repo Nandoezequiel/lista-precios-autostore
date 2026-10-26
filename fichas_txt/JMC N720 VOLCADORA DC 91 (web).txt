@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (JMC N720 VOLCADORA DC; confianza baja)
+Fuentes:
+- referencia: volcadora N822 DC (modelo sucesor): https://www.jmc.com.uy/modelos/volcadora-doble-cabina
+- motor JX493ZLQ4 Euro IV compartido: https://www.jmc.com.uy/modelos/workshop
+Notas: Sin ficha oficial. Motor deducido de la ficha Workshop (misma generación Euro IV). Sin fotos.
+
+JMC N720 Medium doble cabina volcadora, homologación Euro IV (E4), código JX1064TSG24. Motor 2.8 turbodiésel 2771 cc (JX493ZLQ4, el de la ficha Workshop), 107 HP, 285 Nm, manual de 5 marchas, entre ejes 3360 mm (Medium). El N720 ya no está en el sitio oficial; lo reemplaza la volcadora N822 DC. No hay tara, carga ni medidas de caja publicadas.

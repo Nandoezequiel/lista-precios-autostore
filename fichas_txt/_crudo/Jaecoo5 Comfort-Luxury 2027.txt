@@ -1,0 +1,734 @@
+
+--- p1 ---
+
+--- p2 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Largo (mm)
+4380
+4380
+Ancho (mm)
+1860
+1860
+Altura (mm)
+1650
+1650
+Distancia entre ejes (mm)
+2620
+2620
+Autonomía NEDC (km)
+461
+461
+Capacidad de batería (kWh)
+58,9
+58,9
+Potencia máxima (kW / CV)
+155 / 211
+155 / 211
+Torque (N·m)
+288
+288
+Potencia pico de carga DC (kW)
+130
+130
+Porcentaje de capacidad de carga rápida
+30%-80%
+30%-80%
+Tiempo de carga rápida 30-80% (min)
+28
+28
+Distancia mínima al suelo (mm)
+184
+184
+Peso en orden de marcha (kg)
+1715
+1715
+Aceleración 0-100 km/h (s)
+7,7
+7,7
+Velocidad máxima (km/h)
+175
+175
+Potencia AC (kW)
+11
+11
+Capacidad del baúl (L)
+480
+480
+Modelo de neumático
+235/55R18
+235/55R18
+Hatchback (Dos volúmenes)
+S
+S
+SUV
+S
+S
+Volante a la izquierda (LHD)
+S
+S
+
+--- p3 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Carrocería monocasco
+S
+S
+Vía delantera (mm)
+1580
+1580
+Vía trasera (mm)
+1590
+1590
+Palanca de cambios en la columna de dirección
+S
+S
+Parrilla activa / aerodinámica
+S
+S
+Modo de conducción (nieve, arena, etc.)
+S
+S
+Amortiguadores de gas del capó
+S
+S
+Cubierta del motor con compartimiento de
+almacenamiento
+S
+S
+Cubrecárter / Protector inferior del motor
+S
+S
+Protector inferior del chasis
+S
+Motor delantero, tracción delantera (FF)
+S
+S
+Vehículo 100% Eléctrico (EV)
+S
+S
+Módulo de carga rápida
+S
+S
+Dirección asistida eléctrica (EPS)
+S
+S
+Suspensión trasera independiente
+S
+S
+Freno de estacionamiento eléctrico (EPB)
+S
+S
+Sistema de retención automática (AutoHold)
+S
+S
+Frenos de disco ventilados delanteros
+S
+S
+Frenos de disco sólidos traseros
+S
+S
+Llantas / Rines de 18 pulgadas
+S
+S
+Llantas / Rines de aleación de aluminio
+S
+S
+
+--- p4 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Llantas / Rines bitono
+S
+S
+Neumáticos
+S
+S
+Cinturón de seguridad del conductor con limitador de
+fuerza
+S
+S
+Cinturón de seguridad del conductor con pretensor
+S
+S
+Cinturón del pasajero delantero con limitador de fuerza
+S
+S
+Cinturones de seguridad delanteros ajustables en altura
+S
+S
+Alerta de cinturón de seguridad desabrochado (Conductor)
+S
+S
+Alerta de cinturón de seguridad desabrochado (Pasajero)
+S
+S
+Cinturones de seguridad de 3 puntos (2da fila)
+S
+S
+Cinturón de seguridad de 3 puntos asiento central
+S
+S
+Anclajes rígidos (2da fila)
+S
+S
+Airbag / Bolsa de aire del conductor
+S
+S
+Airbag / Bolsa de aire del pasajero delantero
+S
+S
+Airbags laterales delanteros
+S
+S
+Airbags de cortina
+S
+S
+Anclajes ISOFIX para sillas infantiles
+S
+S
+Espejo retrovisor con cámara DVR (Dashcam)
+S
+Alerta de puerta abierta
+S
+S
+
+--- p5 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Alerta de capó abierto
+S
+S
+Alerta de baúl / maletero abierto
+S
+S
+Seguro mecánico para niños (puertas traseras)
+S
+S
+Inmovilizador de motor
+S
+S
+Alarma antirrobo
+S
+S
+Cámara de retroceso (con guías dinámicas)
+S
+Cámara panorámica 540° HD (Visión 360°)
+S
+Sensores de estacionamiento traseros
+S
+S
+Sensores de estacionamiento delanteros
+S
+Sistema antibloqueo de frenos (ABS)
+S
+S
+Distribución electrónica de la fuerza de frenado (EBD)
+S
+S
+Sistema de asistencia de frenado (BAS)
+S
+S
+Sistema de prioridad de frenado (BOS)
+S
+S
+Sistema de frenos integrado One-Box
+S
+S
+Control de tracción (TCS)
+S
+S
+Asistencia de frenado de emergencia (EBA)
+S
+S
+Control de estabilidad antivuelco (RSC)
+S
+S
+Asistencia de arranque en pendiente (HAC)
+S
+S
+Control de descenso en pendiente (HDC)
+S
+S
+Sistema de monitoreo indirecto de presión de neumáticos
+(i-TPMS)
+S
+S
+
+--- p6 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Cierre centralizado de puertas
+S
+S
+Bloqueo automático de puertas en movimiento
+S
+S
+Control de crucero
+S
+S
+Recordatorio de límite de velocidad
+S
+S
+Ajuste de límite de velocidad (Aviso desactivable)
+S
+S
+Advertencia de salida de carril (LDW)
+S
+Asistente de mantenimiento de carril (LKA)
+S
+Prevención de salida de carril (LDP)
+S
+Monitor de punto ciego (BSD)
+S
+Asistente de cambio de carril (LCA)
+S
+Control de crucero adaptativo a toda velocidad (ACC)
+S
+Alerta de arranque del vehículo delantero (DAI/LVDA)
+S
+Asistente de crucero integrado (ICA)
+S
+Advertencia de colisión frontal (FCW)
+S
+Alerta de tráfico cruzado trasero (RCTA)
+S
+Frenado automático por tráfico cruzado trasero (RCTB)
+S
+Frenado autónomo de emergencia (AEB)
+S
+Asistente en atascos de tráfico (TJA)
+S
+Sistema de evasión inteligente (IES)
+S
+
+--- p7 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Advertencia de apertura de puerta (DOW)
+S
+Limitador de velocidad activo (ASL)
+S
+Advertencia de colisión trasera (RCW)
+S
+Frenado post-colisión múltiple (MCB)
+S
+Mantenimiento de carril de emergencia (ELK)
+S
+Carrocería de un solo tono
+S
+S
+Carrocería bitono
+O
+O
+Faros halógenos
+S
+Faros LED
+S
+Faros de proyección (tipo lupa)
+S
+S
+Apagado retardado de faros (Follow-me-home)
+S
+S
+Faros de encendido automático (Sensor de luz)
+S
+S
+Ajuste de altura de faros (Manual/Eléctrico)
+S
+S
+Ajuste automático de luces altas/bajas (HMA)
+S
+S
+Luces de circulación diurna LED (DRL)
+S
+S
+Luces traseras LED
+S
+S
+Tercera luz de freno (CHMSL)
+S
+S
+Señal de parada de emergencia (Parpadeo rápido ESS)
+S
+S
+Luz antiniebla trasera (simple)
+S
+S
+Luces de reversa dobles
+S
+S
+Luz de matrícula trasera
+S
+S
+
+--- p8 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Barras de techo decorativas (Sin capacidad de carga)
+S
+Barras de techo con capacidad de carga
+S
+Manijas de puertas del color de la carrocería
+S
+S
+Alerón / Spoiler trasero
+S
+S
+Gancho de remolque delantero
+S
+S
+Gancho de remolque trasero
+S
+S
+Capacidad de remolque (con freno / sin freno)
+1250 kg / 750 kg
+Interior en color negro / oscuro
+S
+S
+Iluminación ambiental multicolor
+S
+Tablero de instrumentos moldeado por inyección (Rígido)
+S
+Tablero de instrumentos con revestimiento blando
+S
+Paneles de puertas rígidos
+S
+Paneles de puertas con revestimiento de PVC / cuero
+sintético
+S
+Luces de lectura delanteras
+S
+S
+Luces de lectura en la segunda fila
+S
+Luz del baúl / maletero
+S
+S
+Volante de poliuretano (moldeado por inyección)
+S
+Volante revestido en símil cuero (espuma de PU)
+S
+
+--- p9 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Columna de dirección con ajuste manual de 4 posiciones
+S
+S
+Volante multifunción
+S
+S
+5 Plazas (2+3)
+S
+S
+Tapicería de tela
+S
+Tapizado símil cuero
+S
+Asiento del conductor con ajuste manual de 6 posiciones
+S
+Asiento del conductor con ajuste eléctrico de 6 posiciones
+S
+Asiento del conductor ventilado (Respaldo + Cojín)
+S
+Asiento del pasajero delantero con ajuste manual de 4
+posiciones
+S
+Asiento del pasajero delantero con ajuste eléctrico de 4
+posiciones
+S
+Asiento del pasajero delantero ventilado (Respaldo + Cojín)
+S
+Apoyacabezas delanteros independientes
+S
+S
+Respaldos de segunda fila abatibles 60/40
+S
+S
+Tres apoyacabezas ajustables en segunda fila
+S
+S
+Apoyabrazos central integrado en segunda fila
+S
+S
+Apoyabrazos central en segunda fila con portavasos
+S
+S
+Bolsillos revisteros (detrás de los asientos delanteros)
+S
+S
+
+--- p10 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Parasol del conductor con espejo de cortesía
+S
+S
+Parasol del pasajero delantero con espejo de cortesía
+S
+S
+Parasol del conductor con iluminación
+S
+Parasol del pasajero delantero con iluminación
+S
+Parasol del conductor con portadocumentos / clip para
+tickets
+S
+S
+Manijas de techo plegables con amortiguación
+S
+Guantera con apertura amortiguada
+S
+Red de sujeción para el baúl / maletero
+S
+S
+Apoyabrazos central delantero con almacenamiento
+S
+S
+Reposapiés para el conductor
+S
+S
+Portagafas
+S
+S
+Triángulo de advertencia
+S
+S
+Climatizador automático bizona
+S
+S
+Salidas de aire en la segunda fila
+S
+S
+Filtración de aire simple (Filtro de habitáculo)
+S
+S
+Llave mecánica
+S
+S
+Llave a control remoto
+S
+S
+Llave inteligente (Sistema PEPS de entrada y arranque sin
+llave)
+S
+S
+Apertura de ventanillas a control remoto
+S
+S
+
+--- p11 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Entrada sin llave (Keyless Entry)
+S
+S
+Portón trasero de apertura manual hacia arriba
+S
+S
+Portón trasero eléctrico
+S
+Bandeja cubreequipaje
+S
+Portón trasero con apertura a control remoto
+S
+S
+Tapa de combustible / puerto de carga con apertura por
+presión
+S
+S
+Alzacristales eléctricos en las 4 puertas
+S
+S
+Cierre de ventanillas One-Touch con antipinzamiento (4
+puertas)
+S
+S
+Apertura de ventanillas One-Touch (4 puertas)
+S
+S
+Cristales con tinte verde (Atérmicos)
+S
+S
+Cristales acústicos / insonorizados
+S
+Cristales de privacidad (Oscurecidos)
+S
+Desempañador de la luneta trasera
+S
+S
+Espejos exteriores con ajuste eléctrico
+S
+S
+Espejos exteriores abatibles manualmente
+S
+Espejos exteriores abatibles eléctricamente
+S
+Espejos exteriores plegables automáticamente al bloquear
+S
+Espejos exteriores con desempañador (calefaccionados)
+S
+Espejo retrovisor interior con antiencandilamiento manual
+S
+S
+
+--- p12 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Limpiaparabrisas delantero aerodinámico (sin armazón)
+S
+S
+Limpiaparabrisas trasero aerodinámico (sin armazón)
+S
+S
+Limpiaparabrisas automáticos (Sensor de lluvia)
+S
+S
+Depósito de líquido lavaparabrisas de gran capacidad
+(4.5L)
+S
+S
+Cuadro de instrumentos digital de 8 pulgadas
+S
+S
+Pantalla única
+S
+S
+Pantalla táctil central de 13.2 pulgadas
+S
+Conectividad Bluetooth
+S
+S
+Radio AM/FM
+S
+S
+Sin reproductor de CD
+S
+Soporte para formato DVD
+S
+S
+Soporte para reproducción de MP3
+S
+S
+Soporte para reproducción de MP5
+S
+S
+Soporte para iPod
+S
+S
+Idioma Inglés
+S
+S
+Idioma Español
+S
+S
+Caja telemática T-Box (Servicios conectados)
+S
+S
+Punto de acceso Wi-Fi integrado en el vehículo
+S
+S
+Control por voz inteligente (Offline)
+S
+S
+
+--- p13 ---
+Especificaciones técnicas
+COMFORT
+LUXURY
+Función de localización del vehículo
+S
+S
+Proyección de smartphone compatible con Apple CarPlay
+S
+S
+Compatible con Android Auto
+S
+S
+Sistema de audio con 6 parlantes
+S
+Sistema de audio con 8 parlantes
+S
+1 Puerto USB en la fila delantera
+S
+S
+Puerto de carga rápida Tipo-C en la fila delantera
+S
+S
+1 Puerto USB en la segunda fila
+S
+S
+Toma de corriente de 12V delantera
+S
+S
+Toma de corriente de 12V en el baúl / maletero
+S
+Enchufe de 220V
+S
+S
+Cargador inalámbrico para teléfono celular
+S
+Sistema de refrigeración líquida de la batería
+S
+S
+Módulo de carga rápida/lenta con luces indicadoras
+S
+S
+Sistema de recuperación de energía de frenado ajustable
+S
+S
+Techo panorámico con cortina eléctrica
+S
+Toma de corriente para luz de acampada (Camping)
+S
+
+--- p14 ---
+
+--- p15 ---
+Colores
+Blanco Techo Negro
+Blanco
+Azul índigo
+Verde Techo Negro
+Gris
+Verde
+Negro
+
+--- p16 ---
+Montevideo, Uruguay - Galicia 908
+Respalda:
++598 91 422 020 / +598 94 229 975
+www.omodajaecoo.com.uy
+Nota: Las especificaciones aplican para Jaecoo 5 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se refiere al valor
+que se obtuvo en condiciones controladas de laboratorio, que pueden no reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional,
+debido a condiciones climatológicas, combustible, condiciones topográficas y otros factores. Santa Rosa Automotores S.A. se reserva el derecho de
+efectuar cualquier modificación sin previo aviso con respecto a colores, equipos o especificaciones. Las versiones aquí mostradas son las únicas
+aprobadas y certificadas por Santa Rosa Automotores S.A para este modelo, conforme a las condiciones y requerimientos del mercado. Consulte a su
+distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a
+modificar sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente
+son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los tapizados – en caso que se aplique – están fabricados en cuero
+automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de
+los colores reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos.
+La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa autorización escrita de Santa Rosa Automotores Uruguay S.A.
+Respalda:
+www.omodajaecoo.com.uy
+f
+Facebook
+OMODA Uruguay
+Instagram
+@omodajaecoo.uy
+I
+TikTok
+@omodajaecoo.uy

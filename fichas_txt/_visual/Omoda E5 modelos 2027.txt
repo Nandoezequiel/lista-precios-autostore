@@ -1,0 +1,156 @@
+# paginas: 3,4,5,6,7
+VERSIONES del Omoda E5 EV 2027: «Comfort STD 350» (batería 50 kWh, autonomía 350 km WLTP), «Luxury STD 350» (350 km WLTP) y «Luxury 430» (batería 60 kWh, 430 km WLTP). Las tablas indican qué trae cada una (SÍ/NO); «—» en la ficha significa que no lo trae.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 3]
+  (SISTEMAS AVANZADOS DE ASISTENCIA (ADAS))
+
+## Característica
+- Control inteligente de velocidad (ISA): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Monitoreo de punto ciego (BSD): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Alerta de apertura de puerta (DOW): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Alerta de colisión trasera (RCW): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Alerta de tráfico cruzado trasero (RCTA): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Frenado por tráfico cruzado trasero (RCTB): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Cambio automático de luces altas/bajas (IHC): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Control de crucero adaptativo a toda velocidad (ACC): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Asistencia en congestión de tráfico (TJA): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Asistencia integrada de crucero (ICA): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Sistema de frenado automático de emergencia (AEB): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Recordatorio de salida del vehículo delantero (DAI): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Advertencia de salida de carril (LDW): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Sistema de mantenimiento de carril (LKA): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Mantenimiento de carril de emergencia (ELK): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Supresión de desviación de carril (LDP): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Evasión inteligente (IES): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Asistencia de cambio de carril (LCA): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Alerta de colisión frontal (FCW): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Sistema ABS - EPS: en todas
+  (5 EV 2027)
+
+[página 4]
+  (CHASIS Y TREN MOTRIZ)
+
+## Característica
+- Tracción delantera (FWD): en todas
+- Suspensión delantera tipo MacPherson: en todas
+- Suspensión trasera multibrazo (multilink): en todas
+- Selector de marchas en columna de dirección: en todas
+- Dirección asistida eléctrica (EPS): en todas
+- Volante ajustable manualmente en 4 direcciones: en todas
+- Modos de conducción ECO / SPORT / NORMAL: en todas
+  (AUTONOMÍA Y CARGA)
+
+## Característica
+- Autonomía 350 km (WLTP): Comfort STD 350 SÍ; Luxury STD 350 SÍ; Luxury 430 NO
+- Autonomía 430 km (WLTP): Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Salida de voltaje exterior 220V: en todas
+- Recuperación de energía de frenado (ajustable): en todas
+- Modo inteligente enfriamiento/calefacción ultrarrápida: en todas
+  (FRENOS Y NEUMÁTICOS)
+
+## Característica
+- Frenos ventilados delanteros / sólidos traseros: en todas
+- AUTOHOLD: en todas
+- Neumáticos 215/60 R17: en todas
+- Llantas de aluminio en las 4 ruedas: en todas
+- Rueda de repuesto tipo T (T125/80 R17): en todas
+- Monitoreo directo de presión de neumáticos (TPMS): en todas
+  (5 EV 2027)
+
+[página 5]
+  (SEGURIDAD)
+
+## Característica
+- Cinturones delanteros de 3 puntos con pretensores y limitadores de fuerza: en todas
+- Cinturones delanteros con altura regulable: en todas
+- Cinturones traseros de 3 puntos con pretensores y limitadores: en todas
+- Alarma de cinturones desabrochados (delanteros y traseros): en todas
+- Airbags frontales dobles: en todas
+- Airbags laterales delanteros: en todas
+- Airbag de cortina laterales: en todas
+- Airbag central delantero: en todas
+- Bloqueo automático de puertas en marcha: en todas
+- Anclajes LATCH (compatible ISOFIX): en todas
+  (ILUMINACIÓN)
+
+## Característica
+- Faros halógenos: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Faros LED: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Luces de circulación diurna LED (DRL): en todas
+- Luces traseras LED: en todas
+- Tercera luz de freno LED: en todas
+- Función estroboscópica en frenado de emergencia: en todas
+- Ajuste manual de altura de faros: en todas
+- Función “Follow me Home”: en todas
+- Doble luz de marcha atrás y antiniebla: en todas
+- Luz de techo delantera LED: en todas
+- Luces de techo segunda fila LED: en todas
+- Luz LED de maletero: en todas
+- Luz de guantera: en todas
+- Luz de apoyabrazos: en todas
+- Iluminación de pies: en todas
+  (5 EV 2027)
+
+[página 6]
+  (EXTERIOR)
+
+## Característica
+- Portón trasero manual: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Portón trasero eléctrico: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Techo solar eléctrico: Comfort STD 350 NO; Luxury STD 350 NO; Luxury 430 SÍ
+- Barras de techo integradas: en todas
+- Alerón trasero fijo (una capa): en todas
+- Antena tipo aleta de tiburón: en todas
+  (RETROVISORES Y LIMPIAPARABRISAS)
+
+## Característica
+- Espejos exteriores con ajuste eléctrico: en todas
+- Espejos exteriores con calefacción eléctrica: en todas
+- Espejos exteriores con plegado manual: en todas
+- Espejo interior antideslumbrante manual: en todas
+- Limpiaparabrisas delanteros sin marco: en todas
+- Limpiaparabrisas trasero sin marco: en todas
+- Limpiaparabrisas automático (sensor de lluvia): en todas
+- Luneta trasera con calefacción: en todas
+  (INTERIOR Y CONFORT)
+
+## Característica
+- Interior negro/gris: en todas
+- Tablero de instrumentos termoplástico: en todas
+- Paneles de puerta en cuero/tejido combinado: en todas
+- Techo interior de punto (tejido): en todas
+- Volante de PU (espumado): en todas
+- Caja de apoyabrazos con almacenamiento: en todas
+- Guantera con amortiguación: en todas
+  (5 EV 2027)
+
+[página 7]
+  (ASIENTOS)
+
+## Característica
+- Tapizado de tela: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Tapizado de cuero sintético (PVC): Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Asiento del conductor manual 6 posiciones: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Asiento del conductor eléctrico 6 posiciones: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Reposacabezas del conductor manual 2 posiciones: en todas
+- Función de masaje del asiento del conductor: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Asiento calefactado y ventilado para conductor y acompañante: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Asiento del acompañante eléctrico 6 posiciones: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Reposacabezas del acompañante manual 2 posiciones: en todas
+  (CLIMATIZACIÓN)
+
+## Característica
+- Aire acondicionado automático de doble zona: en todas
+- Filtro de aire acondicionado PM0.3 ultra eficiente: en todas
+- Desempañador automático: en todas
+  (PANTALLAS E INSTRUMENTOS)
+
+## Característica
+- Pantalla central de 12.3 pulgadas: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Pantalla central de 15.6 pulgadas: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Panel de instrumentos combinado de 8 pulgadas: Comfort STD 350 SÍ; Luxury STD 350 NO; Luxury 430 NO
+- Panel de instrumentos combinado de 8.88 pulgadas: Comfort STD 350 NO; Luxury STD 350 SÍ; Luxury 430 SÍ
+- Indicador de cambio de marcha en instrumentos: en todas
+- Recordatorio de límite de velocidad: en todas
+  (5 EV 2027)

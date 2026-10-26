@@ -1,0 +1,403 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES: HEV 1.5T (Elite y Deluxe) y PHEV 1.5T (Deluxe 2WD y Deluxe 4WD). Dimensiones: largo 4703 mm, ancho 1886 mm, alto 1730 mm, distancia entre ejes 2738 mm. Las columnas de las tablas siguen ese orden.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+
+
+## Chasis y dirección
+
+
+
+## Tipo de motorización
+
+- Motor 1.5T 1.5T Freno de mano electrónico: en todas
+
+- Estacionamiento automático: en todas
+
+- Neumáticos R19: en todas
+
+- Freno de disco ventilado delantero / disco sólido trasero: en todas
+
+- Modo de conducción DHT económico, sport, estándar, nieve: en todas
+
+- Suspensión delantera independiente McPherson: en todas
+
+- Suspensión trasera independiente multibrazo: en todas
+
+- Control de par de frenado (BTC): en todas
+
+- Dirección asistida eléctrica: en todas
+
+- Dirección asistida dependiente de velocidad: en todas
+
+- Modo de asistencia de dirección (sport, confort, ligero): en todas
+
+- Selector de modos de conducción: en todas
+
+- Palanca de cambios en columna: HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Freno de estacionamiento electrónico (interruptor suave): HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Modo de conducción: Estándar, Eco, Sport, Nieve Modo de conducción: Estándar, Económico, Sport,: en todas
+
+- Nieve, Arena, Off-Road: HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD NO; PHEV Deluxe 4WD SÍ
+
+
+
+## Exterior
+
+- Portón trasero eléctrico: en todas
+
+- Baúl con apertura por sensor (hands free): en todas
+
+- Limpiaparabrisas sin marco con sensor: en todas
+
+- Techo solar panorámico: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Barras portaequipaje en techo: en todas
+
+- Antena tipo aleta de tiburón: en todas
+
+- Manija de puerta convencional: en todas
+
+
+
+## Interior
+
+- Volante multifunción: en todas
+
+- Volante revestido en cuero microfibra: en todas
+
+- Volante con ajuste manual: en todas
+
+- Ajuste manual en 4 direcciones del volante: en todas
+
+- Carga inalámbrica: en todas
+
+- Toma de corriente 12V en baúl: en todas
+
+- Apoyabrazos central delantero: en todas
+
+- Apoyabrazos central en segunda fila con portavasos: en todas
+
+- Portavasos delantero en consola: en todas
+
+- Cortina cubre-equipaje: en todas
+
+- Umbrales de acero inoxidable: HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Asas de techo: en todas
+
+
+
+## Asientos
+
+- Asientos de cuero: en todas
+
+- Asiento del conductor con ajuste eléctrico de 6 posiciones: en todas
+
+- Soporte lumbar del conductor eléctrico de 2 posiciones: en todas
+
+- Memoria de asiento del conductor: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Función de acceso/salida cómoda del conductor Asiento del pasajero con ajuste manual: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- de 4 posiciones: HEV Elite SÍ; HEV Deluxe NO; PHEV Deluxe 2WD NO; PHEV Deluxe 4WD NO
+
+- Asiento del pasajero con ajuste eléctrico de 4 posiciones: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Asientos delanteros calefaccionados: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Asientos delanteros ventilados: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Segunda fila con respaldo abatible 60/40: en todas
+
+- Apoyacabezas central en segunda fila: HEV Elite SÍ; HEV Deluxe SÍ; PHEV Deluxe 2WD NO; PHEV Deluxe 4WD NO
+
+- Apoyacabezas traseros: en todas
+
+
+
+## Multimedia
+
+- Tablero digital de 10,25”: en todas
+
+- Pantalla táctil multimedia de 14,6”: en todas
+
+- Brillo del tablero ajustable: en todas
+
+- Comando por voz: en todas
+
+- Radio FM/AM: en todas
+
+- Sistema manos libres Bluetooth: en todas
+
+- Puertos USB delanteros (Tipo A, uno con transmisión de datos, otro sin): en todas
+
+- Puertos USB traseros (A+C, sin transmisión de datos): en todas
+
+- 8 parlantes: en todas
+
+- Volumen ajustable según velocidad: en todas
+
+- CarPlay y Android Auto (cableado e inalámbrico): en todas
+
+- Computadora de a bordo: HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Sistema multimedia V3.5: HEV Elite NO; HEV Deluxe NO; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+
+
+## Iluminación
+
+- Faros delanteros (LED): en todas
+
+- Faros traseros (LED): en todas
+
+- Regulación eléctrica de altura de faros: en todas
+
+- Encendido automático de luces + función “Follow me home”: en todas
+
+- Antiniebla trasero: en todas
+
+- Luces diurnas (DLR): en todas
+
+- Alerta de luces encendidas: en todas
+
+- Luz de freno de emergencia: en todas
+
+- Tercera luz de freno: en todas
+
+- Luces de lectura (LED): en todas
+
+- Luz de techo central: HEV Elite SÍ; HEV Deluxe NO; PHEV Deluxe 2WD NO; PHEV Deluxe 4WD NO
+
+- Luz de techo lateral: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Iluminación ambiental monocromática: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Iluminación del baúl (LED): en todas
+
+  (Colores disponibles)
+
+  (@gwm_uruguay gwm.uruguay)
+
+
+
+## Dispositivo antirrobo
+
+- Llave inteligente (2 llaves): en todas
+
+- Sistema de acceso sin llave: en todas
+
+- Encendido one touch: en todas
+
+- Función de búsqueda del vehículo: en todas
+
+- Inmovilizador electrónico del motor: en todas
+
+- Alarma antirrobo: en todas
+
+- Cierre centralizado sensible a la velocidad: en todas
+
+- Cierre centralizado por control remoto: en todas
+
+- Desbloqueo automático en caso de colisión: en todas
+
+- Bloqueo automático de puertas: en todas
+
+- Función anti-bloqueo erróneo: en todas
+
+- Alerta de puerta abierta: en todas
+
+
+
+## Seguridad del Vehículo
+
+- Doble airbag frontal: en todas
+
+- Airbags laterales delanteros: en todas
+
+- Airbags laterales: en todas
+
+- Cinturones delanteros y traseros laterales con pretensor y limitador de fuerza: en todas
+
+- Cinturones de 3 puntos en segunda fila: en todas
+
+- Aviso de cinturón desabrochado (delantero y trasero): en todas
+
+- Seguro infantil mecánico: en todas
+
+- Control de estabilidad (ESC): en todas
+
+- Control de tracción (TCS): en todas
+
+- Sistema de mitigación de vuelco (RMI): en todas
+
+- Asistencia de frenado (BA): en todas
+
+- Control de descenso (HDC): en todas
+
+- Asistente de arranque en pendiente (HHC): en todas
+
+- Sistema de prioridad de frenado: en todas
+
+- Monitoreo de presión de neumáticos (TPMS): en todas
+
+- Puerto USB para cámara a bordo (dash cam): HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Estacionamiento totalmente automático (fusión): en todas
+
+- Radar de reversa: en todas
+
+- Cámara 360°: en todas
+
+- Chasis transparente: en todas
+
+- Control de crucero adaptativo (ACC): en todas
+
+- Alerta de colisión frontal + frenado automático de emergencia (AEB): en todas
+
+- Asistencia para peatones/ciclistas: en todas
+
+- Asistente inteligente de curvas: en todas
+
+- Evasión inteligente: en todas
+
+- Alerta de salida de carril (LDW): en todas
+
+- Asistente de mantenimiento de carril (LKA): en todas
+
+- Centrado de carril (LCK): en todas
+
+- Reconocimiento de señales de tránsito (TSR): en todas
+
+- Asistente inteligente de límite de velocidad (IACC): en todas
+
+- Asistencia en tráfico denso (TJA): en todas
+
+- Asistente de crucero inteligente (ICA): HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- AEB en intersecciones: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Detección de punto ciego + asistencia de carril: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Alerta de tráfico cruzado trasero: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Frenado automático trasero lateral: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Alerta de colisión trasera (RCW): HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Alerta de apertura de puerta (DOW): en todas
+
+- Asistente de mantenimiento de carril de emergencia: en todas
+
+- Monitoreo de fatiga del conductor (sin cámara): en todas
+
+- Registrador de datos de emergencia (EDR): en todas
+
+- Alarma de exceso de velocidad: en todas
+
+- Anclajes ISOFIX: en todas
+
+- Mitigación de colisión secundaria (SCM): en todas
+
+- Asistente de estabilidad dinámica (DST): en todas
+
+- Alerta de baja velocidad: en todas
+
+
+
+## Climatización
+
+- Climatizador automático bizona: en todas
+
+- Salidas traseras de aire acondicionado: en todas
+
+- Filtro N95: en todas
+
+- Desempañado automático del parabrisas delantero: en todas
+
+- Indicador de temperatura exterior: en todas
+
+
+
+## Vidrios y Espejos
+
+- Espejo exterior con lente de curvatura simple: en todas
+
+- Espejo interior manual anti-encandilamiento: HEV Elite SÍ; HEV Deluxe NO; PHEV Deluxe 2WD NO; PHEV Deluxe 4WD NO
+
+- Espejo interior electrónico anti-encandilamiento: HEV Elite NO; HEV Deluxe SÍ; PHEV Deluxe 2WD SÍ; PHEV Deluxe 4WD SÍ
+
+- Subida/bajada de vidrios one-touch en las 4 puertas + antipinzamiento: en todas
+
+- Cierre automático de vidrios con control remoto: en todas
+
+- Retrovisores exteriores con ajuste eléctrico: en todas
+
+- Parabrisas delantero calefaccionado: en todas
+
+- Luneta trasera con desempañado eléctrico: en todas
+
+
+
+## Otros
+
+- Inflador + sellador de neumáticos: en todas
+
+- Triángulo de señalización: en todas
+
+- Interruptor (PAB): en todas
+
+  (Dimensiones)
+
+  (1730 mm)
+
+  (2738 mm 1886 mm)
+
+  (4703 mm)
+
+  (GWM Uruguay gwm.com.uy)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Rendimiento
+mixto 19,2 km/L
+6 Airbags y alerta
+de colisión frontal
+Sistema híbrido
+enchufable (PHEV)
+autorecargable (HEV) /
+ADAS de
+última generación

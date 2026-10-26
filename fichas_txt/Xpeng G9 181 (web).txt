@@ -1,0 +1,11 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Xpeng G9; confianza media)
+Fuentes:
+- sitio oficial Xpeng Uruguay G9 (equipamiento, dimensiones): https://www.xpeng.com/uy/g9.html
+- Autoblog Uruguay: G9 Performance AWD, 98 kWh, 405 kW: https://www.autoblog.com.uy/2025/04/es-oficial-xpeng-desembarca-en-uruguay.html
+- ficha global G9 AWD Performance (verificación): https://evkx.net/models/xpeng/g9/g9_awd_performance_gen1/specifications
+Notas: Sin ficha PDF ni garantía. Autoblog Uruguay confirma versión Performance AWD (98 kWh, 405 kW, 717 Nm, 520 km WLTP, 3,9 s); la página xpeng.com/uy muestra tres variantes (RWD standard 502 km, RWD long range 585 km, AWD 540 km/4,2 s) con cifras algo distintas (posible modelo actualizado). Entre ejes 2890 del sitio uy no se usó (parece de otra variante). Airbags y equipamiento por versión no confirmados. Fotos: exteriores Wikimedia Commons (no oficiales) e interiores oficiales de xpeng.com/uy (convertidos de AVIF a JPG).
+
+Xpeng G9 Performance AWD (SUV eléctrico grande, Santa Rosa Uruguay, plataforma SiC de 800 V).
+MOTOR/BATERÍA: dos motores (delantero de inducción 175 kW, trasero síncrono 230 kW), 405 kW (551 HP), 717 Nm; 0-100 km/h 3,9 s (el sitio uy muestra 4,2 s para la AWD); vel. máx. 200 km/h. Batería NMC 98 kWh (93,1 kWh útiles), 520 km WLTP (sitio uy: 540 km); consumo 21,3 kWh/100 km. Carga DC pico 300 kW según fuentes globales (el sitio uy cita 525 kW), 10-80% en ~20 min; AC 11 kW.
+DIMENSIONES: 4891 x 1937 x 1650 mm (Autoblog; sitio uy 1680), entre ejes 2998 mm; peso 2420 kg (2395 sin barra de remolque, sitio uy); baúl 660 L (1576 L abatido) + frunk 71 L; despeje 145 mm (+50 mm con suspensión neumática).
+EQUIPAMIENTO (sitio uy): XPILOT con chip NVIDIA DRIVE Orin y 29 sensores; Xmart OS (Snapdragon 8155), CarPlay y Android Auto inalámbricos, Hey Xpeng, OTA, app Xpeng (bloqueo, estado de batería, preacondicionamiento), suspensión neumática de doble cámara adaptativa, audio Xopera 22 parlantes 2150 W Dynaudio con 2 exteriores, puertas soft-close, asientos delanteros con memoria; Premium Comfort & Audio Pack: asientos delanteros y traseros calefaccionados con masaje, interior Nappa negro, marrón o gris; 4 USB y 2 tomas 12 V; tablero 10,25", dos pantallas de 14,96".

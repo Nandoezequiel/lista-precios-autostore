@@ -1,0 +1,591 @@
+
+--- p1 ---
+ 
+3
+AÑOS
+o
+ 
+1
+0
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+
+--- p2 ---
+Motor
+Combustible
+Potencia (HP/RPM)
+Torque (HP/RPM)
+Transmisión
+Dirección
+Suspensión delantera
+Suspensión trasera
+Capacidad estanque de combustible (L)
+Capacidad carga con pasajeros (Kg)
+Neumáticos
+Especificaciones básicas
+Manual 6 velocidades
+Asistida hidráulicamente
+Independiente de doble horquilla con barra estabilizadora
+ Eje rígido con paquete de resortes
+ 80
+245 / 70 R17
+1050
+2.0
+Diesel common rail con VGT
+2.0
+Gasolina
+190/4.000
+360/1600-3600
+161/3.600
+400/1.500 - 2.500
+Llanta de aleación de aluminio de 17 pulgadas
+Neumático 245/70 R17
+Paragolpes delantero del color de la carrocería
+Espejos exteriores del color de la carrocería
+Manijas de las puertas del color de la carrocería
+Paragolpes trasero del color de la carrocería
+Protección especial contra la oxidación
+Estribo lateral estándar
+Recubrimiento protector del piso de la caja (spray)
+Antena tipo aleta de tiburón
+Limpiaparabrisas delantero sin marco
+Cobertura del motor
+Gancho de remolque trasero
+Largo x ancho x alto caja de carga (mm)
+Especificaciones exteriores
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Luces
+Faros delanteros
+Faros antiniebla traseros
+Luces diurnas (DRL)
+Luz de freno elevada
+Faros con ajuste eléctrico de altura
+Luz de lectura sin interruptor de control
+Radio AM/FM
+Pantalla táctil LCD de 9''
+Bluetooth
+CarPlay y Android Auto
+4 parlantes
+Multimedia
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Asientos de tela
+Asiento del conductor con ajuste manual en
+6 direcciones
+Asiento del pasajero delantero con ajuste manual en
+4 direcciones
+Asiento integrado en una pieza
+Apoyacabeza central trasero
+Asientos
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Llave de forma recta
+Llave plegable
+Inmovilizador de motor
+Cierre centralizado a distancia
+Función de bloqueo automático
+Función de búsqueda del vehículo
+Alerta de puerta mal cerrada
+Especificaciones del vehículo
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Dirección asistida hidráulica
+Columna de dirección ajustable
+Freno de mano mecánico
+Freno de disco delantero y freno de tambor trasero
+Ventilador eléctrico
+Chasis
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Doble airbag delantero
+Cerradura de encendido mecánica
+Mitigación de colisión secundaria (SCM)
+Control de estabilidad del vehículo (ESC/ESP)
+Sistema de asistencia hidráulica de frenos (HBA)
+Sistema de control de tracción (ASR/TCS)
+Desbloqueo automático en caso de colisión
+Corte automático de combustible en caso de colisión
+Control de asistencia de arranque en pendiente 
+Control de descenso en pendiente
+Sistema de monitoreo de presión de neumáticos 
+(TPMS)
+Cámara de reversa
+Sensores de estacionamiento traseros (2)
+Alerta de cinturón desabrochado para el conductor
+Cinturón de seguridad delantero con pretensor y 
+limitador de carga
+Cinturón de seguridad trasero no ajustable, sin 
+pretensor ni limitador de carga
+Cinturón de seguridad trasero central de tres puntos
+ISOFIX
+Seguro para niños en las puertas traseras
+Cierre centralizado sensible a la velocidad (15 km/h)
+Parpadeo de luces de freno en caso de emergencia
+Diferencial central TOD con función de bloqueo
+Seguridad activa y pasiva
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Dimensiones
+Climatización
+Adicionales de advertencia
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Advertencia de velocidad (ajuste manual de velocidad 
+de advertencia)
+Señal de advertencia triangular (baliza de 
+emergencia)
+Rueda auxiliar de acero
+Climatizador manual
+Especificaciones interiores
+Vidrios
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Ventanas eléctricas delanteras
+Ventanas eléctricas traseras
+Ventana del conductor con función one-touch
+Espejos exteriores plegables manualmente sin 
+desempañador + ajuste eléctrico y luz direccional
+Viseras de asientos delanteros sin espejo
+Espejo retrovisor con anti-reflejo manual
+Interior negro
+Techo de tela
+Revestimiento suave en la parte central de los 
+paneles de las puertas delanteras y traseras
+Asidero del techo con amortiguación
+Placa de umbral estándar (protección en la entrada 
+del vehículo)
+Volante multifunción
+Panel de instrumentos a color de 3.5 pulgadas
+Iluminación del panel de instrumentos ajustable
+Toma de corriente de 12V
+2 puertos USB delanteros
+Control de crucero
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+3230 mm
+227 mm
+5425 mm
+1886 mm
+1883 mm
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite
+4x2
+4x4
+Elite

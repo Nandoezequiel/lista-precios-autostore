@@ -1,0 +1,315 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Changan UNI-T: Evolution y Techno (motor 1.5L GDI turbo, 180 HP, 300 Nm, automática 7DCT).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 3]
+  (MODELO DEL VEHÍCULO UNI-T)
+
+
+
+## NIVEL DE CONFIGURACIÓN
+
+  (COLOR INTERIOR NEGRO)
+
+  (CARACTERÍSTICAS GENERALES Motor 1.5L GDI)
+
+  (Cilindrada (Cc) 1494)
+
+
+
+## Cilindros
+
+  (Potencia máxima (Hp) 180)
+
+  (Torque máximo (N.m / rpm) 300@ 1250 - 3500)
+
+  (Turbo Turbo Inter-cooled)
+
+  (Transmisión Automática de 7 velocidades)
+
+  (+ Retroceso (7DCT))
+
+  (Dirección Asistida electronicamente)
+
+  (Tracción Delantera)
+
+  (Frenos delanteros Discos ventilados)
+
+  (Frenos posteriores Discos sólidos)
+
+  (Suspensión delantera Independiente McPherson)
+
+  (Suspensión trasera Independiente Multi-Link)
+
+  (Telecontrol)
+
+
+
+## COMBUSTIBLE Tipo
+
+
+
+## Capacidad del tanque (LTS)
+
+  (DIMENSIONES Largo (MM))
+
+  (Ancho (MM) 4515)
+
+  (Altura (MM) 1870)
+
+  (Distancia entre ejes (MM) 1565)
+
+  (Peso bruto (KG) 2710)
+
+  (Peso en vacío (KG) 1840)
+
+  (Capacidad del maletero (LTS) 1465)
+
+  (Capacidad de pasajeros 350)
+
+  (NEUMÁTICOS Tipo de llanta Aleación aluminio aro 20")
+
+  (Tamaño de neumáticos 245/45 R20)
+
+  (Neumático de repuesto de acero T125/80 R17)
+
+  (MODO DE CONDUCCIÓN Normal)
+
+  (Sport)
+
+- SEGURIDAD Aviso de desviación de carril (modo de aviso: sonido y vibración del volante): Evolution NO; Techno SÍ
+
+- Alineación de carril: Evolution NO; Techno SÍ
+
+- Identificación del límite de velocidad: Evolution NO; Techno SÍ
+
+- Control de velocidad adaptativo: asistencia de congestión: Evolution NO; Techno SÍ
+
+- Control de velocidad adaptativo: Frenado asistido por alerta temprana de peatones: Evolution NO; Techno SÍ
+
+- Sistema Antibloqueo de Frenos (ABS) + Distribución electrónica de la fuerza de frenado (EBD) + Asistente de frenado (BA): en todas
+
+- Control de tracción (TCS): en todas
+
+- Control de estabilidad electronico (ESP): en todas
+
+- Asistente de arranque en pendiente (HHC): en todas
+
+- Control de descenso en pendientes (HDC): en todas
+
+- Auto Hold: en todas
+
+- Freno de mano electrónico (EPB) + Sistema de parking inteligente (DBF): Evolution NO; Techno SÍ
+
+- Control de la presión de los neumáticos (TPMS): en todas
+
+- Control de crucero adaptativo (ACC): en todas
+
+- Stop & Go: en todas
+
+- Frenado automático de emergencia-ciudad/interurbano (AEB): en todas
+
+- Advertencia de colisión frontal (advertencia modo:sonido y video) (FCW): en todas
+
+- AEB-frenado automático de emergencia-peatón: en todas
+
+- Camara de retroceso: en todas
+
+- Imagen del área ciega derecha: en todas
+
+- Imagen panorámica HD de 360°: video grabable: en todas
+
+- Airbag del conductor y pasajero (2): en todas
+
+- Airbags laterales (2): en todas
+
+- Airbags de cortina (2): en todas
+
+- Anclajes ISOFIX para sillas infantiles: en todas
+
+
+
+## Sensor de estacionamiento delantero con alerta visión sonora
+
+
+
+## Sensor de estacionamiento trasero con alerta visión sonora
+
+- Desbloqueo de puertas cuando existe colision: en todas
+
+- Bloqueo automático de puertas inducido por velocidad: en todas
+
+- Bloqueo de puertas para niños: en todas
+
+
+
+## Cinturones de seguridad de 3 puntas
+
+- Recordatorio de cinturones de seguridad: en todas
+
+- Arranque y acceso keyless: en todas
+
+- Arranque remoto del motor: Evolution NO; Techno SÍ
+
+- Recordatorio de puertas abiertas: en todas
+
+- Llave inteligente controla ventanas: en todas
+
+- Cierre centralizado: en todas
+
+- Columna de dirección colapsable: en todas
+
+- LDW Advertencia de desviación de carril (modo de advertencia: sonido y vibración del volante): Evolution NO; Techno SÍ
+
+- BSD-Line Asistencia de cambio de carril (incluye: monitoreo de área ciega, advertencia lateral trasera, advertencia de apertura de puerta, advertencia lateral): Evolution NO; Techno SÍ
+
+- AEB-P Frenado autonomo de emergencia (con identificación de peatones): Evolution NO; Techno SÍ
+
+- LCDA Asistente de decisión de cambio de carril (que incluye: sensor de ángulo ciego, advertencia lateral trasera, advertencia de apertura de puerta, advertencia lateral): Evolution NO; Techno SÍ
+
+
+[página 4]
+  (MODELO DEL VEHÍCULO UNI-T)
+
+
+
+## NIVEL DE CONFIGURACIÓN
+
+- DISEÑO EXTERIOR Techo panoramico: en todas
+
+- Función de apagado retardado de los faros: en todas
+
+- Faros con apertura y cierre automático: en todas
+
+- Faros LED: en todas
+
+- Luz trasera antineblina: en todas
+
+- Lámpara de repuesto: en todas
+
+- Faros regulables en altura electronicamente: en todas
+
+- Ubicación de la luz de dirección: espejo retrovisor: en todas
+
+- Tipo de luz trasera: combinación de LED óptico, lámpara de cabeza: en todas
+
+- Lámpara LED de freno alto: en todas
+
+- Luz de conducción diurna LED: en todas
+
+- Lámpara de placa de matrícula trasera: en todas
+
+- Luz de posición delantera LED: en todas
+
+- Luz de posición trasera LED: en todas
+
+- Luz lejana inteligente (FAB): Evolution NO; Techno SÍ
+
+- Retrovisores ajustables electricamente con función descongelacion/calor: en todas
+
+- Retrovisores plegables electricamente: en todas
+
+- Manija de puerta oculta Diseño del tubo de escape Doble bilateral: en todas
+
+- Spoiler con forma de V: en todas
+
+- Antena: en todas
+
+- Colores disponibles: Gris universo - Negro - Blanco - Gris átomo -: en todas
+
+- Azul cielo - Rojo nebulosa: en todas
+
+- DISEÑO INTERIOR Luces de maletero: en todas
+
+- Luz de advertencia de desbloqueo de puerta: en todas
+
+- Lámpara de ambiente LED: multicolor Tapizado Cuero automotriz: en todas
+
+  (Asiento de conductor con ajuste eléctrico Eléctrico)
+
+  (Asiento de conductor ajustable 6 direcciones)
+
+  (Asiento del pasajero con ajuste manual Manual)
+
+- Asiento de conductor ajustable 4 direcciones Asiento del conductor con ajuste del soporte de la cintura del asiento: eléctrico de 2 direcciones: Evolution NO; Techno SÍ
+
+
+
+## Asiento del conductor con ajuste de calefacción
+
+  (Asiento del conductor con posición de calefacción del asiento Cojín)
+
+
+
+## Asiento del pasajero con ajuste de calefacción
+
+- Asiento del pasajero con posición de calentamiento del asiento Cojín Respaldo del asiento de la segunda fila plegable manualmente: en todas
+
+- Asientro trasero con apoyabrazos central: en todas
+
+- Interfaz de asiento de seguridad para niños ISOFIX: en todas
+
+- Volante forrado en cuero: en todas
+
+- Climatizador automatico: en todas
+
+- Salida de aire en segunda fila: en todas
+
+- Control de zona de temperatura: Zona de temperatura individual: en todas
+
+- Pantalla de consola central de 10.3"con sistema de interacción usuario-computadora: en todas
+
+- Apoyabrazos central delantero con caja refrigerada: en todas
+
+- Descongelación de luneta trasera - Encendido manualmente, retardo apagado automático: en todas
+
+- Dispositivo sensor de lluvia: en todas
+
+- AIRE Pruebas de calidad del aire interior: Evolution NO; Techno SÍ
+
+- Generador de iones de aire acondicionado Sistema de purificación de aire inteligente 2 Generaciones: Evolution NO; Techno SÍ
+
+- MULTIMEDIA Pantalla LCD de 10,3" pulgadas: en todas
+
+- MP3/MP4/WMA/AVI/RMVB: en todas
+
+- Sistema de Bluetooth: en todas
+
+- Función de control de voz: en todas
+
+
+
+## Parlantes
+
+- Toma de 12 V: en todas
+
+- Grabadora de conducción. Posición de visualización: pantalla de control central de 10.8": en todas
+
+
+
+## USB
+
+- Camara inteligente: en todas
+
+- Pantalla de imagen de estacionamiento (delante): en todas
+
+- Visualización de navegación GPS: en todas
+
+  (NEGRO BLANCO ROJO NEBULOSA)
+
+  (GRIS UNIVERSO GRIS ÁTOMO AZUL CIELO)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+NUEVA
+
+[texto de la página 5]
+MONTEVIDEO • ALVISI, Avda. Garibaldi 2352 / 2209 9637 | 2203 1924 • VIPERCAR, Gral. Flores 3431 / 2204 4444 • PASCUAL AUTOMOTORES, Camino Carrasco 151, esq. Manuel Albo / 2601 1794 • OSCAR PISANO AUTOMÓVILES, Avda. Millán 4328 / 2356 1015 •  HILTON MOTORS, Ejido 1576 / 2903 
+0733 • CASEY, José L. Terra 2122 / 2929 6969 • INTERIOR • RIVERA: HORIZONTE AUTOMÓVILES, Joaquín Suárez 767 / 4623 6748 • SALTO: OMAR CASTRO AUTOMÓVILES, Rivera 1001 / 4733 4623 • PAYSANDÚ: WAVE AUTOMOTORES, Setembrino Pereda 975 / 4722 5178 | 4724 3459
+• CANELONES, CAR ONE,  Ruta Interbalnearia y Camino de Los Horneros, 15800 Ciudad de la Costa / 26816890 int 5300 - 5301 - 5035 / 091 44 55 88 / 091 801 515 / 092 504 455 • CANELONES, PANDO: MOREIRA AUTOMÓVILES,  Piedras esq. Roosevelt, 2292 2683 | 2292–1631 • CANELONES / LAS 
+PIEDRAS: MOREIRA AUTOMÓVILES, Avda. Dr. Enrique Pouey esq. Manuel Freire / 2369-9847 • SAN JOSÉ: AUTOMOTORA CABRERA /SANTA ROSA AUTOMOTORES, Luis A. de Herrera 550, 4342 1392 • MALDONADO: RENAULT PUNTA DEL ESTE, Avda. Martiniano Chiossi esq. Thailandia / 4226  .
+1900 • ROCHA: RENAULT NISSAN JMC CHANGAN, Ruta 9 y Ruta 15 • TACUAREMBÓ: GREGORIO RÍOS AUTOMOTORES, Avda. Pablo Ríos 154 / 4632 2203
+*IMÁGENES MERAMENTE ILUSTRATIVAS 
+Recomendamos
+Piedras 709 esquina Juncal -     29020404        091 469 010
+Versión 03 11/2022

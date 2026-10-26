@@ -1,0 +1,1836 @@
+{
+ "grupo": "nissan",
+ "modelos": [
+  {
+   "marca": "Nissan",
+   "modelo": "New Sentra B18 (MX)",
+   "ids": [
+    0,
+    1,
+    2,
+    3
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2025/08/lanzamiento-nissan-sentra-sr-midnight.html",
+     "que": "lanzamiento SR Midnight Uruguay (Autoblog Uruguay), specs y equipamiento SR"
+    },
+    {
+     "url": "https://www.autoblog.com.uy/2020/10/prueba-nissan-sentra-20-exclusive-cvt.html",
+     "que": "prueba Sentra Exclusive CVT / diferencias Advance-SR-Exclusive (generación previa, usar con cautela)"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/sentra.html",
+     "que": "página oficial nissan.com.uy (ya muestra la nueva generación B19)"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "sentra-b18-1.jpg",
+    "sentra-b18-2.jpg"
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Nafta",
+    "motor": "2.0 L 4 cil. DOHC 16V inyección directa (MR20DD)",
+    "cilindrada_cc": 1997,
+    "potencia_hp": 145,
+    "torque_nm": 196,
+    "transmision": "Automática CVT Xtronic D-Step (8 marchas simuladas)",
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 4,
+    "largo_mm": 4646,
+    "ancho_mm": 1815,
+    "alto_mm": 1459,
+    "entre_ejes_mm": 2710,
+    "baul_l": 466,
+    "tanque_l": 47,
+    "garantia": "3 años o 100.000 km (extensible a 5 años / 120.000 km)",
+    "consumo": "5,2 L/100 km mixto (declarado)",
+    "airbags": 6
+   },
+   "versiones": {
+    "0": {
+     "neumaticos": "215/50 R17"
+    },
+    "1": {
+     "neumaticos": "215/45 R18"
+    },
+    "2": {
+     "neumaticos": "215/50 R17"
+    },
+    "3": {
+     "neumaticos": "215/45 R18",
+     "peso_kg": 1396
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Alerta de asiento trasero",
+      "Alarma e inmovilizador"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Botón de encendido",
+      "Climatizador"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 8\""
+     ]
+    },
+    "1": {
+     "seguridad": [
+      "Frenado de emergencia",
+      "Alerta de colisión frontal",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Techo solar eléctrico",
+      "Asiento conductor eléctrico",
+      "Asientos delanteros calefaccionados",
+      "Levas al volante"
+     ],
+     "multimedia": [
+      "Audio Bose 8 parlantes"
+     ]
+    },
+    "3": {
+     "seguridad": [
+      "Frenado de emergencia",
+      "Alerta de colisión frontal",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Cámara 360°",
+      "Alerta de abandono de carril"
+     ],
+     "confort": [
+      "Techo solar eléctrico",
+      "Asiento conductor eléctrico",
+      "Asientos delanteros calefaccionados",
+      "Levas al volante",
+      "Control crucero inteligente"
+     ],
+     "multimedia": [
+      "Audio Bose 8 parlantes"
+     ]
+    },
+    "2": {
+     "seguridad": [
+      "Frenado de emergencia con detección de peatones",
+      "Alerta de abandono de carril",
+      "Control crucero adaptativo"
+     ],
+     "confort": [
+      "Asiento conductor eléctrico",
+      "Asientos delanteros calefaccionados",
+      "Volante calefaccionado",
+      "Encendido remoto"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Sentra B18 (MX, ref. Uruguay). Sedán mediano, 5 plazas, nafta. Origen México (Aguascalientes). Garantía 3 años / 100.000 km.\nMOTOR Y TRANSMISIÓN: 2.0 L (1.997 cc) 4 cil., 16 válvulas, inyección directa; 145 HP a 6.000 rpm, 196 Nm a 4.000 rpm. CVT Xtronic D-Step con 8 marchas simuladas, tracción delantera. Consumo declarado 5,2 L/100 km mixto. Combustible recomendado: nafta premium.\nDIMENSIONES: largo 4.646 mm, ancho 1.815 mm, alto 1.459 mm, entre ejes 2.710 mm. Baúl 466 L, tanque 47 L. Peso 1.396 kg (SR Midnight).\nCHASIS: delantera independiente con estabilizadora, trasera multilink; discos ventilados adelante y sólidos atrás; dirección eléctrica. Neumático auxilio temporal T125/70 D16.\nVERSIONES: Advance CVT (17\", tela, pantalla 8\", cámara trasera, 6 parlantes); SR CVT (18\", cuero SR, Bose 8 parlantes, techo solar, levas, cámara 360°, paquete de asistencias: frenado de emergencia, alerta de colisión, punto ciego, tráfico cruzado, atención del conductor; parrilla/spoiler/escape deportivos); Exclusive CVT (17\", eco-cuero, asiento conductor eléctrico con lumbar, asientos y volante calefaccionados, retrovisor automático, encendido remoto, frenado con detección de peatones, alerta de abandono de carril, intervención de carril, TPMS, control crucero inteligente); SR Midnight (edición limitada sobre SR: carrocería y detalles en negro, llantas negras 18\", U$S 36.990).\nSEGURIDAD COMÚN: 6 airbags, ABS+EBD+BA, VDC, TCS, HSA, alerta de asiento trasero, alarma.\nNOTA: el detalle de Advance y Exclusive proviene de la prueba de la generación previa (2020); solo la SR/Midnight está confirmada para el modelo actual.",
+   "confianza": "baja",
+   "notas": "No hay ficha oficial de la B18 en nissan.com.uy (el sitio ya muestra la B19). Datos de SR/Midnight de Autoblog Uruguay (2025); Advance/Exclusive inferidos de la prueba 2020 (generación anterior). 'SENTRA SR CVT' (id 1) asumido como el SR de Uruguay. Potencia 145 cv/HP según fuentes UY (otros mercados citan 149 hp)."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Kicks Play (MX)",
+   "ids": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2025/02/lanzamiento-nissan-kicks-play.html",
+     "que": "lanzamiento Kicks Play Uruguay (Autoblog Uruguay)"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/nueva-kicks.html",
+     "que": "nissan.com.uy (solo muestra el Kicks nuevo, no el Play)"
+    }
+   ],
+   "pdf": [],
+   "fotos": [
+    "kicks-play-mx-1.jpg",
+    "kicks-play-mx-2.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.6 L 4 cil. DOHC 16V inyección multipunto (HR16DE)",
+    "cilindrada_cc": 1598,
+    "potencia_hp": 116,
+    "torque_nm": 149,
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 5,
+    "largo_mm": 4309,
+    "ancho_mm": 1760,
+    "alto_mm": 1610,
+    "entre_ejes_mm": 2620,
+    "despeje_mm": 192,
+    "baul_l": 432,
+    "tanque_l": 41,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km",
+    "consumo": "5,5 L/100 km mixto (declarado)"
+   },
+   "versiones": {
+    "4": {
+     "transmision": "Manual 5 vel.",
+     "neumaticos": "205/60 R16",
+     "peso_kg": 1124
+    },
+    "5": {
+     "transmision": "Manual 5 vel.",
+     "neumaticos": "205/55 R17",
+     "peso_kg": 1141
+    },
+    "7": {
+     "transmision": "Automática CVT Xtronic D-Step",
+     "neumaticos": "205/55 R17",
+     "peso_kg": 1173,
+     "alto_mm": 1612
+    },
+    "6": {
+     "transmision": "Automática CVT Xtronic D-Step",
+     "peso_kg": 1178
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Monitor de presión de neumáticos"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Botón de encendido",
+      "Volante multifunción",
+      "Barras de techo"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "4": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de aleación 16\""
+     ],
+     "multimedia": [
+      "Pantalla 7\"",
+      "4 parlantes"
+     ]
+    },
+    "5": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de aleación 17\"",
+      "Cámara trasera",
+      "Faros antiniebla LED"
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "6 parlantes"
+     ]
+    },
+    "7": {
+     "confort": [
+      "Llantas de aleación 17\"",
+      "Cámara trasera",
+      "Control crucero",
+      "Faros antiniebla LED",
+      "Sensores de estacionamiento traseros"
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "6 parlantes"
+     ]
+    },
+    "6": {
+     "seguridad": [
+      "Frenado de emergencia",
+      "Alerta de colisión frontal",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Climatizador",
+      "Tapizado de cuero",
+      "Faros LED",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Llantas de aleación 17\"",
+      "Cámara trasera",
+      "Control crucero"
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "Audio Bose 8 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Kicks Play (primera generación Kicks renombrada, origen México/Aguascalientes). SUV compacto 5 plazas, nafta, tracción delantera. Garantía 3 años / 100.000 km. Latin NCAP 4 estrellas (protocolo anterior).\nMOTOR: 1.6 L HR16DE (1.598 cc) DOHC 16V, 118 cv (aprox. 116 HP) a 6.300 rpm y 149 Nm a 4.000 rpm. Transmisión manual 5 vel. o CVT Xtronic D-Step (6 marchas virtuales). Consumo declarado 5,5 L/100 km mixto.\nDIMENSIONES: 4.309 x 1.760 x 1.610 mm, entre ejes 2.620 mm, despeje 191,8 mm, ángulos de ataque 20° y salida 28°. Baúl 432 L (hasta 912 L con respaldo 60:40). Tanque 41 L.\nPESO: Sense MT 1.124 kg; Advance MT 1.141; Advance CVT 1.173; Exclusive CVT 1.178.\nCHASIS: delantera independiente, trasera barra de torsión, estabilizadoras; frenos delanteros disco ventilado, traseros tambor (Sense/Advance) y disco sólido (Exclusive).\nVERSIONES: Sense MT (llantas 16\", aire manual, pantalla 7\" 4 parlantes, faros halógenos, tela); Advance MT (17\", cámara trasera, apoyabrazos, volante de cuero, antinieblas LED, pantalla 8\" 6 parlantes, display 7\" color); Advance CVT (suma sensores traseros, modo Sport, control crucero, espejos color carrocería); Exclusive CVT (faros LED, HBA, cámara 360° con detección de objetos, climatizador, Bose 8 parlantes, EPB con Auto Hold, cuero, vidrios oscurecidos, 2 USB traseros, frenado de emergencia, alerta de colisión, punto ciego y tráfico cruzado).\nSEGURIDAD COMÚN: 6 airbags, ABS/EBD/BA, VDC, TCS, HSA, TPMS.\nPRECIOS UY (lanzamiento feb 2025, U$S): Sense MT 28.490; Advance MT 30.490; Advance CVT 31.490; Exclusive CVT 34.490.",
+   "confianza": "media",
+   "notas": "Sin ficha oficial en nissan.com.uy (el sitio muestra solo el Kicks nuevo). Todo de Autoblog Uruguay. Potencia: 118 cv (=116 HP); otras fuentes dicen 120 HP. La lista tiene 4 filas (Sense TM, Advance TM, Exclusive CVT, Advance CVT) que coinciden con las 4 versiones UY. Neumáticos de Advance CVT/Exclusive no informados (se asume 17 pulgadas en Advance CVT)."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Kicks (Brasil)",
+   "ids": [
+    8,
+    9,
+    10
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/nueva-kicks.html",
+     "que": "página oficial nissan.com.uy Kicks"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/kicks-p13c/my25/vlp/Nissan_Kicks2025_SantaRosa_v3.pdf",
+     "que": "catálogo oficial Kicks 2025 Uruguay (Santa Rosa)"
+    },
+    {
+     "url": "fichas_txt/Nissan Kicks 2025.txt",
+     "que": "ficha local curada"
+    }
+   ],
+   "pdf": [
+    "Nissan Kicks P16 WEB.pdf"
+   ],
+   "fotos": [
+    "kicks-2025-1.jpg",
+    "kicks-2025-2.jpg",
+    "kicks-2025-3.jpg",
+    "kicks-2025-4.jpg",
+    "kicks-2025-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.0 turbo 3 cil. 12V",
+    "cilindrada_cc": 999,
+    "potencia_hp": 114,
+    "torque_nm": 200,
+    "transmision": "Automática DCT doble embrague",
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 5,
+    "largo_mm": 4365,
+    "ancho_mm": 2090,
+    "alto_mm": 1625,
+    "entre_ejes_mm": 2655,
+    "despeje_mm": 205,
+    "baul_l": 454,
+    "tanque_l": 45,
+    "airbags": 6,
+    "norma_emisiones": "Euro 5",
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "8": {
+     "neumaticos": "215/60 R17",
+     "peso_kg": 1321,
+     "pbt_kg": 1719
+    },
+    "9": {
+     "neumaticos": "215/60 R17",
+     "peso_kg": 1328,
+     "pbt_kg": 1726
+    },
+    "10": {
+     "neumaticos": "225/45 R19",
+     "peso_kg": 1362,
+     "pbt_kg": 1760
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Frenado autónomo de emergencia",
+      "Alerta de colisión frontal",
+      "Alerta de abandono de carril",
+      "Mantenimiento de carril",
+      "Alerta de atención del conductor",
+      "Control crucero con limitador",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Freno de estacionamiento eléctrico con Auto Hold"
+     ],
+     "confort": [
+      "Aire acondicionado automático",
+      "Vidrios eléctricos 4 puertas",
+      "Modos de manejo Eco/Normal/Sport"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "2 USB-C"
+     ]
+    },
+    "8": {
+     "confort": [
+      "Llave inteligente",
+      "Levas al volante",
+      "Cámara trasera"
+     ],
+     "multimedia": [
+      "Panel digital 7\"",
+      "4 parlantes"
+     ]
+    },
+    "9": {
+     "confort": [
+      "Cargador inalámbrico",
+      "Barras de techo",
+      "Cámara trasera"
+     ],
+     "multimedia": [
+      "Panel digital 7\"",
+      "4 parlantes"
+     ]
+    },
+    "10": {
+     "seguridad": [
+      "Cámara 360°"
+     ],
+     "confort": [
+      "Techo panorámico",
+      "Tapizado de cuero",
+      "Iluminación ambiental",
+      "Cargador inalámbrico",
+      "Barras de techo",
+      "Faros LED",
+      "Retrovisor automático",
+      "Sensor de lluvia",
+      "Llantas 19\""
+     ],
+     "multimedia": [
+      "Panel digital 12,3\"",
+      "Audio Bose 10 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Kicks (2.ª generación, ficha UY 'Kicks 2025', origen Brasil). SUV compacto 5 plazas, nafta, tracción delantera.\nMOTOR: 1.0 L turbo 3 cil. 12V (999 cc), 114 HP, 200 Nm a 2.000 rpm (la ficha de marketing menciona 220 Nm). Caja DCT automática de doble embrague, Euro 5. Tanque 45 L.\nDIMENSIONES: largo 4.365 mm, ancho 2.090 mm (valor de ficha, probablemente con espejos), alto 1.625 mm, entre ejes 2.655 mm, despeje 205 mm. Baúl 479 L con Flex Board / 454 L sin Flex Board (marketing: hasta 470 L). Pesos en vacío 1.321/1.328/1.362 kg; bruto 1.719/1.726/1.760 kg.\nCHASIS: delantera McPherson, trasera barra de torsión; discos ventilados delante y detrás; dirección eléctrica con regulación telescópica manual. Repuesto + herramientas.\nVERSIONES: Sense (R17 215/60, panel analógico con TFT 7\", llave inteligente, levas, cámara trasera, 4 parlantes, sensor delantero); Advance (suma cargador inalámbrico y barras de techo); Exclusive (R19 225/45, panel digital 12,3\", cámara 360°, techo panorámico, cuero, iluminación ambiental, faros LED, retrovisor con atenuación automática, sensor de lluvia, Bose 10 parlantes, sensores delantero+trasero).\nCOMÚN: multimedia 12,3\" con Android Auto/CarPlay inalámbrico y 2 USB-C, A/A automático, vidrios eléctricos, 6 airbags (frontales, laterales y cortina), ABS/EBD/EBA, VDC, HSA, AEB ciudad/interurbano/peatón, AEB trasero, LDW/LDP/LKA, alerta de atención, ICC+ASL, TPMS, EPB con auto hold, ISOFIX.",
+   "confianza": "alta",
+   "notas": "Ficha local curada + catálogo oficial UY. Discrepancia torque 200 Nm (tabla) vs 220 Nm (texto marketing); se usa la tabla. En la tabla local la fila 'Volante multifunción con paddle shift' figura solo para Sense (probable desfase de lectura de tabla). Algunos ítems de la tabla (sensor delantero/trasero) leídos de forma aproximada."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "New Versa (MX)",
+   "ids": [
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/Versa 2024.txt",
+     "que": "ficha oficial nissan.com.uy Versa 2024 (local curada)"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/versa/my26/catalogo/nissan-2026-versa-catalogo.pdf",
+     "que": "catálogo oficial Versa 2026 nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/versa.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Versa 2026.pdf"
+   ],
+   "fotos": [
+    "versa-2026-2.jpg",
+    "versa-2026-3.jpg",
+    "versa-2026-4.jpg",
+    "versa-2026-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Nafta",
+    "motor": "1.6 L 4 cil. 16V",
+    "cilindrada_cc": 1598,
+    "potencia_hp": 118,
+    "torque_nm": 149,
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 4,
+    "largo_mm": 4495,
+    "ancho_mm": 1740,
+    "tanque_l": 41,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "11": {
+     "transmision": "Manual 5 vel.",
+     "neumaticos": "195/65 R15",
+     "baul_l": 466,
+     "alto_mm": 1465,
+     "despeje_mm": 138,
+     "peso_kg": 1092,
+     "pbt_kg": 1532
+    },
+    "12": {
+     "transmision": "Manual 5 vel.",
+     "neumaticos": "205/55 R16",
+     "baul_l": 482,
+     "alto_mm": 1465,
+     "despeje_mm": 138,
+     "peso_kg": 1114,
+     "pbt_kg": 1532
+    },
+    "13": {
+     "transmision": "Automática CVT Xtronic",
+     "neumaticos": "205/55 R16",
+     "baul_l": 482,
+     "alto_mm": 1465,
+     "despeje_mm": 138,
+     "peso_kg": 1104,
+     "pbt_kg": 1644
+    },
+    "14": {
+     "transmision": "Automática CVT Xtronic"
+    },
+    "15": {
+     "transmision": "Automática CVT Xtronic",
+     "neumaticos": "205/50 R17",
+     "baul_l": 482,
+     "alto_mm": 1475,
+     "peso_kg": 1148,
+     "pbt_kg": 1644
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Frenado de emergencia inteligente",
+      "Alerta de colisión frontal",
+      "ISOFIX",
+      "Alarma e inmovilizador",
+      "Sensores de estacionamiento traseros"
+     ],
+     "confort": [
+      "Cierre centralizado",
+      "Vidrios eléctricos",
+      "Dirección asistida eléctrica"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "11": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de acero 15\"",
+      "Tapizado de tela"
+     ],
+     "multimedia": [
+      "Pantalla 7\""
+     ]
+    },
+    "12": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de aleación 16\"",
+      "Faros antiniebla",
+      "Tablero digital 7\"",
+      "Tapizado de tela"
+     ],
+     "seguridad": [
+      "Cámara 360°"
+     ],
+     "multimedia": [
+      "Pantalla 7\""
+     ]
+    },
+    "13": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de aleación 16\"",
+      "Faros antiniebla",
+      "Tablero digital 7\"",
+      "Cargador inalámbrico",
+      "Tapizado de tela"
+     ],
+     "seguridad": [
+      "Cámara 360°"
+     ],
+     "multimedia": [
+      "Pantalla 7\""
+     ]
+    },
+    "15": {
+     "confort": [
+      "Climatizador",
+      "Llantas de aleación 17\"",
+      "Faros LED",
+      "Faros antiniebla",
+      "Tablero digital 7\"",
+      "Cargador inalámbrico",
+      "Tapizado de cuero",
+      "Alerón trasero"
+     ],
+     "seguridad": [
+      "Cámara 360°",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de atención del conductor"
+     ],
+     "multimedia": [
+      "Pantalla 8\""
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Versa (Phase 2, origen México; ficha oficial Uruguay 'Versa 2024'). Sedán compacto 5 plazas, nafta, tracción delantera. Garantía 3 años / 100.000 km.\nMOTOR: 1.6 L 4 cil. 16V, 118 HP, 149 Nm a 4.000 rpm. Manual 5 vel. o CVT Xtronic. Tanque 41 L.\nDIMENSIONES: largo 4.495 mm, ancho 1.740 mm, alto 1.465 mm (1.475 Exclusive). Baúl 466 L (Sense MT) / 482 L (resto). Pesos en vacío: Sense MT 1.092 kg, Advance MT 1.114, Advance CVT 1.104, Exclusive CVT 1.148. GVWR 1.532 kg (MT) / 1.644 kg (CVT). Altura al piso 138 mm (la ficha local lista 240 mm para Exclusive, dato dudoso).\nCHASIS: delantera McPherson con estabilizadora, trasera eje semirrígido con estabilizadora; discos ventilados adelante y tambor atrás; dirección eléctrica.\nVERSIONES: Sense MT (acero 15\" 195/65, A/A manual, pantalla 7\", tela); Advance MT (aleación 16\" 205/55, antinieblas, tablero 7\" color, cámara 360° con detección de objetos, volante con comandos); Advance CVT (suma llave inteligente con apertura de baúl, cargador inalámbrico); SR CVT (no figura en la ficha UY, ver notas); Exclusive CVT (aleación 17\" 205/50, climatizador, faros LED, pantalla 8\", cuero, alerón, alerta de punto ciego, alerta de tráfico cruzado, alerta de conducción inteligente).\nSEGURIDAD COMÚN: 6 airbags, ABS+EBD+BA, VDC, HSA, FEB, FCW, ISOFIX, inmovilizador+alarma, sensor trasero.",
+   "confianza": "media",
+   "notas": "Ficha UY 2024 cubre 4 versiones (Sense MT, Advance MT, Advance CVT, Exclusive CVT). La fila 'New Versa Ph2 Sr CVT' (id 14) no aparece en ninguna ficha UY: solo se cargan datos comunes del modelo, sin equipamiento propio. El PDF descargado es el catálogo 2026 (el 2024 está ya en fichas_txt). Dato de altura al piso de Exclusive (240 mm) probablemente erróneo en la ficha."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "x-Trail e-POWER (JAPÓN)",
+   "ids": [
+    16,
+    17,
+    18
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.autoblog.com.uy/2026/07/lanzamiento-nissan-x-trail-e-power.html",
+     "que": "lanzamiento X-Trail e-Power restyling Uruguay (Advance/Exclusive)"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/xtrail_e_power/my27/vlp/catalogos/nissan-xtrail-epower-catalogo.pdf",
+     "que": "catálogo oficial X-Trail e-POWER 2027 en nissan.com.uy (ficha basada en Nissan México)"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/x-trail-e-power.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan X-Trail e-POWER.pdf"
+   ],
+   "fotos": [
+    "xtrail-epower-1.jpg",
+    "xtrail-epower-2.jpg",
+    "xtrail-epower-3.jpg",
+    "xtrail-epower-4.jpg",
+    "xtrail-epower-5.jpg",
+    "xtrail-epower-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Híbrido (HEV) e-POWER (motor nafta generador + tracción eléctrica)",
+    "motor": "1.5 VC-Turbo 3 cil. (generador) + motores eléctricos",
+    "cilindrada_cc": 1497,
+    "potencia_hp": 205,
+    "torque_nm": 330,
+    "bateria_kwh": 1.73,
+    "traccion": "AWD e-4ORCE",
+    "transmision": "Reductor de una relación (tracción eléctrica)",
+    "plazas": 5,
+    "puertas": 5,
+    "tanque_l": 55,
+    "garantia": "3 años o 100.000 km",
+    "airbags": 6,
+    "velocidad_max_kmh": 180,
+    "aceleracion_0_100_s": 7.0,
+    "consumo": "6,5 L/100 km mixto WLTP",
+    "autonomia_ciclo": "WLTP"
+   },
+   "versiones": {
+    "16": {
+     "largo_mm": 4610,
+     "neumaticos": "235/60 R18"
+    },
+    "17": {
+     "largo_mm": 4645,
+     "ancho_mm": 1840,
+     "alto_mm": 1695,
+     "entre_ejes_mm": 2705,
+     "despeje_mm": 187,
+     "baul_l": 575,
+     "peso_kg": 1935,
+     "neumaticos": "235/60 R18"
+    },
+    "18": {
+     "largo_mm": 4645,
+     "ancho_mm": 1840,
+     "alto_mm": 1695,
+     "entre_ejes_mm": 2705,
+     "despeje_mm": 187,
+     "baul_l": 575,
+     "peso_kg": 1935,
+     "neumaticos": "235/55 R19"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Alerta de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de colisión frontal",
+      "Alerta de abandono de carril",
+      "Control crucero adaptativo",
+      "Alerta de atención del conductor",
+      "Alerta de pasajeros traseros"
+     ],
+     "confort": [
+      "Climatizador bi-zona",
+      "Llave inteligente",
+      "Botón de encendido",
+      "Techo solar panorámico eléctrico",
+      "Cámara trasera",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Pedal único e-Step"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto",
+      "Pantalla 8\"",
+      "Panel digital 7\""
+     ]
+    },
+    "18": {
+     "seguridad": [
+      "Frenado de emergencia con detección de peatones",
+      "Alerta predictiva de colisión",
+      "Intervención de punto ciego",
+      "Monitor de visión periférica 360°"
+     ],
+     "confort": [
+      "Climatizador tri-zona",
+      "Asientos delanteros calefaccionados",
+      "Asientos de cuero",
+      "Asiento conductor eléctrico",
+      "Iluminación ambiental",
+      "Cargador inalámbrico",
+      "Portón eléctrico manos libres",
+      "Retrovisor automático",
+      "Sensor de lluvia",
+      "Encendido remoto"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Panel digital 12,3\"",
+      "Head-up display",
+      "Audio Bose 8 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan X-Trail e-POWER con e-4ORCE (restyling, ficha UY 2026/2027). SUV 5 plazas (3.ª fila opcional según mercado), híbrido serie e-POWER: el motor nafta funciona solo como generador y las ruedas las mueven motores eléctricos. No se enchufa. Garantía 3 años / 100.000 km.\nMOTOR TÉRMICO (generador): 1.5 L VC-Turbo 3 cil. (1.497 cc), compresión variable 8:1 a 14:1, 142 HP a 5.000 rpm, 250 Nm.\nMOTORES ELÉCTRICOS (e-4ORCE AWD): combinado 157 kW (~205 HP); delantero ~187 HP / 330 Nm, trasero 94 kW (126 HP) / 195 Nm. Batería ion-litio 1,73 kWh. 0-100 km/h 7,0 s, máx. 180 km/h. Consumo mixto WLTP 6,5 L/100 km. Modos Normal/Eco/Sport/Off Road + EV, frenado regenerativo e-Step. Tanque 55 L.\nDIMENSIONES (restyling): largo 4.645 mm (+35 mm), ancho 1.840 mm, alto 1.695 mm (1.725 con barras), entre ejes 2.705 mm, despeje 187 mm. Baúl 575 L (hasta 1.396 L con respaldos abatidos 60:40). Peso 1.935 kg. Sin rueda de repuesto (kit de reparación).\nCHASIS: delantera McPherson, trasera multilink, discos ventilados, dirección eléctrica.\nVERSIONES: Advance (U$S 49.990): 18\" 235/60, pantalla 8\" CarPlay/Android Auto, panel TFT 7\", 6 parlantes, climatizador bi-zona, techo panorámico, llave manos libres, cámara trasera, sensores, ICC, BSW, RCTA, LDP, FCW, ROW. Exclusive (U$S 54.990): suma 19\" 235/55, pantalla 12,3\" con GPS y CarPlay inalámbrico, panel digital 12,3\", HUD 10,8\", Bose 8 parlantes con subwoofer, tri-zona, cuero, asientos calefaccionados y eléctricos, portón eléctrico, cargador inalámbrico, visión 360°, I-EB con peatones, I-PFCW, BSI.\nSEGURIDAD COMÚN: 6 airbags, ABS/EBD/BA, VDC, HSA, TPMS.",
+   "confianza": "media",
+   "notas": "La lista dice 'JAPÓN' pero el producto vendido en Uruguay es el X-Trail e-POWER e-4ORCE (Advance/Exclusive). Se asume que 'Advance (modelo nuevo)' = Advance restyling actual (id 17) y 'Exclusive' = Exclusive (id 18). 'Advance (modelo viejo)' (id 16) es el pre-restyling: solo se infiere largo 4.610 mm (4.645 menos 35 mm) y mismo conjunto motriz; resto de su equipamiento NO verificado. La ficha PDF descargada (basada en Nissan México) nombra Exclusive/Platinum, no Advance; se priorizó la nota de Autoblog UY."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "QASHQAI (UK)",
+   "ids": [
+    19
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/qashqai/my25new/Qashqai%202026.pdf",
+     "que": "ficha técnica oficial Qashqai 2026 nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/qashqai.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Qashqai 2026.pdf"
+   ],
+   "fotos": [
+    "qashqai-1.jpg",
+    "qashqai-2.jpg",
+    "qashqai-3.jpg",
+    "qashqai-4.jpg",
+    "qashqai-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta (mild hybrid)",
+    "motor": "1.3 turbo 4 cil. inyección directa",
+    "cilindrada_cc": 1332,
+    "potencia_hp": 147,
+    "torque_nm": 250,
+    "transmision": "Automática CVT X-Tronic",
+    "traccion": "AWD (Intelligent AWD)",
+    "plazas": 5,
+    "puertas": 5,
+    "largo_mm": 4425,
+    "ancho_mm": 1835,
+    "alto_mm": 1625,
+    "entre_ejes_mm": 2665,
+    "baul_l": 504,
+    "tanque_l": 55,
+    "pbt_kg": 2040,
+    "neumaticos": "235/45 R20",
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "19": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Frenado de emergencia",
+      "Alerta de colisión frontal",
+      "Control crucero adaptativo",
+      "Alerta de punto ciego",
+      "Alerta de abandono de carril",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de atención del conductor",
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros y traseros",
+      "ISOFIX",
+      "Monitor de presión de neumáticos",
+      "Alarma e inmovilizador"
+     ],
+     "confort": [
+      "Climatizador bi-zona",
+      "Llave inteligente",
+      "Techo panorámico",
+      "Asientos de cuero + alcántara",
+      "Asiento conductor eléctrico con masaje",
+      "Asientos delanteros calefaccionados",
+      "Portón eléctrico manos libres",
+      "Head-up display",
+      "Cargador inalámbrico",
+      "Iluminación ambiental",
+      "Retrovisor automático",
+      "Llantas 20\""
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Panel digital 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Audio Bose",
+      "Navegación GPS",
+      "4 USB-C"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Qashqai Exclusive CVT (ficha oficial UY 'Qashqai 2026'). SUV 5 plazas, nafta mild hybrid, AWD. Garantía 3 años / 100.000 km (el artículo de lanzamiento 2023 lo lista en Uruguay como Exclusive AWD).\nMOTOR: 1.3 L turbo 4 cil. en línea inyección directa, 147 HP a 5.500 rpm, 250 Nm a 4.600 rpm, compresión 10,5:1. CVT X-Tronic, tracción integral Intelligent AWD.\nDIMENSIONES: largo 4.425 mm, ancho 1.835 mm (sin espejos), alto 1.625 mm, entre ejes 2.665 mm. Baúl 504 L (hasta 1.447 L). Tanque 55 L. Peso bruto 2.040 kg. Ruedas 235/45 R20 (aleación 20\"), repuesto de acero 215/65 R17.\nCHASIS: delantera McPherson, trasera multilink; discos ventilados delante y detrás; EPB con Auto Hold; dirección eléctrica. Modos Normal/Eco/Sport/Nieve/Off-Road.\nEQUIPAMIENTO: panel digital 12,3\", volante de cuero con levas, asientos cuero+alcántara, asiento conductor eléctrico con masaje, calefacción delantera, head-up display 10,8\", techo panorámico fijo con cortina, climatizador bi-zona con salidas traseras, llave inteligente, apertura de baúl manos libres, cámara 360° con detección de objetos, pantalla 12,3\" con Android Auto/CarPlay inalámbrico, Bose premium, navegación, 4 USB-C, cargador inalámbrico, luces LED adaptativas, espejos calefactables con plegado automático.\nSEGURIDAD: airbags frontales/laterales/cortina, ISOFIX, VDC, ESP, HSA, sensores 4+4, FEB, I-FCW/P-FCW, ICC, BSW, LDW, LDP, I-LI, CTA, ASL, TPMS, DAA, TCS, alarma.",
+   "confianza": "alta",
+   "notas": "La lista dice 'UK'; la ficha UY coincide con 'Exclusive CVT'. El cliente pidió 'Qashqai e-POWER (UK)' pero el vendido en Uruguay es el 1.3 turbo mild hybrid (no e-POWER); se usa la ficha UY. Potencia 147 HP (la ficha UY); fuentes europeas hablan de 158 CV. Cantidad de airbags: la ficha dice frontales, laterales y cortina (6 asumido)."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Pathfinder (EE.UU)",
+   "ids": [
+    20
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/pathfinder/my24/vlp/catalogos/Pathfinder%202025.pdf",
+     "que": "ficha técnica oficial Pathfinder 2025 nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/pathfinder.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Pathfinder 2025.pdf"
+   ],
+   "fotos": [
+    "pathfinder-2.jpg",
+    "pathfinder-3.jpg",
+    "pathfinder-4.jpg",
+    "pathfinder-5.jpg",
+    "pathfinder-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "3.5 V6 24V",
+    "cilindrada_cc": 3500,
+    "potencia_hp": 270,
+    "torque_nm": 340,
+    "transmision": "Automática 9 vel. (ZF)",
+    "traccion": "4x4 (4WD inteligente, 7 modos)",
+    "plazas": 7,
+    "puertas": 5,
+    "largo_mm": 5004,
+    "ancho_mm": 1978,
+    "alto_mm": 1800,
+    "entre_ejes_mm": 2900,
+    "peso_kg": 2099,
+    "pbt_kg": 2750,
+    "remolque_kg": 2700,
+    "baul_l": 470,
+    "tanque_l": 70,
+    "neumaticos": "255/50 R20",
+    "garantia": "3 años o 100.000 km",
+    "airbags": 7
+   },
+   "versiones": {
+    "20": {}
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "Airbags frontales, laterales, cortina y de rodilla",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Control de estabilidad de remolque",
+      "Frenado de emergencia con detección de peatones",
+      "Alerta de colisión frontal",
+      "Alerta de punto ciego",
+      "Intervención de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de abandono de carril",
+      "Control crucero adaptativo",
+      "Alerta de atención del conductor",
+      "Cámara 360°",
+      "Sensores de estacionamiento delanteros y traseros",
+      "Monitor de presión de neumáticos",
+      "Alarma e inmovilizador"
+     ],
+     "confort": [
+      "Climatizador tri-zona",
+      "Llave inteligente",
+      "Techo solar eléctrico",
+      "Asientos de cuero",
+      "Asientos delanteros con memoria, calefacción y ventilación",
+      "Asientos 2.ª fila calefaccionados",
+      "Portón eléctrico manos libres",
+      "Head-up display",
+      "Cargador inalámbrico",
+      "Freno de estacionamiento eléctrico con Auto Hold",
+      "Retrovisor inteligente",
+      "Llantas 20\"",
+      "Levas al volante"
+     ],
+     "multimedia": [
+      "Pantalla 9\"",
+      "Panel digital 12,3\"",
+      "Apple CarPlay / Android Auto",
+      "Audio Bose 12 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Pathfinder Exclusive 4WD (ficha oficial UY 'Pathfinder 2025', origen EE.UU.). SUV 3 filas, 7 plazas, nafta. Garantía 3 años / 100.000 km.\nMOTOR: 3.5 L V6 24V, 270 HP, 340 Nm a 4.800 rpm. Caja automática ZF de 9 velocidades. Tracción inteligente 4WD con 7 modos (Normal/Eco/Sport/Nieve/Arena/Barro/Tráiler). Remolque 2.700 kg (mejor de su categoría según Nissan; 2,7 t).\nDIMENSIONES: largo 5.004 mm, ancho 1.978 mm (sin espejos), alto 1.800 mm, entre ejes 2.900 mm. Peso en vacío 2.099 kg; peso bruto 2.750 kg (valor tal cual figura en la ficha). Baúl 470 L (3.ª fila abatida 1.274 L; 2.ª y 3.ª abatidas 2.279 L). Tanque 70 L. Neumáticos 255/50 R20, llantas aleación 20\", repuesto temporal + kit.\nCHASIS: delantera McPherson con estabilizadora, trasera multilink; discos ventilados delante y detrás; dirección eléctrica con regulación telescópica.\nEQUIPAMIENTO: faros y antinieblas LED, head-up display, panel digital 12,3\", volante de cuero con levas y ajuste eléctrico con memoria, llave iKey con arranque remoto, EPB con Auto Hold, retrovisor inteligente, portón eléctrico con manos libres, climatizador 3 zonas, asientos delanteros eléctricos con memoria, calefacción y ventilación, 2.ª fila calefaccionada, pantalla 9\" con Android Auto/CarPlay, Bose 12 parlantes, cargadores 12V(2)+USB(4)+USB-C(2)+inalámbrico, techo solar eléctrico, espejos con memoria y calefacción, vidrios de privacidad, cuero.\nSEGURIDAD: airbags frontales, laterales, cortina y de rodilla (conductor), ABS/BA, VDC, HSA, HDC, I-EB con peatones, RCTA, BSW, BSI, LDW/I-LI, ICC+ASL, FCW, I-DA, TPMS, I-AVM con MOD, TSA, sensores 4+4.",
+   "confianza": "alta",
+   "notas": "La lista dice 'Phatfinder Exclusive 4WD' (EE.UU.); la ficha UY es la Exclusive 4WD. Peso bruto 2.750 kg parece bajo para este SUV (valor de la ficha, el orden de la tabla es ambiguo). El PDF tiene 115 páginas, solo las 2-3 de ficha son relevantes. El número de airbags es '7' inferido (frontales, laterales, cortina y rodilla conductor)."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Magnite (India)",
+   "ids": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/magnite/my25/vlp/catalogos/Nissan%20Magnite%20%2B%20Dark%20Armour%20-%20Santa%20Rosa%202026.pdf",
+     "que": "catálogo oficial Magnite + Dark Armour 2026 nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/magnite.html",
+     "que": "página oficial nissan.com.uy"
+    },
+    {
+     "url": "fichas_txt/Nissan Magnite - 2025.txt",
+     "que": "ficha local curada"
+    }
+   ],
+   "pdf": [
+    "Nissan Magnite 2026.pdf"
+   ],
+   "fotos": [
+    "magnite-1.jpg",
+    "magnite-2.jpg",
+    "magnite-3.jpg",
+    "magnite-4.jpg",
+    "magnite-5.jpg",
+    "magnite-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "SUV",
+    "combustible": "Nafta",
+    "motor": "1.0 turbo 3 cil. 12V",
+    "cilindrada_cc": 999,
+    "potencia_hp": 99,
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 5,
+    "largo_mm": 3994,
+    "ancho_mm": 1938,
+    "alto_mm": 1572,
+    "entre_ejes_mm": 2501,
+    "despeje_mm": 205,
+    "baul_l": 336,
+    "tanque_l": 36,
+    "neumaticos": "195/60 R16",
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km"
+   },
+   "versiones": {
+    "21": {
+     "transmision": "Manual 5 vel.",
+     "torque_nm": 160,
+     "peso_kg": 1105,
+     "pbt_kg": 1480
+    },
+    "22": {
+     "transmision": "Automática CVT Xtronic",
+     "torque_nm": 152,
+     "peso_kg": 1131,
+     "pbt_kg": 1506
+    },
+    "23": {
+     "transmision": "Automática CVT Xtronic",
+     "torque_nm": 152,
+     "peso_kg": 1131,
+     "pbt_kg": 1506
+    },
+    "24": {
+     "transmision": "Manual 5 vel.",
+     "torque_nm": 160,
+     "peso_kg": 1105,
+     "pbt_kg": 1480
+    },
+    "25": {
+     "transmision": "Automática CVT Xtronic",
+     "torque_nm": 152,
+     "peso_kg": 1131,
+     "pbt_kg": 1506
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBA",
+      "Control de estabilidad (VDC)",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Monitor de presión de neumáticos",
+      "Cámara 360°",
+      "Control crucero",
+      "Alarma e inmovilizador",
+      "Cinturones con pretensor"
+     ],
+     "confort": [
+      "Climatizador",
+      "Llave inteligente",
+      "Vidrios eléctricos 4 puertas",
+      "Espejos eléctricos con plegado",
+      "Barras de techo",
+      "Alerón trasero",
+      "Llantas de aleación 16\"",
+      "Volante con comandos",
+      "Panel digital TFT 7\""
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "Apple CarPlay / Android Auto",
+      "6 parlantes"
+     ]
+    },
+    "21": {
+     "confort": [
+      "Limitador de velocidad"
+     ]
+    },
+    "22": {
+     "confort": [
+      "Limitador de velocidad"
+     ]
+    },
+    "24": {
+     "confort": [
+      "Faros LED",
+      "Faros traseros LED",
+      "Iluminación ambiental",
+      "Tapizado de cuero"
+     ]
+    },
+    "25": {
+     "confort": [
+      "Faros LED",
+      "Faros traseros LED",
+      "Iluminación ambiental",
+      "Tapizado de cuero"
+     ]
+    },
+    "23": {
+     "confort": [
+      "Pack exterior Dark Armour",
+      "Llantas de aleación negras 16\""
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Magnite (SUV compacto, ficha oficial UY 2025/2026). 5 plazas, nafta, tracción delantera. Garantía 3 años / 100.000 km.\nMOTOR: 1.0 L turbo 3 cil. 12V (999 cc), 99 HP. Manual 5 vel.: 160 Nm a 2.800 rpm; CVT Xtronic: 152 Nm a 2.200 rpm (marketing: 100 HP / 160 Nm en MT).\nDIMENSIONES: largo 3.994 mm, ancho 1.938 mm, alto 1.572 mm, entre ejes 2.501 mm, despeje 205 mm. Baúl 336 L (690 L con asientos rebatidos). Tanque 36 L. Peso: MT 1.105 kg, CVT 1.131 kg; bruto 1.480 / 1.506 kg. Neumáticos 195/60 R16 (aleación bitono), repuesto 195/65 R16.\nCHASIS: delantera McPherson, trasera amortiguadores telescópicos; discos ventilados delante, tambor atrás; dirección eléctrica.\nEQUIPAMIENTO COMÚN: panel analógico + TFT 7\", volante multifunción forrado en cuero, llave inteligente i-Key, A/A automático, vidrios eléctricos 4, monitor de presión de neumáticos, espejos eléctricos plegables, luces diurnas LED, cámara 360°, pantalla 8\" con Android Auto/CarPlay inalámbrico y 6 parlantes, consola con apoyabrazos, antena tiburón, barras de techo (50 kg), alerón.\nVERSIONES: Advance MT/CVT (limitador de velocidad; faros halógenos); Exclusive MT/CVT (faros delanteros, camineros y traseros LED, iluminación ambiental, cuero, pack decorativo interior); Dark Armour CVT (edición especial con estética negra, llantas negras; equipamiento exacto no desglosado en la ficha, ver notas).\nSEGURIDAD: 6 airbags, ABS, EBA, VDC, TPMS, TCS, HSA, crucero, inmovilizador y alarma, pretensores.",
+   "confianza": "media",
+   "notas": "Dark Armour (id 23): la ficha UY muestra Advance MT, Advance CVT, Dark Armour CVT y Exclusive CVT en columnas pero la tabla de equipamiento está desalineada; por los nombres de archivos de fotos oficiales (magnite_dark_exclusive_cvt) se infiere que Dark Armour parte de la Exclusive CVT con pack negro, pero NO está confirmado. La lista incluye 'Exclusive MT' (id 24) que no figura en el catálogo 2026 (sí en el 2025). La lista dice 'India'; la ficha UY es la que aplica a Uruguay."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "New Sentra 2026 (MX)",
+   "ids": [
+    26,
+    27
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/Prev-Gen-sentra/my26/vlp/catalogos/nissan-2026-sentra-catalogo%20v2.pdf",
+     "que": "catálogo oficial Sentra 2026 nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/sentra.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Sentra 2026.pdf"
+   ],
+   "fotos": [
+    "sentra-2026-1.jpg",
+    "sentra-2026-2.jpg",
+    "sentra-2026-3.jpg",
+    "sentra-2026-4.jpg",
+    "sentra-2026-5.jpg",
+    "sentra-2026-6.png"
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Nafta",
+    "motor": "2.0 L 4 cil. 16V inyección directa (MR20DD)",
+    "cilindrada_cc": 1997,
+    "potencia_hp": 145,
+    "torque_nm": 197,
+    "transmision": "Automática CVT",
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 4,
+    "largo_mm": 4655,
+    "ancho_mm": 1815,
+    "alto_mm": 1460,
+    "entre_ejes_mm": 2705,
+    "baul_l": 460,
+    "tanque_l": 47,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km",
+    "consumo": "18,3 km/L combinado (ficha MX)"
+   },
+   "versiones": {
+    "26": {
+     "neumaticos": "215/50 R17",
+     "peso_kg": 1416
+    },
+    "27": {
+     "neumaticos": "215/45 R18",
+     "peso_kg": 1453
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Control de tracción",
+      "Asistente de arranque en pendiente",
+      "Monitor de presión de neumáticos",
+      "Alerta de asiento trasero",
+      "Alarma e inmovilizador",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Botón de encendido",
+      "Climatizador",
+      "Iluminación ambiental"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "26": {
+     "confort": [
+      "Faros LED",
+      "Llantas de aleación 17\"",
+      "Asientos de tela"
+     ],
+     "multimedia": [
+      "Panel digital 7\""
+     ]
+    },
+    "27": {
+     "seguridad": [
+      "Cámara 360°",
+      "Frenado de emergencia con detección de peatones",
+      "Alerta de punto ciego",
+      "Intervención de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Alerta de abandono de carril",
+      "Control crucero adaptativo",
+      "ProPILOT Assist"
+     ],
+     "confort": [
+      "Techo solar eléctrico",
+      "Asiento conductor eléctrico",
+      "Asientos de piel sintética",
+      "Llantas de aleación 18\"",
+      "Climatizador doble zona",
+      "Encendido remoto"
+     ],
+     "multimedia": [
+      "Panel digital 12,3\"",
+      "Audio Bose 8 parlantes",
+      "Carga inalámbrica Apple CarPlay / Android Auto"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Sentra 2026 (nueva generación, catálogo oficial UY con ficha base Nissan México). Sedán 5 plazas, nafta. Garantía 3 años / 100.000 km.\nMOTOR: 2.0 L (MR20DD) 4 cil. 16V inyección directa, 145 HP a 6.000 rpm, 145 lb-pie (~197 Nm) a 4.000 rpm, relación de compresión 11,7:1. CVT, tracción delantera. Rendimiento ficha MX: ciudad 16,4 / carretera 21,2 / combinado 18,3 km/L (valores de la versión Advance; la versión Exclusive/SR Platinum ronda 17,x km/L).\nDIMENSIONES: largo 4.655 mm, ancho 1.815 mm, alto 1.460 mm, entre ejes 2.705 mm. Baúl 460 L, tanque 47 L. Pesos 1.416 kg (Advance) / 1.453 kg (SR Platinum); brutos 1.807 / 1.841 kg.\nCHASIS: delantera McPherson con estabilizadora, trasera multilink; discos ventilados delante, disco atrás; ABS/EBD/BA; dirección eléctrica. Neumáticos 215/50 R17 (Advance) y 215/45 R18 (Exclusive).\nVERSIONES: Advance CVT (A/A automático digital, faros LED Signature, tela, panel 7\" TFT, pantalla 12,3\" con CarPlay/Android Auto, 2 USB-C, cámara de reversa, alerta de olvido trasero, 6 airbags); Exclusive CVT (SR Platinum: rines 18\", Monolith Display con doble pantalla 12,3\", Bose 8 bocinas con subwoofer, piel sintética con costuras diamante, asiento eléctrico, quemacocos eléctrico, climatizador doble zona, cámara 360°, encendido remoto, ProPILOT Assist, I-BSI, I-RAB, I-LI, LDW, ICC, FEB con peatones y ciclistas, HBA).\nSEGURIDAD COMÚN: 6 airbags (frontales, laterales y cortina), ABS, VDC, TCS, HSA, TPMS, ISOFIX, alerta de olvido en asiento trasero.",
+   "confianza": "media",
+   "notas": "El catálogo UY es la ficha MX (Nissan Mexicana): columnas 'Sense/Advance/SR/Platinum' no coinciden exactamente con la lista UY 'Advance CVT' y 'Exclusive CVT (SR platinum)'. Se asignó Advance=Advance y Exclusive=SR Platinum. La tabla del PDF está desalineada, el equipamiento por versión es aproximado. Torque 145 lb-pie = 197 Nm. Datos de consumo y pesos asignados con cautela."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "New Versa 2026 (MX)",
+   "ids": [
+    28,
+    29,
+    30,
+    31
+   ],
+   "fuentes": [
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/versa/my26/catalogo/nissan-2026-versa-catalogo.pdf",
+     "que": "catálogo oficial Versa 2026 nissan.com.uy (ficha base Nissan México)"
+    },
+    {
+     "url": "https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/versa.html",
+     "que": "página oficial nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Versa 2026.pdf"
+   ],
+   "fotos": [
+    "versa-2026-2.jpg",
+    "versa-2026-3.jpg",
+    "versa-2026-4.jpg",
+    "versa-2026-5.jpg"
+   ],
+   "comun": {
+    "carroceria": "Sedán",
+    "combustible": "Nafta",
+    "motor": "1.6 L 4 cil. 16V (HR16DE)",
+    "cilindrada_cc": 1598,
+    "potencia_hp": 118,
+    "torque_nm": 149,
+    "traccion": "4x2 (delantera)",
+    "plazas": 5,
+    "puertas": 4,
+    "largo_mm": 4500,
+    "ancho_mm": 1740,
+    "tanque_l": 41,
+    "baul_l": 466,
+    "airbags": 6,
+    "garantia": "3 años o 100.000 km",
+    "consumo": "~5,3 L/100 km combinado (ficha MX 18,8 km/L)"
+   },
+   "versiones": {
+    "28": {
+     "transmision": "Manual 5 vel.",
+     "neumaticos": "195/65 R15"
+    },
+    "29": {
+     "transmision": "Automática CVT Xtronic",
+     "neumaticos": "205/55 R16"
+    },
+    "30": {
+     "transmision": "Automática CVT Xtronic",
+     "neumaticos": "205/55 R16"
+    },
+    "31": {
+     "transmision": "Automática CVT Xtronic",
+     "neumaticos": "205/50 R17"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Monitor de presión de neumáticos",
+      "ISOFIX",
+      "Alarma e inmovilizador",
+      "Sensores de estacionamiento traseros"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Botón de encendido",
+      "Vidrios eléctricos"
+     ],
+     "multimedia": [
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "31": {
+     "seguridad": [
+      "Cámara 360°",
+      "Frenado de emergencia con detección de peatones",
+      "Alerta de punto ciego",
+      "Intervención de punto ciego",
+      "Alerta de tráfico cruzado trasero",
+      "Control crucero inteligente"
+     ],
+     "confort": [
+      "Faros LED",
+      "Asientos de piel sintética",
+      "Climatizador"
+     ],
+     "multimedia": [
+      "Pantalla 12,3\"",
+      "Audio Bose 8 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Versa 2026 (rediseño, origen México; catálogo oficial UY con ficha base MX). Sedán compacto 5 plazas, nafta, tracción delantera. Garantía 3 años / 100.000 km.\nMOTOR: 1.6 L HR16DE 4 cil., 118 HP a 6.300 rpm, 110 lb-pie (149 Nm) a 4.000 rpm. Manual 5 vel. o CVT Xtronic. Tanque 41 L. Rendimiento combinado ficha MX ~18,8 km/L.\nDIMENSIONES: largo ~4.500 mm, ancho ~1.740 mm. Baúl 466 L. Pesos en vacío entre 1.110 y 1.170 kg; brutos 1.532 a 1.605 kg según versión.\nCHASIS: delantera McPherson con estabilizadora, trasera eje semirrígido; discos delanteros y tambor trasero; dirección eléctrica sensible a velocidad.\nLLANTAS: 195/65 R15 acero, 205/55 R16 aleación, 205/50 R17 aleación (Exclusive).\nVERSIONES (Uruguay): Sense MT (N19), Sense CVT, Advance CVT, Exclusive CVT. Exclusive: faros LED con Signature Lamp, pantalla 12,3\" con Bose 8 bocinas, piel sintética, cámara 360°, I-FEB con peatones, BSW, I-BSI, RCTA, control crucero inteligente. Advance suma pantalla 9\" y TFT 7\" color.\nSEGURIDAD COMÚN: 6 airbags, ABS/EBD/BA, VDC, HSA, TPMS, ISOFIX, alarma e inmovilizador.",
+   "confianza": "baja",
+   "notas": "El catálogo 2026 tiene tablas desalineadas (columnas Sense Base/Sense/Advance/Exclusive con TM/CVT); el reparto de equipamiento por versión es aproximado. Las filas de la lista se mapearon: 28 Sense MT, 29 Sense CVT, 30 Advance CVT, 31 Exclusive CVT. Largo 4.500 mm como figura (4.495 en la ficha 2024)."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Frontier (MX) 4x2",
+   "ids": [
+    32,
+    33,
+    34,
+    35
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/CATALOGO FRONTIER - TODOS LOS MODELOS.txt",
+     "que": "catálogo oficial Frontier nissan.com.uy (local curado)"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/frontier/my24/FRONTIER%202026_Nafta%20Euro5_ABRIL%20(2).pdf",
+     "que": "ficha Frontier 2026 Nafta nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/frontier/my24/FRONTIER%202026_Diesel%20Euro5_ABRIL%20(2).pdf",
+     "que": "ficha Frontier 2026 Diésel nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Frontier 2026 Nafta.pdf",
+    "Nissan Frontier 2026 Diesel.pdf"
+   ],
+   "fotos": [
+    "frontier-2.jpg",
+    "frontier-3.jpg",
+    "frontier-4.jpg",
+    "frontier-5.jpg",
+    "frontier-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "Pick-up",
+    "tanque_l": 80,
+    "garantia": "3 años o 100.000 km",
+    "neumaticos": "205R16C"
+   },
+   "versiones": {
+    "32": {
+     "carroceria": "Pick-up cabina simple",
+     "combustible": "Nafta",
+     "motor": "2.5 L 4 cil. 16V inyección multipunto",
+     "cilindrada_cc": 2488,
+     "potencia_hp": 158,
+     "torque_nm": 233,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2",
+     "plazas": 2,
+     "largo_mm": 5332,
+     "ancho_mm": 1790,
+     "alto_mm": 1756,
+     "despeje_mm": 208,
+     "peso_kg": 1708,
+     "pbt_kg": 2550,
+     "carga_util_kg": 842,
+     "remolque_kg": 1588
+    },
+    "33": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Nafta",
+     "motor": "2.5 L 4 cil. 16V inyección multipunto",
+     "cilindrada_cc": 2488,
+     "potencia_hp": 158,
+     "torque_nm": 233,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2",
+     "plazas": 5,
+     "largo_mm": 5253,
+     "ancho_mm": 1850,
+     "alto_mm": 1804,
+     "despeje_mm": 206,
+     "peso_kg": 1788,
+     "pbt_kg": 2550,
+     "carga_util_kg": 762,
+     "remolque_kg": 1588,
+     "airbags": 6
+    },
+    "34": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Nafta",
+     "motor": "2.5 L 4 cil. 16V inyección multipunto",
+     "cilindrada_cc": 2488,
+     "potencia_hp": 158,
+     "torque_nm": 233,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2",
+     "plazas": 5,
+     "largo_mm": 5253,
+     "ancho_mm": 1850,
+     "alto_mm": 1809,
+     "despeje_mm": 214,
+     "peso_kg": 1801,
+     "pbt_kg": 2550,
+     "carga_util_kg": 749,
+     "remolque_kg": 1588,
+     "neumaticos": "255/65 R17",
+     "airbags": 6
+    },
+    "35": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. 16V turbodiésel common rail",
+     "cilindrada_cc": 2488,
+     "potencia_hp": 160,
+     "torque_nm": 403,
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2",
+     "plazas": 5,
+     "largo_mm": 5253,
+     "ancho_mm": 1850,
+     "alto_mm": 1803,
+     "despeje_mm": 206,
+     "peso_kg": 1855,
+     "pbt_kg": 2990,
+     "carga_util_kg": 1135,
+     "remolque_kg": 3500,
+     "airbags": 6
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Control de estabilidad de remolque",
+      "Alarma e inmovilizador",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Dirección hidráulica",
+      "Gancho de remolque delantero",
+      "Portavasos",
+      "Tomas de 12V"
+     ]
+    },
+    "32": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de acero 16\"",
+      "Tapizado de tela"
+     ],
+     "multimedia": [
+      "Radio AM/FM Bluetooth",
+      "2 parlantes"
+     ]
+    },
+    "33": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de acero 16\"",
+      "Tapizado de tela",
+      "Control crucero",
+      "Panel TFT 7\" a color"
+     ],
+     "multimedia": [
+      "Radio AM/FM Bluetooth",
+      "4 parlantes"
+     ],
+     "seguridad": [
+      "6 airbags"
+     ]
+    },
+    "34": {
+     "confort": [
+      "Llantas de aleación 17\"",
+      "Tapizado de tela",
+      "Vidrios eléctricos",
+      "Control crucero",
+      "Panel TFT 7\" a color"
+     ],
+     "multimedia": [
+      "Radio AM/FM Bluetooth",
+      "4 parlantes"
+     ],
+     "seguridad": [
+      "6 airbags"
+     ]
+    },
+    "35": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de acero 16\"",
+      "Tapizado de tela",
+      "Control crucero",
+      "Panel TFT 7\" a color"
+     ],
+     "multimedia": [
+      "Radio AM/FM Bluetooth",
+      "4 parlantes"
+     ],
+     "seguridad": [
+      "6 airbags"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Frontier 4x2 (ficha oficial UY, catálogo 'Nueva Nissan Frontier' 2026). Pick-up mediana. Garantía 3 años / 100.000 km. Tanque 80 L. Suspensión delantera doble horquilla, trasera ballesta (cabina simple) o multilink 5 brazos (doble cabina); frenos discos ventilados delante y tambor atrás; dirección hidráulica.\nFRONTIER 4X2 CL NAFTA S 6MT (cabina simple): 2.5 L nafta 158 HP / 233 Nm, manual 6 vel. Largo 5.332 mm, ancho 1.790, alto 1.756, peso 1.708 kg, PBT 2.550, carga útil 842 kg, remolque 1.588 kg. Llantas acero 16\" 205R16C, A/A manual, radio con Bluetooth y 2 parlantes, tablero con tacómetro, mínimos de seguridad (airbags frontales según ficha).\nFRONTIER 4X2 DC NAFTA S 6MT (doble cabina): 158 HP / 233 Nm, 6MT. Largo 5.253, ancho 1.850, alto 1.804 mm, peso 1.788 kg, carga útil 762 kg, panel TFT 7\" a color, control crucero, 6 airbags, asiento trasero abatible con apoyabrazos y portavasos, 4 parlantes.\nFRONTIER 4X2 DC NAFTA SE 6MT: suma llantas de aleación 17\" 255/65, vidrios eléctricos, bloqueo central, inmovilizador+alarma, despeje 214 mm, peso 1.801 kg.\nFRONTIER 4X2 DC DIESEL S 6MT: 2.5 L turbodiésel common rail 160 HP (120 kW) / 403 Nm a 2.000 rpm, 6MT, 4x2. Peso 1.855 kg, PBT 2.990, carga útil 1.135 kg, remolque 3.500 kg.",
+   "confianza": "media",
+   "notas": "El catálogo local lista motor diésel como '2.3' en el encabezado pero el desplazamiento es 2.488 cc (2.5 L); potencia diésel 120 kW (~160 HP) y 140 kW (~187 HP) según 'Potencia neta' de la tabla, en HP no explicitada. La tabla de equipamiento del PDF está desalineada: el equipamiento por versión es aproximado. Cabina simple: no se afirma cantidad de airbags."
+  },
+  {
+   "marca": "Nissan",
+   "modelo": "Frontier (MX) 4x4",
+   "ids": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "fuentes": [
+    {
+     "url": "fichas_txt/CATALOGO FRONTIER - TODOS LOS MODELOS.txt",
+     "que": "catálogo oficial Frontier nissan.com.uy (local curado)"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/frontier/my24/FRONTIER%202026_Nafta%20Euro5_ABRIL%20(2).pdf",
+     "que": "ficha Frontier 2026 Nafta nissan.com.uy"
+    },
+    {
+     "url": "https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/frontier/my24/FRONTIER%202026_Diesel%20Euro5_ABRIL%20(2).pdf",
+     "que": "ficha Frontier 2026 Diésel nissan.com.uy"
+    }
+   ],
+   "pdf": [
+    "Nissan Frontier 2026 Nafta.pdf",
+    "Nissan Frontier 2026 Diesel.pdf"
+   ],
+   "fotos": [
+    "frontier-2.jpg",
+    "frontier-3.jpg",
+    "frontier-4.jpg",
+    "frontier-5.jpg",
+    "frontier-6.jpg"
+   ],
+   "comun": {
+    "carroceria": "Pick-up doble cabina",
+    "plazas": 5,
+    "puertas": 4,
+    "traccion": "4x4",
+    "largo_mm": 5253,
+    "tanque_l": 80,
+    "cilindrada_cc": 2488,
+    "garantia": "3 años o 100.000 km",
+    "airbags": 6
+   },
+   "versiones": {
+    "36": {
+     "combustible": "Nafta",
+     "motor": "2.5 L 4 cil. 16V inyección multipunto",
+     "potencia_hp": 162,
+     "torque_nm": 238,
+     "transmision": "Automática 7 vel.",
+     "ancho_mm": 1850,
+     "pbt_kg": 2910,
+     "remolque_kg": 1588,
+     "neumaticos": "255/65 R17 todoterreno"
+    },
+    "37": {
+     "combustible": "Nafta",
+     "motor": "2.5 L 4 cil. 16V inyección multipunto",
+     "potencia_hp": 162,
+     "torque_nm": 238,
+     "transmision": "Automática 7 vel.",
+     "ancho_mm": 1875,
+     "alto_mm": 1851,
+     "despeje_mm": 233,
+     "peso_kg": 1950,
+     "pbt_kg": 2910,
+     "carga_util_kg": 960,
+     "remolque_kg": 1588,
+     "neumaticos": "255/65 R17 todoterreno"
+    },
+    "38": {
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. turbodiésel common rail",
+     "potencia_hp": 160,
+     "torque_nm": 403,
+     "transmision": "Manual 6 vel.",
+     "ancho_mm": 1850,
+     "alto_mm": 1822,
+     "despeje_mm": 227,
+     "peso_kg": 1950,
+     "pbt_kg": 3080,
+     "carga_util_kg": 1110,
+     "remolque_kg": 3500,
+     "neumaticos": "255/65 R17"
+    },
+    "39": {
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. turbodiésel common rail",
+     "potencia_hp": 187,
+     "torque_nm": 450,
+     "transmision": "Manual 6 vel.",
+     "ancho_mm": 1850,
+     "alto_mm": 1822,
+     "despeje_mm": 227,
+     "peso_kg": 1975,
+     "pbt_kg": 3150,
+     "carga_util_kg": 1070,
+     "remolque_kg": 3500,
+     "neumaticos": "255/65 R17"
+    },
+    "40": {
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. turbodiésel common rail",
+     "potencia_hp": 187,
+     "torque_nm": 450,
+     "transmision": "Automática 7 vel.",
+     "ancho_mm": 1850,
+     "alto_mm": 1822,
+     "despeje_mm": 227,
+     "peso_kg": 1960,
+     "pbt_kg": 3080,
+     "carga_util_kg": 1175,
+     "remolque_kg": 3500,
+     "neumaticos": "255/65 R17"
+    },
+    "41": {
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. turbodiésel common rail",
+     "potencia_hp": 187,
+     "torque_nm": 450,
+     "transmision": "Automática 7 vel.",
+     "ancho_mm": 1850,
+     "alto_mm": 1857,
+     "despeje_mm": 233,
+     "peso_kg": 2015,
+     "pbt_kg": 3150,
+     "carga_util_kg": 1135,
+     "remolque_kg": 3500,
+     "neumaticos": "255/60 R18"
+    },
+    "42": {
+     "combustible": "Diésel",
+     "motor": "2.5 L 4 cil. turbodiésel common rail",
+     "potencia_hp": 187,
+     "torque_nm": 450,
+     "transmision": "Automática 7 vel.",
+     "ancho_mm": 1875,
+     "alto_mm": 1850,
+     "despeje_mm": 227,
+     "peso_kg": 2015,
+     "pbt_kg": 3150,
+     "carga_util_kg": 1135,
+     "remolque_kg": 3500,
+     "neumaticos": "255/65 R17 todoterreno"
+    }
+   },
+   "equipamiento": {
+    "todas": {
+     "seguridad": [
+      "6 airbags",
+      "ABS + EBD + BA",
+      "Control de estabilidad (VDC)",
+      "Asistente de arranque en pendiente",
+      "Control de descenso en pendiente",
+      "Control de estabilidad de remolque",
+      "Alarma e inmovilizador",
+      "ISOFIX"
+     ],
+     "confort": [
+      "Interruptor 4WD giratorio",
+      "Bloqueo de diferencial trasero",
+      "Control crucero",
+      "Panel TFT 7\" a color",
+      "Vidrios eléctricos One Touch conductor",
+      "Portavasos",
+      "Asiento trasero abatible con apoyabrazos"
+     ]
+    },
+    "37": {
+     "seguridad": [
+      "Cámara 360°",
+      "Frenado de emergencia",
+      "Alerta predictiva de colisión frontal",
+      "Alerta de atención del conductor"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Faros LED",
+      "Tapizado de cuero Off-Road",
+      "Llantas 17\" todoterreno",
+      "Retrovisor automático",
+      "Volante de cuero",
+      "Luces automáticas",
+      "Sensor de lluvia"
+     ],
+     "multimedia": [
+      "Pantalla 8\" con navegación",
+      "6 parlantes",
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "42": {
+     "seguridad": [
+      "Cámara 360°",
+      "Frenado de emergencia",
+      "Alerta predictiva de colisión frontal",
+      "Alerta de atención del conductor"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Faros LED",
+      "Tapizado de cuero Off-Road",
+      "Llantas 17\" todoterreno",
+      "Retrovisor automático",
+      "Volante de cuero",
+      "Luces automáticas",
+      "Sensor de lluvia"
+     ],
+     "multimedia": [
+      "Pantalla 8\" con navegación",
+      "6 parlantes",
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "41": {
+     "seguridad": [
+      "Cámara 360°",
+      "Frenado de emergencia",
+      "Alerta predictiva de colisión frontal",
+      "Alerta de punto ciego",
+      "Alerta de atención del conductor",
+      "Sensores de estacionamiento"
+     ],
+     "confort": [
+      "Llave inteligente",
+      "Faros LED",
+      "Tapizado de cuero",
+      "Climatizador",
+      "Asientos delanteros calefaccionados",
+      "Asiento conductor eléctrico",
+      "Llantas 18\"",
+      "Retrovisor automático"
+     ],
+     "multimedia": [
+      "Pantalla 8\" con navegación",
+      "6 parlantes",
+      "Apple CarPlay / Android Auto"
+     ]
+    },
+    "39": {
+     "confort": [
+      "Climatizador",
+      "Luces automáticas",
+      "Sensor de lluvia",
+      "Volante de cuero",
+      "Llantas 17\""
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "4 parlantes"
+     ]
+    },
+    "40": {
+     "confort": [
+      "Climatizador",
+      "Luces automáticas",
+      "Sensor de lluvia",
+      "Volante de cuero",
+      "Llantas 17\""
+     ],
+     "multimedia": [
+      "Pantalla 8\"",
+      "4 parlantes"
+     ]
+    },
+    "38": {
+     "confort": [
+      "Aire acondicionado manual",
+      "Llantas de aleación 17\""
+     ],
+     "multimedia": [
+      "Radio AM/FM Bluetooth",
+      "4 parlantes"
+     ]
+    }
+   },
+   "ficha_texto": "Nissan Frontier 4x4 doble cabina (ficha oficial UY, catálogo 2026). Pick-up mediana, 5 plazas, 4x4 con interruptor giratorio 4WD. Garantía 3 años / 100.000 km. Tanque 80 L. Suspensión delantera doble horquilla, trasera multilink 5 brazos; discos ventilados delante, tambor atrás; dirección hidráulica.\nNAFTA 2.5 L: 162 HP / 238 Nm a 4.000 rpm, automática 7 vel., remolque 1.588 kg, PBT 2.910 kg. Versiones: XE AT (id 36; 255/65 R17 todoterreno, llave inteligente, cámara 360° según PDF 2026, datos limitados) y PRO-4X 7AT (id 37: 1.950 kg, carga útil 960 kg, despeje 233 mm, ancho 1.875, faros LED, cuero Off-Road, Utility-Track, pantalla 8\" con navegación, 6 parlantes, cámara 360° con MOD, frenado de emergencia, PFCW, HDC).\nDIÉSEL 2.5 L turbodiésel common rail: SE/S 160 HP / 403 Nm; XE/LE/PRO-4X 187 HP / 450 Nm. Remolque 3.500 kg. SE 6MT (id 38): 1.950 kg, PBT 3.080, carga útil 1.110, despeje 227 mm, 255/65 R17, 4 parlantes. XE 6MT (id 39): 1.975 kg, PBT 3.150, carga 1.070, climatizador, volante de cuero, luces automáticas. XE 7AT (id 40): 1.960 kg, PBT 3.080, carga 1.175. LE 7AT (id 41): 255/60 R18, faros LED, climatizador, cuero con asientos calefaccionados y conductor eléctrico, llave inteligente, FEB+PFCW+DAA+BSW+LDW+CTA+HBA, AVM, pantalla 8\" navegación, 6 parlantes; 2.015 kg, PBT 3.150. PRO-4X 7AT (id 42): 255/65 R17 todoterreno, cuero Off-Road, ancho 1.875, despeje 227, 2.015 kg, carga 1.135 kg.\nSEGURIDAD COMÚN: 6 airbags (frontales, laterales y cortina), ABS/EBD/BA, VDC, HSA, TSA, inmovilizador+alarma, ISOFIX.",
+   "confianza": "media",
+   "notas": "Variante XE nafta AT 4x4 (id 36): NO aparece en el catálogo local (que tiene 4 columnas nafta: S CS, S DC, SE, PRO4X) pero sí en el PDF 'Frontier 2026 Nafta' (cabina S/S/SE 4x2 MT + XE y PRO-4X 4x4 AT); como esa tabla está desalineada, solo se cargan potencia 162 HP / 238 Nm y PBT/llantas probables. El resto de pesos/capacidades de cada versión proviene del catálogo local (mapeo de columnas por transmisión/tracción/caja). La lista dice 'MX' pero la ficha UY aplica (origen Frontier Argentina/México). Potencias diésel por kW de la tabla (120 kW=160 HP, 140 kW=187 HP)."
+  }
+ ]
+}

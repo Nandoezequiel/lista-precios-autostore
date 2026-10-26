@@ -1,0 +1,282 @@
+# paginas: 2,3,4,5,6,7,8,9,10,11,12,13
+VERSIONES del Jaecoo 5 EV 2027: Comfort y Luxury. En la ficha «S» significa de serie y «–» que no lo trae.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 2]
+
+## Especificaciones técnicas
+  (Largo (mm) 4380 4380)
+  (Ancho (mm) 1860 1860)
+  (Altura (mm) 1650 1650)
+  (Distancia entre ejes (mm) 2620 2620)
+  (Autonomía NEDC (km) 461 461)
+  (Capacidad de batería (kWh) 58,9 58,9)
+  (Potencia máxima (kW / CV) 155 / 211 155 / 211)
+  (Torque (N·m) 288 288)
+  (Potencia pico de carga DC (kW) 130 130)
+  (Porcentaje de capacidad de carga rápida 30%-80% 30%-80%)
+
+## Tiempo de carga rápida 30-80% (min)
+  (Distancia mínima al suelo (mm) 184 184)
+  (Peso en orden de marcha (kg) 1715 1715)
+  (Aceleración 0-100 km/h (s) 7,7 7,7)
+  (Velocidad máxima (km/h) 175 175)
+
+## Potencia AC (kW)
+  (Capacidad del baúl (L) 480 480)
+  (Modelo de neumático 235/55R18 235/55R18)
+- Hatchback (Dos volúmenes): en todas
+- SUV: en todas
+- Volante a la izquierda (LHD): en todas
+
+[página 3]
+
+## Especificaciones técnicas
+- Carrocería monocasco: en todas
+  (Vía delantera (mm) 1580 1580)
+  (Vía trasera (mm) 1590 1590)
+- Palanca de cambios en la columna de dirección: en todas
+- Parrilla activa / aerodinámica: en todas
+- Modo de conducción (nieve, arena, etc.): en todas
+- Amortiguadores de gas del capó: en todas
+- Cubierta del motor con compartimiento de almacenamiento: en todas
+- Cubrecárter / Protector inferior del motor: en todas
+- Protector inferior del chasis: Comfort NO; Luxury SÍ
+- Motor delantero, tracción delantera (FF): en todas
+- Vehículo 100% Eléctrico (EV): en todas
+- Módulo de carga rápida: en todas
+- Dirección asistida eléctrica (EPS): en todas
+- Suspensión trasera independiente: en todas
+- Freno de estacionamiento eléctrico (EPB): en todas
+- Sistema de retención automática (AutoHold): en todas
+- Frenos de disco ventilados delanteros: en todas
+- Frenos de disco sólidos traseros: en todas
+- Llantas / Rines de 18 pulgadas: en todas
+- Llantas / Rines de aleación de aluminio: en todas
+
+[página 4]
+
+## Especificaciones técnicas
+- Llantas / Rines bitono: en todas
+- Neumáticos: en todas
+- Cinturón de seguridad del conductor con limitador de fuerza: en todas
+- Cinturón de seguridad del conductor con pretensor: en todas
+- Cinturón del pasajero delantero con limitador de fuerza: en todas
+- Cinturones de seguridad delanteros ajustables en altura: en todas
+- Alerta de cinturón de seguridad desabrochado (Conductor): en todas
+- Alerta de cinturón de seguridad desabrochado (Pasajero): en todas
+- Cinturones de seguridad de 3 puntos (2da fila): en todas
+- Cinturón de seguridad de 3 puntos asiento central: en todas
+- Anclajes rígidos (2da fila): en todas
+- Airbag / Bolsa de aire del conductor: en todas
+- Airbag / Bolsa de aire del pasajero delantero: en todas
+- Airbags laterales delanteros: en todas
+- Airbags de cortina: en todas
+- Anclajes ISOFIX para sillas infantiles: en todas
+- Espejo retrovisor con cámara DVR (Dashcam): Comfort NO; Luxury SÍ
+- Alerta de puerta abierta: en todas
+
+[página 5]
+
+## Especificaciones técnicas
+- Alerta de capó abierto: en todas
+- Alerta de baúl / maletero abierto: en todas
+- Seguro mecánico para niños (puertas traseras): en todas
+- Inmovilizador de motor: en todas
+- Alarma antirrobo: en todas
+- Cámara de retroceso (con guías dinámicas): Comfort SÍ; Luxury NO
+- Cámara panorámica 540° HD (Visión 360°): Comfort NO; Luxury SÍ
+- Sensores de estacionamiento traseros: en todas
+- Sensores de estacionamiento delanteros: Comfort NO; Luxury SÍ
+- Sistema antibloqueo de frenos (ABS): en todas
+- Distribución electrónica de la fuerza de frenado (EBD): en todas
+- Sistema de asistencia de frenado (BAS): en todas
+- Sistema de prioridad de frenado (BOS): en todas
+- Sistema de frenos integrado One-Box: en todas
+- Control de tracción (TCS): en todas
+- Asistencia de frenado de emergencia (EBA): en todas
+- Control de estabilidad antivuelco (RSC): en todas
+- Asistencia de arranque en pendiente (HAC): en todas
+- Control de descenso en pendiente (HDC): en todas
+- Sistema de monitoreo indirecto de presión de neumáticos (i-TPMS): en todas
+
+[página 6]
+
+## Especificaciones técnicas
+- Cierre centralizado de puertas: en todas
+- Bloqueo automático de puertas en movimiento: en todas
+- Control de crucero: en todas
+- Recordatorio de límite de velocidad: en todas
+- Ajuste de límite de velocidad (Aviso desactivable): en todas
+- Advertencia de salida de carril (LDW): Comfort NO; Luxury SÍ
+- Asistente de mantenimiento de carril (LKA): Comfort NO; Luxury SÍ
+- Prevención de salida de carril (LDP): Comfort NO; Luxury SÍ
+- Monitor de punto ciego (BSD): Comfort NO; Luxury SÍ
+- Asistente de cambio de carril (LCA): Comfort NO; Luxury SÍ
+- Control de crucero adaptativo a toda velocidad (ACC): Comfort NO; Luxury SÍ
+- Alerta de arranque del vehículo delantero (DAI/LVDA): Comfort NO; Luxury SÍ
+- Asistente de crucero integrado (ICA): Comfort NO; Luxury SÍ
+- Advertencia de colisión frontal (FCW): Comfort NO; Luxury SÍ
+- Alerta de tráfico cruzado trasero (RCTA): Comfort NO; Luxury SÍ
+- Frenado automático por tráfico cruzado trasero (RCTB): Comfort NO; Luxury SÍ
+- Frenado autónomo de emergencia (AEB): Comfort NO; Luxury SÍ
+- Asistente en atascos de tráfico (TJA): Comfort NO; Luxury SÍ
+- Sistema de evasión inteligente (IES): Comfort NO; Luxury SÍ
+
+[página 7]
+
+## Especificaciones técnicas
+- Advertencia de apertura de puerta (DOW): Comfort NO; Luxury SÍ
+- Limitador de velocidad activo (ASL): Comfort NO; Luxury SÍ
+- Advertencia de colisión trasera (RCW): Comfort NO; Luxury SÍ
+- Frenado post-colisión múltiple (MCB): Comfort NO; Luxury SÍ
+- Mantenimiento de carril de emergencia (ELK): Comfort NO; Luxury SÍ
+- Carrocería de un solo tono: en todas
+  (Carrocería bitono O O)
+- Faros halógenos: Comfort SÍ; Luxury NO
+- Faros LED: Comfort NO; Luxury SÍ
+- Faros de proyección (tipo lupa): en todas
+- Apagado retardado de faros (Follow-me-home): en todas
+- Faros de encendido automático (Sensor de luz): en todas
+- Ajuste de altura de faros (Manual/Eléctrico): en todas
+- Ajuste automático de luces altas/bajas (HMA): en todas
+- Luces de circulación diurna LED (DRL): en todas
+- Luces traseras LED: en todas
+- Tercera luz de freno (CHMSL): en todas
+- Señal de parada de emergencia (Parpadeo rápido ESS): en todas
+- Luz antiniebla trasera (simple): en todas
+- Luces de reversa dobles: en todas
+- Luz de matrícula trasera: en todas
+
+[página 8]
+
+## Especificaciones técnicas
+- Barras de techo decorativas (Sin capacidad de carga): Comfort SÍ; Luxury NO
+- Barras de techo con capacidad de carga: Comfort NO; Luxury SÍ
+- Manijas de puertas del color de la carrocería: en todas
+- Alerón / Spoiler trasero: en todas
+- Gancho de remolque delantero: en todas
+- Gancho de remolque trasero: en todas
+  (Capacidad de remolque (con freno / sin freno) 1250 kg / 750 kg)
+- Interior en color negro / oscuro: en todas
+- Iluminación ambiental multicolor: Comfort NO; Luxury SÍ
+- Tablero de instrumentos moldeado por inyección (Rígido): Comfort SÍ; Luxury NO
+- Tablero de instrumentos con revestimiento blando: Comfort NO; Luxury SÍ
+- Paneles de puertas rígidos: Comfort SÍ; Luxury NO
+- Paneles de puertas con revestimiento de PVC / cuero sintético: Comfort NO; Luxury SÍ
+- Luces de lectura delanteras: en todas
+- Luces de lectura en la segunda fila: Comfort NO; Luxury SÍ
+- Luz del baúl / maletero: en todas
+- Volante de poliuretano (moldeado por inyección): Comfort SÍ; Luxury NO
+- Volante revestido en símil cuero (espuma de PU): Comfort NO; Luxury SÍ
+
+[página 9]
+
+## Especificaciones técnicas
+- Columna de dirección con ajuste manual de 4 posiciones: en todas
+- Volante multifunción: en todas
+- 5 Plazas (2+3): en todas
+- Tapicería de tela: Comfort SÍ; Luxury NO
+- Tapizado símil cuero: Comfort NO; Luxury SÍ
+- Asiento del conductor con ajuste manual de 6 posiciones: Comfort SÍ; Luxury NO
+- Asiento del conductor con ajuste eléctrico de 6 posiciones: Comfort NO; Luxury SÍ
+- Asiento del conductor ventilado (Respaldo + Cojín): Comfort NO; Luxury SÍ
+- Asiento del pasajero delantero con ajuste manual de 4 posiciones: Comfort SÍ; Luxury NO
+- Asiento del pasajero delantero con ajuste eléctrico de 4 posiciones: Comfort NO; Luxury SÍ
+- Asiento del pasajero delantero ventilado (Respaldo + Cojín): Comfort NO; Luxury SÍ
+- Apoyacabezas delanteros independientes: en todas
+- Respaldos de segunda fila abatibles 60/40: en todas
+- Tres apoyacabezas ajustables en segunda fila: en todas
+- Apoyabrazos central integrado en segunda fila: en todas
+- Apoyabrazos central en segunda fila con portavasos: en todas
+- Bolsillos revisteros (detrás de los asientos delanteros): en todas
+
+[página 10]
+
+## Especificaciones técnicas
+- Parasol del conductor con espejo de cortesía: en todas
+- Parasol del pasajero delantero con espejo de cortesía: en todas
+- Parasol del conductor con iluminación: Comfort NO; Luxury SÍ
+- Parasol del pasajero delantero con iluminación: Comfort NO; Luxury SÍ
+- Parasol del conductor con portadocumentos / clip para tickets: en todas
+- Manijas de techo plegables con amortiguación: Comfort NO; Luxury SÍ
+- Guantera con apertura amortiguada: Comfort NO; Luxury SÍ
+- Red de sujeción para el baúl / maletero: en todas
+- Apoyabrazos central delantero con almacenamiento: en todas
+- Reposapiés para el conductor: en todas
+- Portagafas: en todas
+- Triángulo de advertencia: en todas
+- Climatizador automático bizona: en todas
+- Salidas de aire en la segunda fila: en todas
+- Filtración de aire simple (Filtro de habitáculo): en todas
+- Llave mecánica: en todas
+- Llave a control remoto: en todas
+- Llave inteligente (Sistema PEPS de entrada y arranque sin llave): en todas
+- Apertura de ventanillas a control remoto: en todas
+
+[página 11]
+
+## Especificaciones técnicas
+- Entrada sin llave (Keyless Entry): en todas
+- Portón trasero de apertura manual hacia arriba: en todas
+- Portón trasero eléctrico: Comfort NO; Luxury SÍ
+- Bandeja cubreequipaje: Comfort NO; Luxury SÍ
+- Portón trasero con apertura a control remoto: en todas
+- Tapa de combustible / puerto de carga con apertura por presión: en todas
+- Alzacristales eléctricos en las 4 puertas: en todas
+- Cierre de ventanillas One-Touch con antipinzamiento (4 puertas): en todas
+- Apertura de ventanillas One-Touch (4 puertas): en todas
+- Cristales con tinte verde (Atérmicos): en todas
+- Cristales acústicos / insonorizados: Comfort NO; Luxury SÍ
+- Cristales de privacidad (Oscurecidos): Comfort NO; Luxury SÍ
+- Desempañador de la luneta trasera: en todas
+- Espejos exteriores con ajuste eléctrico: en todas
+- Espejos exteriores abatibles manualmente: Comfort SÍ; Luxury NO
+- Espejos exteriores abatibles eléctricamente: Comfort NO; Luxury SÍ
+- Espejos exteriores plegables automáticamente al bloquear: Comfort NO; Luxury SÍ
+- Espejos exteriores con desempañador (calefaccionados): Comfort NO; Luxury SÍ
+- Espejo retrovisor interior con antiencandilamiento manual: en todas
+
+[página 12]
+
+## Especificaciones técnicas
+- Limpiaparabrisas delantero aerodinámico (sin armazón): en todas
+- Limpiaparabrisas trasero aerodinámico (sin armazón): en todas
+- Limpiaparabrisas automáticos (Sensor de lluvia): en todas
+- Depósito de líquido lavaparabrisas de gran capacidad (4.5L): en todas
+- Cuadro de instrumentos digital de 8 pulgadas: en todas
+- Pantalla única: en todas
+- Pantalla táctil central de 13.2 pulgadas: Comfort NO; Luxury SÍ
+- Conectividad Bluetooth: en todas
+- Radio AM/FM: en todas
+- Sin reproductor de CD: Comfort SÍ; Luxury NO
+- Soporte para formato DVD: en todas
+- Soporte para reproducción de MP3: en todas
+- Soporte para reproducción de MP5: en todas
+- Soporte para iPod: en todas
+- Idioma Inglés: en todas
+- Idioma Español: en todas
+- Caja telemática T-Box (Servicios conectados): en todas
+- Punto de acceso Wi-Fi integrado en el vehículo: en todas
+- Control por voz inteligente (Offline): en todas
+
+[página 13]
+
+## Especificaciones técnicas
+- Función de localización del vehículo: en todas
+- Proyección de smartphone compatible con Apple CarPlay: en todas
+- Compatible con Android Auto: en todas
+- Sistema de audio con 6 parlantes: Comfort SÍ; Luxury NO
+- Sistema de audio con 8 parlantes: Comfort NO; Luxury SÍ
+- 1 Puerto USB en la fila delantera: en todas
+- Puerto de carga rápida Tipo-C en la fila delantera: en todas
+- 1 Puerto USB en la segunda fila: en todas
+- Toma de corriente de 12V delantera: en todas
+- Toma de corriente de 12V en el baúl / maletero: Comfort NO; Luxury SÍ
+- Enchufe de 220V: en todas
+- Cargador inalámbrico para teléfono celular: Comfort NO; Luxury SÍ
+- Sistema de refrigeración líquida de la batería: en todas
+- Módulo de carga rápida/lenta con luces indicadoras: en todas
+- Sistema de recuperación de energía de frenado ajustable: en todas
+- Techo panorámico con cortina eléctrica: Comfort NO; Luxury SÍ
+- Toma de corriente para luz de acampada (Camping): Comfort NO; Luxury SÍ

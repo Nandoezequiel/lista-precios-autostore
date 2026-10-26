@@ -1,0 +1,917 @@
+
+--- p1 ---
+S05
+
+--- p2 ---
+FICHA
+TÉCNICA
+S05
+BEV
+REEV
+Parámetros
+Longitud total (mm)
+Ancho total (mm)
+Altura total (mm)
+Distancia entre ejes (mm)
+Tara / peso bruto del vehículo (kg)
+Peso en vacío (kg)
+Capacidad de asientos
+Estructura
+Autonomía (WLTC)
+4620
+1900
+1600
+2880
+2210
+1835
+5
+Compacto
+158 NEDC (km)
+4620
+1900
+1600
+2880
+2150
+1770
+5
+Compacto
+458 NEDC (km)
+Motor
+eléctrico
+Potencia máxima del motor (kW)
+Torque máximo / par total del motor (Nm)
+Número de motores de accionamiento
+Motor síncrono de imán permanente
+Potencia máxima del motor trasero (kW)
+Par máximo del motor trasero (Nm)
+Capacidad de la batería (kWh)
+Precalentamiento de la batería
+Función de central eléctrica móvil
+Potencia máxima carga lenta
+Tiempo de carga lento (horas)
+Función de carga rápida normal
+Tiempo de carga rápida normal (min)
+Capacidad de carga rápida normal (%)
+Puerto de carga manual
+Puerto de carga externa conector tipo II (estándar europeo)
+72
+125
+Motor único
+■
+160
+320
+27,28
+■
+■
+7 kW
+≤6 horas
+■
+20 minutos
+30% - 80%
+■
+■
+175
+320
+Motor único
+■
+175
+320
+56,12
+■
+■
+7 kW
+≤8 horas
+■
+15 minutos
+30% - 80%
+■
+■
+Freno de
+rueda
+Freno delantero de disco ventilado
+Freno trasero de disco sólido
+Freno de estacionamiento electrónico
+Ancho de neumático
+Perfil de neumático
+Ruedas de 20 pulgadas
+Neumáticos de lujo
+Ruedas de aleación de aluminio
+Cubierta de cubo de rueda encapsulada
+Herramientas para reparación de neumáticos
+Calibradores fijos ordinarios
+■
+■
+■
+245
+45
+■
+■
+■
+■
+■
+■
+■
+■
+■
+245
+45
+■
+■
+■
+■
+■
+■
+Dirección
+del chasis
+Modo de conducción: motor trasero, tracción trasera
+Suspensión delantera independiente McPherson
+Suspensión trasera independiente de múltiples enlaces
+Tipo de energía: asistencia electrónica de potencia
+Dirección electrica sensible
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+VERSIÓN
+Configuración
+Nivel
+Emisión
+3
+Euro V
+4
+Euro V
+
+--- p3 ---
+BEV
+VERSIÓN
+REEV
+Seguridad
+Airbag frontal del conductor
+Airbag lateral conductor
+Airbag frontal del pasajero
+Airbag lateral pasajero
+Airbags laterales de cortina integrados delanteros y traseros
+Indicador de presión de los neumáticos
+Cinturones de seguridad del conductor con ajuste
+Alarma de cinturón de seguridad no abrochado del conductor
+Cinturones de seguridad del pasajero ajustables
+Alarma de cinturón de seguridad no abrochado del pasajero
+Cinturón de seguridad segunda fila ordinario
+Alarma de cinturón de seguridad no abrochado de segunda fila
+Cinturones de seguridad en asientos izquierdo, central y derecho
+Interfaz de asiento de seguridad para niños ISOFIX
+Asa de seguridad para pasajeros
+Manija de seguridad de la segunda fila
+Sistema de frenos antibloqueo (ABS)
+Sistema de distribución electrónica de frenado (EBD)
+Sistema de estabilidad del vehículo (ESP / DSC / ESC)
+Control de tracción (TCS / ASR / TRS)
+Asistencia de frenado (EBA / BAS / BA)
+Función de frenado dinámico (DBF)
+Prevención de vuelcos (ROM)
+Sistema de control de asistencia para arranque en pendiente
+Sistema de control de descenso de pendientes
+Función antivuelco electrónica
+Aviso de radar de estacionamiento delantero
+Advertencia de radar de estacionamiento trasero
+Imagen panorámica de 540°
+Bloqueo automático al salir del coche
+Bloqueo automático del sensor de velocidad
+Desbloqueo automático de puertas tras una colisión
+Bloqueo de un toque para lado del pasajero (pantalla control central)
+Sonido de advertencia de conducción a baja velocidad
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Conducción
+inteligente
+Radar de ondas
+Radar ultrasónico
+Cámara de visión envolvente 
+Cámara HD 
+3
+6
+4
+1
+3
+6
+4
+1
+Control de
+conducción
+Modo de conducción estándar / confort
+Modo de conducción deportivo
+Modo de conducción ECO
+Modo de conducción personalizado
+Recuperación de energía
+Aparcamiento automático (AUTO HOLD)
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+ACC + IACC
+(mini)
+Advertencia de colisión frontal (FCW)
+Frenado automático de emergencia (AEB)
+Control de crucero adaptativo de velocidad máxima (ACC)
+Mini - funcionalidad completa
+Advertencia de colisión frontal para peatones (FCW-P)
+Advertencia de colisión frontal ciclista (FCW)
+Frenado automático de emergencia peatón (AEB-P)
+Frenado automático de emergencia ciclista
+Gestión de luces altas (HMA)
+Advertencia de cambio de carril (LDW)
+Recordatorio de distancia segura
+Advertencia de exceso de velocidad
+Asistente de mantenimiento de carril (LKA)
+Control de crucero adaptativo inteligente integrado (IACC)
+Centrado en el carril (LCC)
+Asistente para atascos (TJA)
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+S05
+
+--- p4 ---
+BEV
+VERSIÓN
+REEV
+Imagen panorámica de 360 (AVM)
+Imagen panorámica (2D/3D)
+Chasis transparente
+Vista panorámica activada por radar
+Asistencia de visión en rampa
+Grabadora de conducción con vista envolvente (DVR)
+Frenado automático de emergencia en intersecciones (AEB)
+Frenado automático de emergencia a baja velocidad (LAEB)
+Entrada y salida remotas con llave (RSIO)
+Advertencia de colisión trasera (RCW)
+Alerta de tráfico cruzado trasero (RCTA)
+Frenado de tráfico cruzado en reversa (RCTB)
+Mantenimiento de carril de emergencia (ELK)
+Detección de punto ciego (BSD)
+Asistente de cambio de carril (LCA)
+Advertencia de apertura de puerta (DOW)
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+ACC + IACC
+(mini)
+Puerta batiente
+Puertas sin marco
+Manija de puerta delantera electrónica triangular oculta
+Manija de puerta trasera electrónica triangular oculta
+Baúl trasero eléctrico
+Memoria troncal de baúl trasero
+Apertura del maletero para escapar
+Anti-pinzamiento del maletero
+Llave de control remoto
+Arranque sin llave por sensor
+Entrada sin llave por sensor
+Función de búsqueda de coche por control remoto
+Cierre centralizado con mando a distancia
+Control remoto de apertura y cierre de ventanas
+Apertura del maletero con mando a distancia
+Conducción del dispositivo de bloqueo automático de puertas
+Doble clic en puerta trasera para bloquear el coche
+BCM antirrobo
+Parrilla especial activa
+Gancho de remolque delantero
+Varilla hidráulica de soporte del capó 
+Cubierta de guarnición para cabina
+Placa de protección inferior de la cabina
+Tubo de escape (salida única de un solo lado)
+■
+■
+■
+■
+■
+■
+■
+■
+2
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+2
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Apariencia
+/ antirrobo
+Faros LED integrados con luces altas y bajas
+Faros no pasantes
+Faros delanteros divididos
+Faros automáticos
+Ajuste manual de la altura de los faros
+Apagado retardado de los faros
+Asistente de luces altas adaptativas
+luz trasera LED
+Luces traseras de tipo pasante
+luz antiniebla trasera LED
+Luces de circulación diurna
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Volante de cuero sintético
+Ajuste del volante (4 posiciones)
+Dispositivo electrónico de mano
+Espejo retrovisor interior antideslumbrante automático
+Panel de instrumentos de plástico
+Gancho de red para fijación de equipaje (punto de anclaje)
+Pedal 
+Organizador de carga blanda extensible
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Iluminación
+exterior
+Interior
+S05
+
+--- p5 ---
+S05
+BEV
+VERSIÓN
+REEV
+Claraboya panorámica integrada (no se puede abrir)
+Tragaluz verde y gris
+Parasol eléctrico
+Elevación y bajada de ventanillas con un solo toque + antipinzamiento
+Función automática de descongelación y desempañado de ventanas
+Apagado automático en caso de lluvia
+Espejo de cortesía del conductor
+Luz del espejo de cortesía del conductor
+Espejo de cortesía del pasajero
+Luz del espejo de cortesía del pasajero
+Parasol común
+Limpiaparabrisas sin marco
+Limpiaparabrisas con sensor de lluvia
+Espejos exteriores calefactados
+Ajuste eléctrico de los retrovisores exteriores
+Retrovisores exteriores plegables eléctricamente
+Plegado automático de espejos retrovisores externos al bloquear
+Espejo retrovisor exterior se baja al dar marcha atrás
+Retrovisores exteriores con función de memoria
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Techo,
+vidrios y
+espejos
+Tamaño del instrumento
+Resolución de la pantalla del instrumento
+Instrumento LCD
+Tamaño del HUD
+Pantalla de visualización frontal con proyección AR-HUD
+Pantalla de control central
+Resolución de la pantalla de control central
+Pantalla giratoria electrónica
+Función Bluetooth
+Interconexión de dispositivos inteligentes
+Control de voz básico
+Sistema de interacción de voz inteligente
+Diálogo continuo de varias rondas
+Zona de cuatro tonos
+Altavoces externos
+Número de altavoces externos
+Sistema de monitoreo de fatiga del conductor (DMS)
+Reconocimiento facial
+Control de coche en 3D
+WIFI en el coche
+Voz en línea a tiempo completo
+Música en línea
+Servicio backend manual con un solo clic
+Tienda de aplicaciones
+Actualización OTA
+Monitoreo antirrobo, rastreo, prohibición de arranque del motor
+Búsqueda inteligente de pilas
+Conexión a Internet (4G)
+Actualización remota OTA
+Llamo (consulta de navegación en zonas desconocidas)
+Registro de conducción del usuario
+Vídeo en línea
+Navegación en línea
+Control remoto de puertas
+Control remoto de ventanas
+Control remoto de asientos
+Control remoto del aire acondicionado
+Arranque del vehículo por control remoto
+Consulta / diagnóstico del estado del vehículo por control remoto
+Gestión de carga por control remoto
+Encuentra un coche por control remoto
+Por determinar
+Por determinar
+■
+50 pulgadas
+■
+15,4 pulgadas
+2.5k
+■
+■
+■
+■
+■
+■
+■
+■
+2
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Por determinar
+Por determinar
+■
+50 pulgadas
+■
+15,4 pulgadas
+2.5k
+■
+■
+■
+■
+■
+■
+■
+■
+2
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Cabina
+inteligente
+
+--- p6 ---
+S05
+BEV
+VERSIÓN
+REEV
+Número de puertos USB
+Cantidad de puertos tipo C
+Potencia de carga por cable del teléfono móvil (W)
+Número de carga inalámbrica de teléfonos móviles
+Potencia de carga inalámbrica del teléfono móvil (W)
+Fuente de alimentación de 12 V
+1 delantero, 1 trasero
+0 antes y 1 después
+18 semanas
+1 antes y 0 después
+50 W
+■
+1 delantero, 1 trasero
+0 antes y 1 después
+18 semanas
+1 antes y 0 después
+50 W
+■
+Carga en
+el coche
+Asientos ordinarios
+Asientos divididos
+Cuero sintético
+Asiento eléctrico con ajuste de 6 posiciones
+Soporte lumbar eléctrico de 2 vías
+Ajuste manual del reposacabezas del conductor
+Función de calefacción del asiento del conductor (cojín + respaldo)
+Función de ventilación del asiento del conductor (cojín + respaldo)
+Cortesía del asiento del conductor
+Memoria del asiento del conductor
+Bolsa de almacenamiento para asiento del conductor
+Asiento eléctrico del conductor con ajuste de 4 posiciones
+Ajuste eléctrico del reposapiernas (ángulo) en asiento del conductor
+Ajuste manual del reposacabezas en asiento del conductor
+Soporte para las piernas del asiento del pasajero
+Función de calefacción del asiento del pasajero (cojín + respaldo)
+Función de ventilación del asiento del pasajero (cojín + respaldo)
+Cortesía del asiento del pasajero 
+Memoria del asiento del pasajero
+Bolsa de almacenamiento para asiento del pasajero
+Ajuste manual del reposacabezas del pasajero
+Asientos de la segunda fila 4-6 plegables
+Apoyabrazos central delantero
+Portavasos delantero normal
+Reposacabezas de la segunda fila con reposabrazos central integrado
+Apoyabrazos independiente del asiento de la segunda fila
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Asientos
+Altavoces de marca común
+Parlantes
+Subwoofer/amplificador
+Iluminación ambiental multicolor
+Luces de lectura delanteras
+Luces de lectura traseras
+Luz del maletero
+■
+8
+-
+-
+■
+■
+■
+■
+14
+■
+■
+■
+■
+■
+Audio /
+iluminación
+interior
+
+--- p7 ---
+Nota: Las especiﬁcaciones aplican para Deepal S05 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de laboratorio, que pueden no 
+reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa Rosa Automotores S.A. se reserva el derecho de 
+efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas y certiﬁcadas por Santa Rosa Automotores S.A para este modelo, 
+conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar 
+sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los 
+tapizados – en caso que se aplique – están fabricados en cuero automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores 
+reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa 
+autorización escrita de Santa Rosa Automotores Uruguay S.A.
+Deepal Uruguay
+S05
+BEV
+VERSIÓN
+REEV
+Aire acondicionado con control de temperatura PTC
+Control automático del aire acondicionado
+Aire acondicionado de zona única
+Salidas de aire acondicionado de la segunda fila
+Ventilación manual del aire acondicionado
+Filtro de aire acondicionado PM2.5
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Temperatura
+Color interior: estrella negra brillante gris roca / naranja
+Idioma y visualización de pantalla del sistema en el extranjero
+Timón izquierdo
+Función de zona horaria completa
+Radio FM/AM
+Radio digital DAB
+Interacción de voz + idioma de navegación
+Apple CarPlay + Android Auto
+Función de estacionamiento en marcha N
+Interfaz de carga estándar europea a estándar estadounidense con
+instalación trasera (carga rápida + lenta + estación de energía móvil)
+■
+Inglés y español
+■
+■
+■
+■
+Inglés y español
+■
+■
+■
+■
+Inglés y español
+■
+■
+■
+■
+Inglés y español
+■
+■
+■
+Otros

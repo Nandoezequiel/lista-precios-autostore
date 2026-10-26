@@ -1,0 +1,112 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Mitsubishi Eclipse Cross: 4x2 y 4x4 con S-AWC (1.5 Turbo MIVEC, 1499 cc, CVT).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 2]
+
+
+## ECLIPSE CROSS
+
+  (MOTOR)
+
+  (Tipo 1.5 Turbo MIVEC)
+
+  (Cilindrada (CC) 1499)
+
+  (Transmisión CVT ( modo manual 8 marchas))
+
+  (Tracción 4X2 4X4 con S-AWC)
+
+  (Neumáticos y llantas 225/55R18)
+
+  (Llantas de aleación 18'')
+
+  (FRENOS)
+
+  (Tipo Disco / Disco)
+
+- Freno de estacionamiento eléctrico (EPB) con Autohold: en todas
+
+- ABS + EBD: en todas
+
+  (EXTERIOR)
+
+- Luces de marcha diurna LED (DRL): en todas
+
+- Control automático de luces altas (AHB): en todas
+
+- Rieles de techo: en todas
+
+- Lavafaros: en todas
+
+- Faros automáticos (encendido/apagado): en todas
+
+  (INTERIOR)
+
+- Asientos rebatibles 60/40: en todas
+
+- Asientos delanteros calefaccionados: en todas
+
+- Alzacristales eléctricos 4: en todas
+
+- Keyless con botón de encendido: en todas
+
+- Bloqueo central con comando a distancia: en todas
+
+  (Central multimedia con Smartphone Link,)
+
+- Apple CarPlay + Android Auto, pantalla táctil de 8”,: en todas
+
+  (radio AM/FM, 2 entradas USB y 8 parlantes (4 Tweeter))
+
+- Control crucero: en todas
+
+- Volante multifunción en cuero: en todas
+
+- Levas al volante: en todas
+
+- Climatizador automático bi-zona: en todas
+
+- Techo solar panorámico eléctrico: en todas
+
+- Control de manos libres y por voz: en todas
+
+
+
+## ECLIPSE CROSS
+
+  (SEGURIDAD)
+
+- Airbags 7: en todas
+
+- Alarma antirobo: en todas
+
+- Cámara de retroceso: en todas
+
+- Sensores de estacionamiento delanteros y traseros: en todas
+
+- Control de estabilidad: en todas
+
+- Control de tracción: en todas
+
+- Asistente de frenado autónomo: en todas
+
+- Asistente de arranque en pendiente: en todas
+
+- Sistema de mitigación de aceleración incorrecta (UMS): en todas
+
+- Asistencia de cambio de carril (LCA): en todas
+
+- Advertencia de punto ciego (BSW): en todas
+
+- : en todas
+
+- Anclajes ISOFIX: en todas
+
+- Inmobilizador: en todas
+
+- : 4x2 NO; 4x4 SÍ
+
+- : 4x2 NO; 4x4 SÍ
+
+OTRAS PÁGINAS DE LA FICHA (texto):

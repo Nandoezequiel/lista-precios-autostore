@@ -1,0 +1,126 @@
+# paginas: 3,4,5
+VERSIONES del Jaecoo 6 EV: «Luxury 4x2» y «Flagship 4x4». Cuando una fila dice «en todas» las trae ambas; si el valor difiere, el texto de la fila trae primero el de Luxury y después el de Flagship.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 3]
+
+## VERSIÓN
+
+## Tracción
+  (Suspensión delantera McPherson McPherson)
+  (Chasis Suspensión trasera Multi-link Multi-link)
+  (Tipo de asistencia de dirección Eléctrica Eléctrica)
+  (Tipo de carrocería Autoportante Autoportante)
+- Frenos a disco x4 Neumáticos Neumáticos delanteros 245/55 R19 245/55 R19: en todas
+- y frenos Neumáticos traseros 245/55 R19 245/55 R19 Kit de reparación de neumáticos: en todas
+- 6 airbags (frontales, laterales y de cortina) TPMS Indicación en pantalla Indicación en pantalla: en todas
+- Cinturones delanteros con precarga y limitador de fuerza: en todas
+- Cinturones traseros con limitador de fuerza: en todas
+- Aviso de cinturón no abrochado en plazas delanteras: en todas
+- Bloqueo automático de puertas en rodaje: en todas
+- ISOFIX: en todas
+- ABS Frenos antibloqueo: en todas
+- EBD Distribución de fuerza de frenado: en todas
+- EBA Asistente de frenado de urgencia: en todas
+- TCS Control de tracción Seguridad: en todas
+- ESC Control de estabilidad: en todas
+- activa y pasiva CST Frenado confortable: en todas
+- CRBS Frenado regenerativo coordinado: en todas
+- LDW Alerta de cambio de carril: en todas
+- FCW Alerta de colisión frontal: en todas
+- RCW Alerta de colisión trasera: en todas
+- LDP Asistente de salida de carril: en todas
+- DOW Advertencia de apertura de puerta: en todas
+- BSD Alerta de punto ciego: en todas
+- RCTA Alerta de tráfico trasero cruzado: en todas
+- AEB Frenado autónomo de emergencia: en todas
+- ELK Asistente de mantenimiento de carril de emergencia: en todas
+- TJA Asistente de atascos de tránsito: en todas
+- DAI Alerta de vehículo precedente: en todas
+- Alerta pasiva de fatiga para conductor: en todas
+- Sensores de estacionamiendo delanteros con activación automática a baja velocidad: en todas
+- Sensores de estacionamiento traseros: en todas
+- Cámara 360°: en todas
+- Cámara de punto ciego: en todas
+- ACC control crucero adaptativo Modos de manejo Sports, Sports, economy,: en todas
+  (Conducción economy, standard, mud ground,)
+- standard snow, sandy land y ADAS Modos de manejo con memoria de selección Selector de modos de manejo Desde la pantalla central Selector de cristal iluminado: en todas
+- Regeneración: en todas
+- EPB freno de mano eléctrico: en todas
+- AutoHold: en todas
+- Ayuda de arranque en pendiente: en todas
+- Luces de frenado de urgencia: en todas
+- HDC Ayuda de descenso en pendiente: en todas
+- Llantas de aluminio: en todas
+- Manijas de puerta ocultas: en todas
+- Portaequipajes: en todas
+- Cierre centralizado Exterior: en todas
+- Aviso de olvido de telefono en cargador inalambrico: en todas
+- Alarma anti robo: en todas
+- Acceso Keyless y arranque por botón Llaves incluidas 2 llaves inalámbricas, 2 llaves inalámbricas,: en todas
+  (1 NFC y 1 mecánica 1 NFC y 1 mecánica)
+- : Luxury 4x2 NO; Flagship 4x4 SÍ
+
+[página 4]
+
+## VERSIÓN
+- Apertura eléctrica de puertas: en todas
+- Guantera con apertura y cierre eléctrico: en todas
+- Volante multifunción forrado en eco cuero ajustable en 4 posiciones: en todas
+- Selector de marchas electrónico: en todas
+- Interior Volante calefaccionado: no la trae ninguna
+- Plancha de abordo de material blando: en todas
+- Cargador por inducción para smartphones 50W: en todas
+- Cobertor de baúl: en todas
+- Puntos de fijación y bolsillo en el baúl: en todas
+  (Pantalla multimedia tamaño 15.6" 15.6")
+- Tablero de instrumentos LCD tamaño 9.2" 9.2" Dashcam Modo de bienvenida Luz ambiental Luz ambiental: en todas
+  (Conexión con smarthphones Car Play & Android auto Car Play & Android auto)
+  (Multimedia)
+- Puertos de datos / carga 2USB + 2USB-C 2USB + 2USB-C Toma 12 V en el baúl: en todas
+- V2L (Vehicle to load): en todas
+
+## Cantidad de altavoces
+- Altavoz exterior Marca de altavoces Pioneer Infinity: en todas
+- DRL, Luces bajas, altas, posición, traseras, giros, balizas y de niebla LED LED Luz alta automática: en todas
+- Sensor crepuescular: en todas
+- Ajuste eléctrico de altura de luces Iluminación: en todas
+- Follow me home: en todas
+- Luz de lectura en plazas delanteras y traseras Luz interior ambiental Multicolor ajustable Multicolor ajustable: en todas
+- Luz de charco: en todas
+- Reposapies iluminados: en todas
+- : Luxury 4x2 NO; Flagship 4x4 SÍ
+
+[página 5]
+
+## VERSIÓN
+- Ventanas eléctricas con one touch, antipinzamiento y cierre automático con el bloqueo de puertas x4: en todas
+- Parabrisas con deshielador: no la trae ninguna
+- Vidrios frontales con tratamiento acústico: en todas
+- Desempañador trasero: en todas
+- Vidrios y Techo de vidrio panorámico con cortina eléctrica: en todas
+- Espejos exteriores con ajuste y plegado automático Espejos eléctrico en bloqueo, desempañador, tilt down y memoria: en todas
+- Espejo retrovisor interior Manual Automático Parasol con espejo y luz de cortesía Limpiaparabrisas delantero Automático con Automático con: en todas
+- sensor de lluvia sensor de lluvia Limpia luneta: en todas
+- Climatizador automático bizona: en todas
+- Activación del A/C con el arranque remoto: en todas
+- Climatización Salida de aire plazas traseras: en todas
+- Indicador de temperatura exterior: en todas
+- Filtro PM2.5: en todas
+- Cargador de emergencia: en todas
+- Guantera central calefaccionada y refrigerada: en todas
+- Asistente de voz: en todas
+- RDS+AM: en todas
+- Adicionales Portón eléctrico: en todas
+- Protector de batería: en todas
+- Herramientas*: en todas
+  (*Líquido para reparación de neumáticos, triángulo de advertencia, chaleco reflectante, gancho de remolque, cargador de emergencia.)
+  (omoda.com.uy omodajaecoo.uy Omoda Uruguay)
+  (Nota: Las especiﬁcaciones aplican para JAECOO 6 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de laboratorio, que pueden no)
+  (reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa Rosa Automotores S.A. se reserva el derecho de)
+  (efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas y certiﬁcadas por Santa Rosa Automotores S.A para este modelo,)
+  (conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar)
+  (sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los)
+  (tapizados en caso que se aplique están fabricados en cuero automotriz o eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores)
+  (reales de la pintura, así como también la textura de los materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa)
+  (autorización escrita de Santa Rosa Automotores Uruguay S.A.)

@@ -1,0 +1,665 @@
+
+--- p1 ---
+1050 km
+Autonomía
+NEDC
+Distancia entre
+ejes
+Funciones inteligentes
+de conducción asistida
+2825 mm
+10
+228 hp
+Potencia total 
+de motor
+SUV C16 REEV - Rango Extendido
+
+--- p2 ---
+
+--- p3 ---
+ 
+ 
+AC (30%-80%)
+ 
+ 
+CC (30%-80%) 
+ 
+ 
+Puerto de CA
+ 
+ 
+Puerto DC
+ 
+ 
+Bloqueo enchufe eléctrico de CA
+ 
+ 
+Bloqueo de la tapa de carga
+Potencia de salida del inversor (V2L)
+3 horas (6,6 kW)
+30 minutos (35 kW)
+■
+■
+■
+■
+■
+Sistema motor
+Potencia total del motor (kW) 
+Par motor total (N.m) 
+228
+Cilindrada
+1,5 litros
+320
+Sistema de Chasis
+Tracción
+Modo de conducción
+Tipo de suspensión delantera
+Tipo de suspensión trasera
+Asistencia de dirección
+Asistencia de frenado
+Método de cambio de marchas
+Frenos delanteros
+Frenos traseros
+ 
+ 
+Electronic Parking
+ 
+ 
+Auto Hold
+ 
+ 
+Delantero: 245/45 R21
+ 
+ 
+Trasero: 255/45 R21
+ 
+ 
+Marca de neumáticos
+Trasera
+BEV+Tracción trasera
+Suspensión independiente McPherson
+Suspensión independiente multibrazo
+Eléctrica
+Eléctrica
+Tapón de bolsillo electrónico
+Discos
+Discos
+■
+■
+■
+■
+Tipo de
+estacionado
+Neumáticos
+Cargando
+Puerto
+de carga
+Leapmotor C16 REEV Conﬁguración y especiﬁcaciones
+Parámetros básicos
+Largo × Ancho × Alto (mm)
+Distancia entre ejes (mm)
+Vía delantera (mm)
+Vía trasera (mm)
+Distancia al suelo (mm) 
+Peso en vacío (kg)
+Peso bruto del vehículo (kg)
+Cantidad de puertas
+Cantidad de asientos
+Volumen maletero (L)
+Volumen maletero con asientos traseros plegables (L)
+4915 × 1905 × 1770
+2825
+1625
+1625
+≥205
+2095
+2545
+5
+6
+182
+652
+Sistema de batería
+Autonomía eléctrica NEDC (km) 
+Autonomía total NEDC (km)
+Capacidad de la batería (kWh) 
+Densidad de energía (wh/kg) 
+Voltaje (V) 
+Alcance de voltaje (V) 
+Refrigeración de la batería
+Grado de protección
+193
+1.050
+28,4
+115,2
+657,3 V
+255-372,3
+Refrigeración líquida
+IP67
+Conducción y manejo
+ESC (Control Electrónico de Estabilidad) 
+ABS (Sistema de Frenos Antibloqueo)
+EBD (Distribución Electrónica de Frenado)
+HBA (Asistencia de Frenado de Emergencia)
+TCS (Sistema de Control de Tracción)
+HDC (Control de Descenso en Pendientes)
+DBF (Distribución Dinámica de Fuerza de Frenado)
+HHC (Control de Arranque en Pendiente)
+Modo de dirección
+Modo de conducción
+■
+■
+■
+■
+■
+■
+■
+■
+3
+4
+ 
+ 
+Conductor
+ 
+ 
+Pasajero
+ 
+ 
+Laterales Frontales
+ 
+ 
+Laterales Cortina
+ 
+ 
+Dobles pretensados con limitación de fuerza en
+ 
+ 
+la parte delantera
+ 
+ 
+Pretensados con limitador de fuerza en 2da. ﬁla
+ 
+ 
+Bloqueo de emergencia de 3 puntos en 3ra. ﬁla
+ 
+ 
+Recordatorio cinturón conductor desabrochado
+ 
+ 
+Recordatorio cinturón pasajero desabrochado
+ 
+ 
+Recordatorio cinturón 2da. ﬁla desabrochado
+ 
+ 
+Recordatorio cinturón 3ra. ﬁla desabrochado
+ 
+ 
+2da. ﬁla ×3
+ 
+ 
+3ra. ﬁla ×2
+Monitoreo de presión de neumáticos TPMS (tipo directo) 
+Sistema de alarma antirrobo 
+Sonidos de advertencia para peatones a baja velocidad 
+Bloqueo automático mientras se conduce 
+Desbloqueo automático en caso de colisión 
+Recordatorio de puerta mal cerrada 
+Cierre centralizado del vehículo 
+Bloqueo manual de seguridad trasero para niños 
+Interruptor de advertencia de peligro 
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+Airbags
+Cinturones
+de seguridad
+ISO FIX
+Seguridad
+
+--- p4 ---
+Exterior
+Iluminación
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+1
+1
+■
+■
+■
+■
+■
+■
+■
+■
+ 
+ 
+Faros LED integrados con luces altas y bajas
+ 
+ 
+Luces de cruce delanteras
+ 
+ 
+Encendido automático de faros delanteros
+ 
+ 
+Faro regulable eléctricamente
+ 
+ 
+El faro se apagó durante un tiempo prolongado
+ 
+ 
+Cambio automático entre luces altas y bajas
+ 
+ 
+Luz trasera LED (con idioma de luces)
+ 
+ 
+Luces de freno LED de montaje alto
+ 
+ 
+Luz de cruce trasera (se puede encender)
+ 
+ 
+Luces de freno LED
+ 
+ 
+Luz antiniebla trasera LED (izquierda)
+ 
+ 
+Lámpara de marcha atrás LED (derecha)
+ 
+ 
+Reﬂector trasero
+ 
+ 
+Ajustable electrónicamente
+ 
+ 
+Voltea hacia arriba mientras se da marcha atrás
+ 
+ 
+Memoria
+ 
+ 
+Parasol dividido (delantero manual + trasero
+ 
+ 
+eléctrico)
+ 
+ 
+Elevalunas eléctricos en todo el vehículo
+ 
+ 
+Elevar con llave de 4 puertas con antipinzamiento
+ 
+ 
+Doble cristal insonorizado en el parabrisas
+ 
+ 
+1ra. ﬁla de ventanas con doble acristalamiento
+ 
+ 
+con vidrio acústico
+ 
+ 
+2da. ﬁla de ventanas con doble vidrio
+ 
+ 
+insonorizado y de privacidad
+ 
+ 
+Vidrio de privacidad en ventana de 3ra. ﬁla
+ 
+ 
+Vidrio de privacidad de parabrisas trasero
+ 
+ 
+Calefacción de parabrisas trasero
+ 
+ 
+Llave Bluetooth para teléfonos móviles
+ 
+ 
+Clave de tarjeta NFC
+ 
+ 
+Teclas mecánicas
+Antena de aleta de tiburón 
+Portaequipajes 
+Molduras de ventanas laterales 
+Manijas de puerta ocultas mecánicamente 
+Manijas de puerta del color de la carrocería 
+Gancho de remolque delantero 
+Identiﬁcación de la cola 
+Alerón trasero 
+Retrovisores
+Techo
+panorámico
+Ventanas y
+Vidrios
+Acceso
+Interior
+Volante
+Aire
+Acondic.
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+ 
+ 
+En cuero sintético
+ 
+ 
+Ajustable manualmente hacia arriba y abajo
+ 
+ 
+Ajustable manualmente hacia adelante y atrás
+ 
+ 
+Multifuncional
+ 
+ 
+Calefaccionado
+ 
+ 
+Control de climatización automático
+ 
+ 
+Control de temperatura de tres zonas
+ 
+ 
+Aire individual en la parte trasera
+ 
+ 
+Panel de control trasero de apoyabrazos central
+ 
+ 
+Salidas ocultas eléctricamente
+ 
+ 
+Salidas en la 2da. ﬁla
+ 
+ 
+Tres ﬁlas de salidas
+ 
+ 
+Asiento del conductor ajustable eléctricamente
+ 
+ 
+en 6 direcciones
+ 
+ 
+Memoria de asiento del conductor, función de
+ 
+ 
+bienvenida
+ 
+ 
+Asiento de pasajero ajustable eléctricamente de
+ 
+ 
+4 maneras
+ 
+ 
+Memoria del asiento del pasajero
+ 
+ 
+Asientos delanteros con calefacción
+ 
+ 
+Ventilación de asientos delanteros
+ 
+ 
+Mesa pequeña para asiento de pasajero
+ 
+ 
+Asientos individuales en 2da. ﬁla y con
+ 
+ 
+apoyabrazos giratorios
+ 
+ 
+Asientos de 2da. ﬁla ajustables eléctricamente de
+ 
+ 
+4 maneras
+ 
+ 
+Asientos de 2da. ﬁla en modo de 2da./3ra. ﬁla
+ 
+ 
+Ventilación en asientos de la 2da. ﬁla
+ 
+ 
+Calefacción en asientos de la 2da. ﬁla
+ 
+ 
+Asientos de 3ra. ﬁla plegables y divididos 5/5
+ 
+ 
+Respaldos de 3ra. ﬁla ajustables manualmente
+ 
+ 
+Luces de lectura en 1ra. y 2da. ﬁla
+ 
+ 
+Tres ﬁlas de luces de lectura
+ 
+ 
+Iluminación ambiental en el coche (ritmo musical)
+ 
+ 
+Luces del maletero
+Asientos
+Iluminación
+
+--- p5 ---
+Sistema operativo Leap
+Instrumento LCD completo de 10,25’’ (1920×720)
+Pantalla central HD integrada de 14,6’’ (2560×1440)
+Pantalla de dentretenimiento trasera de 15,6’’ (1920×1080)
+ 
+ 
+Puerto de carga frontal
+ 
+ 
+Puerto de carga en 2da. ﬁla
+ 
+ 
+Puerto de carga en 3ra. ﬁla
+ 
+ 
+Conector de alimentación de 12V
+Carga inalámbrica para teléfonos móviles en 1ra. ﬁla
+Altavoz ×2 (Dolby Audio) 
+Procesador de señal digital ×1 
+DSP ×1 (complemento) 
+■
+■
+■
+2
+2
+2
+1
+■
+■
+■
+■
+Interfaz del
+dispositivo
+Leap Pilot
+Hardware
+1
+■ (200W)
+4 (300W)
+4
+4
+4
+1
+2
+1
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+■
+ 
+ 
+Chip Qualcomm Snapdragon 8295
+ 
+ 
+Cámara Binocular con visión hacia adelante
+ 
+ 
+Cámara con visión Envolvente (ojo de pez)
+ 
+ 
+Radar Frontal
+ 
+ 
+Radar de Retroceso
+ 
+ 
+Radar Lateral
+ 
+ 
+Radar de Ondas Milimétricas Frontal
+ 
+ 
+Radar de Ondas Milimétricas Lateral Trasero
+ 
+ 
+Cámaras DMS (Driver Monitoring System)
+ 
+ 
+Cámara de marcha atrás con línea guía dinámica
+ 
+ 
+Imágenes panorámicas de 360º
+ 
+ 
+ACC (Control de crucero adaptativo)
+ 
+ 
+LCC (Control de Cambio de Carril)
+ 
+ 
+LKA (Asistente de mantenimiento del carril)
+ 
+ 
+Recordatorio de Inicio del vehículo adelante
+ 
+ 
+FCW (Advertencia de Colisión frontal)
+ 
+ 
+AEB (Frenado Automático de Emergencia)
+ 
+ 
+Detección de Puntos Ciegos
+ 
+ 
+DOW (Advertencia de puerta abierta)
+ 
+ 
+LDW (Advertencia de cambio de carril)
+ 
+ 
+RCW (Advertencia de colisión trasera)
+ 
+ 
+Advertencia de vehículo que se aproxima
+ 
+ 
+lateralmente desde la parte trasera de la RCTA
+ 
+ 
+Monitoreo de fatiga del conductor mediante DMS
+Función
+
+--- p6 ---
+NOTAS: El fabricante se reserva el derecho a modiﬁcar sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y fotografías del presente, son solo a título ilustrativo y carecen de 
+carácter vinculante para el fabricante. Consulte en la red de concesionarios oﬁciales sobre las características y especiﬁcaciones técnicas de los vehículos que se comercializan en la República Oriental del Uruguay, las cuales 
+pueden variar respecto a las aquí indicadas. Reservados todos los derechos. La reproducción del presente, bajo cualquier forma medio, está prohibida sin la previa autorización escrita de Santa Rosa Uruguay S.A.
+RESPALDA
+leapmotor.uy

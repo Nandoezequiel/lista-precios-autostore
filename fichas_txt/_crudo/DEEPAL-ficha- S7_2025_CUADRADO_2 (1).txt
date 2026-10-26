@@ -1,0 +1,529 @@
+
+--- p1 ---
+P R E M I U M S U V C O N M Á X I M O E Q U I P A M I E N T O E N V E R S I O N E S E V Y R E E V
+S 7
+
+--- p2 ---
+TOUCH THE FUTURE
+DEEPAL S7 representa una emocionante evolución en la industria 
+automotriz, fusionando lo mejor de los dos mundos: la eficiencia 
+eléctrica y la autonomía extendida.
+620 (CLCT) Km de Autonomía en su versión EV 100% eléctrica 
+y 1120 Km (CLCT) de Autonomía combinada.
+
+--- p3 ---
+TECNOLOGIA
+REEV
+Vehículo Eléctrico de Rango Extendido
+Deepal S7 ofrece propulsión 100% eléctrica sin limitaciones de carga para la 
+batería. La versión con  tecnología REEV (Range-Extended Electric Vehicle),  
+combina lo mejor del mundo eléctrico con la tranquilidad de un alcance 
+extendido que rompe las barreras de la autonomía. Esto permite acceder a un 
+vehículo eléctrico de lujo sin limitaciones. S7 REEV cuenta con una batería de 
+21.7 KW que ofrece una autonomía 100% eléctrica de 200 kilómetros y de hasta 
+1.120 kilómetros (CLCT) en modalidad combinada.
+
+--- p4 ---
+DIMENSIONES
+4.750
+Longitud (mm)
+1.930
+Ancho (mm)
+1.625
+Altura (mm)
+2.900
+Distancia entre ejes (mm)
+1.990
+Peso vacío (kg)
+
+--- p5 ---
+SUSPENSION
+T R A S E R A I N D E P E N D I E N T E M U L T I L I N K
+Llantas 
+de Aleación 
+de 20"
+
+--- p6 ---
+S I S T E M A
+HEAD UP
+*
+* Tecnología que proyecta información relevante sobre el vehículo en el parabrisas o en un panel debajo de la línea de 
+visión del conductor. Esto permite que el conductor pueda ver la información sin apartar la vista de la carretera.
+
+--- p7 ---
+SISTEMA DE FRENADO
+A U T O N O M O D E E M E R G E N C I A
+Y FRENADO AUTONOMO
+CON RECONOCIMIENTO DE PEATONES
+*Depende de varios factores como tipo de conducción, velocidad de manejo, condiciones del terreno, topografìa, clima, etc.
+
+--- p8 ---
+ALERTA DE
+TRAFICO CRUZADO TRASERO
+FRENO DE
+TRAFICO CRUZADO TRASERO
+*Depende de varios factores como tipo de conducción, velocidad de manejo, condiciones del terreno, topografìa, clima, etc.
+
+--- p9 ---
+ALERTA DE
+COLISION FRONTAL
+Y
+ 
+T
+R
+A
+S
+E
+R
+A
+*Depende de varios factores como tipo de conducción, velocidad de manejo, condiciones del terreno, topografìa, clima, etc.
+
+--- p10 ---
+ADVERTENCIA DE
+ABANDONO DE CARRIL
+S I S T E M A A V A N Z A D O D E
+MANTENIMIENTO DE CARRIL
+*Depende de varios factores como tipo de conducción, velocidad de manejo, condiciones del terreno, topografìa, clima, etc.
+
+--- p11 ---
+6 Airbags
+Visión 360°: 5 camaras y radares
+
+--- p12 ---
+DISEÑO INTERIOR
+
+--- p13 ---
+
+--- p14 ---
+DISEÑO EXTERIOR
+
+--- p15 ---
+
+--- p16 ---
+COLORES
+Gris grafito
+Verde oceano
+Negro obsidiana
+Verde citrius
+Naranja solar
+Blanco polar
+
+--- p17 ---
+Garantía de Batería
+8 años o 150.000km
+5 años o 150.000km
+Garantía de Vehículo
+
+--- p18 ---
+CARGADOR
+TIPO 2
+
+--- p19 ---
+FICHA
+TÉCNICA
+S7
+VERSIÓN
+Dimensiones
+Largo (mm) 
+Ancho (mm) 
+Altura (mm) 
+Distancia entre ejes (mm) 
+Ancho de vía delantero (mm) 
+Ancho de vía trasero (mm) 
+Altura libre al suelo (mm) 
+4750
+1930
+1625
+2900
+1640
+1650
+1640
+Unidad de
+potencia
+Capacidad de la Batería
+Max Potencia
+Max Torque
+Carga Externa
+Generador de Energía
+Autonomía (CLCT)
+37.7 KW
+235  HP
+236 Nm
+Conector Tipo II
+(Estándar Europeo)
+1.5 L
+1120 (Combinado)
+67 KW
+255  HP
+320 Nm
+Conector Tipo II
+(Estándar Europeo)
+-
+620
+BEV
+REEV
+Dirección asistida con inducción de velocidad
+Modo de dirección asistida ajustable 
+Suspensión independiente MacPherson 
+Suspensión independiente multibrazo 
+Tracción trasera 
+Columna de dirección absorbente de energía en colisiones 
+Llantas de aluminio 
+Rodado R20 
+Frenos delanteros disco ventilado
+Frenos traseros disco sólido
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Seguridad
+y confort
+
+--- p20 ---
+VERSIÓN
+ADAS
+Advertencia de colisión frontal (FCW)
+Freno de emergencia automático 
+Advertencia de salida de carril (LDW) 
+Freno emergencia automático reconocimiento peatones (AEB-P)
+Asistencia de mantenimiento de carril en emergencias (ELK) 
+Asistencia para mantener el carril (LKA) 
+Alerta de cambio de carril (LCDA) 
+Advertencia de colisión trasera lateral (RCTA) 
+Advertencia de colisión trasera (RCW) 
+Advertencia de apertura de puertas (SEW) 
+Detección de punto ciego (BSD) 
+Freno de emergencia lateral en reversa (RCTB) 
+Control de crucero adaptativo (ACC) 
+Control de centrado en el carril (LCC) 
+Asistencia en atascos de tráfico (TJA) 
+Control de desviación lateral (LDC) 
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+Seguridad
+y confort
+ABS + EBD 
+ESP 
+TCS 
+Asistencia de frenado (BA) 
+Control de asistencia en pendientes (HHC) 
+Control de descenso en pendientes (HDC) 
+Autohold 
+Desbloqueo automático en caso de colisión de la puerta 
+Bloqueo automático por inducción de velocidad 
+Freno de estacionamiento eléctrico 
+Airbag para el conductor 
+Airbag para el pasajero delantero 
+Airbag lateral para la fila delantera 
+Cortina seguridad de gas integrada en filas delantera y trasera 
+Cierre infantil electrónico 
+Cinturón 3 puntos limitación de fuerza y pretensado (frontal) 
+Cinturón 3 puntos limitación de fuerza y pretensado (trasero) 
+Arranque sin llave 
+Acceso sin llave 
+Anti-robo BCM (Módulo de Control de Carrocería) 
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+BEV
+REEV
+
+--- p21 ---
+Interior
+Tomacorriente 12V fila delantera
+Tomacorriente 12V fila trasera
+Manija interior eléctrica de la puerta 
+Asientos en cuero de microfibra 
+Alcance de ajuste asiento conductor 
+Soporte lumbar eléctrico asiento conductor 
+Función de memoria asiento conductor 
+Asistente asiento conductor 
+Asiento calefaccionado conductor 
+Asiento ventilado conductor
+Alcance de ajuste asiento pasajero delantero 
+Asiento calefaccionado pasajero delantero 
+ 
+Asiento ventilado pasajero delantero 
+ 
+Respaldo 4/6 asiento trasero separación abatible
+Reposacabezas asiento central trasero 
+Ajuste en altura de reposacabezas asientos traseros 
+Apoyabrazos central (con portavasos) en asientos traseros 
+Interfaz de asiento infantil ISOFIX en asientos traseros 
+USB C en fila delantera
+USB C en fila trasera
+Sistema de sonido - radio
+Sistema de audio de marca con 14 altavoces
+VERSIÓN
+Cabina
+inteligente
+Reconocimiento de gestos 
+Asistente de voz inteligente 
+Apple CarPlay 
+Android Auto 
+Cargador inalámbrico para celulares 
+Rotación de pantalla 
+Pantalla central 
+Doble acristalamiento en la puerta delantera y ventana 
+Cierre automático en días lluviosos 
+Desempañado de parabrisas delantero automatico 
+Descongelación y desempañado de la ventana trasera 
+Modo de ajuste: eléctrico 
+Calefacción de los espejos retrovisores exteriores 
+Memoria de posición de los espejos retrovisores 
+Plegado automático de los espejos exteriores al estacionar 
+Inclinación automática hacia abajo al retroceder 
+Espejo retrovisor interior antiviento automático 
+Climatizador bi zona 
+Monitoreo de la calidad del aire interior y exterior (sensor de PM2.5) 
+Función de filtrado de PM2.5 de alta eficiencia 
+1
+1
+·
+·
+6 direcciones
+4 direcciones
+·
+·
+·
+·
+4 direcciones
+·
+·
+·
+·
+·
+·
+·
+2
+1
+·
+·
+·
+·
+·
+·
+·
+·
+15,6
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+BEV
+REEV
+1
+1
+·
+·
+6 direcciones
+4 direcciones
+·
+·
+·
+·
+4 direcciones
+·
+·
+·
+·
+·
+·
+·
+2
+1
+·
+·
+·
+·
+·
+·
+·
+·
+15,6
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+--- p22 ---
+Gancho de remolque delantero 
+Gancho de remolque trasero 
+Modo de apertura del tanque de nafta
+Modo de apertura de tapa de interfaz de carga
+·
+·
+-
+-
+·
+·
+Desbloqueo táctil en pantalla
++ presionar para abrir
+Presionar para abrir
+Nota: Las especiﬁcaciones aplican para Deepal S7 y pueden cambiar sin previo aviso. La información sobre rendimiento de combustible se reﬁere al valor que se obtuvo en condiciones controladas de 
+laboratorio, que pueden no reproducirse ni obtenerse en condiciones ni hábitos de manejo convencional, debido a condiciones climatológicas, combustible, condiciones topográﬁcas y otros factores. Santa 
+Rosa Automotores S.A. se reserva el derecho de efectuar cualquier modiﬁcación sin previo aviso con respecto a colores, equipos o especiﬁcaciones. Las versiones aquí mostradas son las únicas aprobadas 
+y certiﬁcadas por Santa Rosa Automotores S.A para este modelo, conforme a las condiciones y requerimientos del mercado. Consulte a su distribuidor para obtener información más actualizada y 
+disponibilidad sobre nuestros vehículos y accesorios. El fabricante se reserva el derecho a modiﬁcar sus modelos sin previo aviso, así como sus características y accesorios. La información contenida y las 
+fotografías reproducidas en el presente son solo a título ilustrativo y carecen de carácter vinculante para el fabricante. Los tapizados – en caso que se aplique – están fabricados en cuero automotriz o 
+eco-cuero. Debido a los límites técnicos de impresión, los colores reproducidos en el presente documento pueden diferir ligeramente de los colores reales de la pintura, así como también la textura de los 
+materiales utilizados en el interior de cada modelo. Reservados todos los derechos. La reproducción, bajo alguna forma o por algún medio, está prohibida sin la previa autorización escrita de Santa Rosa 
+Automotores Uruguay S.A.
+Deepal Uruguay
+VERSIÓN
+Exterior
+Función de cierre retardado de los faros 
+Encendido y apagado automático de los faros 
+Tipo de faros 
+Luz de carretera inteligente (FAB) 
+Faros antiniebla traseros 
+Lámpara de reversa LED 
+Ajuste manual electrónico de la altura de los faros 
+Función de bienvenida de las luces delanteras y traseras 
+Tipo de luces traseras 
+Función advertencia frenado emergencia (intermitente doble) 
+Lámpara de advertencia de puerta abierta 
+Iluminación ambiental LED (multicolor)
+Techo solar
+Puertas sin marco 
+Baúl
+Apertura por control remoto 
+Apertura trasera eléctrica 
+·
+·
+LED
+·
+·
+·
+·
+·
+LED
+·
+·
+·
+·
+·
+·
+·
+·
+·
+LED
+·
+·
+·
+·
+·
+LED
+·
+·
+·
+·
+·
+·
+·
+BEV
+REEV
+
+--- p23 ---
+RESPALDA

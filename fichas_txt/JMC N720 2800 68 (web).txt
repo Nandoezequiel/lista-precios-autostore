@@ -1,0 +1,6 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (JMC N720 2800; confianza baja)
+Fuentes:
+- prensa Autoblog 2019 (lanzamiento N720): https://www.autoblog.com.uy/2019/07/lanzamiento-jmc-n720.html
+Notas: Sin ficha oficial actual (el modelo ya no figura en jmc.com.uy; reemplazado por el N822). Datos de 2019 de otra generación. 'Full' en el nombre de versión no interpretable. Sin fotos oficiales.
+
+JMC N720 con distancia entre ejes de 2800 mm, cabina simple, rueda trasera simple (id 68 chasis cabina, id 69 con caja). Motor 2.8 turbodiésel (2771 cc), caja manual de 5 marchas, tracción trasera. Datos del lanzamiento 2019 (Autoblog) para cabina simple: caja 3360 x 1940 x 380 mm, carga útil 1910 kg, tara 2365 kg, 92 CV y 210 Nm (Euro II). La versión actual con motor JX493ZLQ4 Euro IV declara ~107 HP y 285 Nm. Garantía 3 años o 100.000 km.

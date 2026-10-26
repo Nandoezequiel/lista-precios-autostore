@@ -1,0 +1,324 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+ESPECIFICACIONES: motor 2.0 Turbo. Diésel Common Rail VGT: 161 HP (3600 a 5500 rpm), torque 400 Nm (1500 a 2500 rpm). Gasolina: 190 HP (4000 a 5500 rpm), torque 360 Nm (1800 a 3600 rpm). Tracción 4x4, transmisión automática de 8 velocidades, tanque 80 L, carga con pasajeros 1050 kg, neumáticos 265/60 R18, dirección asistida eléctrica, frenos traseros de disco, suspensión delantera independiente de doble horquilla con barra estabilizadora, trasera eje rígido con paquete de resortes, piso de la caja pintado. Dimensiones: largo 5410 mm, ancho 1934 mm, alto 1886 mm, distancia entre ejes 3230 mm, despeje 227 mm. COLUMNAS de las tablas (orden de la ficha): los tres primeros son los diésel (Luxury, Elite, Deluxe) y los dos últimos los de gasolina (Elite, Deluxe).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+  (Especificaciones básicas)
+
+  (Motor 2.0 Turbo 2.0 Turbo)
+
+  (Combustible Diesel Common Rail VGT Gasolina)
+
+  (Potencia (HP/RPM) 161 HP / 3600 a 5500 RPM 190 HP / 4000 a 5500 RPM)
+
+  (Torque (HP/RPM) 400 Nm / 1500 a 2500 RPM 360 Nm / 1800 а 3600 RPM)
+
+
+
+## Tracción
+
+
+
+## Capacidad estanque de combustible (L)
+
+  (Capacidad de carga con pasajeros (kg) 1050)
+
+  (Neumáticos 265/60 R18)
+
+  (Sistema de Dirección Asistida eléctricamente)
+
+  (Frenos Traseros de disco)
+
+  (Transmisión Automática 8 velocidades)
+
+  (Suspensión delantera Independiente de doble horquilla con barra estabilizadora)
+
+  (Suspensión trasera Eje rígido con paquete de resortes)
+
+  (Piso de la caja Pintado)
+
+
+
+## Equipamiento
+
+- Volante forrado en cuero: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Levas al volante: en todas
+
+- Climatizador automático: en todas
+
+- Salidas traseras de aire al centro: en todas
+
+- Portón con apertura manual: en todas
+
+- Sistema multimedia MP5: en todas
+
+- Tablero de instrumentos con pantalla color 3.5": Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Tablero de instrumentos con pantalla color 7": Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Techo solar: Diésel Luxury NO; Diésel Elite NO; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe NO
+
+- Control de techo solar: Diésel Luxury NO; Diésel Elite NO; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe NO
+
+- 5 modos de conducción: Estándar, Eco, Sport, 4L: en todas
+
+- Dirección asistida electricamente: en todas
+
+- Freno de mano eléctrico: en todas
+
+- Función auto-hold: en todas
+
+- Torque de dirección dinámico: en todas
+
+- Portalentes para el conductor: en todas
+
+- Parasol del pasajero con espejo: en todas
+
+- Bloqueo/Desbloqueo de puertas central: en todas
+
+- Luz de pie: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Toma corriente 220V: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Palanca de cambio electrónica: en todas
+
+- Modo parking electrónico: en todas
+
+- Botón de liberación de la palanca de cambios: en todas
+
+- Indicador de marchas: en todas
+
+
+
+## Seguridad activa y pasiva
+
+- Doble airbag frontal: en todas
+
+- Doble airbag lateral delantero: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Airbag de cortina: Diésel Luxury NO; Diésel Elite NO; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe NO
+
+- Grabadora de datos EDR: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Frenos ABS + EBD: en todas
+
+- Control de tracción TCS: en todas
+
+- Sistema de mitigación de vuelcos RMI: en todas
+
+- Control electrónico de estabilidad ESC: en todas
+
+- Sistema de asistencia de frenado BAS: en todas
+
+- Asistente de arranque en pendiente: en todas
+
+- Asistente de descenso en pendiente: en todas
+
+- Sensores traseros (2): en todas
+
+- Sensores delanteos (2): Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Asistente de tráfico cruzado trasero: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Cámara de retroceso: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Cámara de punto ciego frontal: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Cámara 360°: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Monitoreo de presión de neumáticos(TPMS): en todas
+
+- Bloqueo automático de puertas: en todas
+
+- Sistema de alerta de frenado (ESS): en todas
+
+- Luces DRL: en todas
+
+- Sensores externos delanteros: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Alerta de puerta abierta: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Inmovilizador de motor: en todas
+
+- Velocímetro y alarma de velocidad ajustable: en todas
+
+- Cinturones de seguridad con pretensores y limitadores de carga delanteros: en todas
+
+- Cinturones de seguridad traseros de 3 puntos: en todas
+
+- ISOFIX: en todas
+
+- Corta flujo de combustible automático en caso de accidente: en todas
+
+- Desbloqueo de puertas automático en caso de accidente: en todas
+
+- Cámara frontal: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Cámara frontal inteligente: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Control de crucero: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Control crucero adaptativo: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Alerta de salida de carril LDW: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Asistencia de mantenimiento de carril LKA: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Mantenimiento central de carril LCK: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Asistencia de cambio de carril LCA: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Alerta de colisión frontal FCW: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Frenado autónomo de emergencia con detección de: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- peatones AEB: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Alerta de señales de tránsito TSW: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Alarma por exceso de velocidad: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+  (Colores disponibles)
+
+  (@gwm_uruguay gwm.uruguay)
+
+
+
+## Multimedia
+
+- Bluetooth: en todas
+
+- Arranque por botón: en todas
+
+- CarPlay & Android Auto Cableado: en todas
+
+- Cargador inalámbrico: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Pantalla táctil de 9": en todas
+
+- 4 parlantes: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- 6 parlantes: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+
+
+## Iluminación
+
+- Faros LED: en todas
+
+- Luces con encendido automático: en todas
+
+- Luces con ajuste eléctrico de altura: en todas
+
+- Luces con apagado automático: en todas
+
+- Faros antiniebla delanteros con luz de dirección integrada: en todas
+
+- Faros antiniebla traseros: en todas
+
+- Luces traseras LED con efecto secuencial: en todas
+
+
+
+## Asientos
+
+- Asientos de eco-cuero: en todas
+
+- Asientos de cuero: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Ajuste de asiento del conductor manual en 6 direcciones: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Ajuste de asiento del conductor eléctrico en 6 direcciones: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Ajuste de asiento del pasajero manual en 4 direcciones: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Ajuste de asiento del pasajero eléctrico en 4 direcciones: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Calefacción en asientos delanteros: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Respaldo abatible 60:40: en todas
+
+- Base abatible 60:40: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Apoyacabezas central trasero: en todas
+
+- Apoyabrazos central trasero: en todas
+
+
+
+## Vidrios y Espejos
+
+- Alzacristales one-tocuh y anti-pinzamiento asiento conductor: en todas
+
+- Alzacristales eléctrico asiento pasajero: en todas
+
+- Alzacristales eléctrico asientos traseros: en todas
+
+- Espejo retrovisor manual: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Espejo retrovisor eléctrico: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Espejos exteriores con ajuste electrico y plegado manual: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Espejos exteriores con ajuste y plegado eléctrico: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Luneta trasera con línea térmica: en todas
+
+
+
+## Otros
+
+- Llave inteligente: Diésel Luxury NO; Diésel Elite SÍ; Diésel Deluxe SÍ; Gasolina Elite NO; Gasolina Deluxe SÍ
+
+- Llave estándar: Diésel Luxury SÍ; Diésel Elite NO; Diésel Deluxe NO; Gasolina Elite SÍ; Gasolina Deluxe NO
+
+- Rueda de auxilio full size: en todas
+
+- Triángulo de alerta: en todas
+
+  (Dimensiones)
+
+  (1886 mm)
+
+  (1934 mm)
+
+  (227 mm)
+
+  (3230 mm)
+
+  (5410 mm)
+
+  (GWM Uruguay gwm.com.uy)
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+3
+AÑOS
+o
+ 
+1
+0
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A

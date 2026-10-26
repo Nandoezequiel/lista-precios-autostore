@@ -1,0 +1,541 @@
+
+--- p1 ---
+G318
+
+--- p2 ---
+Longitud (mm)
+Ancho(mm)
+Altura (mm)
+Distancia entre ejes (mm)
+Peso bruto (kg)
+Peso en vacío (kg)
+Potencia máxima del motor (kW)
+Par máximo del motor (N·m)
+Potencia total del motor eléctrico (kW)
+Capacidad de asientos
+5010
+1985
+1960
+2880
+2800
+2360
+110
+220
+316
+5
+HE1.5TG-AA
+1,5 litros
+★
+★
+★
+★
+★
+★
+★
+★
+35,07 kWh
+168 kilómetros
+2
+185+131
+310+265
+★
+★
+★
+★
+★
+★
+Modelo
+Cilindrada
+Turbocompresor
+Inyección directa de gasolina
+Cambio electrónico
+ECO
+CONFORT
+SPORT
+PERSONALIZADO
+Capacidad de la batería
+Autonomía (NEDC)
+Número de motores
+Potencia máxima del motor (kw)
+Par máximo del motor (hp)
+Ftrasreno regenarativo
+(fuente de alimentación inteligente) 6KW
+Pistola de carga
+Actualización OTA del dominio Power
+Carga lenta
+Carga rápida
+Estructura del vehículo
+Compacto
+★
+Tipo de unidad
+Tracción en las 4 ruedas
+Bloqueo de diferencial eje trasero
+★
+Suspensión delantera Independiente doble horquilla
+Suspensión trasera Independiente Multi-links
+Suspensión neumática
+Dirección asistida electrónica
+Tipo de motor de asistencia electrónica: sin escobillas
+Detección de velocidad
+Modo de asistencia de dirección ajustable (tres niveles)
+Suspensión independiente
+de 
+doble horquilla
+Suspensión independiente
+de 
+cinco enlaces
+★
+★
+★
+★
+★
+★
+Alfombra mágica con reductor de velocidad
+Direccion
+Parámetro
+Tren motriz
+Chasis
+Motor
+Transmisión
+REEV
+Suspensión
+
+--- p3 ---
+Disco ventilado
+Disco ventilado
+★
+Discos delanteos
+Discos posteriores
+Freno de estacionamiento electrónico
+Freno de ruedas
+★
+255/55 R20
+Llantas de aluminio
+Neumáticos de marca
+Medidas
+Material de la llanta
+Montaje de neumáticos
+Tamaño completo
+Llantas de aluminio
+Modelo
+Material
+Neumático de repuesto
+★
+★
+★
+★
+★
+★
+★
+★
+★
+★
+★
+ABS + EBD
+Programa de estabilidad del vehículo (ESP)
+Control de tracción (TCS)
+Sistema de frenado activo
+Asistencia de frenado (BA)
+Asistencia de arranque en pendiente (HHC)
+Control de descenso de pendientes (HDC)
+Función de frenado dinámico (DBF)
+Prevención de vuelcos (ROM)
+Arrastre todoterreno
+Retención automática
+Conducción estable
+★
+★
+★
+★
+conductor y pasajero
+Airbags laterales delanteros
+Airbags laterales traseros
+Cortina de aire de seguridad integral delantera y trasera
+Airbag/airbag de cortina
+★
+★
+Anclaje de tres puntos
+Punto de fijación superior regulable en altura
+Cinturones de seguridad delanteros
+★
+★
+Pretensor del cinturón de seguridad del lado izquierdo
+Pretensor del cinturón de seguridad derecho
+Cinturones de seguridad traseros
+★
+★
+★
+★
+Conductor
+Pasajero
+Fila de atrás
+Recordatorio sonoro + visual
+Recordatorio de cinturón
+de
+seguridad no abrochado
+6
+★
+Número de sensores
+Recordatorio sonoro + visual
+Radar de estacionamiento
+★
+Imagen panorámica de 540° (con función de grabación de vídeo)
+Asistente de imagen
+★
+★
+★
+★
+★
+★
+Recordatorio de liberación del freno de mano
+Advertencia de puerta abierta
+Recordatorio de faros olvidados de apagar
+Recordatorio de llave olvidada
+Advertencia de freno de emergencia (doble destello)
+Monitoreo de presión de neumáticos: Directo
+Monitoreo de recordatorios
+★
+Método de control: Mecánico
+Bloqueo de seguridad para niños
+
+--- p4 ---
+Llave, cerradura, antirrobo
+Entrada sin llave
+Modo: Botón
+★
+Inteligente
+★
+★
+IACC
+Asistente de cambio de carril (monitorización de puntos ciegos,
+advertencia
+lateral trasera, advertencia de apertura de puerta,
+asistencia de cambio de carril
+LCA)
+Conducción inteligente
+Configuración multimedia
+★
+Sistema de navegación GPS en línea
+★
+★
+★
+★
+★
+★
+★
+Control remoto de apertura y cierre de ventanas
+Techo corredizo con apertura y cierre mediante mando a distancia
+Función de búsqueda de coche por control remoto
+Cierre
+centralizado con mando a distancia
+Función de tecla
+★
+★
+★
+★
+★
+★
+Networking en línea a tiempo completo
+Música en línea, etc.
+Mando a distancia
+Proyección de pantalla móvil
+Software
+ecológico de terceros
+Política de servicios de tráfico (plan de pool de tráfico)
+Interfaz de usuario de tecnología
+Tamaño
+Pantalla voladora de tres dedos
+Teléfono, música, etc.
+USB
+Internet de los vehículos
+Cierre centralizado con mando a distancia
+Bloqueo automático del sensor de velocidad
+Desbloqueo automático de estacionamiento
+Bloquear/Desbloquear
+Inglés y español
+Control de voz inteligente en línea
+Sistema adaptativo todoterreno
+★
+★
+Sistema Bluetooth
+★
+Interfaz de fuente de audio externa
+Teléfono, música, etc.
+MP3, MP4, WMA, AVI, RMVB
+★
+Sistema Bluetooth
+★
+Compatibilidad de formatos
+★
+14,6 pulgadas Inglés y español
+★
+Pantalla de control central
+Zona de audio
+Altavoces de alta fidelidad
+Número
+Audio avanzado
+Amplificador
+Sensor de presión SBR (para ingresar al modo LISTO solo después de
+detectar que
+alguien está en el asiento del conductor)
+★
+★
+16
+★
+★
+★
+Audio
+Con indicaciones de voz: Alarma de voz en chino, que gestiona todos
+los puntos de
+medición de velocidad fijos, el límite de velocidad de la
+alarma, así como los puntos de
+luz roja, los tramos peligrosos, las
+gasolineras, los peajes y otra información. Puede
+configurar el límite de
+velocidad y añadir puntos de interés usted mismo. Puede
+descargar y
+actualizar nuevos datos regularmente. La función de alarma es muy
+completa y ofrece una precisión casi total en la información de todos
+los puntos de
+medición de velocidad.
+
+--- p5 ---
+Configuración de iluminación
+Decoración exterior
+Interior
+Externo
+Condujo
+★
+★
+★
+★
+★
+★
+★
+★
+★
+Tipo de faro
+Función de apagado retardado de los faros
+Faros automáticos
+Ajuste de la altura de los faros
+Luces altas inteligentes (FAB)
+Luces diurnas LED
+luz trasera LED
+Luz de freno LED de montaje alto
+luz antiniebla trasera
+Animación de desbloqueo de la luz de posición delantera
+Interno
+★
+★
+★
+★
+★
+Luces de lectura delanteras
+Luces de lectura de la segunda fila
+Luz del maletero
+Se puede ajustar el brillo de la luz de fondo de todo el vehículo.
+Luz de ambiente LED (multicolor)
+Portaequipajes
+Kit de exterior: portaequipajes profesional, faros de techo (2),
+luces de camping (2)
+★
+Dispositivo de tracción con interfaz
+Dispositivo de tracción con interfaz
+★
+Pedal fijo
+Pedal fijo
+★
+Soporte hidráulico del capó del motor
+★
+Cubierta decorativa del motor
+★
+Cabina
+Almohadilla de aislamiento acústico para cubierta de cabina
+★
+Placa de protección inferior del motor
+★
+Tubo de escape
+Disposición del tubo de escape (una sola fila)
+★
+Antena
+Incorporado
+★
+Baca de techo
+Portaequipajes normal
+—
+Parrilla delantera
+Tratamiento especial de superficie: pintura de piano.
+★
+Molduras de las ventanas laterales
+Negro mate
+★
+Panel exterior de la puerta
+Decoración
+★
+Color de la carrocería
+★
+★
+Manija de puerta oculta
+Manija de la puerta
+★
+Interfaz de gancho de remolque delantero
+(interfaz de gancho de remolque pequeño tradicional)
+Interfaz de gancho de remolque trasero
+(interfaz de gancho de remolque pequeño tradicional)
+★
+Gancho de remolque
+★cristal líquido
+10,25 pulgadas Inglés y español
+Tipo de instrumento
+Tamaño del instrumento
+Panel de instrumentos
+★
+PUSH (tapa del tanque de combustible eléctrica)
+Tapa del tanque de combustible
+Superficie de cuero
+Ajuste
+Manual
+★★
+4 vías
+★
+Volante
+
+--- p6 ---
+Asiento del pasajero
+★
+4 vías
+★
+★
+★
+★
+★
+Ajuste eléctrico del asiento
+Rango de ajuste del asiento eléctrico
+Ajuste del soporte lumbar del asiento (eléctrico)
+Ajuste de la calefacción del asiento: 3 niveles
+Ajuste de la ventilación del asiento: 3 niveles
+Bolsa de almacenamiento para asiento
+Ajuste hacia arriba y hacia abajo del reposacabezas del asiento
+Asientos de la segunda fila
+Manual
+Manual
+★
+★
+★
+★
+Ajuste del ángulo del respaldo del asiento en dos etapas (manual/eléctrico)
+Asientos plegables
+Reposacabezas del asiento central
+Ajuste del reposacabezas hacia arriba y hacia abajo
+Apoyabrazos central con portavasos
+Interfaz de asiento de seguridad para niños ISOFIX
+Vaso
+Vidrio gris
+★Vidrio verde + aislamiento acústico
+Vidrio verde
+Vidrio de privacidad
+★Vidrio verde + aislamiento acústico
+★Vidrio de privacidad + aislamiento acústico
+Vidrio de tragaluz
+Parabrisas delantero
+Parabrisas trasero
+Vidrio de la ventana del cuarto trasero
+Vidrio de la ventana de la puerta de entrada
+Cristal de la ventana de la puerta trasera
+Espejos exteriores
+★
+★
+★
+Ajuste eléctrico
+Descongelar, calentar
+Plegado eléctrico: Se pliega automáticamente cuando el
+coche está bloqueado y se pliega automáticamente cuando se desbloquea.
+Puerta del maletero
+Apertura lateral
+★
+★
+★
+★
+Apertura lateral/de elevación
+Desbloqueo remoto
+Caja de almacenamiento con gancho para puerta trasera
+Baúl de succión eléctrica
+Abre la maleta para escapar.
+Ventana trasera
+Apagado automático retardado
+Dispositivo de descongelación y desempañado:
+Apertura
+manual, cierre automático retardado
+Techo solar
+Apertura lateral
+★
+★
+★
+★
+Apertura eléctrica
+Función antipinzamiento del techo corredizo
+Apagado automático en caso de lluvia
+Tipo de techo corredizo (techo corredizo
+panorámico/techo corredizo pequeño)
+Limpiaparabrisas trasero
+★
+★
+Sin espinas
+Vinculado con el equipo R
+Limpiaparabrisas delantero
+★
+★
+Sin espinas
+Sensor de lluvia
+Puertas y ventanas
+Espejos y limpiaparabrisas
+Tipo antideslumbrante (manual/eléctrico)
+automático
+Espejo retrovisor interior
+
+--- p7 ---
+MONTEVIDEO · ALVISI, Avda. Garibaldi 2352 / 2209 9637 | 2203 1924 · VIPERCAR, Gral. Flores 3431 / 2204 4444 · PASCUAL AUTOMOTORES, Camino Carrasco 151, esq. Manuel Albo / 2601 1794 · OSCAR PISANO AUTOMÓVILES,
+Avda. Millán 4328 / 2356 1015 · HILTON MOTORS, Ejido 1576 / 2903 0733 · CASEY, José L. Terra 2122 / 2929 6969 · INTERIOR · RIVERA: HORIZONTE AUTOMÓVILES, Joaquín Suárez 767 / 4623 6748 · SALTO: OMAR CASTRO
+AUTOMÓVILES, Rivera 1001 / 4733 4623 · PAYSANDÚ: WAVE AUTOMOTORES, Setembrino Pereda 975 / 4722 5178 | 4724 3459· CANELONES, CAR ONE, Ruta Interbalnearia y Camino de Los Horneros, 15800 Ciudad de la Costa /
+26816890 int 5300 - 5301 - 5035 / 091 44 55 88 / 091 801 515 / 092
+504 455 · CANELONES, PANDO: MOREIRA AUTOMÓVILES, Piedras esq. Roosevelt, 2292 2683 | 2292– 1631 · CANELONES / LAS PIEDRAS: MOREIRA AUTOMÓVILES,
+Avda. Dr. Enrique Pouey esq. Manuel Freire / 2369-9847 · SAN JOSÉ: AUTOMOTORA CABRERA /SANTA ROSA AUTOMOTORES, Luis A. de Herrera 550, 4342 1392 · MALDONADO: RENAULT PUNTA DEL ESTE, Avda. Martiniano Chiossi
+esq. Thailandia / 42261900 · ROCHA: RENAULT NISSAN JMC CHANGAN,
+Ruta 9 y Ruta 15 · TACUAREMBÓ: GREGORIO RÍOS AUTOMOTORES, Avda. Pablo Ríos 154 / 4632 2203.
+*IMÁGENES MERAMENTE ILUSTRATIVAS
+Recomendamos
+Dirección Cerro largo 907
+092 480 707
+Dirección Forum Deepal: Dr Euclides Peluffo 1609 local 101
+098 600 469
+Versión 01 03/2025
+Acondicionador de aire
+Control del Aire Acondicionado
+Circulación interna y externa automática AQS
+★
+Purificación del Aire
+Filtro de carbón activado PM2.5+
+Pruebas de calidad del aire en el vehículo
+★
+★
+Generador de iones para aire acondicionado
+★
+Otro
+ENC
+★
+Kit de silenciador MAX
+★
+Kit de herramientas
+★
+Carplay + Android Auto
+★
+Todas las zonas horarias
+★
+Caja de pared
+★
+Estándar de carga
+Norma europea
+Radio local
+★
+Automático
+★

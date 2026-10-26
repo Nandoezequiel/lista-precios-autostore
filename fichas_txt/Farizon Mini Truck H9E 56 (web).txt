@@ -1,0 +1,9 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Farizon Mini Truck H9E; confianza media)
+Fuentes:
+- farizon.com.uy H9E-8T: https://www.farizon.com.uy/h9e8t
+- farizon.com.uy H9E-8T chasis: https://www.farizon.com.uy/h9e8tchasis
+- catalogo oficial H9E-8T WVTA (jun-2024): https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/6672e14db7cec5cd2daf24f9_FARIZON_Cata%CC%81logo_TRUCK_H9E-8T-WVTA_JUNIO-24.pdf
+- ficha oficial H9E-8T chasis: https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/68d6c468af74e66db14e10bd_FARIZON_Ficha_CHASIS_V2%20(1)%20(1).pdf
+Notas: Carga útil = PBT - peso en orden de marcha (calculada). Velocidad: 85 km/h en la página del box, 90 en chasis y catálogo. En Australia se llama H9E 8T con baterías 107/162 kWh.
+
+Farizon H9E-8T (Mini Truck eléctrico de 8 t, importador Santa Rosa). MOTOR síncrono de imanes permanentes + reductor, 70 kW nominal / 130 kW pico (174 HP), torque 515/1.500 Nm, tracción trasera, motor central. BATERÍA CATL LFP 106,95 kWh (refrigeración líquida). Autonomía 260 km, carga rápida CCS2 en ≤ 40 min (20-80%). Velocidad máx. 85-90 km/h. PBT 7.995 kg, distancia entre ejes 3.360 mm, 3 asientos, ancho de cabina 2.080 mm. Neumáticos 215/75 R17.5, dirección asistida electrohidráulica (EHPS). CHASIS (56): dimensiones del chasis 5.950 x 2.245 x 2.875 mm, peso en orden de marcha 3.500 kg (carga útil + carrocería ~4.495 kg). CON CAJA (58): vehículo 5.995 x 2.350 x 3.300 mm, caja interna 4.150 x 2.300 x 2.200 mm (~21 m3), peso 3.380 kg. Equipamiento: aire acondicionado, volante multifunción, llave inteligente con start/stop, vidrios y espejos eléctricos (calefaccionados), asiento del conductor de 4 vías, tablero LCD 7'', multimedia 8'', cámara 360°, TPMS, salida 12/24 V, control de tracción y estabilidad, alerta de cambio de carril, alerta de colisión frontal y frenado de emergencia autónomo. Precios CIF: chasis USD 33.900, box leasing USD 52.500. Garantía 4 años/100.000 km, batería 5 años/200.000 km.

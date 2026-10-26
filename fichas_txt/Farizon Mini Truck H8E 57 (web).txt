@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Farizon Mini Truck H8E; confianza media)
+Fuentes:
+- farizon.com.uy H8E-6T: https://www.farizon.com.uy/h8e6t
+- catalogo oficial H8E-6T (oct-2025): https://cdn.prod.website-files.com/6595a78999b4b51b0984ec2e/68effc3b307003402e56a7c6_FARIZON_Cata%CC%81logo_TRUCK_H8E-6T_OCT-25.pdf
+Notas: Volumen de caja: 4,15x2,1x2,1 m = 18,3 m3 calculado vs 12,6 m3 en la web comercial. Carga útil calculada (PBT - peso en vacío). Potencia pico 140 kW; nominal 70 kW.
+
+Farizon H8E-6T (Mini Truck eléctrico de 6 t, importador Santa Rosa). MOTOR síncrono de imán permanente, 70 kW nominal / 140 kW pico (188 HP), 180/420 Nm, tracción trasera. BATERÍA CATL 100,46 kWh con refrigeración líquida; autonomía 200 km WLTP; carga rápida CCS2; 600 V. Velocidad máx. 90 km/h. PBT 6.000 kg, peso en vacío 3.345 kg (carga útil ~2.655 kg), distancia entre ejes 3.360 mm, ancho de cabina 1.880 mm. Dimensiones exteriores 5.995 x 2.160 x 3.150 mm; caja 4.150 x 2.100 x 2.100 mm (≈18 m3 calculado; la web comercial habla de hasta 12,6 m3). Cabina simple 3 plazas, neumáticos 205/75 R17.5 de acero, dirección EPS. Equipamiento: aire acondicionado, control crucero, alerta de cambio de carril (LSW), radar de reversa, alzacristales eléctricos, DRL LED, pantalla/tablero LCD 7'', USB, Bluetooth, alarma antirrobo, triángulo, chaleco, gancho de remolque. Precio CIF USD 46.900 (leasing 49.900). Garantía 3 años/100.000 km, batería 5 años/200.000 km.

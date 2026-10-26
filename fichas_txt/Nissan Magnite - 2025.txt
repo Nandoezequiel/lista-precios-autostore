@@ -1,0 +1,292 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Nissan Magnite (1.0 L Turbo 3 cilindros, nafta): Advance Manual (5 cambios, 99 HP), Advance Automático (CVT, 99 HP), Exclusive Manual y Exclusive Automático.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 13]
+  (FICHA TÉCNICA NISSAN MAGNITE)
+
+- Motor y caja de cambios 1.0 L Turbo (999 cm³) - 3 cilindros - 12 valvulas - Nafta Potencia (Hp) - Par (Nm @ rpm) 99 - 160 / 2800 99 - 152 / 2200 99 - 160 / 2800 99 - 152 / 2200: en todas
+
+  (Caja de cambios Manual de 5 cambios Xtronic - CVT Manual de 5 cambios Xtronic - CVT)
+
+- Suspensión y Frenos Delantera Mc Pherson + Trasera con Amortiguadores Telescópicos: en todas
+
+- Discos ventilados delanteros y Tambor trasero Dimensiones / Capacidad: en todas
+
+  (Longitud total (m) 3.994 3.994 3.994 3.994)
+
+  (Ancho total (m) 1.938 1.938 1.938 1.938)
+
+  (Altura total (m) 1.572 1.572 1.572 1.572)
+
+  (Distancia entre ejes (m) 2.501 2.501 2.501 2.501)
+
+  (Despeje (mm) 205 205 205 205)
+
+  (Peso en vacío (Kg) 1.105 1.131 1.105 1.131)
+
+  (Peso bruto (Kg) 1.480 1.506 1.480 1.506)
+
+- Capacidad del maletero (L) - Capacidad del maletero con asientos rebatidos (L) 336 - 690 336 - 690 336 - 690 336 - 690 Tanque de combustible de 36 (L) Llantas y neumáticos: en todas
+
+  (Tipo de neumáticos 195 / 60 R16 195 / 60 R16 195 / 60 R16 195 / 60 R16)
+
+  (Tamaño y material de las llantas Aleación bi tono R16 Aleación bi tono R16 Aleación bi tono R16 Aleación bi tono R16)
+
+  (Neumático de repuesto 195 / 65 R16 195 / 65 R16 195 / 65 R16 195 / 65 R16)
+
+- Conducción Dirección asistida eléctrica: en todas
+
+- Panel de instrumentos analogico con pantala digital TFT de 7" Volante multifunción con comandos Forrado en cuero Forrado en cuero: en todas
+
+- Vidrios eléctricos en las 4 ventanas: en todas
+
+- Cierre central de puertas: en todas
+
+- Llave inteligente I-Key con desbloqueo de aproximación, bloqueo de alejamiento: en todas
+
+- Parabrisas tonalizado: en todas
+
+- Limitador de velocidad: Advance Manual SÍ; Advance Automático SÍ; Exclusive Manual NO; Exclusive Automático NO
+
+- Monitor de presión de neumáticos: en todas
+
+- Espejos laterales con ajuste y plegado eléctrico: en todas
+
+- Faros delanteros con iluminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Faron camineros con iluminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Luces de circulación diurna LED: en todas
+
+- Faros traseros con iliminación LED: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Monitor de visión periférica 360° Interior: en todas
+
+- Aire acondicionado automático: en todas
+
+- Iluminación ambiental de la cabina: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Asientos tapizados en cuero: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Pack de decoración interior: Advance Manual NO; Advance Automático NO; Exclusive Manual SÍ; Exclusive Automático SÍ
+
+- Multimedia de 8" compatible con Android Auto® + Carplay® inalámbrico y 6 parlantes: en todas
+
+- Consola central con apoyabrazos ÓPALO ÁRTICO OXFORD Exterior: en todas
+
+- Antena de tiburón: en todas
+
+- Barras de techo con capacidad hasta 50 Kg: en todas
+
+- Aleron trasero: en todas
+
+- Manijas de puerta exteriores cromadas y espejos color carrocería Seguridad y asistencias de manejo: en todas
+
+- Inmovilizador + Alarma: en todas
+
+- Airbags frontales (2), laterales (2) y cortina (2): en todas
+
+- Cinturón de seguridad con pretenso: en todas
+
+- Sistema de frenos antibloqueo (ABS): en todas
+
+- Asistente de frenado de emergencia (EBA): en todas
+
+- Control de la dinámica del vehículo (VDC): en todas
+
+- Monitoreo de presión de neumáticos (TPMS) BITONO: en todas
+
+- Control de velocidad crucero (CC): en todas
+
+- Sistema de control de tracción (TCS) ROJO PLATA AZUL: en todas
+
+- Asistente de arranque en pendiente (HAS): en todas
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+M A G N I T E
+
+[texto de la página 2]
+Nissan Magnite es un SUV compacto que 
+sorprende desde el primer vistazo. Con un 
+diseño moderno, ágil y lleno de 
+personalidad, combina estilo, seguridad y 
+tecnología para acompañarte en cada 
+trayecto. Conocelo y descubrí todo lo que 
+ofrece, por dentro y por fuera.
+Imágenes de referencia. Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para 
+conocer el detalle de especificaciones por grado. Consulta nivel de equipamiento y disponibilidad por versión y zona 
+geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+M A G N I T E
+E S T O E S N I S S A N
+¿CUÁNDO FUE LA ÚLTIMA VEZ QUE UN 
+VEHÍCULO LLAMÓ TANTO TU ATENCIÓN?
+
+[texto de la página 3]
+Imágenes de referencia. Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para conocer el detalle de especificaciones por grado. Consulta nivel de equipamiento y disponibilidad por versión y zona geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+
+[texto de la página 4]
+El diseño exterior de Nissan Magnite es 
+moderno, al mismo tiempo que se luce con 
+una sencillez tan llamativa que jamás pasará 
+desapercibido.
+Diseño robusto
+Nissan Magnite llega con un diseño robusto, 
+adoptando una parrilla con formas geométricas que 
+destaca su originalidad.
+Iluminación de vanguardia
+El Nissan Magnite incorpora luces LED, faros de niebla 
+con un diseño estilizado que realzan la parrilla frontal, 
+y faros delanteros con ajuste manual para dirigir la luz 
+según tus necesidades. Una iluminación moderna que 
+destaca en cualquier camino.
+Espejos exteriores con ajuste y rebatido eléctrico
+Mantené el control total de tu entorno con los espejos 
+exteriores de ajuste eléctrico del Nissan Magnite. Al 
+finalizar tu recorrido, se pliegan automáticamente 
+para protegerse, brindando practicidad y seguridad 
+en cada uso.
+Llantas de aleación de 16”
+Las líneas en el diseño de las llantas de Nissan
+Magnite son tan llamativas como vanguardistas
+que logran destacar en movimiento o con el vehículo 
+estacionado.
+Una primera impresión 
+que atrae toda la atención
+
+[texto de la página 5]
+El Nissan Magnite está diseñado para generar sensaciones de confort, bienestar y emoción desde el primer momento en que te subís.
+Equipado con un sistema de 6 parlantes (4 al frente 
+y 2 en la parte trasera), Nissan Magnite te ofrece una 
+experiencia auditiva envolvente de alta calidad para ti y 
+tus acompañantes en todo momento.
+El confort y la comodidad tiene una textura única en 
+Nissan Magnite gracias al recubrimiento de cuero 
+sintético en asientos, volante y palanca de cambios.
+Sonido que cautivará tus oídos
+Experiencia única al tacto
+Ambientación sin igual
+Déjate cautivar por la experiencia al interior
+Nissan Magnite tiene un sistema de iluminación interior 
+diseñado para provocarte sensaciones intensas de 
+confort y emoción cada vez que enciendas y manejes tu 
+SUV
+
+[texto de la página 6]
+Mayor visibilidad en cada detalle
+La guantera de la Nissan Magnite está 
+equipada con iluminación, asegurando 
+que nada se pierda de vista y facilitando
+el acceso a tus objetos personales.
+Control sin distracciones en el camino
+Ajusta el volumen, responde llamadas telefónicas, activa y desactiva el 
+control crucero y hace mucho más sin perder un solo segundo de atención 
+al camino con los controles integrados en el volante.
+Volante ajustable
+Disfruta más de tu experiencia de manejo ajustando el volante de tu Nissan 
+Magnite en altura para dejarlo en el punto exacto de mayor comodidad 
+para ti.
+Imágenes de referencia. Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para conocer el detalle de especificaciones por grado. Consulta nivel de equipamiento y disponibilidad por versión y zona geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+
+[texto de la página 8]
+160 Nm
+100 Hp
+Versión Advance y Exclusive con caja de cambio manual 
+Versión Advance y Exclusive con caja de cambio manual 
+MOTOR
+1.0L TURBO
+3 CILINDROS EN LÍNEA
+Potencia más que suficiente para disfrutar de cada 
+kilómetro de tu camino en calles de la ciudad y carreteras.
+La tecnología no suple el manejo responsable. Consulta nivel de especificación, tecnologías y más información por modelo en www.nissan.com. Imágenes de referencia. *Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para conocer el detalle de especificaciones por grado. Para más 
+detalles, consulta el Manual del Propietario. Características y especificaciones sujetas a cambios dependiendo de los requerimientos del mercado. Consulta nivel de equipamiento y disponibilidad por versión y zona geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+Puedes elegir entre una versión con transmisión CVT o transmisión manual de 5 velocidades. 
+En cualquiera de los casos, disfruta la experiencia de una aceleración suave y estable como pocas.
+Condúcelo a tu gusto
+
+[texto de la página 9]
+Vehicle Dynamic Control (VDC)
+Control Dinámico Vehicular
+Bajo ciertas situaciones de manejo, el sistema controla 
+el frenado de cada neumático de forma independiente 
+y la potencia del motor para ayudar a mantener la 
+trayectoria del vehículo.
+La tecnología no suple el manejo responsable. Consulta nivel de especificación, tecnologías y más información por modelo en www.nissan.com. Imágenes de referencia. *Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para conocer el detalle de especificaciones por grado. Para 
+más detalles, consulta el Manual del Propietario. Características y especificaciones sujetas a cambios dependiendo de los requerimientos del mercado. Consulta nivel de equipamiento y disponibilidad por versión y zona geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+Cruise Control (CC)
+Control Crucero
+Control crucero que permite fijar la velocidad de manera 
+manual con los controles ubicados en el volante para 
+que puedas dejar de usar los pedales un momento
+Around View Monitor (AVM)
+Monitor de Visión Periférica
+Este sistema te brinda una vista aérea de 360° para que 
+puedas tener una perspectiva de todo lo que te rodea al 
+estacionarte o circular a 10 kph o menos.
+
+[texto de la página 10]
+MOTOR ELÉCTRICO
+Apertura y cierre de las puertas con sistema de proximidad
+Basta con que tengas la iKey en tu mano o bolsillo para que Nissan Magnite se abra 
+tan pronto te acerques al vehículo o se cierre automáticamente en cuanto te alejes.
+La tecnología no suple el manejo responsable. Consulta nivel de especificación, tecnologías y más información por modelo en www.nissan.com. Imágenes de referencia. *Los accesorios mostrados pueden venderse por separado. Consulta la ficha técnica para conocer el detalle de especificaciones por grado. Para más 
+detalles, consulta el Manual del Propietario. Características y especificaciones sujetas a cambios dependiendo de los requerimientos del mercado. Consulta nivel de equipamiento y disponibilidad por versión y zona geográfica con tu Distribuidor Autorizado Nissan o visítanos en Nissan.com.uy
+
+[texto de la página 11]
+Botón de arranque
+Enciende el motor de tu Nissan 
+Magnite solo presionando un botón 
+al dejar la llave sobre la consola 
+central.
+Sistema de Frenado Antibloqueo 
+(ABS)
+Mantiene el control en caso de un 
+frenado repentino.
+Sistema de 6 bolsas de aire 
+2 bolsas de aire frontales.
+2 bolsas de aire laterales.
+2 bolsas de aire de tipo cortina.
+Sistema de monitoreo de presión 
+de llantas (TPMS)
+Este sistema utiliza un sensor 
+montado en la rueda para medir la 
+presión del aire en cada neumático.
+
+[texto de la página 12]
+Imágenes de referencia. Consulta los términos y condiciones, preguntas frecuentes y guía de activación en Nissan.com/connect. Para usar Android AutoTM y Apple CarPlayTM , se requiere un teléfono celular compatible con el auto o el equipo de radio accesorio. Nissan Mexicana, S.A. de C.V., no garantiza la compatibilidad de su equipo de teléfono 
+con el auto o el equipo de radio accesorio, para ello deberá consultar directamente modelos compatibles con las marcas y/o proveedores autorizados. CarPlay®, Siri®, iPhone® y Apple® son marcas registradas por Apple Inc. Apple CarplayTM es una marca comercial registrada de Apple Inc. Android AutoTM es una marca registrada de Google 
+Inc. SpotifyTM es una marca comercial registrada de Soundtrack Your Brand Sweden AB. Utiliza Apple CarPlayTM y Android AutoTM solo cuando sea seguro. El uso inadecuado de estos servicios puede disminuir la concentración, debe usarse con total responsabilidad. Verifica más detalles en Nissan.com/connect. Para más información, visita 
+Apple.com/ios/carplay y Android.com/auto. Sistemas operativos disponibles: iOS y Android. Consulta los términos y condiciones en Nissan.com/connect. Imágenes de referencia. 
+Sistema de infoentretenimiento con pantalla de 8”
+Controla la música adecuada a cada viaje en Nissan Magnite y todo el sistema de 
+entretenimiento con la punta de tus dedos en una pantalla táctil de 8” equipada con 
+Apple Carplay™ y Android Auto™ inalámbrico
++ Mantener tus contactos a la mano
++ Escuchar playlists de Apple Music o Spotify®
++ Realizar llamadas
++ Enviar y revisar mensajes a través de Siri®
++ Acceder a Mapas de Apple®
+Con Apple CarPlay® accede desde los comandos del volante para:
++ Organizar la información por ventanas
++ Acceder a Google Maps o Waze
++ Escuchar playlists de Spotify®
++ Llamar y enviar mensajes usando 
+	 los comandos de voz
+Con Android Auto® accede a las aplicaciones instaladas en tu teléfono para:
+
+[texto de la página 14]
+La descripción de la unidad que surge de este catalogo es meramente orientativo y refleja alguna de las versiones existentes de cada unidad según el modelo.  El equipamiento, accesorios y/o las características de cada 
+modelo, podrán ser diferentes a la que surge del presente catálogo o de la imagen que se refleja en el mismo, debiendo el cliente verificar las mismas según la unidad que sea de su interés. Es posible que las versiones 
+que se reflejen en las publicaciones no se encuentren disponibles a la venta en el territorio uruguayo. El cliente, no podrá responsabilizar a RALITOR SA por diferencias que existan entre, este catálogo y los modelos que 
+se comercializan en el territorio uruguayo. El cliente conoce y acepta esta posible diferencia, la cual no podrá ser considerada como publicidad engañosa o similar. Los colores ofrecidos son de modo ilustrativo, no siendo 
+los mismo determinantemente idénticos a los que reflejen las unidades disponibles. Las imágenes e ilustraciones que surgen de este catálogo intentan dar una muestra aproximada de las opciones de color que dispone 
+cada unidad, considerando las diferencias factibles en las tonalidades de una imagen virtual y la realidad de la cada unidad. El cliente no podrá responsabilizar a RALITOR SA por las diferencias existentes entre las 
+diferencias que puedan surgir de las imágenes de este catálogo o las descripción de la unidad publicitada y la apreciación de la unidad en tiempo real o las características y accesorios que contengan las unidades 
+disponibles. La disponibilidad de colores de cada versión o unidad quedaran supeditadas al Stock existente en el concesionario de su elección.
+www.nissan.com.uy
+0800 0909
+092 44 09 09
+contacto@nissan.com.uy
+Garantía de 3 años 
+o 100.000 km

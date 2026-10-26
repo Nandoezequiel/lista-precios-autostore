@@ -1,0 +1,167 @@
+# paginas: 2
+VERSIONES: Haval Jolion Pro HEV Elite y Deluxe (híbrido autorrecargable, DHT, 1.5, 2WD, 188 HP combinados, 375 Nm, rendimiento mixto 19,6 km/L).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+
+## Especificaciones básicas
+  (Cilindrada (L) 1.5)
+  (Transmisión Automática DHT)
+
+## Tracción
+
+## Potencia motor a combustión (HP)
+  (Torque motor a combustión (HP) 125)
+  (Potencia motor eléctrico (HP) 154)
+  (Torque motor eléctrico (Nm) 250)
+  (Potencia Combinada (HP) 188)
+  (Torque Combinado (Nm) 375)
+  (Peso bruto vehicular (Kg) 1940)
+
+## Capacidad del tanque de combustible (L)
+  (Rendimiento mixto km/L 19,6)
+
+## Chasis
+- Suspensión delantera independiente tipo McPherson: en todas
+- Suspensión trasera multi-link: en todas
+- Asistencia de dirección Eléctrica: en todas
+- Freno de mano electrónico: en todas
+- Freno a disco en las cuatro ruedas: en todas
+- Modos de manejo Standard/Economic/Sport/Snow: en todas
+- Conducción One-Pedal: en todas
+- Asistencia de dirección ajustable: en todas
+- Protección de bajos: en todas
+- Neumáticos 215/60 R17: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Neumáticos 225/55R18: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+
+## Exterior
+- Manijas de puerta piano black: en todas
+- Espejos exteriores piano black: en todas
+- Antena aleta de tiburón: en todas
+- Brazos limpiaparabrisas ocultos: en todas
+- Limpia luneta: en todas
+- Sensor crepuescular + sensor de lluvia: en todas
+- Techo panorámico con apertura: en todas
+- Rieles de techo: en todas
+- Colizas de vidrios cromadas: en todas
+- Apertura electrica tapa de combustible: en todas
+- Llantas de aleacion: en todas
+
+## Interior
+- Tapizados de color negro: en todas
+- Plancha de abordo de material blando: en todas
+- Volante forrado en cuero: en todas
+- Columna de dirección ajustable en 4 direcciones: en todas
+- Computadora de abordo: en todas
+- Tablero de instrumentos con pantalla LCD de 7": en todas
+- Espejo de cortesia con iluminación: en todas
+- Cargador inalámbrico para smartphones: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Toma de 12v en plazas delanteras: en todas
+- Apoyabrazos delantero central: en todas
+- Posavasos copiloto: en todas
+- Agarraderas de techo: en todas
+
+## Asientos
+- Tapizados de cuero: en todas
+- Asiento del conductor ajustable en 6 direcciones electricamente con ventilación: en todas
+- Asiento del pasajero ajustable en 4 direcciones manualmente: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Asiento del pasajero ajustable en 4 direcciones eléctricamente: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Respaldo trasero abatible 60/40: en todas
+- Asientos delanteros calefactados: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Apoyabrazos trasero central con posavasos: en todas
+
+## Acceso y seguridad del vehiculo
+- Smart keys x2: en todas
+- Acceso Keyless: en todas
+- Arranque por botón: en todas
+- Inmobilizador de motor: en todas
+- Alarma: en todas
+- Cierre centralizado: en todas
+
+## Climatización
+- Climatizador bizona automático: en todas
+- Salida de aire para la 2da fila: en todas
+- Indicador de temperatura exterior: en todas
+- Filtro de habitáculo: en todas
+  (Colores disponibles)
+  (@gwm_uruguay gwm.uruguay)
+
+## Seguridad activa y pasiva
+- Doble airbag frontal: en todas
+- Airbag lateral: en todas
+- Airbag de cortina: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Cinturones delanteros de tres puntas con pretensores y limitador de fuerza: en todas
+- Cinturones traseros de tres puntas con limitador de fuerza: en todas
+- Aviso de cinturón de seguridad: en todas
+- Columna de dirección colapsable: en todas
+- Traba para niños: en todas
+- Frenos ABS + EBD: en todas
+- Control de estabilidad (ESP): en todas
+- Control de tracción (TCS): en todas
+- Ayuda de arranque en pendiente (HHC): en todas
+- Ayuda de descenso en pendiente (HDC): en todas
+- Sistema de mitigación de vuelcos (RMI): en todas
+- Sistema de asistencia de freno (BAS): en todas
+- Sistema de mitigación de segunda colisión (SCM): en todas
+- Alarma de frenado de emergencia: en todas
+- Monitor de presion de neumaticos (TPMS): en todas
+- Desbloqueo automático de puertas en caso de colisión: en todas
+- Corte de combustible en caso de colisión: en todas
+- Sensor de estacionamiento trasero x4: en todas
+- Sistema de cámaras HD 360°: en todas
+- Control de velocidad crucero: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Control Crucero adaptativo (ACC) + Asistencia de curvas: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Control de velocidad crucero para atascos de tráfico (TJA) 60km/h: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Advertencia de colisión frontal (FCW): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Frenado autónomo de emergencia (AEB) (Vehiculos- peatones - ciclistas): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Asistente de intersección (AEB): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Asistente de mantenimiento de carril (LKA): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Aviso de cambio de carril (LDW): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Asistente de centrado de carril (LCK): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Limitador de velocidad inteligente (IACC): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Esquiva inteligente: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Lector de señales de tránsito: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Alerta de punto ciego (BSD) + Asistente de cambio de carril: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Alerta de tráfico cruzado trasero con frenado de emergencia (RCTB): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Advertencia Multimedia de apertura de puertas (DOW): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Asistente de mantenimiento de carril de emergencia (ELK): Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- ISOFIX: en todas
+- Monitor de fatiga del conductor (DFMS): en todas
+- Grabadora de datos ante accidentes (EDR): en todas
+
+## Multimedia
+- Radio con RDS: en todas
+- Conectividad Bluetooth: en todas
+- Pantalla multimedia de 10.25": Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Pantalla multimedia de 12.3": Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Puertos de carga USB 2 delanteros + 2 traseros: en todas
+- Sistema de audio DTS de 6 altavoces: en todas
+- Apple CarPlay & Android Auto: en todas
+
+## Iluminación
+- Faros delanteros LED: en todas
+- Faros delanteros con ajuste de altura eléctrica: en todas
+- Follow-me home: en todas
+- Luces de niebla trasera: en todas
+- DRL: en todas
+- Tercera luz de stop LED: en todas
+- Luz interior: en todas
+- Iluminación interior multicolor ritmica: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Aviso de luces encendidas: en todas
+- Luz de baúl: en todas
+
+## Vidrios y espejos exteriores
+- Espejo interior manual: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Espejo interior electrocromático: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Vidrio del conductor one touch con antipinzamiento: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Vidrios one touch con antipinzamiento X4 con cierre automático en el bloqueo: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Cierre de vidrios desde llave: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Espejos exteriores con ajuste eléctrico y luces de giro: en todas
+- Espejos exteriores con plegado manual: Pro Elite HEV SÍ; Pro Deluxe HEV NO
+- Espejos exteriores con plegado eléctrico, automático y calefactados: Pro Elite HEV NO; Pro Deluxe HEV SÍ
+- Desempañador de luneta: en todas
+  (Dimensiones)
+  (1619 mm)
+  (163 mm)
+  (2700 mm 1841 mm)
+  (4472 mm)
+  (GWM Uruguay gwm.com.uy)

@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Farizon F3E BOX; confianza baja)
+Fuentes:
+- CarExpert Australia, lanzamiento F3E: https://www.carexpert.com.au/car-news/farizon-f3e-electric-cab-chassis-launched-in-australia
+- EV Central Australia (referencia): https://evcentral.com.au/cars/farizon/f3e/
+Notas: Sin fuente de Uruguay/Latam ni ficha oficial; todo de prensa australiana, con valores que difieren entre fuentes (rango, torque). Importador local no lo lista.
+
+Farizon F3E (liviano eléctrico de caja/chasis; no aparece en farizon.com.uy ni en Latam). Datos de prensa australiana: batería CATL LFP 72,8 kWh, motor trasero de 110 kW (148 HP) y 245-260 Nm, autonomía WLTP 314 km (265 km en otras fuentes; 250 km con caja cerrada), carga rápida DC hasta 100 kW (20-80% en 30 min) y AC 11 kW, V2L 3,3 kW. Distancia entre ejes 3.700 mm, carga útil hasta 1.705 kg, caja interior de 3.820 x 1.900 x 1.800 mm (aprox. 13 m3 calculado), altura de carga 855 mm, 15 espacios de guardado. Sin capacidad de remolque con freno. Pantalla táctil 12,3'' con CarPlay/Android Auto y tablero 7''. Garantía en Australia 5 años/200.000 km y batería 8 años. Carrocerías: chasis cabina, tray y caja cerrada.

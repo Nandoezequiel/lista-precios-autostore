@@ -1,0 +1,129 @@
+# paginas: 2
+ESPECIFICACIONES: motor 2.0 (Diésel common rail con VGT: 161 HP / 3600, 400 Nm / 1500-2500 rpm; Gasolina: 190 HP / 4000, 360 Nm / 1600-3600 rpm), transmisión manual de 6 velocidades, dirección asistida hidráulica, frenos de disco delanteros y tambor trasero, suspensión delantera independiente de doble horquilla con barra estabilizadora, trasera eje rígido con paquete de resortes, tanque 80 L, carga con pasajeros 1050 kg, neumáticos 245/70 R17. Dimensiones: largo 5425 mm, ancho 1886 mm, alto 1883 mm, distancia entre ejes 3230 mm, despeje 227 mm. COLUMNAS: Elite diésel 4x2, Elite diésel 4x4, Elite gasolina 4x2, Elite gasolina 4x4 (orden de la ficha).
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+  (Especificaciones básicas Elite Elite)
+  (Motor 2.0 2.0)
+  (Combustible Diesel common rail con VGT Gasolina)
+  (Potencia (HP/RPM) 161/3.600 190/4.000)
+  (Torque (HP/RPM) 400/1.500 - 2.500 360/1600-3600)
+  (Transmisión Manual 6 velocidades)
+  (Dirección Asistida hidráulicamente)
+  (Suspensión delantera Independiente de doble horquilla con barra estabilizadora)
+  (Suspensión trasera Eje rígido con paquete de resortes)
+  (Capacidad estanque de combustible (L) 80)
+  (Capacidad carga con pasajeros (Kg) 1050)
+  (Neumáticos 245 / 70 R17)
+  (Especificaciones exteriores Elite Elite)
+- Llanta: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Espejos: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Manijas: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Estribo: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Antena: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Gancho: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Largo: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+  (Especificaciones interiores Elite Elite)
+- Interior: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Techo: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- paneles de las puertas delanteras y traseras: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Asidero: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Placa del vehículo): Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Volante: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Panel: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Toma: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- 2: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Control: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+  (Seguridad activa y pasiva Elite Elite)
+- Doble: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Control: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Sistema: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Sistema: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Corte: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Control: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Control: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Sistema (TPMS): Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Cámara: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Sensores: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Alerta: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Cinturón limitador de carga: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Cinturón de seguridad trasero no ajustable, sin pretensor: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Cinturón: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- ISOFIX: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Seguro: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Cierre: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Parpadeo: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 NO; Gasolina 4x4 SÍ
+  (Chasis Elite Elite)
+- Dirección: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Columna: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Freno: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Freno: Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- : Diésel 4x2 NO; Diésel 4x4 SÍ; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+  (Colores disponibles)
+  (@gwm_uruguay gwm.uruguay)
+
+## Especificaciones del vehículo
+- Llave de forma recta: en todas
+- Llave plegable: en todas
+- Inmovilizador de motor: en todas
+- Cierre centralizado a distancia: en todas
+- Función de bloqueo automático: en todas
+- Función de búsqueda del vehículo: en todas
+- Alerta de puerta mal cerrada: en todas
+
+## Multimedia
+- Radio AM/FM: en todas
+- Pantalla táctil LCD de 9'': en todas
+- Bluetooth: en todas
+- CarPlay y Android Auto: en todas
+- 4 parlantes: en todas
+
+## Asientos
+- Asientos de tela: en todas
+- Asiento del conductor con ajuste manual en 6 direcciones Asiento del pasajero delantero con ajuste manual en: en todas
+- 4 direcciones: en todas
+- Asiento integrado en una pieza: en todas
+- Apoyacabeza central trasero: en todas
+
+## Vidrios
+- Ventanas eléctricas delanteras: en todas
+- Ventanas eléctricas traseras: en todas
+- Ventana del conductor con función one-touch: en todas
+- Espejos exteriores plegables manualmente sin desempañador + ajuste eléctrico y luz direccional: en todas
+- Viseras de asientos delanteros sin espejo: en todas
+- Espejo retrovisor con anti-reflejo manual: en todas
+
+## Luces
+- Faros delanteros: en todas
+- Faros antiniebla traseros: en todas
+- Luces diurnas (DRL): en todas
+- Luz de freno elevada: en todas
+- Faros con ajuste eléctrico de altura: en todas
+- Luz de lectura sin interruptor de control: en todas
+
+## Climatización
+- Climatizador manual: en todas
+
+## Adicionales de advertencia
+- Advertencia de velocidad (ajuste manual de velocidad: Diésel 4x2 SÍ; Diésel 4x4 SÍ; Gasolina 4x2 NO; Gasolina 4x4 NO
+- de advertencia): Diésel 4x2 NO; Diésel 4x4 NO; Gasolina 4x2 SÍ; Gasolina 4x4 SÍ
+- Señal de advertencia triangular (baliza de emergencia): en todas
+- Rueda auxiliar de acero: en todas
+  (Dimensiones)
+  (1883 mm)
+  (1886 mm)
+  (227 mm)
+  (3230 mm)
+  (5425 mm)
+  (GWM Uruguay gwm.com.uy)

@@ -1,0 +1,125 @@
+# paginas: 2
+
+## Exterior  [columnas: Middle | High]
+- Techo solar panorámico: Middle NO; High SÍ
+- Limpiaparabrisas trasero: en todas las versiones
+- Limpiaparabrisas automáticos: en todas las versiones
+- Portón trasero manual: Middle SÍ; High NO
+- Portón trasero eléctrico: Middle NO; High SÍ
+
+## Interior  [columnas: Middle | High]
+- Volante de cuero: en todas las versiones
+- Volante ajustable en 4 posiciones (ángulo): en todas las versiones
+- Visera solar + Espejo de cortesía + Luz: en todas las versiones
+- Carga inalámbrica para teléfonos: Middle NO; High SÍ
+- Bandeja trasera: en todas las versiones
+- Interior revestido en cuero con tejido de malla 3D: en todas las versiones
+
+## Asientos  [columnas: Middle | High]
+- Asientos de tela: Middle SÍ; High NO
+- Asientos de eco cuero: Middle NO; High SÍ
+- Asiento del conductor con ajuste eléctrico: Middle NO; High SÍ
+- Ajuste manual del asiento del conductor: Middle SÍ; High NO
+- Ajuste eléctrico del asiento del pasajero: Middle NO; High SÍ
+- Reposacabezas central trasero: en todas las versiones
+- Desempañador de luneta trasera: en todas las versiones
+- Desempañador de espejos exteriores: Middle NO; High SÍ
+- Volante calefactado: Middle NO; High SÍ
+- Calefacción de asientos delanteros: Middle NO; High SÍ
+- Paquete de ventilación (asientos delanteros): Middle NO; High SÍ
+- Memoria del asiento del conductor: Middle NO; High SÍ
+
+## Antirrobo  [columnas: Middle | High]
+- Arranque rápido inteligente (BEV): en todas las versiones
+- Modo de alarma antirrobo del vehículo: Luces intermitentes + Bocina: en todas las versiones
+- Modo de alarma contra mal cierre del portón trasero: Luces intermitentes +: Middle NO; High SÍ
+- Modo buscador de vehículo: Luces intermitentes + Bocina: en todas las versiones
+- Recordatorio de cierre: Luces intermitentes + Bocina: en todas las versiones
+
+## Vidrios y espejos  [columnas: Middle | High]
+- Espejo retrovisor interior antideslumbrante manual: Middle SÍ; High NO
+- Espejo retrovisor interior antideslumbrante automático: Middle NO; High SÍ
+- Ventana del conductor de un solo toque arriba/abajo (con sistema antipinzamiento): Middle SÍ; High NO
+- Todas las ventanas de un solo toque arriba/abajo (con sistema antipinzamiento): Middle NO; High SÍ
+- Ajuste eléctrico para espejos exteriores: en todas las versiones
+- Plegado eléctrico para espejos exteriores: Middle NO; High SÍ
+- Plegado automático de espejos exteriores al cerrar: Middle NO; High SÍ
+
+## Climatización  [columnas: Middle | High]
+- Aire acondicionado automático: en todas las versiones
+- Salidas de aire traseras: en todas las versiones
+- Colores disponibles
+- @gwm_uruguay: gwm.uruguay
+
+## Seguridad  [columnas: Middle | High]
+- 6 airbags: en todas las versiones
+- Cinturones de seguridad delanteros con pretensores y limitador de carga
+- Cinturones de seguridad traseros con bloqueo de emergencia: en todas las versiones
+- Recordatorio de cinturón de seguridad delantero desabrochado
+- Recordatorio de cinturón de seguridad trasero desabrochado
+- Sistema de frenos antibloqueo (ABS)
+- Distribución electrónica de la fuerza de frenado (EBD)
+- Sistema de control de tracción (TCS)
+- Control de asistencia para arranque en pendientes (HHC)
+- ISO FIX
+- Bloqueo automático al conducir
+- Desbloqueo automático tras colisión
+- Radar trasero (4 sensores): en todas las versiones
+- Cámara de visión periférica 360°: en todas las versiones
+- Control de crucero: Middle SÍ; High NO
+- Control de crucero adaptativo (ACC)
+- Alerta de colisión frontal + Frenado autónomo de emergencia: Middle NO; High SÍ
+- + Asistente de seguridad para peatones + Asistente para bicicletas
+- Reconocimiento de señales de tráfico + Alerta de exceso de velocidad: Middle NO; High SÍ
+- + Asistente de velocidad inteligente (ISA)
+- Alerta de cambio de carril + Asistente de mantenimiento de carril: Middle NO; High SÍ
+- + Asistente de centrado de carril + Evasión inteligente
+- Asistente AEB en intersecciones, frenado para peatones: Middle NO; High SÍ
+- y bicicletas que se aproximan
+- Asistente de cambio de carril + Detección de punto ciego + Alerta de apertura
+- de puertas + Mantenimiento de carril de emergencia: Middle NO; High SÍ
+- + Alerta lateral de marcha atrás + Alerta de colisión trasera
+- Sistema de alerta de tráfico cruzado frontal + Sistema de frenado
+- de tráfico cruzado frontal: Middle NO; High SÍ
+
+## Chasis y suspensión  [columnas: Middle | High]
+- Suspensión independiente delantera MacPherson: en todas las versiones
+- Suspensión independiente trasera multibrazo: en todas las versiones
+- Freno de disco ventilado delantero: en todas las versiones
+- Freno de disco trasero: en todas las versiones
+- Volante con dureza de dirección ajustable: en todas las versiones
+- IBC: en todas las versiones
+- Freno de mano electrónico con retención automática (Auto Hold): en todas las versiones
+- Modos de conducción: Eco, Wellbeing, Normal, Sport: en todas las versiones
+- 225/60 R18: en todas las versiones
+- Rueda de repuesto: en todas las versiones
+- Sistema de monitoreo de presión de neumáticos (TPMS): en todas las versiones
+
+## Multimedia  [columnas: Middle | High]
+- Clúster de instrumentos de 10.25 pulgadas + Pantalla multimedia de 14.6: Middle NO; High SÍ
+- Integración con smartphone (AA/CP inalámbrico): en todas las versiones
+- Puertos USB (Delanteros: Tipo A + Tipo C, Trasero: Tipo C): en todas las versiones
+- 6 parlantes: en todas las versiones
+
+## Iluminación  [columnas: Middle | High]
+- Faros LED: en todas las versiones
+- Luces traseras LED: en todas las versiones
+- Luces de circulación diurna (DRL): en todas las versiones
+- Luces de cortesía (Follow Me Home): en todas las versiones
+- Ajuste eléctrico de altura de faros: en todas las versiones
+- Luces de lectura: en todas las versiones
+- Luces de techo laterales: en todas las versiones
+- Iluminación ambiental: Middle NO; High SÍ
+
+## Otros  [columnas: Middle | High]
+- Sistema de calentamiento de batería para baja temperatura: en todas las versiones
+- Sistema de recuperación de energía ajustable: en todas las versiones
+- Sonido de alerta para peatones de múltiples fuentes: en todas las versiones
+- Toma de carga combinada AC/DC estándar de la UE: en todas las versiones
+- Cargador de emergencia: en todas las versiones
+- Dimensiones
+- : 1641 mm
+- 175 mm
+- 2720 mm
+- 4471 mm 1833 mm
+- GWM Uruguay gwm.com.uy

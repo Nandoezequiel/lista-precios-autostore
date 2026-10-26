@@ -1,0 +1,492 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Leapmotor B10 EV: LIFE (batería 56,2 kWh, 361 km WLTP, 160 kW) y DESIGN (67,1 kWh, 434 km WLTP). Los datos técnicos (dimensiones, motor, autonomía) están en el texto de la página 22 en el orden Life y luego Design.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 23]
+
+
+## B10
+
+  (CONDUCCIÓN)
+
+- 3 Modos de conducción: en todas
+
+- 3 Modos de dirección: en todas
+
+- Freno de regeneración de 3 niveles: en todas
+
+- Palanca de cambios de columna: en todas
+
+  (COMODIDAD)
+
+- Techo panorámico: en todas
+
+- Asientos de tela: Life SÍ; Design NO
+
+- Asientos de polipiel ECO: Life NO; Design SÍ
+
+- Asientos delanteros con ajuste eléctrico: Life NO; Design SÍ
+
+- Calefacción y ventilación de los asientos delanteros: Life NO; Design SÍ
+
+- Volante de Polipiel: en todas
+
+- Ajuste en 4 direcciones del volante: en todas
+
+- Calefacción del volante: Life NO; Design SÍ
+
+- Volante multifunción: en todas
+
+- Aire Acondicionado Automático: en todas
+
+- Bomba de calor: en todas
+
+- Salida de aire de los asientos traseros: en todas
+
+- Apoyabrazos central de la 2° ﬁla con portavasos: Life NO; Design SÍ
+
+- Sistema de monitorización directo de la presión de los neumáticos: en todas
+
+- Bomba de inﬂado: en todas
+
+  (ESPEJOS EXTERIORES)
+
+- Calefactables: en todas
+
+- Espejos exteriores ajustables eléctrónicos: en todas
+
+- Regulación electrónica: Life NO; Design SÍ
+
+- Espejo retrovisor exterior automático con cerradura: Life NO; Design SÍ
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 2]
+B10 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 3]
+LIFE
+DESIGN
+COM
+∙Air
+∙Bluetooth 
+ NFC
+∙
++ 
+∙
+14,6’ & 2,5k
+∙CarPlay/Android
+Auto*
+∙6 
+∙Sensor
+ &
+Cam ra
+∙17 
+ADAS
+∙
+18’’
+∙
+LED aut
+∙
+LED 
+*
+BAT
+ · 361 Km WLTP
+B
+· 434 Km WLTP
++ 
+CO
+∙
+∙
+∙
+∙
+∙
+∙
+∙
+∙12 
+S
+∙
+E
+∙
+ BAT
+ 
+ 
+Autonomía 440 Km NEDC
+(360 Km WLTP)
+Autonomía 540 Km NEDC (430 Km WLTP)
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 4]
+WLTP
+Motor Eléctrico
+218 CV
+361 km
+434 km
+56,2 kWh
+67,1 kWh
+·
+·
+ 
+ 
+ 
+B10 LIFE
+B10 DESIGN
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 5]
+EQUIP
+ 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 6]
+EQUIP
+&
+
+[texto de la página 7]
+EQUI
+2.5K 
+NUEVO SISTEMA LEAP OS 4.0
+ACTUALIZACIÓN DE SISTEMA OPERATIVO CON MEJORAS Y NOVEDADES
+Cuenta con barra de aplicaciones personalizable, widgets de escritorio para consultar estado
+del vehículo. Gracias al procesador Qualcomm Snapdragon 8295, la navegación entre menús
+es notablemente más rápida y admite gráﬁcos en 3D más complejos.
+
+[texto de la página 8]
+EQUIP M ENT
+8.8
+
+[texto de la página 9]
+EQUIP M ENT
+
+[texto de la página 10]
+EQUIP M ENT
+
+[texto de la página 11]
+, 
+EQUIP M ENT
+
+[texto de la página 12]
+EQUIP M ENT
+NFC
+
+[texto de la página 13]
+EQUIP M ENT
+
+[texto de la página 14]
+.
+.
+.
+ 
+ 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 15]
+COLOR S
+ & 
+18
+ 
+ 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 16]
+INTERIOR S
+ 
+ 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 17]
+LIFE
+INTERIOR S
+0JP
+
+[texto de la página 18]
+INTERIOR S
+0JS
+0WL
+DESIGN
+
+[texto de la página 19]
+DIMENSION S (mm)
+2735
+881
+899
+4515
+1605
+1655
+1655
+1615
+1885 
+1615
+1885
+1605
+· 430L
+·
+ 
+ 
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 20]
+30% - 80%
+MOD 2
+MOD 3
+MOD
+4
+“
+” AC 
+3 kW
+12 horas
+6 horas
+Potencia máxima 140kW
+20 min
+Potencia máxima 168kW
+20 min
+14 horas
+8 horas
+ 
+ 
+B10 LIFE
+B10 DESIGN
+ESTACIÓN DE
+CARGA O WALLBOX
+Potencia máxima de
+carga AC: 7.4 kW
+30 al 100%
+"CC CARGA
+RÁPIDA"Potencia
+máxima: 140/168 kW
+30 al 80%
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 21]
+PARÁMETROS
+TÉCNICOS
+ASISTENCIA
+DEL CONDUCTOR
+TIEMPO DE CARGA
+DIMENSIONES
+INTERIOR
+COLOR
+EQUIPAMIENTOS
+POTENCIA
+ACABADOS
+
+[texto de la página 22]
+DIMENSIONES
+Longitud (mm)
+Ancho (mm)
+Alto (mm)
+Distancia entre ejes (mm)
+Distancia al suelo(mm)
+Espacio de carga en el maletero trasero (L)
+Peso en vacío (kg)
+eMOTOR & BATERÍA
+Tipo de motor
+Potencia neta máxima (kW)
+Par máximo (Nm)
+Batería (kWh)
+OBC max power (kW)
+Potencia máxima del cargador a bordo (kW)
+Tiempo de carga CC (min)
+RENDIMIENTO
+Velocidad máxima (km/h)
+Aceleración 0-100 km (s)
+Autonomía WLTP EV (km)
+Autonomía Total (km)
+Consumo (Wh/km)
+CHASIS Y RUEDAS
+Rueda motriz
+Suspensión (delantera/trasera)
+Freno (delantero/trasero)
+Neumáticos (delantero)
+Neumáticos (trasero)
+B10 LIFE
+B10 DESIGN
+4515
+1885
+1655
+2735
+170
+430
+1780
+PMS
+160
+240
+56,2
+11
+140
+20
+170
+8
+361
+361
+17,2
+RWD
+McPherson/Multilink
+Disco (Ventilado)
+225/50 R18
+235/50 R18
+4515
+1885
+1655
+2735
+170
+430
+1845
+PMS
+160
+240
+67,1
+11
+168
+20
+170
+8
+434
+434
+17,3
+RWD
+McPherson/Multilink
+Disco (Ventilado)
+225/50 R18
+235/50 R18
+
+[texto de la página 24]
+V2L)*
+Airbag
+L
+.
+B10 LIFE
+LED (con animación
+luminosa)
+B10 DESIGN
+LED
+
+[texto de la página 25]
+ADAS
+ACC (
+LCC (
+ISA (
+)
+LKA (
+ELKA (
+FCW (
+)
+RCW (
+)
+AEB (
+BSD (
+)
+DOW (
+LDW (
+HOD (
+)
+RCTA (
+)
+RCTB (
+)
+DDAW (
+ADDW (
+)
+TJA (
+)
+14,6’’ 
+Apple CarPlay & Android Auto
+ 
+6
+ 12
+B10 LIFE
+B10 DESIGN
+
+[texto de la página 26]
+I
+RESPALDA:

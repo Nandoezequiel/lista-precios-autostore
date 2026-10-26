@@ -1,0 +1,2865 @@
+
+--- p1 ---
+160 HP
+M O T O R
+1,588 KG
+C A P A C I D A D D E R E M O L Q U E
+MONITOR INTELIGENTE 
+DE VISIÓN PERIFÉRICA 4x4
+121@6000
+k w @ R P M
+31 GRADOS 
+Á N G U L O D E A T A Q U E
+25.3 GRADOS 
+Á N G U L O D E S A L I D A
+BLOQUEO 
+DIFERENCIAL
+960 KG
+C A P A C I D A D D E C A R G A
+Imagen de uso ilustrativo. Consultá nivel de equipamiento y disponibilidad por versión con tu Distribuidor Autorizado Nissan o visitanos en nissan.com.uy
+N U E V A N IS SAN
+FRO N TIE R
+
+--- p2 ---
+NISSAN FRONTIER®
+ESPECIFICACIONES
+CABINA SIMPLE
+DOBLE CABINA
+S
+S
+S
+S
+S
+Motor
+Combustible
+NAFTA
+Número de cilindros
+Número de válvulas
+4 in line
+Desplazamiento (litros)
+16
+Potencia neta (hp)
+2.5 (2488cc)
+Potencia (Kw @ rpm)
+158
+Par (Nm @ rpm)
+233@4000
+Diámetro y carrera (mm)
+89/100
+Relación de compresión (: 1)
+Sistema de suministro de combustible
+10
+MPI
+Bloqueo del diferencial trasero
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+Hidráulicos
+Discos ventilados
+Tambor
+Hidráulicos
+Discos ventilados
+Tambor
+Hidráulicos
+Discos ventilados
+Tambor
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Hidráulicos
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+Discos ventilados
+Tambor
+5253
+S
+2WD
+Transmisión
+Chasis y suspención
+Transmisión automática  (7AT)
+Transmisión manual (6MT)
+Relación de transmisión
+Relación de transmisión ﬁnal (: 1)
+Tipo de suspensión Delantera
+Frenos
+Dimensiones (mm) / Capacidad (L)
+Llantas
+Visibilidad
+Tablero
+Vidrios
+Bloqueo de puerta central
+Tipo
+Tipo de frenos Delanteros
+Tipo de frenos Traseros
+Longitud total
+1875
+Ancho
+1851
+1803
+1822.3
+1822.3
+1822.3
+1822.3
+1842.7
+1857
+1857
+1850.3 
+1803
+1803
+1755.8
+Altura total
+1950
+1755
+1855
+1877
+1855
+1867
+1880
+1960
+1979
+1950
+1962
+1892
+1972
+1960
+1975
+1987
+1920
+2000
+2015
+2015
+1920
+2000
+2015
+2015
+Peso en vacío
+1952
+1765
+Máx. Peso en vacío
+2910
+GVWR
+233
+Distancia al piso 
+960
+Carga útil (sin pasajeros)
+Tipo de suspensión Trasera
+Doble horquilla + estabilizador + postura global
+Doble horquilla + estabilizador + postura de minería
+Ballesta + Postura global
+Multi-Link (5-Link) + Postura global
+Kg
+1588
+Capacidad de remolque
+Kg
+80
+5331.7
+1790
+1755.8
+1708
+1712
+2550
+208
+208
+1095
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+3500
+1135
+1135
+1135
+1135
+1130
+1110
+1120
+1120
+1175
+1070
+1080
+842
+1588
+80
+5253
+1850
+1803.5
+1788
+1807
+2550
+206,2
+206,2
+227,2
+227,2
+227,2
+227,2
+227,2
+220,1
+233,2
+233,2
+214,1
+206,2
+762
+1588
+80
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+5253
+1850
+1790
+1850
+1850
+1850
+1850
+1850
+1850
+1850
+1850
+1850
+1850
+1875
+1809
+1801
+1807
+2550
+2850
+2990
+2990
+2990
+2990
+3080
+3080
+3080
+3080
+3150
+3150
+3150
+214,1
+749
+1588
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+Capacidad del tanque de combustible
+Tipo de neumáticos
+L
+205R16C
+255 / 65R17
+255 / 65R17 + Todo terreno (OWL)
+255 / 60R18
+-
+Tamaño y material de la rueda
+16" + Acero + Tapa Central
+17" + Acero + Tapa Central
+Llanta 17 " (todoterreno)
+Llanta 17 "
+Llanta 18 "
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+-
+S
+-
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+-
+S
+-
+-
+-
+S
+-
+-
+-
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+-
+-
+S
+S
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+S
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+S
+-
+-
+-
+-
+S
+S
+-
+-
+S
+S
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+S
+S
+S
+S
+-
+-
+S
+S
+S
+-
+S
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+-
+-
+S
+S
+-
+-
+S
+-
+-
+S
+S
+S
+-
+S
+S
+S
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+-
+-
+-
+-
+S
+S
+-
+-
+S
+S
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+S
+S
+S
+-
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+-
+-
+-
+S
+S
+-
+-
+S
+S
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+Rueda de repuesto
+Neumático de repuesto + rueda de acero
+Neumático de repuesto + Llanta
+Espejo retrovisor interno (atenuación manual )
+Espejo retrovisor interno (atenuación automática)
+Faros
+Faros halógenos (negros)
+Faros LED (negros)
+Sistema de luz automático
+Con luz automática + peligro automático + Follow me Home
+Espejo exterior
+Espejo de habitación
+Luces antiniebla
+Lámpara de niebla frontal
+Luces antiniebla (LED)
+Luces de circulación diurna (tipo Signature)
+Luces traseras combinadas
+Luz trasera
+Luces traseras combinadas (LED)
+Con control de crucero (ASCD)
+S
+S
+S
+Control de crucero / limitador de velocidad
+Vidrios eléctricos
+One Touch Conductor
+Cuero
+Tipo de volante
+Potenciado Hidráulico
+Dirección asistida
+Con inclinación manual
+Posición del volante
+Con interruptor 4WD (tipo giratorio)
+Cambiar 4X4 a 4X2
+Con perilla de cambio Modo M
+Bloqueo para niños
++ Bloqueo central de puertas (Conductor)
++ Bloqueo sensor de velocidad
+Bloqueo para niños
++ Bloqueo central de puertas (Conductor)
+Bloqueo infantil
+Palanca de cambio de paleta
+Cuero
+Freno de mano
+Llave inteligente
+Llave
+Medidor estándar
+(velocidad + tacómetro + pantalla de segmento)
+Medidor alto (velocidad + tacómetro
++ pantalla a color Tft de 7 "+ pantalla de velocidad digital)
+Asiento  Conductor separado manual
+(6 vías (deslizante + reclinable + elevador))
+Contador de revoluciones del motor
+Limpiaparabrisas Frontal (Intermitente variable
++ Niebla + Sensible a la velocidad)
+Limpiaparabrisas Frontal (Intermitente + Niebla)
+Limpiaparabrisas Frontal
+ (Intermitente variable + Detección de niebla + Lluvia)
+Limpiaparabrisas delantero
+Espejo de puerta exterior (Negro) + Plegado manual
++ Ajuste eléctrico)
+Espejo de puerta exterior (de color + plegable eléctrico
++ ajuste eléctrico + intermitente + calefactor)
+Espejo de puerta exterior (de color + Plegado eléctrico
++ Ajuste eléctrico + Señal de giro + Calefactor
++ Plegado automático + Cámara)
+Espejo de puerta exterior (pintado de negro + Plegado eléctrico
++ Ajuste eléctrico+ Intermitente + Calentador
++ Plegado automático + Cámara)
+1ra
+2da
+3ra
+4ta
+5ta
+6ta
+7ta
+Reversa (:1)
+-
+6MT
+4,685
+4,685
+4,685
+4,685
+4,685
+4,685
+4,685
+4,685
+4,685
+4,685
+4,887
+4,887
+4,887
+2,478
+2,478
+2,478
+2,478
+2,478
+2,478
+2,478
+2,478
+2,478
+2,478
+1,207
+1,623
+1,623
+1,623
+1,623
+1,623
+1,623
+1,623
+1,623
+1,623
+2,027
+2,027
+2,027
+1,371
+1
+0,808
+4,709
+4,709
+4,709
+4,709
+4,709
+4,709
+4,709
+4,709
+4,709
+4,709
+4,041
+4,041
+4,041
+4,636
+NAFTA
+4 in line
+16
+2.5 (2488cc)
+158
+233@4000
+89/100
+10
+MPI
+-
+2WD
+-
+6MT
+4,783
+3,103
+3,17
+3,17
+3,17
+1,984
+1,371
+1
+0,808
+4,709
+4,636
+DOBLE CABINA
+DOBLE CABINA
+SE
+PRO4X
+PRO4X
+NAFTA
+4 in line
+16
+2.5 (2488cc)
+158
+233@4000
+89/100
+10
+MPI
+-
+-
+-
+2WD
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+ -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+ -
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+-
+-
+-
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S 
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S 
+S
+-
+S
+-
+S
+-
+-
+S
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+-
+S
+-
+S
+S
+-
+S
+S
+S
+-  
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+S
+S
+S
+-
+- 
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+- 
+S
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+-
+S
+S
+S
+S
+S
+S
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+S
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+S
+S
+-
+-
+-
+S
+-
+-
+-
+-
+-
+-
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+S
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+6MT
+6MT
+6MT
+6MT
+6MT
+6MT
+6MT
+-
+6MT
+6MT
+6MT
+-
+-
+4,783
+3,103
+1,984
+1,371
+1
+0,808
+0,808
+0,808
+0,808
+0,808
+0,808
+0,808
+0,808
+0,808
+0,808
+0,864
+0,864
+0,864
+4,709
+4,636
+CABINA SIMPLE
+DOBLE CABINA
+DOBLE CABINA
+SE
+SE
+XE
+XE
+XE
+LE
+LE
+LE
+DOBLE CABINA
+DOBLE CABINA
+DOBLE CABINA
+DOBLE CABINA
+DOBLE CABINA
+DOBLE CABINA
+CABINA SIMPLE
+DOBLE CABINA
+DOBLE CABINA
+ 
+Asientos
+Comfort
+Aire Acondicionado
+Audio y Navegación
+Exterior
+Tipo de asientos delanteros
+Apoyabrazos del asiento Trasero
+Asiento separado Conductor Eléctrico
+(8 vías (deslizante + reclinable+ elevador + inclinación)
++ lumbar) + bolsillo trasero del asiento)
+Apoyabrazos + Portavasos x2
+Tela
+Cuero (Oﬀroad)
+Cuero
+Revestimiento del asiento
+Asiento del pasajero delantero (S)
+4 vías (deslizante + reclinable)
+4 vías (deslizante + reclinable)
++ bolsillo trasero del asiento
+Asientos de la 2a ﬁla
+Asiento trasero abatible
+Asiento
+Asiento Calefaccionado (Conductor + Acompañante)
+Interior
+Consola central
+Consola central + apoyabrazos
+Consola central + apoyabrazos (tela)
+Consola central + reposabrazos (todoterreno)
+Consola central + apoyabrazos (cuero)
+Almacenamiento en el techo
+Con soporte para gafas de sol
+Agarre de asistencia
+Iluminación de la habitación
+Tipo ﬁjo ( x1  )
+Tipo ﬁjo ( x1 + Trasero x2)
+Luz frontal
+Lectura de luz de habitación (Frontal + Trasero)
+Luz interior de la puerta
+Luz de cortesía de puerta delantera
+Control de iluminación
+Con control de iluminación (medidor)
+Embellecedor de puerta interior
+Con decoración de molduras de puerta
+Con decoración de molduras de puerta (tela)
+Con decoración de molduras de puerta (todo terreno)
+Con decoración depuerta (cuero)
+Manija de puerta interior
+Tirador de puerta interior (negro)
+Tirador de puerta interior (cromada)
+Posavasos
+Portavasos (Delanteros x3 + Traseros x2)
+Portavasos ( x2)
+Aire acondicionado y calefacción
+Aire acondicionado
+Ventilación Frontal lateral x2
++ Ventilación central frontal x2
+Ventilación Frontal lateral x2 + Ventilación central
+frontal x2 + Ventilacion central trasera x2
+Tipo de radio
+Audio W2Din + AM / FM + BTHF
+Audio no Din + AM / FM + BTHF
+A-IVI Mid DA 8 "+ BTHF
+A-IVI Mid Navi 8 "+ BTHF
+Puerta trasera
+Altavoz / Radio
+2 altavoces
+4 altavoces
+6 altavoces
+Parachoques delantero negro
+Parachoques delantero del color de la carrocería
+Parachoques delantero del color de la carrocería
+con detalle
+Parachoques trasero negro
+Parachoques trasero de color
+Puerta trasera en relieve Nissan
++ cerradura doble (normal)
+Nombre del modelo Puerta trasera en relieve
++ tirador central
+Parachoques delantero
+Parachoques trasero
+Negro
+Cromo
+Negro
+Cromo
+Tipo de parrilla
+Con rieles de techo plateados
+Con rieles de techo negros
+Tirador de puerta exterior (negro)
+Tirador de puerta exterior (negro)
++ tirador de puerta trasera (negro)
+Gancho de amarre
+Seguridad
+Ventilación
+Climatizador
+Con toma de corriente 12V x3 
+Riel de techo y barra transversal
+Gancho de remolque delantero
+ISO FIX + Tether
+Isoﬁx
+FEB + PFCW + DAA + BSW + LDW + CTA + HBA
+Conducción autónoma
+Inmovilizador 
+Inmovilizador + Alarma VSS
+Dispositivos antirrobo
+ABS + EBD + BA
+Sistema de freno antibloqueo
+VDC (B-LSD) con cancelar Sw + HSA + TSA
+VDC (B-LSD) con cancelar Sw + HSA + HDC + TSA
+VDC
+HMSL (LED)
+Lámpara de freno de montaje alto
+Monitor de visión periférica AVM
+(Monitor todoterreno para 4X4)+ MOD
++ Sensor de estacionamiento (Traseros x4)
+Con monitor de visión trasera RVM
+Con monitor de vista periférica AVM + MOD 
++ Sensor de estacionamiento (Traseros x4)
+Sistema de asistencia de estacionamiento
+Recordatorio del cinturón de seguridad
+(Conductor y Acompañante + Asientos Traseros)
+Recordatorio del cinturón de seguridad
+(Conductor y Acompañante)
+Recordatorio de cinturón de seguridad
+Airbag (Conductor + Acompañante + Lateral + Cortina)
+Bolsa de aire del pasajero
+3 puntas + pretensor + limitador de carga
++ ajuste de altura
+Como asiento ELR de 3 puntos + pretensor
++ limitador de carga + ajuste de altura
+Cinturón de seguridad delantero
+3 Cinturones de asientos traseros de 
+tres puntas
+Asistente de cinturón de seguridad
+Moldura de ventana
+Manija de puerta exterior (pintura negra)
++ manija de puerta trasera (negro)
+Manija de puerta exterior (cromada)
++ manija de puerta trasera (cromada)
+Tipo de manija de puerta exterior
+NAFTA
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+DIESEL
+4 in line
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+16
+2.5 (2488cc)
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+2488
+160
+160
+160
+160
+160
+160
+187
+187
+187
+187
+187
+187
+187
+238@4000
+403@3600
+403@2000
+403@2000
+403@2000
+403@2000
+450@2000
+450@2000
+450@2000
+450@2000
+450@2000
+450@2000
+450@2000
+118@6000
+118@6000
+118@6000
+121@6000
+120@3600
+120@3600
+120@3600
+120@3600
+120@3600
+140@3600
+140@3600
+140@3600
+140@3600
+140@3600
+140@3600
+140@3600
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+89/100
+10
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+15
+MPI
+Common roll Common roll Common roll Common roll Common roll Common roll Common roll Common roll Common roll Common roll Common roll Common roll
+S
+S
+-
+-
+S
+S
+-
+S
+S
+S
+S
+4WD
+2WD
+2WD
+4WD
+2WD
+4WD
+2WD
+4WD
+4WD
+2WD
+4WD
+4WD
+4WD
+7AT
+7AT
+7AT
+7AT
+4,783
+3,103
+1,984
+1,371
+1,207
+1,207
+1,207
+1,207
+1,207
+1,207
+1,207
+1,207
+1,207
+1,412
+1,412
+1,412
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0,871
+0,775
+0,775
+0,775
+0,775
+3,859
+3,916
+3,538
+3,538
+3,538
+3,538
+3,538
+3,538
+3,538
+3,538
+3,538
+3,357
+3,357
+3,357
+MONTEVIDEO Nissan Center: Cerro Largo 999, Tel.: 2909 1469 • Casa Nissan: Av. Italia 5112, Tel.: 2619 5010 • Pisano: Av. Millán 4328, Tel.: 2356 1015 • Mariño Sport: Miguel Barreiro 3168, Tel.: 2708 6446 • CANELONES CAR ONE: Ruta Interbalnearia esq. Camino de los Horneros, 
+Tel.: 2683 3333 • CANELONES LAS PIEDRAS Moreira Automóviles: Av. Dr. Enrique Pouey esq. Manuel Freire, Tel.: 2369 9847 • CANELONES PANDO Moreira Automóviles: Roosevelt y Piedras, Tel.: 2292 2683 • CERRO LARGO Mauricio Farías: J. P. Varela 771, Tel.: 4643 0849 • 
+COLONIA Videsol: J. P. Varela 593, Tel.: 4522 5411 • DURAZNO Lafor Automotores: Lavalleja 891 esq. Artigas, Tel.: 4362 6626 • FLORIDA Romildo Pereyra: Aparicio Saravia 672, Tel.: 4352 5172 • LAVALLEJA Marmolejo: Roosevelt 753, Tel.: 4442 8444 • MALDONADO Nissan 
+Punta del Este: Roosevelt esq. Salto, Tel.: 4249 8239 • PAYSANDÚ Comercial Wave: Setembrino Pereda 975, Tel.: 4722 5178 • RIVERA Horizonte Automóviles: Joaquin Suárez 767, Tel.: 4623 6748 • SALTO Omar Castro: Rivera 1001, Tel.: 4733 5408 • SAN JOSÉ Pisano: L. A. de 
+Herrera 550, Tel.: 4342 1392 • TACUAREMBÓ Horizonte Automóviles: Pablo Ríos 154 BIS, Tel.: 4633 6891 • TREINTA Y TRES Automotora 33: Juan A. Lavalleja 656, Tel.: 4452 2447.
+La descripción de la unidad que surge de este catalogo es meramente orientativo y reﬂeja alguna de las versiones existentes de cada unidad según el modelo.  El equipamiento, accesorios y/o las características de cada modelo, podrán ser diferentes a la que surge 
+del presente catálogo o de la imagen que se reﬂeja en el mismo, debiendo el cliente veriﬁcar las mismas según la unidad que sea de su interés. Es posible que las versiones que se reﬂejen en las publicaciones no se encuentren disponibles a la venta en el territorio 
+uruguayo. El cliente, no podrá responsabilizar a RALITOR SA por diferencias que existan entre, este catálogo y los modelos que se comercializan en el territorio uruguayo. El cliente conoce y acepta esta posible diferencia, la cual no podrá ser considerada como 
+publicidad engañosa o similar. Los colores ofrecidos son de modo ilustrativo, no siendo los mismo determinantemente idénticos a los que reﬂejen las unidades disponibles. Las imágenes e ilustraciones que surgen de este catálogo intentan dar una muestra 
+aproximada de las opciones de color que dispone cada unidad, considerando las diferencias factibles en las tonalidades de una imagen virtual y la realidad de la cada unidad. El cliente no podrá responsabilizar a RALITOR SA por las diferencias existentes entre las 
+diferencias que puedan surgir de las imágenes de este catálogo o las descripción de la unidad publicitada y la apreciación de la unidad en tiempo real o las características y accesorios que contengan las unidades disponibles. La disponibilidad de colores de cada 
+versión o unidad quedaran supeditadas al Stock existente en el concesionario de su elección.

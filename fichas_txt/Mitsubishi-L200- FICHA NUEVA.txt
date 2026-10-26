@@ -1,0 +1,31 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+MITSUBISHI NEW L200 — la ficha compara 4 versiones (columnas): [A] 2WD GLX 5MT Nafta, [B] 2WD GLX 6MT Diésel, [C] 4WD GLS 6MT Diésel, [D] 4WD GLS 6AT Diésel. (En la lista de precios: «New L200 2.4N 4x2 MT GLX» = A; «2.4D HR 4x2 MT» = B; «2.4 DIT 4x4 MT» = C; «2.4 DIT 4x4 AT» = D; la GLS+ SHP no figura en esta ficha.) "Equipada" = la trae; "–" = no la trae.
+
+MOTOR Y TRANSMISIÓN
+- A: motor 4G64 nafta, 2351 cm3, 94 kW (126 HP) a 5250 rpm, torque 194 Nm a 4000 rpm, caja manual 5 vel. (R5M21), tracción 2WD, vel. máx. 152 km/h.
+- B: motor 4N16 diésel, 2442 cm3, 110 kW (147 HP) a 3500 rpm, 330 Nm (1500-3000 rpm), manual 6 vel., 2WD, 170 km/h.
+- C: motor 4N16 diésel, 2442 cm3, 135 kW (181 HP) a 3500 rpm, 430 Nm (2250-2500 rpm), manual 6 vel., tracción Super Select 4WD-II, 180 km/h, 7 modos de manejo.
+- D: igual a C pero caja automática 6AT, Super Select 4WD-II, 177 km/h, 7 modos de manejo y bloqueo de diferencial trasero (solo D lo trae).
+- Tanque 75 L en todas.
+CHASIS: suspensión delantera doble brazo con resorte helicoidal, trasera elásticos (ballestas), dirección asistida eléctricamente, frenos delanteros de disco ventilado (A y B 290 mm, C y D 320 mm) con mordaza de doble pistón, traseros tambor 11,6". Llantas: A y B 16" de aleación gris plata, neumáticos 265/70 R16; C y D 18" de aleación gris plata, 265/60 R18. Rueda de auxilio homogénea.
+DIMENSIONES (todas): largo 5.320 mm, ancho 1.865-1.868 mm, alto 1.775 (A) / 1.795 (B, C, D) mm, distancia entre ejes 3.130 mm, despeje 212 (A) / 222 (B y D) / 228 (C) mm; caja interior 1.555 x 1.545 x 525 mm (1.135 entre pasarruedas); peso en vacío A 1.690 kg, B 1.800 kg, C 1.975 kg, D 2.056 kg; peso máximo admisible A 2.635, B 2.910, C y D 3.000 kg; carga útil A 945, B 1.110, C 1.025, D 1.035 kg; remolque con frenos A 1.800 kg y B/C/D 3.500 kg (sin frenos 750 kg); ángulos de ataque 28,9° (A, B) y 30,4° (C, D).
+
+SEGURIDAD
+- En las 4 versiones: traba para niños, cinturones de 3 puntas con pretensores y limitador para las plazas delanteras (5 plazas), 5 apoyacabezas, recordatorio de cinturón, cámara trasera, ayuda de arranque en pendiente (HSA), ABS+EBD+ESP+TRC, control de presión de neumáticos (TPMS), 7 airbags (frontales, laterales, de cortina y de rodillas del conductor), desactivación del airbag del pasajero, limitador de velocidad, ISOFIX, frenado autónomo de emergencia (AEB), alerta de punto ciego (BSM), luces altas automáticas (AHB).
+- SOLO en C y D (no en A ni B): alerta de tráfico cruzado trasero (RCTA), asistente de cambio de carril (LCA y LDC), Active Yaw Control (AYC), sensores de estacionamiento delanteros y traseros.
+- SOLO en D: ayuda de descenso en pendiente (HDC), cámara Multi Around Monitor (360°) con detección de objetos móviles (MOD), sensor crepuscular.
+
+EXTERIOR
+- A y B: parrilla negro mate, manijas de puertas negras, marcos de ventanas color carrocería, limpiaparabrisas manual con intermitente de 2 velocidades, espejos exteriores sin pintar (plegado y comando eléctrico, desempañador, luz de giro LED), faros delanteros, DRL, faros auxiliares y luz trasera de niebla halógenos, luces traseras halógenas.
+- C y D: parrilla negro piano, manijas cromadas, marcos de ventanas negros, limpiaparabrisas automático con sensor de lluvia, espejos cromados con plegado eléctrico, faros delanteros LED con regulación de altura, DRL, faros auxiliares, niebla trasera y luces traseras LED. D además paragolpes delantero con detalles cromados.
+- Todas: parabrisas con reducción de rayos UV, vidrios traseros tintados, luneta térmica, follow me home, 4 puntos de anclaje en la caja, cubrecárter, protector de cabina frontal de la caja.
+
+INTERIOR
+- Tapizado: A y B tela con costuras visibles; C y D cuero con costuras grises. Todas: interior negro, plancha de abordo tapizada en cuero sintético, volante multifunción forrado en cuero ajustable en 4 direcciones, pomo de cambios tapizado en cuero, apoyabrazo central trasero con portavasos, paneles de puerta tapizados en cuero con apoyabrazos, manijas interiores cromadas, vidrios eléctricos con one touch y antipinzamiento (conductor) y eléctricos para pasajeros, cierre centralizado con destrabe automático en colisión, acceso y arranque Keyless.
+- Asiento del conductor: A y B regulación manual en 6 direcciones; C y D regulación ELÉCTRICA en 8 direcciones. Asiento del pasajero: manual en 4 direcciones (todas).
+- Climatizador: A y B automático de una zona; C automático bizona; D automático bizona con forzador de aire para plazas traseras.
+- Multimedia (todas): pantalla de 9" con Android Auto y Apple CarPlay, 6 altavoces, puertos USB A + USB C frontales.
+- Cargador inalámbrico (por inducción) de smartphones: SOLO la D (4WD GLS 6AT); las otras tres no lo traen.
+- Tablero: A y B agujas con display monocromático de 3,5"; C y D agujas con pantalla color de 7". Agarraderas de techo: A y B fijas; C y D plegables. Parasoles con espejos de cortesía en C y D. Cenicero removible solo en D. Espejo retrovisor con antiencandilamiento manual (todas).
+
+OTRAS PÁGINAS DE LA FICHA (texto):

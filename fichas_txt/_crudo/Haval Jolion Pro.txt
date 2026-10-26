@@ -1,0 +1,465 @@
+
+--- p1 ---
+ 
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Rendimiento
+mixto 19,6 km/L
+ Techo panorámico
+con apertura
+Híbrido
+Autorecargable
+
+--- p2 ---
+Cilindrada (L)
+Transmisión
+Tracción
+Potencia motor a combustión (HP)
+Torque motor a combustión (HP)
+Potencia motor eléctrico (HP)
+Torque motor eléctrico (Nm) 
+Potencia Combinada (HP)
+Torque Combinado (Nm)
+Peso bruto vehicular (Kg)
+Capacidad del tanque de combustible (L)
+Rendimiento mixto km/L
+Especificaciones básicas
+125
+154
+250
+375
+188
+55
+1940
+Elite HEV
+Deluxe HEV
+Chasis
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Suspensión delantera independiente tipo McPherson
+Suspensión trasera multi-link
+Asistencia de dirección Eléctrica
+Freno de mano electrónico
+Freno a disco en las cuatro ruedas
+Modos de manejo Standard/Economic/Sport/Snow
+Conducción One-Pedal
+Asistencia de dirección ajustable
+Protección de bajos
+Neumáticos 215/60 R17
+Neumáticos 225/55R18
+Multimedia
+Seguridad activa y pasiva
+Doble airbag frontal
+Airbag lateral
+Airbag de cortina
+Cinturones delanteros de tres puntas con pretensores y limitador de fuerza
+Cinturones traseros de tres puntas con limitador de fuerza
+Aviso de cinturón de seguridad
+Columna de dirección colapsable
+Traba para niños
+Frenos ABS + EBD
+Control de estabilidad (ESP)
+Control de tracción (TCS)
+Ayuda de arranque en pendiente (HHC)
+Ayuda de descenso en pendiente (HDC)
+Sistema de mitigación de vuelcos (RMI)
+Sistema de asistencia de freno (BAS)
+Sistema de mitigación de segunda colisión (SCM)
+Alarma de frenado de emergencia
+Monitor de presion de neumaticos (TPMS)
+Desbloqueo automático de puertas en caso de colisión
+Corte de combustible en caso de colisión
+Sensor de estacionamiento trasero x4
+Sistema de cámaras HD 360°
+Control de velocidad crucero
+Control Crucero adaptativo (ACC) + Asistencia de curvas
+Control de velocidad crucero para atascos de tráfico (TJA) 60km/h
+Advertencia de colisión frontal (FCW)
+Frenado autónomo de emergencia (AEB) (Vehiculos- peatones - ciclistas)
+Asistente de intersección (AEB)
+Asistente de mantenimiento de carril (LKA)
+Aviso de cambio de carril (LDW)
+Asistente de centrado de carril (LCK)
+Limitador de velocidad inteligente (IACC)
+Esquiva inteligente
+Lector de señales de tránsito
+Alerta de punto ciego (BSD) + Asistente de cambio de carril
+Alerta de tráfico cruzado trasero con frenado de emergencia (RCTB)
+Advertencia de apertura de puertas (DOW)
+Asistente de mantenimiento de carril de emergencia (ELK)
+ISOFIX
+Monitor de fatiga del conductor (DFMS)
+Grabadora de datos ante accidentes (EDR)
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+●
+x
+●
+x
+x
+●
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+Asientos
+Vidrios y espejos exteriores
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+x
+●
+●
+●
+Elite HEV
+Deluxe HEV
+Tapizados de cuero
+Asiento del conductor ajustable en 6 direcciones electricamente con ventilación
+Asiento del pasajero ajustable en 4 direcciones manualmente
+Asiento del pasajero ajustable en 4 direcciones eléctricamente
+Respaldo trasero abatible 60/40
+Asientos delanteros calefactados
+Apoyabrazos trasero central con posavasos
+Exterior
+Multimedia
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+●
+●
+●
+●
+Radio con RDS
+Conectividad Bluetooth
+Pantalla multimedia de 10.25"
+Pantalla multimedia de 12.3"
+Puertos de carga USB 2 delanteros + 2 traseros
+Sistema de audio DTS de 6 altavoces
+Apple CarPlay & Android Auto
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Manijas de puerta piano black
+Espejos exteriores piano black
+Antena aleta de tiburón
+Brazos limpiaparabrisas ocultos
+Limpia luneta
+Sensor crepuescular + sensor de lluvia
+Techo panorámico con apertura
+Rieles de techo
+Colizas de vidrios cromadas
+Apertura electrica tapa de combustible
+Llantas de aleacion
+Interior
+Iluminación
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+Faros delanteros LED
+Faros delanteros con ajuste de altura eléctrica
+Follow-me home
+Luces de niebla trasera
+DRL
+Tercera luz de stop LED
+Luz interior 
+Iluminación interior multicolor ritmica
+Aviso de luces encendidas
+Luz de baúl
+●
+x
+x
+●
+●
+x
+x
+●
+x
+●
+x
+●
+●
+●
+●
+●
+x
+●
+Espejo interior manual
+Espejo interior electrocromático
+Vidrio del conductor one touch con antipinzamiento
+Vidrios one touch con antipinzamiento X4
+con cierre automático en el bloqueo
+Cierre de vidrios desde llave
+Espejos exteriores con ajuste eléctrico y luces de giro
+Espejos exteriores con plegado manual
+Espejos exteriores con plegado eléctrico, automático y calefactados
+Desempañador de luneta
+Tapizados de color negro
+Plancha de abordo de material blando
+Volante forrado en cuero
+Columna de dirección ajustable en 4 direcciones
+Computadora de abordo
+Tablero de instrumentos con pantalla LCD de 7"
+Espejo de cortesia con iluminación
+Cargador inalámbrico para smartphones
+Toma de 12v en plazas delanteras
+Apoyabrazos delantero central
+Posavasos copiloto
+Agarraderas de techo
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+4472 mm
+1841 mm
+1619 mm
+94
+Automática DHT
+2WD
+1.5 
+x
+●
+●
+●
+Climatizador bizona automático
+Salida de aire para la 2da fila
+Indicador de temperatura exterior
+Filtro de habitáculo
+Climatización
+Elite HEV
+Deluxe HEV
+Elite HEV
+Deluxe HEV
+Elite HEV
+Deluxe HEV
+Elite HEV
+Deluxe HEV
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+Elite HEV
+Deluxe HEV
+Smart keys x2
+Acceso Keyless
+Arranque por botón
+Inmobilizador de motor
+Alarma
+Cierre centralizado
+Acceso y seguridad del vehiculo
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Elite HEV
+Deluxe HEV
+Elite HEV
+Deluxe HEV
+Elite HEV
+Deluxe HEV
+●
+●
+●
+●
+●
+●
+●
+●
+Dimensiones
+Elite HEV
+Deluxe HEV
+163 mm
+2700 mm
+19,6

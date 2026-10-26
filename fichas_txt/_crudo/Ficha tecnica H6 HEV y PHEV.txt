@@ -1,0 +1,891 @@
+
+--- p1 ---
+ 
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Rendimiento
+mixto 19,2 km/L
+6 Airbags y alerta
+de colisión frontal
+Sistema híbrido
+enchufable (PHEV)
+autorecargable (HEV) /
+ADAS de
+última generación
+
+--- p2 ---
+●
+●
+Deluxe
+2WD
+Deluxe
+4WD
+Otros
+Deluxe
+2WD
+Deluxe
+4WD
+Deluxe
+2WD
+Deluxe
+4WD
+Deluxe
+2WD
+Deluxe
+4WD
+Deluxe
+2WD
+Deluxe
+4WD
+Chasis y dirección
+HEV
+PHEV
+1.5T
+1.5T
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Deluxe
+2WD
+Deluxe
+4WD
+Portón trasero eléctrico
+Baúl con apertura por sensor (hands free)
+Limpiaparabrisas sin marco con sensor
+Techo solar panorámico
+Barras portaequipaje en techo
+Antena tipo aleta de tiburón
+Manija de puerta convencional
+Exterior
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+Asientos
+●
+●
+●
+●
+x
+●
+x
+x
+●
+Asientos de cuero
+Asiento del conductor con ajuste eléctrico 
+de 6 posiciones
+Soporte lumbar del conductor eléctrico 
+de 2 posiciones
+Memoria de asiento del conductor
+Función de acceso/salida cómoda del conductor
+Asiento del pasajero con ajuste manual 
+de 4 posiciones
+Asiento del pasajero con ajuste eléctrico 
+de 4 posiciones
+Asientos delanteros calefaccionados
+Asientos delanteros ventilados
+Segunda fila con respaldo abatible 60/40
+Apoyacabezas central en segunda fila
+Apoyacabezas traseros
+Volante multifunción
+Volante revestido en cuero microfibra
+Volante con ajuste manual
+Ajuste manual en 4 direcciones del volante
+Carga inalámbrica
+Toma de corriente 12V en baúl
+Apoyabrazos central delantero
+Apoyabrazos central en segunda fila con portavasos
+Portavasos delantero en consola
+Cortina cubre-equipaje
+Umbrales de acero inoxidable
+Asas de techo
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+Doble airbag frontal
+Airbags laterales delanteros
+Airbags laterales
+Cinturones delanteros y traseros laterales con 
+pretensor y limitador de fuerza
+Cinturones de 3 puntos en segunda fila
+Aviso de cinturón desabrochado (delantero y trasero)
+Seguro infantil mecánico
+Control de estabilidad (ESC)
+Control de tracción (TCS)
+Sistema de mitigación de vuelco (RMI)
+Asistencia de frenado (BA)
+Control de descenso (HDC)
+Asistente de arranque en pendiente (HHC)
+Sistema de prioridad de frenado
+Monitoreo de presión de neumáticos (TPMS)
+Puerto USB para cámara a bordo (dash cam)
+Estacionamiento totalmente automático (fusión)
+Radar de reversa
+Cámara 360°
+Chasis transparente
+Control de crucero adaptativo (ACC)
+Alerta de colisión frontal + frenado automático de 
+emergencia (AEB)
+Asistencia para peatones/ciclistas
+Asistente inteligente de curvas
+Evasión inteligente
+Alerta de salida de carril (LDW)
+Asistente de mantenimiento de carril (LKA)
+Centrado de carril (LCK)
+Reconocimiento de señales de tránsito (TSR)
+Asistente inteligente de límite de velocidad (IACC)
+Asistencia en tráfico denso (TJA)
+Asistente de crucero inteligente (ICA)
+AEB en intersecciones
+Detección de punto ciego + asistencia de carril
+Alerta de tráfico cruzado trasero
+Frenado automático trasero lateral
+Alerta de colisión trasera (RCW)
+Alerta de apertura de puerta (DOW)
+Asistente de mantenimiento de carril de emergencia (ELK)
+Monitoreo de fatiga del conductor (sin cámara)
+Registrador de datos de emergencia (EDR)
+Alarma de exceso de velocidad
+Anclajes ISOFIX
+Mitigación de colisión secundaria (SCM)
+Asistente de estabilidad dinámica (DST)
+Alerta de baja velocidad
+Seguridad del Vehículo
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+ Dispositivo antirrobo
+Llave inteligente (2 llaves)
+Sistema de acceso sin llave
+Encendido one touch
+Función de búsqueda del vehículo
+Inmovilizador electrónico del motor
+Alarma antirrobo
+Cierre centralizado sensible a la velocidad
+Cierre centralizado por control remoto
+Desbloqueo automático en caso de colisión
+Bloqueo automático de puertas
+Función anti-bloqueo erróneo
+Alerta de puerta abierta
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Vidrios y Espejos
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Tablero digital de 10,25”
+Pantalla táctil multimedia de 14,6”
+Brillo del tablero ajustable
+Comando por voz
+Radio FM/AM
+Sistema manos libres Bluetooth
+Puertos USB delanteros (Tipo A, uno con 
+transmisión de datos, otro sin)
+Puertos USB traseros (A+C, sin transmisión
+de datos)
+8 parlantes
+Volumen ajustable según velocidad
+CarPlay y Android Auto (cableado e inalámbrico)
+Computadora de a bordo
+Sistema multimedia V3.5
+●
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Espejo exterior con lente de curvatura simple
+Espejo interior manual anti-encandilamiento
+Espejo interior electrónico anti-encandilamiento
+Subida/bajada de vidrios one-touch en las 4 puertas 
++ antipinzamiento
+Cierre automático de vidrios con control remoto
+Retrovisores exteriores con ajuste eléctrico
+Parabrisas delantero calefaccionado
+Luneta trasera con desempañado eléctrico
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+●
+x
+●
+●
+●
+x
+●
+●
+x
+Faros delanteros (LED)
+Faros traseros (LED)
+Regulación eléctrica de altura de faros
+Encendido automático de luces + función “Follow me 
+home”
+Antiniebla trasero
+Luces diurnas (DLR)
+Alerta de luces encendidas
+Luz de freno de emergencia
+Tercera luz de freno
+Luces de lectura (LED)
+Luz de techo central
+Luz de techo lateral
+Iluminación ambiental monocromática
+Iluminación del baúl (LED)
+gwm.uruguay
+@gwm_uruguay
+gwm.com.uy
+GWM Uruguay
+Colores disponibles
+Climatización
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Climatizador automático bizona
+Salidas traseras de aire acondicionado
+Filtro N95
+Desempañado automático del parabrisas delantero
+Indicador de temperatura exterior
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Inflador + sellador de neumáticos 
+Triángulo de señalización
+Interruptor (PAB)
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+x
+x
+x
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+x
+x
+x
+x
+●
+●
+●
+●
+●
+●
+x
+x
+●
+●
+●
+x
+●
+x
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Dimensiones
+Tipo de motorización
+Motor
+Freno de mano electrónico
+Estacionamiento automático
+Neumáticos R19
+Freno de disco ventilado delantero / disco sólido 
+trasero
+Modo de conducción DHT económico, sport, estándar, 
+nieve
+Suspensión delantera independiente McPherson
+Suspensión trasera independiente multibrazo
+Control de par de frenado (BTC)
+Dirección asistida eléctrica
+Dirección asistida dependiente de velocidad
+Modo de asistencia de dirección (sport, confort, ligero)
+Selector de modos de conducción
+Palanca de cambios en columna
+Freno de estacionamiento electrónico (interruptor 
+suave)
+Modo de conducción: Estándar, Eco, Sport, Nieve 
+Modo de conducción: Estándar, Económico, Sport, 
+Nieve, Arena, Off-Road
+Deluxe
+2WD
+Deluxe
+4WD
+Interior
+Deluxe
+2WD
+Deluxe
+4WD
+Deluxe
+2WD
+Deluxe
+4WD
+Multimedia
+Deluxe
+2WD
+Deluxe
+4WD
+Iluminación
+Deluxe
+2WD
+Deluxe
+4WD
+x
+x
+2738 mm
+4703 mm
+1886 mm
+1730 mm
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe
+Elite
+Deluxe

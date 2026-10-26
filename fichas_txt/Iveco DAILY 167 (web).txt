@@ -1,0 +1,7 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Iveco DAILY; confianza baja)
+Fuentes:
+- ficha oficial iveco.com.uy Iveco Tector 17-280 RSU automático (170E28 RSU) 4x2: https://www.iveco.com.uy/productos/tector-240e28-rsu-automatico
+- linea Tector (Brasil), referencia de nombre: https://www.iveco.com/brasil/Tector
+Notas: Sin ficha oficial del 17-280 RSU 4x2; datos de motor/caja tomados del 240E28 RSU 6x2 (misma serie RSU). PBT/dimensiones del 4x2 no confirmadas.
+
+Iveco Tector 17-280 RSU automático (camión para recolección de residuos, cabina simple, 4x2, entre ejes 4.185 mm según la lista). No existe ficha 4x2 en Iveco Uruguay: el sitio solo trae el Tector 240E28 RSU 6x2 (PBT 24.200 kg, entre ejes 5.175 mm, largo 10.357 mm, ancho 2.456 mm, altura 2.870 mm). Mecánica común: motor Iveco/FPT NEF 6 F4AE3681E 5.880 cm3, 280 CV (206 kW) a 2.500 rpm, 950 Nm de 1.250 a 1.950 rpm; caja automática Allison 3000P de 5+1 marchas; eje delantero Iveco 5872/1; neumáticos 275/80 R22.5; tanque 400 L, urea 27 L; velocidad máx. 114 km/h; rampa 35%. Freno neumático S-cam con ABS, spring brake.

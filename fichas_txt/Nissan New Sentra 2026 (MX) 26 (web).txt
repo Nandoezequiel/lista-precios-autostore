@@ -1,0 +1,12 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (Nissan New Sentra 2026 (MX); confianza media)
+Fuentes:
+- catálogo oficial Sentra 2026 nissan.com.uy: https://www.nissan-cdn.net/content/dam/Nissan/UY/vehicles/Prev-Gen-sentra/my26/vlp/catalogos/nissan-2026-sentra-catalogo%20v2.pdf
+- página oficial nissan.com.uy: https://www.nissan.com.uy/vehiculo/nuevos-vehiculos/sentra.html
+Notas: El catálogo UY es la ficha MX (Nissan Mexicana): columnas 'Sense/Advance/SR/Platinum' no coinciden exactamente con la lista UY 'Advance CVT' y 'Exclusive CVT (SR platinum)'. Se asignó Advance=Advance y Exclusive=SR Platinum. La tabla del PDF está desalineada, el equipamiento por versión es aproximado. Torque 145 lb-pie = 197 Nm. Datos de consumo y pesos asignados con cautela.
+
+Nissan Sentra 2026 (nueva generación, catálogo oficial UY con ficha base Nissan México). Sedán 5 plazas, nafta. Garantía 3 años / 100.000 km.
+MOTOR: 2.0 L (MR20DD) 4 cil. 16V inyección directa, 145 HP a 6.000 rpm, 145 lb-pie (~197 Nm) a 4.000 rpm, relación de compresión 11,7:1. CVT, tracción delantera. Rendimiento ficha MX: ciudad 16,4 / carretera 21,2 / combinado 18,3 km/L (valores de la versión Advance; la versión Exclusive/SR Platinum ronda 17,x km/L).
+DIMENSIONES: largo 4.655 mm, ancho 1.815 mm, alto 1.460 mm, entre ejes 2.705 mm. Baúl 460 L, tanque 47 L. Pesos 1.416 kg (Advance) / 1.453 kg (SR Platinum); brutos 1.807 / 1.841 kg.
+CHASIS: delantera McPherson con estabilizadora, trasera multilink; discos ventilados delante, disco atrás; ABS/EBD/BA; dirección eléctrica. Neumáticos 215/50 R17 (Advance) y 215/45 R18 (Exclusive).
+VERSIONES: Advance CVT (A/A automático digital, faros LED Signature, tela, panel 7" TFT, pantalla 12,3" con CarPlay/Android Auto, 2 USB-C, cámara de reversa, alerta de olvido trasero, 6 airbags); Exclusive CVT (SR Platinum: rines 18", Monolith Display con doble pantalla 12,3", Bose 8 bocinas con subwoofer, piel sintética con costuras diamante, asiento eléctrico, quemacocos eléctrico, climatizador doble zona, cámara 360°, encendido remoto, ProPILOT Assist, I-BSI, I-RAB, I-LI, LDW, ICC, FEB con peatones y ciclistas, HBA).
+SEGURIDAD COMÚN: 6 airbags (frontales, laterales y cortina), ABS, VDC, TCS, HSA, TPMS, ISOFIX, alerta de olvido en asiento trasero.

@@ -1,0 +1,181 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+## Especificaciones básicas  [columnas: Elite | Deluxe]
+- Motor: 4G15K
+- Cilindrada (L): 1.5 Turbo
+- : Elite: Manual 6; Deluxe: Automática DCT
+- Transmisión: Elite: velocidades; Deluxe: 7 velocidades
+- Tracción: 2WD
+- Potencia ICE (HP/RPM): Elite: 174 / 5.600; Deluxe: - 6.000
+- Torque ICE (NM/RPM): Elite: 270 / 2.000; Deluxe: - 4.400
+- Peso bruto vehicular (Kg): Elite: 1740; Deluxe: 1765
+- Capacidad del tanque de combustible (L): 55
+
+## Chasis  [columnas: Elite | Deluxe]
+- Suspensión delantera independiente tipo McPherson: en todas las versiones
+- Suspensión trasera de eje semi rígido: en todas las versiones
+- Asistencia de dirección Eléctrica: en todas las versiones
+- Freno de mano electrónico: en todas las versiones
+- Freno a disco en las cuatro ruedas: en todas las versiones
+- Neumáticos 215/60 R17: en todas las versiones
+- Rueda de auxilio T135/90 R17: en todas las versiones
+
+## Exterior  [columnas: Elite | Deluxe]
+- Manijas de puerta color carroceria: en todas las versiones
+- Espejos exteriores piano black: en todas las versiones
+- Antena aleta de tiburón: en todas las versiones
+- Brazos limpiaparabrisas ocultos: en todas las versiones
+- Limpia luneta: en todas las versiones
+- Sensor crepuescular + sensor de lluvia: en todas las versiones
+- Rieles de techo: en todas las versiones
+- Colizas de vidrios cromadas: en todas las versiones
+- Apertura eléctrica tapa de combustible: en todas las versiones
+- Llantas de aleación: en todas las versiones
+
+## Interior  [columnas: Elite | Deluxe]
+- Plancha de abordo de material rígido: en todas las versiones
+- Cobertor de motor: en todas las versiones
+- Volante forrado en cuero: en todas las versiones
+- Levas al volante: Elite NO; Deluxe SÍ
+- Columna de dirección ajustable en 4 direcciones: en todas las versiones
+- Computadora de abordo: en todas las versiones
+- Tablero de instrumentos con pantalla de 3.5": Elite SÍ; Deluxe NO
+- Tablero de instrumentos con pantalla LCD de 7": Elite NO; Deluxe SÍ
+- Espejo de cortesía: Elite SÍ; Deluxe NO
+- Espejo de cortesía con iluminación: Elite NO; Deluxe SÍ
+- Toma de 12v en plazas delanteras: en todas las versiones
+- Apoyabrazos delantero central: en todas las versiones
+- Posavasos copiloto: en todas las versiones
+- Manijas de techo: en todas las versiones
+
+## Asientos  [columnas: Elite | Deluxe]
+- Tapizados de cuero: en todas las versiones
+- Asiento del conductor ajustable en 6 direcciones manual: en todas las versiones
+- Asiento del pasajero ajustable en 4 direcciones manualmente: en todas las versiones
+- Respaldo trasero abatible 60/40: en todas las versiones
+- Apoyabrazos trasero central: en todas las versiones
+- Apoyabrazos trasero central con posavasos: en todas las versiones
+
+## Acceso y seguridad del vehiculo  [columnas: Elite | Deluxe]
+- Smart keys x2: en todas las versiones
+- Acceso Keyless: en todas las versiones
+- Arranque por botón: en todas las versiones
+- Inmobilizador de motor: en todas las versiones
+- Alarma: en todas las versiones
+- Cierre centralizado: en todas las versiones
+
+## Climatización  [columnas: Elite | Deluxe]
+- Climatizador bizona automático: en todas las versiones
+- Salida de aire para la 2da fila: Elite NO; Deluxe SÍ
+- Indicador de temperatura exterior: en todas las versiones
+- Filtro de habitáculo: en todas las versiones
+- Colores disponibles
+- @gwm_uruguay: gwm.uruguay
+
+## Seguridad activa y pasiva  [columnas: Elite | Deluxe]
+- Doble airbag frontal: en todas las versiones
+- Airbag lateral: en todas las versiones
+- Airbag de cortina: Elite NO; Deluxe SÍ
+- Cinturones delanteros de tres puntas con pretensores y limitador de fuerza: en todas las versiones
+- Cinturones traseros de tres puntas con limitador de tensión: en todas las versiones
+- Aviso de cinturón de seguridad: en todas las versiones
+- Columna de dirección colapsable: en todas las versiones
+- Traba para niños: en todas las versiones
+- Frenos ABS + EBD: en todas las versiones
+- Control de estabilidad (ESP): en todas las versiones
+- Control de tracción (TCS): en todas las versiones
+- Ayuda de arranque en pendiente (HHC): en todas las versiones
+- Ayuda de descenso en pendiente (HDC): en todas las versiones
+- Sistema de mitigación de vuelcos (RMI): en todas las versiones
+- Sistema de asistencia de freno (BAS): en todas las versiones
+- Sistema de mitigación de segunda colisión (SCM): en todas las versiones
+- Alarma de frenado de emergencia: en todas las versiones
+- Monitor de presion de neumaticos (TPMS): en todas las versiones
+- Desbloqueo automático de puertas en caso de colisión: en todas las versiones
+- Corte de combustible en caso de colisión: en todas las versiones
+- Sensor de estacionamiento trasero x3: en todas las versiones
+- Cámara de marcha atrás: en todas las versiones
+- Control de velocidad crucero: en todas las versiones
+- ISOFIX: en todas las versiones
+- Monitor de fatiga del conductor (DFMS): en todas las versiones
+- Grabadora de datos ante accidentes (EDR): en todas las versiones
+- Estacionamiento autónomo: en todas las versiones
+
+## Multimedia  [columnas: Elite | Deluxe]
+- Radio con RDS: en todas las versiones
+- Conectividad Bluetooth: en todas las versiones
+- Pantalla multimedia de 10.25": Elite SÍ; Deluxe NO
+- Pantalla multimedia de 12.3": Elite NO; Deluxe SÍ
+- Puertos de carga USB 2 delanteros + 2 traseros: en todas las versiones
+- Sistema de audio DTS de 6 altavoces: en todas las versiones
+- Apple CarPlay & Android Auto: en todas las versiones
+
+## Iluminación  [columnas: Elite | Deluxe]
+- Faros delanteros LED: en todas las versiones
+- Faros delanteros con ajuste de altura eléctrica: en todas las versiones
+- Follow-me home: en todas las versiones
+- Luces de niebla trasera: en todas las versiones
+- DRL: en todas las versiones
+- Tercera luz de stop LED: en todas las versiones
+- Luz interior a los lados del habitáculo: en todas las versiones
+- Iluminación interior multicolor ritmica: Elite NO; Deluxe SÍ
+- Aviso de luces encendidas: en todas las versiones
+- Luz de baúl: en todas las versiones
+
+## Vidrios y espejos exteriores  [columnas: Elite | Deluxe]
+- Espejo interior manual: Elite SÍ; Deluxe NO
+- Espejo interior electrocromático: Elite NO; Deluxe SÍ
+- Vidrio del conductor one touch con antipinzamiento: Elite SÍ; Deluxe NO
+- Vidrios one touch con antipinzamiento X4: Elite NO; Deluxe SÍ
+- con cierre automático en el bloqueo
+- Cierre de vidrios desde llave: Elite NO; Deluxe SÍ
+- Espejos exteriores con ajuste eléctrico y luces de giro: en todas las versiones
+- Espejos exteriores con plegado manual: Elite SÍ; Deluxe NO
+- Espejos exteriores con plegado eléctrico y automático: Elite NO; Deluxe SÍ
+- Espejos exteriores Calefactados: Elite NO; Deluxe SÍ
+- Desempañador de luneta: en todas las versiones
+- Dimensiones
+- : 1619 mm
+- 1841 mm
+- : 163 mm
+- 2700 mm
+- 4472 mm
+- GWM Uruguay gwm.com.uy
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+5
+AÑOS
+o
+ 
+1
+5
+0
+.
+0
+0
+0
+ 
+k
+i
+l
+ó
+m
+e
+t
+r
+o
+s
+G
+A
+R
+A
+N
+T
+Í
+A
+Potencia
+174 HP
+Apple Carplay
+Android Auto
+Motor 
+1.5 Turbo

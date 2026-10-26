@@ -1,0 +1,8 @@
+FICHA TÉCNICA ARMADA CON FUENTES DE INTERNET (JMC JMEV; confianza alta)
+Fuentes:
+- sitio oficial JMEV Uruguay (Santa Rosa) JMEV 3: https://jmev.com.uy/jmev-3
+- sitio oficial JMEV Uruguay JMEV 2: https://jmev.com.uy/jmev-2
+- prensa Autoblog Uruguay: https://www.autoblog.com.uy/2026/06/lanzamiento-jmc-jmev-2.html
+Notas: Fila 'JMEV 3'/'JMEV 2' = modelos homónimos. Contradicciones: autonomía JMEV 3 320 km (sitio/catálogo) vs 330 km (Autoblog, 31,9 kWh); garantía batería 8 años (catálogo) vs 5 años (sitio). Plazas JMEV 2 (4) y JMEV 3 (5) según descripción del sitio/prensa, no del catálogo. Precios del sitio, sin verificar vigencia. Solo 5 fotos (JMEV 3 una sola).
+
+JMEV 3 (id 59) y JMEV 2 (id 60): citycars 100% eléctricos importados de China, distribuidos por Santa Rosa. JMEV 3: motor eléctrico 50 kW / 67 HP, 125 Nm, batería de litio 31,2 kWh, autonomía 320 km (NEDC según catálogo; CLTC según sitio), 0-50 km/h en 4,5 s, 110 km/h, carga CCS2 (20-80% en 40 min DC). Dimensiones 3720 x 1640 x 1535 mm, entre ejes 2390, 1030 kg, neumáticos 165/65 R15, frenos de disco en 4 ruedas, pantalla 10,1", cámara 360°, Wi-Fi, llantas de aleación, Autohold, freno de estacionamiento electrónico, ESC. Precio sitio USD 15.990. JMEV 2: motor síncrono de imanes permanentes 30 kW / 40 HP, 85 Nm, batería de litio 15,86 kWh, autonomía 200 km CLTC, 100 km/h, CCS2 (20-80% en 35 min DC), 3500 x 1646 x 1456 mm, entre ejes 2340, 890 kg, neumáticos 165/65 R14, freno de disco delantero y tambor trasero, pantalla 9", cámara y sensor de reversa, sin ESC. Precio sitio USD 13.990. Ambos: 2 airbags frontales, ABS+EBD, TPMS, ISOFIX, dirección eléctrica, asistente en pendiente, kit anti pinchazos. Garantía 3 años o 100.000 km, batería 8 años/120.000 km (catálogo).

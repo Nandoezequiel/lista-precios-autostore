@@ -1,0 +1,345 @@
+LECTURA VISUAL DE LAS TABLAS DE LA FICHA (versiones y equipamiento, ya asociados a cada versión):
+VERSIONES del Nissan Kicks (1.0 L Turbo, 999 cm3, 114 HP, caja DCT automática; Brasil): Sense, Advance y Exclusive. Sube de nivel en cada versión: Exclusive suma llantas R19, panel digital de 12,3", cámara 360°, techo panorámico, cuero, 10 parlantes premium.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+[página 14]
+  (FICHA TÉCNICA NISSAN KICKS)
+
+  (Automático Automático Automático)
+
+  (Motor y caja de cambios)
+
+- 1.0 L Turbo (999 cm³) - 3 cilindros - 12 valvulas - Nafta: en todas
+
+  (Potencia (Hp) - Par (Nm @ rpm) 114 / 200 - 2000 114 / 200 - 2000 114 / 200 - 2000)
+
+- Control de emisiones Euro 5: en todas
+
+- Caja de cambios DCT: en todas
+
+  (Suspensión y Frenos)
+
+- Delantera Mc Pherson + Barra de torsión: en todas
+
+- Discos ventilados delanteros y traseros: en todas
+
+  (Dimensiones / Capacidad)
+
+  (Longitud total (m) 4.365 4.365 4.365)
+
+  (Ancho total (m) 2.090 2.090 2.090)
+
+  (Altura total (m) 1.625 1.625 1.625)
+
+  (Distancia entre ejes (m) 2.655 2.655 2.655)
+
+  (Despeje (mm) 205 205 205)
+
+  (Peso en vacío (Kg) 1.321 1.328 1.362)
+
+  (Peso bruto (Kg) 1.719 1.726 1.760)
+
+  (Capacidad del maletero (L) con Flex Board - sin Flex Board 479 - 454 479 - 454 479 - 454)
+
+- Tanque de combustible de 45 litros: en todas
+
+  (Llantas y neumáticos)
+
+  (Tipo de neumáticos 215 / 60 R17 215 / 60 R17 225 / 45 R19)
+
+  (Tamaño y material de las llantas Aleación R17 Aleación R17 Aleación R19)
+
+- Neumático de repuesto + herramientas: en todas
+
+  (Conducción)
+
+- Dirección asistida eléctrica con regulación telescopica manual: en todas
+
+- Panel de instrumentos analogico con pantala digital TFT de 7": Sense SÍ; Advance SÍ; Exclusive NO
+
+- Panel de instrumentos digital con pantala digital TFT de 12,3": Sense NO; Advance NO; Exclusive SÍ
+
+- Volante multifunción con comandos y paddle shift: Sense SÍ; Advance NO; Exclusive NO
+
+- Vidrios eléctricos en las 4 ventanas: en todas
+
+- Modos de conducción Drive / Eco / Sport: en todas
+
+- Llave inteligente I-Key: Sense SÍ; Advance NO; Exclusive NO
+
+- Control crucero inteligente con limitador de velocidad (ICC + ASL): en todas
+
+- Monitor de presión de neumáticos: en todas
+
+- Luces delanteras con iluminación LED: Sense NO; Advance NO; Exclusive SÍ
+
+- Luces de circulación LED: en todas
+
+- Asistente de luces altas Espejos eléctricos con luz de giro LED: en todas
+
+- pledado manual pledado manual pledado eléctrico Monitor de visión periférica 360°: Sense NO; Advance NO; Exclusive SÍ
+
+- Cámara trasera: Sense SÍ; Advance SÍ; Exclusive NO
+
+- Limpiaparabrisas automático con sensor de lluvia: Sense NO; Advance NO; Exclusive SÍ
+
+- Freno de estacionamiento eléctrico con auto hold: en todas
+
+
+[página 15]
+  (FICHA TÉCNICA NISSAN KICKS)
+
+  (Automático Automático Automático)
+
+  (Interior)
+
+- Aire acondicionado automático: en todas
+
+- Espejo retrovisor con atenuación automática: Sense NO; Advance NO; Exclusive SÍ
+
+- Asientos tapizados en cuero: Sense NO; Advance NO; Exclusive SÍ
+
+- Iluminación ambiental: Sense NO; Advance NO; Exclusive SÍ
+
+- Iluminación de la cabina y del maletero LED: en todas
+
+- Multimedia con pantalla de 12.3" + compatible con Android Auto® + Carplay® + 2 USB C: en todas
+
+  (Parlantes 4 4 10 premium)
+
+- Carga inalámbrica del teléfono celular: Sense NO; Advance SÍ; Exclusive SÍ
+
+  (Exterior)
+
+- Techo panorámico de cristal con apertura eléctrica: Sense NO; Advance NO; Exclusive SÍ
+
+- Barras de techo: Sense NO; Advance SÍ; Exclusive SÍ
+
+- Aleron trasero: en todas
+
+- Manijas mismo color que carrocería: en todas
+
+  (Seguridad y asistencias de manejo)
+
+- Inmovilizador + Alarma: en todas
+
+- Airbags frontales (2), laterales (2) y cortina (2) con balizas automáticas después del impacto: en todas
+
+- Cinturón de seguridad con pretenso: en todas
+
+- Sistema de frenos ABS: en todas
+
+- Distribución electrónica de frenado (EDB): en todas
+
+- Asistente de frenado de emergencia (EBA): en todas
+
+- Frenado autónomo de emergencia trasero para peatones (AEB ): en todas
+
+- Asistente de arranque en pendiente (HSA): en todas
+
+- Control de la dinámica del vehículo (VDC): en todas
+
+- Frenado autónomo de emergencia / Ciudad / Interurbano / Peatón: en todas
+
+- Alerta de cambio de carril (LDW ): en todas
+
+- Prevención de salida de carril (LDP): en todas
+
+- Asistente de mantenimiento de carril + (e-LKA): en todas
+
+  (Asistente de estacionamiento Sensor delantero Sensor delantero Sensor delantero + trasero)
+
+- Alerta de atención del conductor: en todas
+
+- Advertencia de colisión fronta: en todas
+
+- Isoﬁx + Tether: en todas
+
+OTRAS PÁGINAS DE LA FICHA (texto):
+[texto de la página 1]
+NISSAN KICKS
+ACTITUD DISRUPTIVA
+
+[texto de la página 2]
+BIENVENIDO A LO NUEVO
+El nuevo Nissan Kicks tiene 
+una actitud disruptiva, con un 
+diseño innovador, más espacio, 
+más confort, y tecnologías 
+japonesas para que disfrutes 
+de un manejo seguro e 
+inteligente.
+ENERGÍA EN MOVIMIENTO
+ 
+El nuevo diseño del Nissan 
+Kicks combina elegancia y 
+disrupción con líneas que 
+capturan miradas a donde 
+quiera que vayas.
+DISEÑO DISRUPTIVO
+
+[texto de la página 3]
+FAROS TRASEROS
+Con diseño envolvente e iluminación 
+moderna, combinan tecnología LED para 
+mayor visibilidad y eﬁciencia.
+TEXTURAS DINÁMICAS 
+Diseño con una textura que demuestra la 
+actitud en cada detalle.
+DISEÑO RE IMAGINADO 
+Estilo y personalidad en cada detalle que 
+reﬂeja actitud.
+
+[texto de la página 4]
+NUEVA PARRILLA 
+Con un diseño imponente y robusto.
+
+[texto de la página 5]
+TECHO SOLAR PANORÁMICO
+Amplitud y luminosidad para que todos 
+disfruten cada momento a bordo.
+LLANTAS DE 19”
+Llantas de aleación de aluminio con estilo y 
+personalidad.
+
+[texto de la página 6]
+CONFIANZA A LA HORA DE CONDUCIR
+Descubre una nueva forma de disfrutar los 
+caminos con la tecnología del nuevo Nissan 
+Kicks, que te brinda seguridad y conducción 
+libre de estrés.
+ASISTENCIA DE ABANDONO DE CARRIL
+El sistema detecta las líneas del camino, y si el conductor se desvía involuntariamente de su carril, sin 
+luz de giro, emite una alerta visual y auditiva que le indica que regrese a su trayectoria original. Si el 
+conductor no toma acción a tiempo, el sistema interviene para mantenerlo en su carril original.
+
+[texto de la página 7]
+FRENADO INTELIGENTE DE EMERGENCIA 
+CON DETECCIÓN DE PEATONES
+Si detecta riesgo de colisión con un peatón 
+o con el vehículo de adelante, el sistema 
+emite una alerta sonora y visual. 
+Si el conductor no reacciona, aplica los 
+frenos automáticamente para ayudar a 
+evitar el impacto.
+Para más detalle sobre las velocidades de 
+operación del sistema, consulta el manual 
+de usuario.
+
+[texto de la página 8]
+FRENADO AUTOMÁTICO TRASERO DE 
+EMERGENCIA
+Al retroceder, el sistema emite señales 
+visuales y auditivas si detecta objetos 
+en movimiento cerca del vehículo. Si el 
+conductor no toma acción a tiempo, el 
+frenado automático trasero de emergencia 
+se activa para evitar o reducir el impacto. 
+Estas tecnologías proporcionan mayor 
+ALERTA DE ATENCIÓN DEL CONDUCTOR 
+El vehículo cuenta con sensores diseñados 
+para monitorear el estado del conductor. 
+Si detectan que presenta signos de 
+somnolencia o distracción, el vehículo 
+emitirá una advertencia visual y sonora para 
+alertarlo.
+
+[texto de la página 9]
+ACTITUD Y DISEÑO EN CADA 
+PASO QUE DAS
+ 
+Disfruta del confort y la 
+amplitud del nuevo Nissan 
+Kicks. Su elegante diseño 
+interior cuenta con materiales 
+y terminaciones de alta calidad.
+PANTALLA TFT DE 12.3 
+PULGADAS Y PANTALLA 
+MULTIMEDIA DE 12.3 PULGADAS
+Toda la información que 
+necesitas mientras conduces. 
+Ajusta los sistemas de 
+asistencia al conductor, 
+supervisa las métricas de 
+rendimiento y accede a tus 
+apps.
+ANDROID AUTO® Y APPLE 
+CARPLAY® WIRELESS
+Accede a funciones de tu 
+teléfono sin cable y sin quitar la 
+atención del camino. 
+ 
+SISTEMA PREMIUM  DE 
+AUDIO BOSE®
+Con 10 altavoces 
+estratégicamente distribuidos 
+que logran un sonido 
+envolvente.
+ESPACIOY CONFORT
+
+[texto de la página 10]
+MOTOR TURBO 220 NM
+DE TORQUE
+Con transmisión automática 
+de doble embrague, ideal 
+para un manejo ágil, con 
+respuesta rápida y economía 
+de combustible.
+LEVAS AL VOLANTE
+Permiten agilizar aún más tu 
+manejo. Podrás utilizarlas en 
+cualquier momento, tanto en 
+marcha “Directa” (por ejemplo 
+para sobrepasos) como en 
+“Manual” (para tener control 
+total sobre tu estilo de manejo).
+E-SHIFTER
+Selector electrónico que 
+permite cambiar de marcha 
+solo oprimiendo un botón.
+Además, el selector D-Mode 
+permite activar el modo Sport 
+para una conducción deportiva 
+o el modo Eco para mayor 
+eﬁciencia de combustible.
+
+[texto de la página 11]
+LUZ DE AMBIENTE
+Disfruta de un ambiente único.
+CARGADOR INALÁMBRICO
+Carga tu teléfono sin la 
+necesidad de cables.
+AIRE ACONDICIONADO 
+AUTOMÁTICO CON 
+CONTROLES DIGITALES
+Ajusta la temperatura de 
+manera exacta y logra el clima 
+ideal dentro de tu nuevo Nissan 
+Kicks.
+ASIENTOS DE CUERO
+Con doble costura y calidad 
+en las terminaciones para un 
+interior premium.
+
+[texto de la página 12]
+MONITOR INTELIGENTE DE VISIÓN 360°  CON DETECCIÓN DE OBJETOS EN MOVIMIENTO
+Este monitor utiliza cámaras para brindar una vista panorámica alrededor del vehículo. La detección de 
+objetos en movimiento alerta sobre posibles obstáculos ayudando a prevenir accidentes
+
+[texto de la página 13]
+ESPACIO DE CARGA
+La profundidad y la altura del baúl del nuevo Nissan Kicks te dan hasta 470 L de capacidad.
+
+[texto de la página 16]
+La descripción de la unidad que surge de este catalogo es meramente orientativo y refleja alguna de las versiones existentes de cada unidad según el modelo.  El equipamiento, accesorios y/o las características de cada 
+modelo, podrán ser diferentes a la que surge del presente catálogo o de la imagen que se refleja en el mismo, debiendo el cliente verificar las mismas según la unidad que sea de su interés. Es posible que las versiones 
+que se reflejen en las publicaciones no se encuentren disponibles a la venta en el territorio uruguayo. El cliente, no podrá responsabilizar a RALITOR SA por diferencias que existan entre, este catálogo y los modelos que 
+se comercializan en el territorio uruguayo. El cliente conoce y acepta esta posible diferencia, la cual no podrá ser considerada como publicidad engañosa o similar. Los colores ofrecidos son de modo ilustrativo, no siendo 
+los mismo determinantemente idénticos a los que reflejen las unidades disponibles. Las imágenes e ilustraciones que surgen de este catálogo intentan dar una muestra aproximada de las opciones de color que dispone 
+cada unidad, considerando las diferencias factibles en las tonalidades de una imagen virtual y la realidad de la cada unidad. El cliente no podrá responsabilizar a RALITOR SA por las diferencias existentes entre las 
+diferencias que puedan surgir de las imágenes de este catálogo o las descripción de la unidad publicitada y la apreciación de la unidad en tiempo real o las características y accesorios que contengan las unidades 
+disponibles. La disponibilidad de colores de cada versión o unidad quedaran supeditadas al Stock existente en el concesionario de su elección.
+www.nissan.com.uy
+0800 0909
+092 44 09 09
+contacto@nissan.com.uy

@@ -1,0 +1,108 @@
+# paginas: 2
+ESPECIFICACIONES: nafta, 2378 cc, 134 HP / 5150 rpm, torque 200 Nm / 2000-3000, manual 5 marchas, tracción 4x2, tanque 70 L, dimensiones 5095 x 1800 x 1730 mm, caja 1380 x 1460 x 480 mm, distancia entre ejes 3050 mm, despeje 194 mm, carga de la caja 675 kg, peso en vacío 2035 kg, peso bruto 2710 kg, carga con pasajeros 1050 kg. Suspensión delantera independiente de doble brazo, trasera eje rígido con ballestas, dirección asistida eléctricamente. COLUMNAS: Cabina Simple Luxury, Doble Cabina Luxury, Doble Cabina Dignity.
+
+TABLAS (cada fila indica en qué versiones está el equipamiento):
+
+## Especificaciones básicas
+  (Combustible Nafta)
+  (Cilindrada (cm³) 2378)
+  (Potencia (HP / RPM) 134 / 5150)
+  (Torque (NM / RPM) 200 / 2000 - 3000)
+  (Transmisión Manual 5 marchas)
+
+## Tracción
+
+## Capacidad tanque de nafta (L)
+- Largo - alto - ancho (mm): no la trae ninguna
+- Largo - alto - ancho caja (mm) Distancia entre ejes (mm) 3050: no la trae ninguna
+  (Despeje minimo (mm) 194)
+  (Capacidad carga de caja (Kg) 675)
+  (Peso en vacio (Kg) 2035)
+  (Peso bruto (Kg) 2710)
+  (Capacidad de carga con pasajeros (Kg) 1050)
+  (Chasis y Dirección)
+  (Suspensión delantera Indepediente de doble brazo)
+- Suspensión trasera Eje rígido con ballestas Dirección asistida eléctricamente: en todas
+- Columna de dirección ajustable: en todas
+  (Exterior)
+- Llantas de acero de 16": Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Llantas de aleación de 16": Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Rueda de refacción de acero: en todas
+- Neumáticos 235/70 R16: en todas
+- Parrilla cromada: en todas
+- Manijas de puerta color negro: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Manijas de puerta cromadas: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Caja de carga recubierta: en todas
+- Tratamiento anticorrosión: en todas
+- Puntos de amarre en el exterior de la caja de carga: en todas
+- Barra de caja color negro: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+- Estribos: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+  (Interior)
+- : en todas
+- Paneles de puerta recubiertos en eco cuero: en todas
+- Parasoles: en todas
+- Volante poliuretano: Cabina Simple Luxury SÍ; Doble Cabina Luxury SÍ; Doble Cabina Dignity NO
+- Volante tapizado en cuero: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+- Volante multifunción: en todas
+- Luces interiores dimerizables: en todas
+- Manijas de puerta interiores cromadas: en todas
+- Toma de 12V: en todas
+- Encendedor: en todas
+  (Asientos)
+- Asientos de cuerina: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Asientos de cuero: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Asiento del conductor ajustable en 4 direcciones: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Asiento del conductor ajustable en 6 direcciones Asiento del conductor ajustable en: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity NO
+- 6 direcciones eléctricamente: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+- Aisento del pasajero ajustable en 4 direcciones: en todas
+  (Color disponible)
+  (@gwm_uruguay gwm.uruguay)
+  (Seguridad activa y pasiva)
+- Frenos ABS + EBD: en todas
+- Control de estabilidad (ESP): en todas
+- Monitor de presión de neumáticos (TPMS): en todas
+- Sensores de marcha atras: en todas
+- Airbags frontales: en todas
+- Frenos a disco delateros, tambor traseros: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Freno a disco x4: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Cinturones delanteros con ajuste de altura y pretensores: en todas
+- Cinturones de seguridad de 3 puntos: en todas
+- Aviso de cinturón no abrochado para conductor: en todas
+- Bloqueo automático de puertas en rodaje: en todas
+- Desbloqueo automático en caso de choque: en todas
+- Aviso de cinturon no abrochado para pasajero: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Barras de refuerzo en puertas: en todas
+- Apoyacabezas x2: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- Apoyacabezas x5: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Traba de niños: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- ISOFIX: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Inmobilizador: en todas
+- Cierre centralizado: en todas
+- Bloqueo automático de puertas por temporizador: en todas
+- Función de localización: en todas
+- Aviso de puerta mal cerrada: en todas
+- Aviso de olvido de llave: en todas
+  (Multimedia)
+- Radio AM/FM con USB y bluetooth: en todas
+- 2 altavoces: Cabina Simple Luxury SÍ; Doble Cabina Luxury NO; Doble Cabina Dignity NO
+- 4 altavoces: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity NO
+- 6 altavoces: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+- Antena integrada: en todas
+  (Iluminación)
+- Plafón general interior: en todas
+- Luces de lectura: Cabina Simple Luxury NO; Doble Cabina Luxury SÍ; Doble Cabina Dignity SÍ
+- Faros delanteros oscurecidos: en todas
+- Luces delanteras ajustables en altura eléctricamente: en todas
+- Luces de niebla delanteras: en todas
+- Luz de niebla trasera: en todas
+- Tercera luz de freno elevada: en todas
+- DRL Luces de circulación diurnas: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+  (Climatización)
+- Climatizador manual: en todas
+- Filtro de aire de cabina: en todas
+  (Vidrios y espejos exteriores)
+- Ventanas con one touch para cierre y antipinzamiento: en todas
+- Espejos exteriores con plegado manual, ajuste eléctrico y luz de giro: en todas
+- Espejo retrovisor interior manual: Cabina Simple Luxury SÍ; Doble Cabina Luxury SÍ; Doble Cabina Dignity NO
+- Espejo retrovisor interior electrocromático: Cabina Simple Luxury NO; Doble Cabina Luxury NO; Doble Cabina Dignity SÍ
+  (GWM Uruguay gwm.com.uy)

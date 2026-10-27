@@ -1,0 +1,11 @@
+{
+"53": {"motor": "Motor eléctrico trasero, 100 kW"},
+"55": {"motor": "Eléctrico síncrono de imán permanente, 170 kW", "transmision": "Automática (reductor de 1 vel.)"},
+"56": {"motor": "Eléctrico síncrono de imanes permanentes, 130 kW", "transmision": "Reductor fijo"},
+"57": {"motor": "Eléctrico síncrono de imán permanente, 140 kW"},
+"58": {"motor": "Eléctrico síncrono de imanes permanentes, 130 kW", "transmision": "Reductor fijo"},
+"174": {"carga_util_kg": null},
+"175": {"alto_mm": 3897, "carga_util_kg": null},
+"176": {"alto_mm": 3887, "carga_util_kg": null},
+"177": {"carga_util_kg": null}
+}

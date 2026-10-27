@@ -1,0 +1,64 @@
+{
+ "11": {
+  "entre_ejes_mm": 2620
+ },
+ "12": {
+  "entre_ejes_mm": 2620
+ },
+ "13": {
+  "entre_ejes_mm": 2620
+ },
+ "14": {
+  "entre_ejes_mm": 2620
+ },
+ "15": {
+  "entre_ejes_mm": 2620
+ },
+ "28": {
+  "alto_mm": 1470,
+  "entre_ejes_mm": 2620,
+  "peso_kg": 1110
+ },
+ "29": {
+  "alto_mm": 1470,
+  "entre_ejes_mm": 2620,
+  "peso_kg": 1131
+ },
+ "30": {
+  "alto_mm": 1470,
+  "entre_ejes_mm": 2620,
+  "peso_kg": 1147
+ },
+ "31": {
+  "alto_mm": 1475,
+  "entre_ejes_mm": 2620,
+  "peso_kg": 1170
+ },
+ "8": {
+  "consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
+ },
+ "9": {
+  "consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
+ },
+ "10": {
+  "consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
+ },
+ "26": {
+  "despeje_mm": 119
+ },
+ "27": {
+  "despeje_mm": 119
+ },
+ "32": {
+  "puertas": 2
+ },
+ "33": {
+  "puertas": 4
+ },
+ "34": {
+  "puertas": 4
+ },
+ "35": {
+  "puertas": 4
+ }
+}

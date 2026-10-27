@@ -821,14 +821,14 @@ function cmpBar(){const c=cmp.map(porId).filter(Boolean);cmp=c.map(x=>String(x.i
   $("cOpen").disabled=c.length<2;$("bCmpM").textContent="⇄ Comparar"+(c.length?` (${c.length})`:"");$("cbar").hidden=!c.length&&!cmpModo;
   $("cAdd").innerHTML='<option value="">+ Agregar versión…</option>'+W.filter(f=>!cmp.includes(String(f.id))).map(f=>`<option value="${esc(f.id)}">${esc(f.marca+" "+f.modelo+" — "+f.version)}</option>`).join("")}
 function cmpRender(){const c=cmp.map(porId).filter(Boolean),n=c.length;
-  const fila=(lbl,vals,dir,fmt)=>{const sh=vals.map(fmt);if(sh.every(v=>v==null))return"";
+  const fila=(lbl,vals,dir,fmt,sd)=>{const sh=vals.map(fmt);if(sh.every(v=>v==null))return"";
     const xs=vals.filter(v=>typeof v==="number");let best=null;
     if(dir&&xs.length>1){best=dir>0?Math.max(...xs):Math.min(...xs);if(xs.every(x=>x===best))best=null}
-    return `<tr class="${new Set(sh.map(String)).size===1?"eq":""}"><th>${lbl}</th>${sh.map((v,k)=>{const b=best!=null&&vals[k]===best;return `<td class="${b?"best":""}">${v==null?'<span class="no">—</span>':(b?`<b>${v}</b>`:v)}</td>`}).join("")}</tr>`};
+    return `<tr class="${new Set(sh.map(String)).size===1?"eq":""}"><th>${lbl}</th>${sh.map((v,k)=>{const b=best!=null&&vals[k]===best;return `<td class="${b?"best":""}">${v==null?`<span class="no">${sd?(vals[k]===null?"no aplica":"sin dato"):"—"}</span>`:(b?`<b>${v}</b>`:v)}</td>`}).join("")}</tr>`};
   const sec=t=>`<tr class="cs"><th colspan="${n+1}">${t}</th></tr>`;
   let h=`<table class="ctab"><thead><tr><th></th>${c.map(f=>`<th class="ch">${f.fotos[0]?`<img src="fotos/${f.fotos[0]}" alt="">`:""}<b>${esc(f.marca+" "+f.modelo)}</b><small>${esc(f.version)}</small><button data-cq="${esc(f.id)}">Quitar</button></th>`).join("")}</tr></thead><tbody>`;
   h+=sec("Precio")+fila("Precio final",c.map(f=>f.final),-1,usd)+fila("PVP",c.map(f=>f.pvp),0,usd)+fila("Bono",c.map(f=>f.bono||null),0,v=>v?usd(v):null)+fila("Estado",c.map(f=>f.estado||null),0,v=>v?esc(v):null);
-  for(const[g,cs]of CAMPOS){let r="";for(const[k,l,u,dir]of cs)r+=fila(l,c.map(f=>f.spec?f.spec.d[k]:null),dir,v=>fmtSp(v,u));if(r)h+=sec(g)+r}
+  for(const[g,cs]of CAMPOS){let r="";for(const[k,l,u,dir]of cs)r+=fila(l,c.map(f=>f.spec?f.spec.d[k]:undefined),dir,v=>fmtSp(v,u),1);if(r)h+=sec(g)+r}
   for(const[k,l]of EQ){const its=[...new Set(c.flatMap(f=>f.spec?(f.spec.eq[k]||[]):[]))];if(!its.length)continue;h+=sec(l);
     for(const it of its){const t=c.map(f=>!!(f.spec&&(f.spec.eq[k]||[]).includes(it)));
       h+=`<tr class="${t.every(Boolean)?"eq":""}"><th>${esc(it)}</th>${t.map((x,j)=>`<td>${x?'<span class="y">✓</span>':`<span class="no">${c[j].spec?"—":"s/d"}</span>`}</td>`).join("")}</tr>`}}

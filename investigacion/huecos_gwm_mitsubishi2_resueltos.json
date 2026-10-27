@@ -1,0 +1,122 @@
+{
+ "105": {
+  "puertas": 5
+ },
+ "106": {
+  "puertas": 5
+ },
+ "107": {
+  "puertas": 5
+ },
+ "108": {
+  "puertas": 5
+ },
+ "109": {
+  "puertas": 5
+ },
+ "110": {
+  "puertas": 5
+ },
+ "111": {
+  "puertas": 5
+ },
+ "112": {
+  "puertas": 5
+ },
+ "113": {
+  "puertas": 5
+ },
+ "114": {
+  "puertas": 5
+ },
+ "115": {
+  "puertas": 5,
+  "potencia_hp": 201,
+  "torque_nm": 260,
+  "bateria_kwh": 58.3
+ },
+ "116": {
+  "puertas": 5,
+  "potencia_hp": 201,
+  "torque_nm": 260,
+  "bateria_kwh": 58.3
+ },
+ "117": {
+  "puertas": 5
+ },
+ "118": {
+  "puertas": 4
+ },
+ "120": {
+  "puertas": 2
+ },
+ "121": {
+  "puertas": 4
+ },
+ "122": {
+  "puertas": 4
+ },
+ "123": {
+  "puertas": 4
+ },
+ "124": {
+  "puertas": 4
+ },
+ "125": {
+  "puertas": 4
+ },
+ "126": {
+  "puertas": 4
+ },
+ "133": {
+  "puertas": 5
+ },
+ "134": {
+  "puertas": 5,
+  "cilindrada_cc": 1499
+ },
+ "135": {
+  "puertas": 5,
+  "cilindrada_cc": 1499
+ },
+ "136": {
+  "puertas": 5,
+  "torque_nm": 245
+ },
+ "137": {
+  "puertas": 5,
+  "torque_nm": 245
+ },
+ "138": {
+  "puertas": 5,
+  "torque_nm": 245
+ },
+ "139": {
+  "puertas": 5,
+  "torque_nm": 245
+ },
+ "140": {
+  "puertas": 4
+ },
+ "141": {
+  "puertas": 4
+ },
+ "142": {
+  "puertas": 4
+ },
+ "143": {
+  "puertas": 4
+ },
+ "144": {
+  "puertas": 4
+ },
+ "145": {
+  "puertas": 4
+ },
+ "146": {
+  "puertas": 4
+ },
+ "147": {
+  "puertas": 4
+ }
+}

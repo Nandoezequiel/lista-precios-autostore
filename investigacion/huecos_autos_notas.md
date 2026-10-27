@@ -1,0 +1,13 @@
+# Notas huecos autos
+- Deepal S7 EV (101): cilindrada_cc null (eléctrico puro, no aplica).
+- Haval H6 HEV Deluxe (107): sin dato. La ficha PDF no trae tabla de specs; la nota web de autoblog.com.uy describe el HEV viejo (243 hp, otra generación), no se usó.
+- Haval H6 PHEV 2WD/4WD (108/109): batería 19 kWh, baúl 407 L, despeje 145 mm, tanque 61 L de autoblog.com.uy (lanzamiento dic-2025). 0-100 y vel. máx: el fabricante no las declara -> sin dato. Ojo: la nota da autonomía eléctrica WLTP 115 (2WD) / 170 km (AWD) y el JSON tiene 100; no se tocó.
+- Haval H6 GT PHEV (112): entre ejes 2738 mm (autoblog.com.uy lanzamiento GT 2024).
+- Outlander 4x2/4x4 (136/137): plazas 7 (ficha: «7 pasajeros» para las 3 versiones).
+- New L200 143 (2.4N 4x4 MT): del folleto «Mitsubishi L200.pdf» (columna GLX 4X4 Nafta MT, idéntica a la 4x2 nafta); potencia 126 HP según la ficha nueva (el folleto dice 130 HP). Tracción 4WD simple (no Super Select).
+- New L200 147 (GLS+ SHP 4x4 AT): columna GLS+ 4X4 Diesel AT del folleto: biturbo 201 HP, 470 Nm, 6AT. Bloqueo diferencial no verificado, no incluido en tracción.
+- Leapmotor C10 EV (130): baúl 517 L y motor PMSM de la ficha (página BEV); tanque null (no aplica).
+- Zeekr X Smart (148) consumo/vel. máx.: fuentes web contradictorias, sin dato. X Premium (149) peso: sin dato (1855/1885/1930 según fuente).
+- Xpeng G6 LR Pro (179): batería 87.5 kWh neta, consumo 15,4 kWh/100 km WLTP, 255/45 R20, 200 km/h (agregadores evkx/arenaev/zigwheels; no es ficha oficial). Peso sin dato (2025-2100 kg según fuente).
+- Xpeng G6 Air (180): batería 66 kWh LFP, torque 440 Nm, 200 km/h (ev-database/autotijd/arenaev). Neumáticos, peso, consumo: sin dato. La ficha PDF solo detalla la AWD.
+- Nissan Sentra B18 (0,1,2) peso: la ficha solo da 1396 kg para SR Midnight -> sin dato. Kicks Play Exclusive neumáticos: ficha es de Brasil, sin dato. Versa Ph2 Sr CVT (14) y Exclusive despeje (15): la ficha no los trae -> sin dato. X-Trail e-POWER viejo (16): sin dato. Frontier 32 airbags y 36 (alto/despeje/peso/carga): tabla ambigua -> sin dato.

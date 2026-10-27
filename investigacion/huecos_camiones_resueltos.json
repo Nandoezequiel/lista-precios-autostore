@@ -1,0 +1,75 @@
+{
+ "154": {
+  "torque_nm": 320,
+  "norma_emisiones": "Euro V",
+  "velocidad_max_kmh": 130,
+  "airbags": 2,
+  "neumaticos": "195/75 R16"
+ },
+ "156": {
+  "pbt_kg": 5300,
+  "carga_util_kg": 2580,
+  "peso_kg": 2720,
+  "remolque_kg": 8000
+ },
+ "159": {
+  "alto_mm": 2195,
+  "carga_util_kg": 1510,
+  "peso_kg": 1990,
+  "volumen_carga_m3": null
+ },
+ "160": {
+  "volumen_carga_m3": null
+ },
+ "161": {
+  "volumen_carga_m3": null
+ },
+ "162": {
+  "ancho_mm": 2181,
+  "alto_mm": 2507,
+  "despeje_mm": 233,
+  "volumen_carga_m3": null
+ },
+ "168": {
+  "carga_util_kg": null,
+  "volumen_carga_m3": null
+ },
+ "169": {
+  "carga_util_kg": null,
+  "volumen_carga_m3": null
+ },
+ "173": {
+  "alto_mm": 2830,
+  "entre_ejes_mm": 3690,
+  "largo_mm": 7766,
+  "peso_kg": 7230,
+  "volumen_carga_m3": null
+ },
+ "56": {
+  "volumen_carga_m3": null
+ },
+ "68": {
+  "caja_carga_mm": null
+ },
+ "163": {
+  "volumen_carga_m3": null
+ },
+ "164": {
+  "volumen_carga_m3": null
+ },
+ "165": {
+  "volumen_carga_m3": null
+ },
+ "166": {
+  "volumen_carga_m3": null
+ },
+ "170": {
+  "volumen_carga_m3": null
+ },
+ "171": {
+  "volumen_carga_m3": null
+ },
+ "172": {
+  "volumen_carga_m3": null
+ }
+}

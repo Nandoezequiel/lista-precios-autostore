@@ -1,0 +1,76 @@
+{
+ "101": {
+  "cilindrada_cc": null
+ },
+ "108": {
+  "bateria_kwh": 19,
+  "baul_l": 407,
+  "despeje_mm": 145,
+  "tanque_l": 61
+ },
+ "109": {
+  "bateria_kwh": 19,
+  "baul_l": 407,
+  "despeje_mm": 145,
+  "tanque_l": 61
+ },
+ "112": {
+  "entre_ejes_mm": 2738
+ },
+ "136": {
+  "plazas": 7
+ },
+ "137": {
+  "plazas": 7
+ },
+ "143": {
+  "combustible": "Nafta",
+  "motor": "2.4 nafta 4G64",
+  "cilindrada_cc": 2351,
+  "potencia_hp": 126,
+  "torque_nm": 194,
+  "transmision": "Manual 5 vel.",
+  "traccion": "4x4 (4WD)",
+  "velocidad_max_kmh": 152,
+  "neumaticos": "265/70 R16",
+  "despeje_mm": 212,
+  "alto_mm": 1775,
+  "peso_kg": 1690,
+  "pbt_kg": 2635,
+  "carga_util_kg": 945,
+  "remolque_kg": 1800
+ },
+ "147": {
+  "combustible": "Diésel",
+  "motor": "2.4 diésel biturbo 4N16",
+  "cilindrada_cc": 2442,
+  "potencia_hp": 201,
+  "torque_nm": 470,
+  "transmision": "Automática 6 vel.",
+  "traccion": "4x4 (Super Select 4WD-II)",
+  "velocidad_max_kmh": 180,
+  "neumaticos": "265/60 R18",
+  "despeje_mm": 222,
+  "alto_mm": 1795,
+  "peso_kg": 2056,
+  "pbt_kg": 3000,
+  "carga_util_kg": 1035,
+  "remolque_kg": 3500
+ },
+ "130": {
+  "baul_l": 517,
+  "motor": "Motor eléctrico síncrono de imanes permanentes (PMSM)",
+  "tanque_l": null
+ },
+ "179": {
+  "bateria_kwh": 87.5,
+  "consumo": "15,4 kWh/100 km",
+  "neumaticos": "255/45 R20",
+  "velocidad_max_kmh": 200
+ },
+ "180": {
+  "bateria_kwh": 66,
+  "torque_nm": 440,
+  "velocidad_max_kmh": 200
+ }
+}

@@ -1,0 +1,2068 @@
+[
+ {
+  "marca": "Iveco",
+  "modelo": "DAILY",
+  "versiones_con_huecos": [
+   {
+    "id": 154,
+    "version": "Furgón 30-130 12m3 rueda simple",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "neumaticos",
+     "norma_emisiones",
+     "peso_kg",
+     "remolque_kg",
+     "torque_nm",
+     "velocidad_max_kmh"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Furgón 30-130",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2 (trasera)",
+     "plazas": 3,
+     "volumen_carga_m3": 12,
+     "largo_mm": 6072,
+     "entre_ejes_mm": 3520,
+     "ancho_mm": 2052,
+     "alto_mm": 2779,
+     "pbt_kg": 3500,
+     "carga_util_kg": 1000,
+     "tanque_l": 65,
+     "garantia": "1 año o 100.000 km (lanzamiento 2021, a confirmar)",
+     "motor": "2.3 diésel turbo 4 cil. 130 CV",
+     "potencia_hp": 128,
+     "cilindrada_cc": 2287,
+     "nota": "Versión de acceso, rueda simple"
+    },
+    "ficha": "daily-furgon-30-160.pdf",
+    "txt": "Iveco DAILY 154 (web).txt"
+   },
+   {
+    "id": 155,
+    "version": "Furgón 30-160 12m3 rueda simple",
+    "faltan": [
+     "airbags",
+     "garantia",
+     "nota"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Furgón 30-160",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "motor": "FPT F1C VGT 3.0 turbo 4 cil., 160 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 158,
+     "torque_nm": 380,
+     "norma_emisiones": "Euro VI (EGR + SCR)",
+     "transmision": "Manual 6 vel. ZF 6S 480 VO",
+     "traccion": "4x2 (trasera)",
+     "plazas": 3,
+     "largo_mm": 6072,
+     "ancho_mm": 2052,
+     "alto_mm": 2779,
+     "entre_ejes_mm": 3520,
+     "despeje_mm": 218,
+     "volumen_carga_m3": 12,
+     "pbt_kg": 3500,
+     "peso_kg": 2500,
+     "carga_util_kg": 1000,
+     "remolque_kg": 3500,
+     "tanque_l": 65,
+     "neumaticos": "225/75 R16",
+     "velocidad_max_kmh": 90
+    },
+    "ficha": "daily-furgon-30-160.pdf",
+    "txt": "Iveco DAILY 155 (web).txt"
+   },
+   {
+    "id": 156,
+    "version": "Furgón 55-170 16m3 rueda doble",
+    "faltan": [
+     "carga_util_kg",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "pbt_kg",
+     "peso_kg",
+     "remolque_kg"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Furgón 55-170",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 3,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7226,
+     "alto_mm": 2794,
+     "ancho_mm": 2052,
+     "volumen_carga_m3": 16,
+     "tanque_l": 100,
+     "neumaticos": "195/75 R16 rodado doble",
+     "velocidad_max_kmh": 130,
+     "airbags": 2
+    },
+    "ficha": "daily-furgon-55-170.pdf",
+    "txt": "Iveco DAILY 156 (web).txt"
+   },
+   {
+    "id": 157,
+    "version": "Minibus con asientos 50-170 (17+1) rueda doble sin asientos",
+    "faltan": [
+     "garantia",
+     "velocidad_max_kmh"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Minibus 50-170 (Vetrato, 17+1)",
+     "carroceria": "Minibús",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (sin urea)",
+     "transmision": "Manual 6 vel. ZF 6S 480 OD",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 18,
+     "airbags": 2,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7253,
+     "ancho_mm": 2487,
+     "alto_mm": 2731,
+     "despeje_mm": 213,
+     "tanque_l": 100,
+     "pbt_kg": 5000,
+     "peso_kg": 2930,
+     "carga_util_kg": 2070,
+     "remolque_kg": 6500,
+     "neumaticos": "195/75 R16",
+     "volumen_carga_m3": 16,
+     "nota": "Sin asientos (configuración carga/chasis para carrocería), según la lista"
+    },
+    "ficha": "daily-minibus-vetrato-50-170-18-pax.pdf",
+    "txt": "Iveco DAILY 157 (web).txt"
+   },
+   {
+    "id": 158,
+    "version": "Minibus con asientos 50-170 (17+1) rueda doble con asientos",
+    "faltan": [
+     "garantia",
+     "velocidad_max_kmh"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Minibus 50-170 (Vetrato, 17+1)",
+     "carroceria": "Minibús",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (sin urea)",
+     "transmision": "Manual 6 vel. ZF 6S 480 OD",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 18,
+     "airbags": 2,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7253,
+     "ancho_mm": 2487,
+     "alto_mm": 2731,
+     "despeje_mm": 213,
+     "tanque_l": 100,
+     "pbt_kg": 5000,
+     "peso_kg": 2930,
+     "carga_util_kg": 2070,
+     "remolque_kg": 6500,
+     "neumaticos": "195/75 R16",
+     "volumen_carga_m3": 16,
+     "nota": "Con asientos: 17 pasajeros + conductor, asientos reclinables"
+    },
+    "ficha": "daily-minibus-vetrato-50-170-18-pax.pdf",
+    "txt": "Iveco DAILY 157 (web).txt"
+   },
+   {
+    "id": 159,
+    "version": "Chasis Cabina 35-150",
+    "faltan": [
+     "alto_mm",
+     "carga_util_kg",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "peso_kg",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Chasis Cabina 35-150",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C WG 3.0 turbo 4 cil., 146 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 144,
+     "torque_nm": 350,
+     "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado simple)",
+     "plazas": 3,
+     "airbags": 2,
+     "entre_ejes_mm": 3750,
+     "largo_mm": 6552,
+     "ancho_mm": 2052,
+     "pbt_kg": 3500,
+     "remolque_kg": 6500,
+     "tanque_l": 70,
+     "velocidad_max_kmh": 130,
+     "neumaticos": "225/75 R16"
+    },
+    "ficha": "daily-chasis-cabina-35-150.pdf",
+    "txt": "Iveco DAILY 159 (web).txt"
+   },
+   {
+    "id": 160,
+    "version": "Chasis Cabina 70-170",
+    "faltan": [
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Chasis Cabina 70-170 (cabina simple)",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 450,
+     "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 3,
+     "airbags": 2,
+     "entre_ejes_mm": 4350,
+     "largo_mm": 7372,
+     "ancho_mm": 2052,
+     "alto_mm": 2338,
+     "pbt_kg": 7200,
+     "peso_kg": 2520,
+     "carga_util_kg": 4670,
+     "remolque_kg": 8840,
+     "tanque_l": 100,
+     "velocidad_max_kmh": 120,
+     "neumaticos": "215/75 R17.5"
+    },
+    "ficha": "daily-chasis-cabina-70-170.pdf",
+    "txt": "Iveco DAILY 160 (web).txt"
+   },
+   {
+    "id": 161,
+    "version": "Chasis Cabina Doble 70-170",
+    "faltan": [
+     "despeje_mm",
+     "garantia",
+     "plazas",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco Daily Chasis Cabina Doble 70-170",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 450,
+     "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "airbags": 2,
+     "entre_ejes_mm": 4350,
+     "largo_mm": 7372,
+     "ancho_mm": 2052,
+     "alto_mm": 2362,
+     "pbt_kg": 7200,
+     "peso_kg": 2655,
+     "carga_util_kg": 4535,
+     "remolque_kg": 8840,
+     "tanque_l": 100,
+     "velocidad_max_kmh": 90,
+     "neumaticos": "215/75 R17.5",
+     "nota": "Cabina doble (nº de plazas no figura en el PDF)"
+    },
+    "ficha": "daily-chasis-cabina-70-170-dc.pdf",
+    "txt": "Iveco DAILY 161 (web).txt"
+   },
+   {
+    "id": 162,
+    "version": "11-190 — Cabina Simple 4x2 DEE 4,455 mm",
+    "faltan": [
+     "airbags",
+     "alto_mm",
+     "ancho_mm",
+     "despeje_mm",
+     "garantia",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 190 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 187,
+     "torque_nm": 610,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton 6206 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4455,
+     "largo_mm": 6969,
+     "pbt_kg": 10600,
+     "peso_kg": 3275,
+     "carga_util_kg": 7325,
+     "remolque_kg": 13000,
+     "tanque_l": 150,
+     "neumaticos": "235/75 R17.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 11-190",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Entre ejes 4.455 mm (el PDF trae también 3.900 mm: largo 6.414, carga útil 7.400, peso 3.200 kg)"
+    },
+    "ficha": "tector-11-190.pdf",
+    "txt": "Iveco DAILY 162 (web).txt"
+   },
+   {
+    "id": 163,
+    "version": "15-210 — Cabina Simple 4x2 DEE 4,734 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 203,
+     "torque_nm": 720,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 5406 A (doble reducción)",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4734,
+     "largo_mm": 8395,
+     "ancho_mm": 2485,
+     "alto_mm": 3019,
+     "pbt_kg": 15400,
+     "peso_kg": 5100,
+     "carga_util_kg": 10300,
+     "remolque_kg": 27000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 15-210 (150E21 Attack)",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    },
+    "ficha": "tector-150e21-attack.pdf",
+    "txt": "Iveco DAILY 163 (web).txt"
+   },
+   {
+    "id": 164,
+    "version": "17-210 — Cabina Simple 4x2 DEE 4,815 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 203,
+     "torque_nm": 720,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 5406 A",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4815,
+     "largo_mm": 8457,
+     "ancho_mm": 2485,
+     "alto_mm": 2758,
+     "pbt_kg": 16900,
+     "peso_kg": 5390,
+     "carga_util_kg": 11510,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-210 (170E21 Attack)",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    },
+    "ficha": "tector-170e21-attack.pdf",
+    "txt": "Iveco DAILY 164 (web).txt"
+   },
+   {
+    "id": 165,
+    "version": "17-280 — Cabina Simple 4x2 DEE 5,175 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 8660,
+     "ancho_mm": 2485,
+     "alto_mm": 2932,
+     "pbt_kg": 16900,
+     "peso_kg": 5391,
+     "carga_util_kg": 11509,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-280 (170E28) cabina simple",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    },
+    "ficha": "tector-170e28-cab-simple.pdf",
+    "txt": "Iveco DAILY 165 (web).txt"
+   },
+   {
+    "id": 166,
+    "version": "17-280 — Cabina Doble 4x2 DEE 5,670 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "plazas",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 5670,
+     "largo_mm": 8660,
+     "ancho_mm": 2485,
+     "alto_mm": 2932,
+     "pbt_kg": 16900,
+     "peso_kg": 5391,
+     "carga_util_kg": 11509,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "modelo_real": "Iveco Tector 17-280 (170E28) cabina con dormitorio / doble",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina con dormitorio (larga). El PDF solo trae un juego de cifras (cabina corta); el largo/peso con cabina doble y 5.670 mm entre ejes pueden variar"
+    },
+    "ficha": "tector-170e28-cab-dormitorio.pdf",
+    "txt": "Iveco DAILY 166 (web).txt"
+   },
+   {
+    "id": 167,
+    "version": "17-280 RSU — Cabina Simple Automático 4x2 DEE 4,185 mm",
+    "faltan": [
+     "airbags",
+     "alto_mm",
+     "ancho_mm",
+     "carga_util_kg",
+     "despeje_mm",
+     "entre_ejes_mm",
+     "garantia",
+     "largo_mm",
+     "norma_emisiones",
+     "pbt_kg",
+     "peso_kg",
+     "plazas",
+     "remolque_kg",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "transmision": "Automática Allison 3000P 5+1",
+     "traccion": "4x2",
+     "carroceria": "Chasis cabina (recolector RSU)",
+     "tanque_l": 400,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 114,
+     "modelo_real": "Iveco Tector 17-280 RSU automático (170E28 RSU) 4x2",
+     "combustible": "Diésel",
+     "nota": "En la lista: 4x2 DEE 4.185 mm. El PDF de Uruguay es del 240E28 RSU 6x2 (entre ejes 5.175 mm, PBT 24.200 kg). No hay ficha 4x2 en el sitio."
+    },
+    "ficha": "tector-240e28-rsu-automatico.pdf",
+    "txt": "Iveco DAILY 167 (web).txt"
+   },
+   {
+    "id": 168,
+    "version": "17-300 Tracto — Cabina Doble Autoshift 4x2 DEE 3,690 mm",
+    "faltan": [
+     "airbags",
+     "carga_util_kg",
+     "despeje_mm",
+     "garantia",
+     "nota",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "carroceria": "Tractocamión",
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 300 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 296,
+     "torque_nm": 1050,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Automatizada Eaton EA 11109 L, 10 vel. (Autoshift)",
+     "entre_ejes_mm": 3690,
+     "largo_mm": 6185,
+     "ancho_mm": 2485,
+     "alto_mm": 3560,
+     "pbt_kg": 16900,
+     "peso_kg": 5581,
+     "remolque_kg": 36000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
+     "combustible": "Diésel",
+     "traccion": "4x2"
+    },
+    "ficha": "tector-170e30t-autoshift.pdf",
+    "txt": "Iveco DAILY 168 (web).txt"
+   },
+   {
+    "id": 169,
+    "version": "17-300 Tracto — Cabina Doble Autoshift 6x2 DE 3,690 mm",
+    "faltan": [
+     "airbags",
+     "carga_util_kg",
+     "despeje_mm",
+     "garantia",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "carroceria": "Tractocamión",
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 300 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 296,
+     "torque_nm": 1050,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Automatizada Eaton EA 11109 L, 10 vel. (Autoshift)",
+     "entre_ejes_mm": 3690,
+     "largo_mm": 6185,
+     "ancho_mm": 2485,
+     "alto_mm": 3560,
+     "pbt_kg": 16900,
+     "peso_kg": 5581,
+     "remolque_kg": 36000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
+     "combustible": "Diésel",
+     "traccion": "6x2",
+     "nota": "La lista indica 6x2; el PDF del sitio solo cubre el 170E30T 4x2 (Autoshift). Datos del 6x2 (PBT, CMT) no verificados."
+    },
+    "ficha": "tector-170e30t-autoshift.pdf",
+    "txt": "Iveco DAILY 168 (web).txt"
+   },
+   {
+    "id": 170,
+    "version": "24-280 — Cabina Simple 6x2 DEE 5,175 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "6x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10317,
+     "ancho_mm": 2457,
+     "alto_mm": 2880,
+     "pbt_kg": 24500,
+     "peso_kg": 6960,
+     "carga_util_kg": 18140,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina corta (simple): carga útil 18.140 kg, peso en orden de marcha 6.960 kg, tanque 275 L"
+    },
+    "ficha": "tector-240e28-cab-simple.pdf",
+    "txt": "Iveco DAILY 170 (web).txt"
+   },
+   {
+    "id": 171,
+    "version": "24-280 — Cabina Doble 6x2 DEE 5,175 mm",
+    "faltan": [
+     "airbags",
+     "despeje_mm",
+     "garantia",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "6x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10317,
+     "ancho_mm": 2457,
+     "alto_mm": 2880,
+     "pbt_kg": 24500,
+     "peso_kg": 6960,
+     "carga_util_kg": 18140,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina larga (doble/dormitorio): peso en orden de marcha 7.157 kg; 2 tanques de 275 L; espejos calefaccionados y telecomandados, climatizador, neblineros, cierre centralizado"
+    },
+    "ficha": "tector-240e28-cab-simple.pdf",
+    "txt": "Iveco DAILY 170 (web).txt"
+   },
+   {
+    "id": 172,
+    "version": "24-280 RSU — Cabina Simple Automático 6x2 DEE 5,175 mm",
+    "faltan": [
+     "airbags",
+     "carga_util_kg",
+     "despeje_mm",
+     "garantia",
+     "norma_emisiones",
+     "remolque_kg",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "transmision": "Automática Allison 3000P 5+1",
+     "traccion": "6x2",
+     "carroceria": "Chasis cabina (recolector RSU)",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10357,
+     "ancho_mm": 2456,
+     "alto_mm": 2870,
+     "pbt_kg": 24200,
+     "peso_kg": 6730,
+     "tanque_l": 400,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 114,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 RSU automático (240E28 RSU) 6x2",
+     "combustible": "Diésel",
+     "nota": "Peso en orden de marcha 6.730 kg (del. 3.300 / tras. 3.430); eje trasero tándem 18.000 kg"
+    },
+    "ficha": "tector-240e28-rsu-automatico.pdf",
+    "txt": "Iveco DAILY 172 (web).txt"
+   },
+   {
+    "id": 173,
+    "version": "27-320 — Cabina Simple 6x4",
+    "faltan": [
+     "airbags",
+     "alto_mm",
+     "despeje_mm",
+     "entre_ejes_mm",
+     "garantia",
+     "largo_mm",
+     "peso_kg",
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 320 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 316,
+     "torque_nm": 1100,
+     "norma_emisiones": "Euro VI (Proconve P8, HI-eSCR)",
+     "transmision": "Manual 8 vel. + 2 Low Eaton FTS 16108 LL",
+     "traccion": "6x4",
+     "pbt_kg": 27190,
+     "carga_util_kg": 19960,
+     "remolque_kg": 44000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 96,
+     "plazas": 3,
+     "ancho_mm": 2450,
+     "modelo_real": "Iveco Tector 27-320 6x4",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "PDF con dos entre ejes (3.690 mm y 4.185/4.815 mm); la lista no indica cuál. Peso en orden de marcha 7.230-7.350 kg."
+    },
+    "ficha": "tector-27-320.pdf",
+    "txt": "Iveco DAILY 173 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "Furgón 30-130 12m3 rueda simple": {
+    "id": 154,
+    "d": {
+     "modelo_real": "Iveco Daily Furgón 30-130",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "transmision": "Manual 6 vel.",
+     "traccion": "4x2 (trasera)",
+     "plazas": 3,
+     "volumen_carga_m3": 12,
+     "largo_mm": 6072,
+     "entre_ejes_mm": 3520,
+     "ancho_mm": 2052,
+     "alto_mm": 2779,
+     "pbt_kg": 3500,
+     "carga_util_kg": 1000,
+     "tanque_l": 65,
+     "garantia": "1 año o 100.000 km (lanzamiento 2021, a confirmar)",
+     "motor": "2.3 diésel turbo 4 cil. 130 CV",
+     "potencia_hp": 128,
+     "cilindrada_cc": 2287,
+     "nota": "Versión de acceso, rueda simple"
+    }
+   },
+   "Furgón 30-160 12m3 rueda simple": {
+    "id": 155,
+    "d": {
+     "modelo_real": "Iveco Daily Furgón 30-160",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "motor": "FPT F1C VGT 3.0 turbo 4 cil., 160 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 158,
+     "torque_nm": 380,
+     "norma_emisiones": "Euro VI (EGR + SCR)",
+     "transmision": "Manual 6 vel. ZF 6S 480 VO",
+     "traccion": "4x2 (trasera)",
+     "plazas": 3,
+     "largo_mm": 6072,
+     "ancho_mm": 2052,
+     "alto_mm": 2779,
+     "entre_ejes_mm": 3520,
+     "despeje_mm": 218,
+     "volumen_carga_m3": 12,
+     "pbt_kg": 3500,
+     "peso_kg": 2500,
+     "carga_util_kg": 1000,
+     "remolque_kg": 3500,
+     "tanque_l": 65,
+     "neumaticos": "225/75 R16",
+     "velocidad_max_kmh": 90
+    }
+   },
+   "Furgón 55-170 16m3 rueda doble": {
+    "id": 156,
+    "d": {
+     "modelo_real": "Iveco Daily Furgón 55-170",
+     "carroceria": "Furgón",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 3,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7226,
+     "alto_mm": 2794,
+     "ancho_mm": 2052,
+     "volumen_carga_m3": 16,
+     "tanque_l": 100,
+     "neumaticos": "195/75 R16 rodado doble",
+     "velocidad_max_kmh": 130,
+     "airbags": 2
+    }
+   },
+   "Minibus con asientos 50-170 (17+1) rueda doble sin asientos": {
+    "id": 157,
+    "d": {
+     "modelo_real": "Iveco Daily Minibus 50-170 (Vetrato, 17+1)",
+     "carroceria": "Minibús",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (sin urea)",
+     "transmision": "Manual 6 vel. ZF 6S 480 OD",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 18,
+     "airbags": 2,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7253,
+     "ancho_mm": 2487,
+     "alto_mm": 2731,
+     "despeje_mm": 213,
+     "tanque_l": 100,
+     "pbt_kg": 5000,
+     "peso_kg": 2930,
+     "carga_util_kg": 2070,
+     "remolque_kg": 6500,
+     "neumaticos": "195/75 R16",
+     "volumen_carga_m3": 16,
+     "nota": "Sin asientos (configuración carga/chasis para carrocería), según la lista"
+    }
+   },
+   "Minibus con asientos 50-170 (17+1) rueda doble con asientos": {
+    "id": 158,
+    "d": {
+     "modelo_real": "Iveco Daily Minibus 50-170 (Vetrato, 17+1)",
+     "carroceria": "Minibús",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 400,
+     "norma_emisiones": "Euro 5 (sin urea)",
+     "transmision": "Manual 6 vel. ZF 6S 480 OD",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 18,
+     "airbags": 2,
+     "entre_ejes_mm": 4100,
+     "largo_mm": 7253,
+     "ancho_mm": 2487,
+     "alto_mm": 2731,
+     "despeje_mm": 213,
+     "tanque_l": 100,
+     "pbt_kg": 5000,
+     "peso_kg": 2930,
+     "carga_util_kg": 2070,
+     "remolque_kg": 6500,
+     "neumaticos": "195/75 R16",
+     "volumen_carga_m3": 16,
+     "nota": "Con asientos: 17 pasajeros + conductor, asientos reclinables"
+    }
+   },
+   "Chasis Cabina 35-150": {
+    "id": 159,
+    "d": {
+     "modelo_real": "Iveco Daily Chasis Cabina 35-150",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C WG 3.0 turbo 4 cil., 146 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 144,
+     "torque_nm": 350,
+     "norma_emisiones": "Euro 5 (Proconve L6, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado simple)",
+     "plazas": 3,
+     "airbags": 2,
+     "entre_ejes_mm": 3750,
+     "largo_mm": 6552,
+     "ancho_mm": 2052,
+     "pbt_kg": 3500,
+     "remolque_kg": 6500,
+     "tanque_l": 70,
+     "velocidad_max_kmh": 130,
+     "neumaticos": "225/75 R16"
+    }
+   },
+   "Chasis Cabina 70-170": {
+    "id": 160,
+    "d": {
+     "modelo_real": "Iveco Daily Chasis Cabina 70-170 (cabina simple)",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 450,
+     "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "plazas": 3,
+     "airbags": 2,
+     "entre_ejes_mm": 4350,
+     "largo_mm": 7372,
+     "ancho_mm": 2052,
+     "alto_mm": 2338,
+     "pbt_kg": 7200,
+     "peso_kg": 2520,
+     "carga_util_kg": 4670,
+     "remolque_kg": 8840,
+     "tanque_l": 100,
+     "velocidad_max_kmh": 120,
+     "neumaticos": "215/75 R17.5"
+    }
+   },
+   "Chasis Cabina Doble 70-170": {
+    "id": 161,
+    "d": {
+     "modelo_real": "Iveco Daily Chasis Cabina Doble 70-170",
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "FPT F1C DS 3.0 turbo 4 cil., 170 CV",
+     "cilindrada_cc": 2998,
+     "potencia_hp": 168,
+     "torque_nm": 450,
+     "norma_emisiones": "Euro 5 (Proconve P7, sin urea)",
+     "transmision": "Manual 6 vel. ZF 6M 480 VO",
+     "traccion": "4x2 (trasera, rodado doble)",
+     "airbags": 2,
+     "entre_ejes_mm": 4350,
+     "largo_mm": 7372,
+     "ancho_mm": 2052,
+     "alto_mm": 2362,
+     "pbt_kg": 7200,
+     "peso_kg": 2655,
+     "carga_util_kg": 4535,
+     "remolque_kg": 8840,
+     "tanque_l": 100,
+     "velocidad_max_kmh": 90,
+     "neumaticos": "215/75 R17.5",
+     "nota": "Cabina doble (nº de plazas no figura en el PDF)"
+    }
+   },
+   "11-190 — Cabina Simple 4x2 DEE 4,455 mm": {
+    "id": 162,
+    "d": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 190 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 187,
+     "torque_nm": 610,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton 6206 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4455,
+     "largo_mm": 6969,
+     "pbt_kg": 10600,
+     "peso_kg": 3275,
+     "carga_util_kg": 7325,
+     "remolque_kg": 13000,
+     "tanque_l": 150,
+     "neumaticos": "235/75 R17.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 11-190",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Entre ejes 4.455 mm (el PDF trae también 3.900 mm: largo 6.414, carga útil 7.400, peso 3.200 kg)"
+    }
+   },
+   "15-210 — Cabina Simple 4x2 DEE 4,734 mm": {
+    "id": 163,
+    "d": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 203,
+     "torque_nm": 720,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 5406 A (doble reducción)",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4734,
+     "largo_mm": 8395,
+     "ancho_mm": 2485,
+     "alto_mm": 3019,
+     "pbt_kg": 15400,
+     "peso_kg": 5100,
+     "carga_util_kg": 10300,
+     "remolque_kg": 27000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 15-210 (150E21 Attack)",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    }
+   },
+   "17-210 — Cabina Simple 4x2 DEE 4,815 mm": {
+    "id": 164,
+    "d": {
+     "motor": "FPT NEF 4 ID 4.5 turbo 4 cil., 206 CV",
+     "cilindrada_cc": 4500,
+     "potencia_hp": 203,
+     "torque_nm": 720,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 5406 A",
+     "traccion": "4x2",
+     "entre_ejes_mm": 4815,
+     "largo_mm": 8457,
+     "ancho_mm": 2485,
+     "alto_mm": 2758,
+     "pbt_kg": 16900,
+     "peso_kg": 5390,
+     "carga_util_kg": 11510,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-210 (170E21 Attack)",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    }
+   },
+   "17-280 — Cabina Simple 4x2 DEE 5,175 mm": {
+    "id": 165,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 8660,
+     "ancho_mm": 2485,
+     "alto_mm": 2932,
+     "pbt_kg": 16900,
+     "peso_kg": 5391,
+     "carga_util_kg": 11509,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-280 (170E28) cabina simple",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina"
+    }
+   },
+   "17-280 — Cabina Doble 4x2 DEE 5,670 mm": {
+    "id": 166,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil. en línea, 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "4x2",
+     "entre_ejes_mm": 5670,
+     "largo_mm": 8660,
+     "ancho_mm": 2485,
+     "alto_mm": 2932,
+     "pbt_kg": 16900,
+     "peso_kg": 5391,
+     "carga_util_kg": 11509,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "modelo_real": "Iveco Tector 17-280 (170E28) cabina con dormitorio / doble",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina con dormitorio (larga). El PDF solo trae un juego de cifras (cabina corta); el largo/peso con cabina doble y 5.670 mm entre ejes pueden variar"
+    }
+   },
+   "17-280 RSU — Cabina Simple Automático 4x2 DEE 4,185 mm": {
+    "id": 167,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "transmision": "Automática Allison 3000P 5+1",
+     "traccion": "4x2",
+     "carroceria": "Chasis cabina (recolector RSU)",
+     "tanque_l": 400,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 114,
+     "modelo_real": "Iveco Tector 17-280 RSU automático (170E28 RSU) 4x2",
+     "combustible": "Diésel",
+     "nota": "En la lista: 4x2 DEE 4.185 mm. El PDF de Uruguay es del 240E28 RSU 6x2 (entre ejes 5.175 mm, PBT 24.200 kg). No hay ficha 4x2 en el sitio."
+    }
+   },
+   "17-300 Tracto — Cabina Doble Autoshift 4x2 DEE 3,690 mm": {
+    "id": 168,
+    "d": {
+     "carroceria": "Tractocamión",
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 300 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 296,
+     "torque_nm": 1050,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Automatizada Eaton EA 11109 L, 10 vel. (Autoshift)",
+     "entre_ejes_mm": 3690,
+     "largo_mm": 6185,
+     "ancho_mm": 2485,
+     "alto_mm": 3560,
+     "pbt_kg": 16900,
+     "peso_kg": 5581,
+     "remolque_kg": 36000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
+     "combustible": "Diésel",
+     "traccion": "4x2"
+    }
+   },
+   "17-300 Tracto — Cabina Doble Autoshift 6x2 DE 3,690 mm": {
+    "id": 169,
+    "d": {
+     "carroceria": "Tractocamión",
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 300 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 296,
+     "torque_nm": 1050,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Automatizada Eaton EA 11109 L, 10 vel. (Autoshift)",
+     "entre_ejes_mm": 3690,
+     "largo_mm": 6185,
+     "ancho_mm": 2485,
+     "alto_mm": 3560,
+     "pbt_kg": 16900,
+     "peso_kg": 5581,
+     "remolque_kg": 36000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
+     "combustible": "Diésel",
+     "traccion": "6x2",
+     "nota": "La lista indica 6x2; el PDF del sitio solo cubre el 170E30T 4x2 (Autoshift). Datos del 6x2 (PBT, CMT) no verificados."
+    }
+   },
+   "24-280 — Cabina Simple 6x2 DEE 5,175 mm": {
+    "id": 170,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "6x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10317,
+     "ancho_mm": 2457,
+     "alto_mm": 2880,
+     "pbt_kg": 24500,
+     "peso_kg": 6960,
+     "carga_util_kg": 18140,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina corta (simple): carga útil 18.140 kg, peso en orden de marcha 6.960 kg, tanque 275 L"
+    }
+   },
+   "24-280 — Cabina Doble 6x2 DEE 5,175 mm": {
+    "id": 171,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "norma_emisiones": "Euro 5 (SCR, Proconve P7)",
+     "transmision": "Manual 6 vel. Eaton FS 6406 B",
+     "traccion": "6x2",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10317,
+     "ancho_mm": 2457,
+     "alto_mm": 2880,
+     "pbt_kg": 24500,
+     "peso_kg": 6960,
+     "carga_util_kg": 18140,
+     "remolque_kg": 33000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 120,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "Cabina larga (doble/dormitorio): peso en orden de marcha 7.157 kg; 2 tanques de 275 L; espejos calefaccionados y telecomandados, climatizador, neblineros, cierre centralizado"
+    }
+   },
+   "24-280 RSU — Cabina Simple Automático 6x2 DEE 5,175 mm": {
+    "id": 172,
+    "d": {
+     "motor": "FPT NEF 6 6.0 turbo 6 cil., 280 CV",
+     "cilindrada_cc": 5880,
+     "potencia_hp": 276,
+     "torque_nm": 950,
+     "transmision": "Automática Allison 3000P 5+1",
+     "traccion": "6x2",
+     "carroceria": "Chasis cabina (recolector RSU)",
+     "entre_ejes_mm": 5175,
+     "largo_mm": 10357,
+     "ancho_mm": 2456,
+     "alto_mm": 2870,
+     "pbt_kg": 24200,
+     "peso_kg": 6730,
+     "tanque_l": 400,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 114,
+     "plazas": 3,
+     "modelo_real": "Iveco Tector 24-280 RSU automático (240E28 RSU) 6x2",
+     "combustible": "Diésel",
+     "nota": "Peso en orden de marcha 6.730 kg (del. 3.300 / tras. 3.430); eje trasero tándem 18.000 kg"
+    }
+   },
+   "27-320 — Cabina Simple 6x4": {
+    "id": 173,
+    "d": {
+     "motor": "FPT NEF 6 ID 6.7 turbo 6 cil., 320 CV",
+     "cilindrada_cc": 6728,
+     "potencia_hp": 316,
+     "torque_nm": 1100,
+     "norma_emisiones": "Euro VI (Proconve P8, HI-eSCR)",
+     "transmision": "Manual 8 vel. + 2 Low Eaton FTS 16108 LL",
+     "traccion": "6x4",
+     "pbt_kg": 27190,
+     "carga_util_kg": 19960,
+     "remolque_kg": 44000,
+     "tanque_l": 275,
+     "neumaticos": "275/80 R22.5",
+     "velocidad_max_kmh": 96,
+     "plazas": 3,
+     "ancho_mm": 2450,
+     "modelo_real": "Iveco Tector 27-320 6x4",
+     "combustible": "Diésel",
+     "carroceria": "Chasis cabina",
+     "nota": "PDF con dos entre ejes (3.690 mm y 4.185/4.815 mm); la lista no indica cuál. Peso en orden de marcha 7.230-7.350 kg."
+    }
+   }
+  }
+ },
+ {
+  "marca": "Iveco",
+  "modelo": "S-WAY",
+  "versiones_con_huecos": [
+   {
+    "id": 176,
+    "version": "S-WAY 480 CV — 6x2 Suspensión Neumática",
+    "faltan": [
+     "peso_kg"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+     "carroceria": "Tractocamión",
+     "combustible": "Diésel",
+     "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+     "cilindrada_cc": 12900,
+     "potencia_hp": 473,
+     "torque_nm": 2450,
+     "norma_emisiones": "Euro VI (HI-eSCR)",
+     "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+     "traccion": "6x2",
+     "pbt_kg": 28200,
+     "remolque_kg": 60000,
+     "neumaticos": "295/80 R22.5 llantas de aluminio 8,25x22,5",
+     "plazas": 3,
+     "ancho_mm": 2490,
+     "velocidad_max_kmh": 90,
+     "nota": "Suspensión neumática (4 pulmones por eje)",
+     "entre_ejes_mm": 3200,
+     "largo_mm": 6749,
+     "tanque_l": 685
+    },
+    "ficha": "s-way-480-suspension-mecanica.pdf",
+    "txt": "Iveco S-WAY 175 (web).txt"
+   },
+   {
+    "id": 177,
+    "version": "S-WAY 480 CV (Europea) — 6x2 Suspensión Neumática",
+    "faltan": [
+     "entre_ejes_mm",
+     "largo_mm",
+     "peso_kg",
+     "tanque_l"
+    ],
+    "tiene": {
+     "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+     "carroceria": "Tractocamión",
+     "combustible": "Diésel",
+     "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+     "cilindrada_cc": 12900,
+     "potencia_hp": 473,
+     "torque_nm": 2450,
+     "norma_emisiones": "Euro VI (HI-eSCR)",
+     "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+     "traccion": "6x2",
+     "pbt_kg": 27200,
+     "remolque_kg": 60000,
+     "neumaticos": "295/80 R22.5",
+     "plazas": 3,
+     "ancho_mm": 2490,
+     "velocidad_max_kmh": 90,
+     "nota": "Versión 'Europea' de la lista: no hay ficha específica; se asume mecánica base de la S-Way 480 6x2 neumática. Sin datos propios verificados."
+    },
+    "ficha": "s-way-480-suspension-mecanica.pdf",
+    "txt": "Iveco S-WAY 175 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "S-WAY 480 CV — 6x2 Suspensión Mecánica": {
+    "id": 175,
+    "d": {
+     "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+     "carroceria": "Tractocamión",
+     "combustible": "Diésel",
+     "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+     "cilindrada_cc": 12900,
+     "potencia_hp": 473,
+     "torque_nm": 2450,
+     "norma_emisiones": "Euro VI (HI-eSCR)",
+     "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+     "traccion": "6x2",
+     "pbt_kg": 27200,
+     "remolque_kg": 60000,
+     "neumaticos": "295/80 R22.5 llantas de acero 8,25x22,5",
+     "plazas": 3,
+     "ancho_mm": 2490,
+     "velocidad_max_kmh": 120,
+     "nota": "Suspensión mecánica (ballestas)",
+     "entre_ejes_mm": 3500,
+     "largo_mm": 7156,
+     "peso_kg": 9060,
+     "tanque_l": 820
+    }
+   },
+   "S-WAY 480 CV — 6x2 Suspensión Neumática": {
+    "id": 176,
+    "d": {
+     "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+     "carroceria": "Tractocamión",
+     "combustible": "Diésel",
+     "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+     "cilindrada_cc": 12900,
+     "potencia_hp": 473,
+     "torque_nm": 2450,
+     "norma_emisiones": "Euro VI (HI-eSCR)",
+     "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+     "traccion": "6x2",
+     "pbt_kg": 28200,
+     "remolque_kg": 60000,
+     "neumaticos": "295/80 R22.5 llantas de aluminio 8,25x22,5",
+     "plazas": 3,
+     "ancho_mm": 2490,
+     "velocidad_max_kmh": 90,
+     "nota": "Suspensión neumática (4 pulmones por eje)",
+     "entre_ejes_mm": 3200,
+     "largo_mm": 6749,
+     "tanque_l": 685
+    }
+   },
+   "S-WAY 480 CV (Europea) — 6x2 Suspensión Neumática": {
+    "id": 177,
+    "d": {
+     "modelo_real": "Iveco S-Way 480 6x2 (Tractocamión)",
+     "carroceria": "Tractocamión",
+     "combustible": "Diésel",
+     "motor": "FPT Cursor 13 turbo 6 cil. en línea, 480 CV",
+     "cilindrada_cc": 12900,
+     "potencia_hp": 473,
+     "torque_nm": 2450,
+     "norma_emisiones": "Euro VI (HI-eSCR)",
+     "transmision": "Automatizada ZF TraXon 12TX2624 TD, 12 vel.",
+     "traccion": "6x2",
+     "pbt_kg": 27200,
+     "remolque_kg": 60000,
+     "neumaticos": "295/80 R22.5",
+     "plazas": 3,
+     "ancho_mm": 2490,
+     "velocidad_max_kmh": 90,
+     "nota": "Versión 'Europea' de la lista: no hay ficha específica; se asume mecánica base de la S-Way 480 6x2 neumática. Sin datos propios verificados."
+    }
+   }
+  }
+ },
+ {
+  "marca": "Farizon",
+  "modelo": "Mini Truck H9E",
+  "versiones_con_huecos": [
+   {
+    "id": 56,
+    "version": "H9E 8T chasis",
+    "faltan": [
+     "volumen_carga_m3"
+    ],
+    "tiene": {
+     "combustible": "Eléctrico",
+     "traccion": "4x2 (trasera)",
+     "carroceria": "Chasis cabina",
+     "plazas": 3,
+     "bateria_kwh": 106.95,
+     "potencia_hp": 174,
+     "torque_nm": 1500,
+     "autonomia_km": 260,
+     "autonomia_ciclo": "según fabricante",
+     "pbt_kg": 7995,
+     "entre_ejes_mm": 3360,
+     "ancho_mm": 2245,
+     "neumaticos": "215/75 R17.5",
+     "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km",
+     "nota": "Versión chasis: dimensiones del chasis 5.950x2.245x2.875 mm, peso en orden de marcha 3.500 kg, velocidad 90 km/h, precio CIF USD 33.900 (leasing 35.900)",
+     "largo_mm": 5950,
+     "alto_mm": 2875,
+     "peso_kg": 3500,
+     "carga_util_kg": 4495,
+     "velocidad_max_kmh": 90
+    },
+    "ficha": "Farizon H9E-8T catalogo.pdf",
+    "txt": "Farizon Mini Truck H9E 56 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "H9E 8T chasis": {
+    "id": 56,
+    "d": {
+     "combustible": "Eléctrico",
+     "traccion": "4x2 (trasera)",
+     "carroceria": "Chasis cabina",
+     "plazas": 3,
+     "bateria_kwh": 106.95,
+     "potencia_hp": 174,
+     "torque_nm": 1500,
+     "autonomia_km": 260,
+     "autonomia_ciclo": "según fabricante",
+     "pbt_kg": 7995,
+     "entre_ejes_mm": 3360,
+     "ancho_mm": 2245,
+     "neumaticos": "215/75 R17.5",
+     "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km",
+     "nota": "Versión chasis: dimensiones del chasis 5.950x2.245x2.875 mm, peso en orden de marcha 3.500 kg, velocidad 90 km/h, precio CIF USD 33.900 (leasing 35.900)",
+     "largo_mm": 5950,
+     "alto_mm": 2875,
+     "peso_kg": 3500,
+     "carga_util_kg": 4495,
+     "velocidad_max_kmh": 90
+    }
+   },
+   "H9E 8T": {
+    "id": 58,
+    "d": {
+     "combustible": "Eléctrico",
+     "traccion": "4x2 (trasera)",
+     "carroceria": "Camión liviano (caja)",
+     "plazas": 3,
+     "bateria_kwh": 106.95,
+     "potencia_hp": 174,
+     "torque_nm": 1500,
+     "autonomia_km": 260,
+     "autonomia_ciclo": "según fabricante",
+     "pbt_kg": 7995,
+     "entre_ejes_mm": 3360,
+     "ancho_mm": 2350,
+     "neumaticos": "215/75 R17.5",
+     "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km",
+     "nota": "Con caja (cargo box): vehículo 5.995x2.350x3.300 mm, caja 4.150x2.300x2.200 mm (~21 m3), peso en orden de marcha 3.380 kg, velocidad 85-90 km/h, leasing USD 52.500",
+     "largo_mm": 5995,
+     "alto_mm": 3300,
+     "peso_kg": 3380,
+     "carga_util_kg": 4615,
+     "volumen_carga_m3": 21,
+     "velocidad_max_kmh": 85
+    }
+   }
+  }
+ },
+ {
+  "marca": "JMC",
+  "modelo": "Grand Avenue",
+  "versiones_con_huecos": [
+   {
+    "id": 62,
+    "version": "4X2 MT Diesel",
+    "faltan": [
+     "carga_util_kg",
+     "peso_kg"
+    ],
+    "tiene": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+     "cilindrada_cc": 2296,
+     "potencia_hp": 177,
+     "norma_emisiones": "Euro VI",
+     "largo_mm": 5450,
+     "ancho_mm": 1935,
+     "alto_mm": 1872,
+     "entre_ejes_mm": 3270,
+     "tanque_l": 80,
+     "plazas": 5,
+     "puertas": 4,
+     "airbags": 4,
+     "garantia": "3 años o 100.000 km",
+     "caja_carga_mm": "1546 x 1595 x 546",
+     "traccion": "4x2",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    },
+    "ficha": "JMC Grand Avenue.pdf",
+    "txt": "JMC Grand Avenue 62 (web).txt"
+   },
+   {
+    "id": 63,
+    "version": "4X4 MT Diesel",
+    "faltan": [
+     "carga_util_kg",
+     "peso_kg"
+    ],
+    "tiene": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+     "cilindrada_cc": 2296,
+     "potencia_hp": 177,
+     "norma_emisiones": "Euro VI",
+     "largo_mm": 5450,
+     "ancho_mm": 1935,
+     "alto_mm": 1872,
+     "entre_ejes_mm": 3270,
+     "tanque_l": 80,
+     "plazas": 5,
+     "puertas": 4,
+     "airbags": 4,
+     "garantia": "3 años o 100.000 km",
+     "caja_carga_mm": "1546 x 1595 x 546",
+     "traccion": "4x4 con reductora y bloqueo de diferencial central",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    },
+    "ficha": "JMC Grand Avenue.pdf",
+    "txt": "JMC Grand Avenue 62 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "4X2 MT Diesel": {
+    "id": 62,
+    "d": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+     "cilindrada_cc": 2296,
+     "potencia_hp": 177,
+     "norma_emisiones": "Euro VI",
+     "largo_mm": 5450,
+     "ancho_mm": 1935,
+     "alto_mm": 1872,
+     "entre_ejes_mm": 3270,
+     "tanque_l": 80,
+     "plazas": 5,
+     "puertas": 4,
+     "airbags": 4,
+     "garantia": "3 años o 100.000 km",
+     "caja_carga_mm": "1546 x 1595 x 546",
+     "traccion": "4x2",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    }
+   },
+   "4X4 MT Diesel": {
+    "id": 63,
+    "d": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+     "cilindrada_cc": 2296,
+     "potencia_hp": 177,
+     "norma_emisiones": "Euro VI",
+     "largo_mm": 5450,
+     "ancho_mm": 1935,
+     "alto_mm": 1872,
+     "entre_ejes_mm": 3270,
+     "tanque_l": 80,
+     "plazas": 5,
+     "puertas": 4,
+     "airbags": 4,
+     "garantia": "3 años o 100.000 km",
+     "caja_carga_mm": "1546 x 1595 x 546",
+     "traccion": "4x4 con reductora y bloqueo de diferencial central",
+     "transmision": "Manual 6 vel. (Magna)",
+     "torque_nm": 400,
+     "neumaticos": "265/65 R17"
+    }
+   },
+   "4X4 AT Diesel": {
+    "id": 64,
+    "d": {
+     "carroceria": "Pick-up doble cabina",
+     "combustible": "Diésel",
+     "motor": "2.3 turbodiésel Ford Puma (JX4D23) 4 cil. common rail",
+     "cilindrada_cc": 2296,
+     "potencia_hp": 177,
+     "norma_emisiones": "Euro VI",
+     "largo_mm": 5450,
+     "ancho_mm": 1935,
+     "alto_mm": 1872,
+     "entre_ejes_mm": 3270,
+     "tanque_l": 80,
+     "plazas": 5,
+     "puertas": 4,
+     "airbags": 4,
+     "garantia": "3 años o 100.000 km",
+     "caja_carga_mm": "1546 x 1595 x 546",
+     "traccion": "4x4 con reductora y bloqueo de diferencial central",
+     "transmision": "Automática 8 vel. (ZF)",
+     "torque_nm": 445,
+     "neumaticos": "265/65 R18",
+     "peso_kg": 1825,
+     "carga_util_kg": 800
+    }
+   }
+  }
+ },
+ {
+  "marca": "JMC",
+  "modelo": "N720 2800",
+  "versiones_con_huecos": [
+   {
+    "id": 68,
+    "version": "Cabina simple Chasis Full",
+    "faltan": [
+     "caja_carga_mm",
+     "carga_util_kg",
+     "peso_kg"
+    ],
+    "tiene": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 2800,
+     "norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019"
+    },
+    "ficha": null,
+    "txt": "JMC N720 2800 68 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "Cabina simple Chasis Full": {
+    "id": 68,
+    "d": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 2800,
+     "norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019"
+    }
+   },
+   "Cabina simple Caja Full": {
+    "id": 69,
+    "d": {
+     "carroceria": "Camión liviano con caja",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 2800,
+     "norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019",
+     "caja_carga_mm": "3360 x 1940 x 380",
+     "carga_util_kg": 1910,
+     "peso_kg": 2365
+    }
+   }
+  }
+ },
+ {
+  "marca": "JMC",
+  "modelo": "N720 3360",
+  "versiones_con_huecos": [
+   {
+    "id": 70,
+    "version": "Cabina simple Medium Caja Full",
+    "faltan": [
+     "caja_carga_mm",
+     "peso_kg",
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 3360,
+     "largo_mm": 5995,
+     "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+     "potencia_hp": 107,
+     "torque_nm": 285,
+     "nombre_oficial": "Cabina simple Medium Caja Full",
+     "carga_util_kg": 3400
+    },
+    "ficha": null,
+    "txt": "JMC N720 3360 70 (web).txt"
+   },
+   {
+    "id": 71,
+    "version": "Cabina simple Wide Caja Full",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 3360,
+     "largo_mm": 5995,
+     "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+     "potencia_hp": 107,
+     "torque_nm": 285,
+     "nombre_oficial": "Cabina simple Wide Caja Full",
+     "carga_util_kg": 4435,
+     "peso_kg": 2565,
+     "caja_carga_mm": "4120 x 2140 x 440"
+    },
+    "ficha": null,
+    "txt": "JMC N720 3360 70 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "Cabina simple Medium Caja Full": {
+    "id": 70,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 3360,
+     "largo_mm": 5995,
+     "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+     "potencia_hp": 107,
+     "torque_nm": 285,
+     "nombre_oficial": "Cabina simple Medium Caja Full",
+     "carga_util_kg": 3400
+    }
+   },
+   "Cabina simple Wide Caja Full": {
+    "id": 71,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 3360,
+     "largo_mm": 5995,
+     "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+     "potencia_hp": 107,
+     "torque_nm": 285,
+     "nombre_oficial": "Cabina simple Wide Caja Full",
+     "carga_util_kg": 4435,
+     "peso_kg": 2565,
+     "caja_carga_mm": "4120 x 2140 x 440"
+    }
+   },
+   "Doble cabina Medium Caja Full": {
+    "id": 72,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ (base Isuzu) 4 cil. common rail intercooler",
+     "cilindrada_cc": 2771,
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "garantia": "3 años o 100.000 km",
+     "entre_ejes_mm": 3360,
+     "largo_mm": 5995,
+     "norma_emisiones": "Euro IV (versión actual); Euro III en el lanzamiento 2019",
+     "potencia_hp": 107,
+     "torque_nm": 285,
+     "nombre_oficial": "Doble cabina Medium Caja Full",
+     "carga_util_kg": 2285,
+     "peso_kg": 2615,
+     "caja_carga_mm": "3400 x 2140 x 440",
+     "plazas": 5
+    }
+   }
+  }
+ },
+ {
+  "marca": "JMC",
+  "modelo": "N822 VOLCADORA",
+  "versiones_con_huecos": [
+   {
+    "id": 81,
+    "version": "N822 Medium cabina simple volcadora",
+    "faltan": [
+     "caja_carga_mm"
+    ],
+    "tiene": {
+     "carroceria": "Camión volcador",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+     "cilindrada_cc": 2772,
+     "potencia_hp": 118,
+     "torque_nm": 325,
+     "norma_emisiones": "Euro V",
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "neumaticos": "7.0R16 10PR",
+     "garantia": "3 años sin límite de kilometraje",
+     "plazas": 2,
+     "entre_ejes_mm": 3360,
+     "alto_mm": 2260,
+     "pbt_kg": 6000,
+     "nombre_oficial": "Volcadora cabina simple JMT3054XTG25",
+     "peso_kg": 2680,
+     "carga_util_kg": 3320
+    },
+    "ficha": "JMC N822 Volcadora CS.pdf",
+    "txt": "JMC N822 VOLCADORA 81 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "N822 Medium cabina simple volcadora": {
+    "id": 81,
+    "d": {
+     "carroceria": "Camión volcador",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+     "cilindrada_cc": 2772,
+     "potencia_hp": 118,
+     "torque_nm": 325,
+     "norma_emisiones": "Euro V",
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "neumaticos": "7.0R16 10PR",
+     "garantia": "3 años sin límite de kilometraje",
+     "plazas": 2,
+     "entre_ejes_mm": 3360,
+     "alto_mm": 2260,
+     "pbt_kg": 6000,
+     "nombre_oficial": "Volcadora cabina simple JMT3054XTG25",
+     "peso_kg": 2680,
+     "carga_util_kg": 3320
+    }
+   },
+   "N822 Medium Doble cabina volcadora": {
+    "id": 82,
+    "d": {
+     "carroceria": "Camión volcador",
+     "combustible": "Diésel",
+     "motor": "2.8 turbodiésel JX493ZLQ5C (base Isuzu) 4 cil. Bosch",
+     "cilindrada_cc": 2772,
+     "potencia_hp": 118,
+     "torque_nm": 325,
+     "norma_emisiones": "Euro V",
+     "transmision": "Manual 5 vel.",
+     "traccion": "4x2 trasera, rueda trasera doble",
+     "neumaticos": "7.0R16 10PR",
+     "garantia": "3 años sin límite de kilometraje",
+     "plazas": 5,
+     "entre_ejes_mm": 3360,
+     "alto_mm": 2260,
+     "pbt_kg": 6000,
+     "nombre_oficial": "Volcadora doble cabina JMT3054XTSG25",
+     "peso_kg": 2760,
+     "carga_util_kg": 3240,
+     "caja_carga_mm": "3000 x 2000 x 400 (interna)"
+    }
+   }
+  }
+ },
+ {
+  "marca": "JMC",
+  "modelo": "NHR",
+  "versiones_con_huecos": [
+   {
+    "id": 83,
+    "version": "Cabina simple Chasis STD",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple chasis STD"
+    },
+    "ficha": null,
+    "txt": "JMC NHR 83 (web).txt"
+   },
+   {
+    "id": 84,
+    "version": "Cabina simple Chasis Full",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple chasis Full"
+    },
+    "ficha": null,
+    "txt": "JMC NHR 83 (web).txt"
+   },
+   {
+    "id": 85,
+    "version": "Cabina simple Caja STD",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple caja STD"
+    },
+    "ficha": null,
+    "txt": "JMC NHR 83 (web).txt"
+   },
+   {
+    "id": 86,
+    "version": "Cabina simple Caja Full",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple caja Full"
+    },
+    "ficha": null,
+    "txt": "JMC NHR 83 (web).txt"
+   },
+   {
+    "id": 87,
+    "version": "Cabina simple Box",
+    "faltan": [
+     "plazas"
+    ],
+    "tiene": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple Box"
+    },
+    "ficha": null,
+    "txt": "JMC NHR 83 (web).txt"
+   }
+  ],
+  "todas_las_versiones": {
+   "Cabina simple Chasis STD": {
+    "id": 83,
+    "d": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple chasis STD"
+    }
+   },
+   "Cabina simple Chasis Full": {
+    "id": 84,
+    "d": {
+     "carroceria": "Chasis cabina",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple chasis Full"
+    }
+   },
+   "Cabina simple Caja STD": {
+    "id": 85,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple caja STD"
+    }
+   },
+   "Cabina simple Caja Full": {
+    "id": 86,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple caja Full"
+    }
+   },
+   "Cabina simple Box": {
+    "id": 87,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Cabina simple Box"
+    }
+   },
+   "Doble cabina Caja": {
+    "id": 88,
+    "d": {
+     "carroceria": "Camión liviano",
+     "combustible": "Diésel",
+     "garantia": "3 años o 100.000 km",
+     "nombre_oficial": "Doble cabina caja",
+     "plazas": 5
+    }
+   }
+  }
+ }
+]

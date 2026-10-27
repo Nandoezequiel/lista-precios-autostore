@@ -1,0 +1,83 @@
+{
+ "59": {
+  "motor": "Eléctrico 50 kW"
+ },
+ "60": {
+  "motor": "Eléctrico síncrono de imanes permanentes 30 kW"
+ },
+ "68": {
+  "_eq": {
+   "seguridad": [],
+   "confort": [
+    "Aire acondicionado",
+    "Levantavidrios eléctricos",
+    "Cierre centralizado",
+    "Volante regulable en altura",
+    "Faros antiniebla delanteros"
+   ],
+   "multimedia": [
+    "Radio"
+   ]
+  }
+ },
+ "69": {
+  "_eq": {
+   "seguridad": [],
+   "confort": [
+    "Aire acondicionado",
+    "Levantavidrios eléctricos",
+    "Cierre centralizado",
+    "Volante regulable en altura",
+    "Faros antiniebla delanteros"
+   ],
+   "multimedia": [
+    "Radio"
+   ]
+  }
+ },
+ "70": {
+  "_eq": {
+   "seguridad": [],
+   "confort": [
+    "Aire acondicionado",
+    "Levantavidrios eléctricos",
+    "Cierre centralizado",
+    "Volante regulable en altura",
+    "Faros antiniebla delanteros"
+   ],
+   "multimedia": [
+    "Radio"
+   ]
+  }
+ },
+ "71": {
+  "_eq": {
+   "seguridad": [],
+   "confort": [
+    "Aire acondicionado",
+    "Levantavidrios eléctricos",
+    "Cierre centralizado",
+    "Volante regulable en altura",
+    "Faros antiniebla delanteros"
+   ],
+   "multimedia": [
+    "Radio"
+   ]
+  }
+ },
+ "72": {
+  "_eq": {
+   "seguridad": [],
+   "confort": [
+    "Aire acondicionado",
+    "Levantavidrios eléctricos",
+    "Cierre centralizado",
+    "Volante regulable en altura",
+    "Faros antiniebla delanteros"
+   ],
+   "multimedia": [
+    "Radio"
+   ]
+  }
+ }
+}

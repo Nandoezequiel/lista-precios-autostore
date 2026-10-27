@@ -20,9 +20,12 @@ def limpio(s): return re.sub(r'[<>:"/\\|?*]+', " ", s).strip()
 
 filas = json.loads(open(os.path.join(A, "datos.js"), encoding="utf-8").read().split("window.DATOS = ", 1)[1].rstrip().rstrip(";"))["filas"]
 specs, avisos = {}, []
+RES = {}   # huecos completados por versión (investigacion/huecos_*_resueltos.json): {id: {campo: valor | null = no aplica}}
+for r in glob.glob(os.path.join(INV, "huecos_*_resueltos.json")):
+    for k, v in json.load(open(r, encoding="utf-8")).items(): RES.setdefault(int(k), {}).update(v)
 for ruta in sorted(glob.glob(os.path.join(INV, "*.json"))):
     grupo = os.path.splitext(os.path.basename(ruta))[0]
-    if grupo == "filas_por_marca": continue
+    if grupo == "filas_por_marca" or grupo.startswith("huecos_"): continue
     desc = os.path.join(INV, "descargas", grupo)
     for m in json.load(open(ruta, encoding="utf-8")).get("modelos", []):
         fotos = []
@@ -49,10 +52,11 @@ for ruta in sorted(glob.glob(os.path.join(INV, "*.json"))):
         eq = m.get("equipamiento") or {}
         for i in ids:
             f = filas[i]
-            d = {**(m.get("comun") or {}), **((m.get("versiones") or {}).get(str(i)) or {})}
+            res = dict(RES.get(i, {})); eq_res = res.pop("_eq", None) or {}
+            d = {**(m.get("comun") or {}), **((m.get("versiones") or {}).get(str(i)) or {}), **res}
             e = {}
             for k in ("seguridad", "confort", "multimedia"):
-                vals = (eq.get("todas") or {}).get(k, []) + (eq.get(str(i)) or {}).get(k, [])
+                vals = (eq.get("todas") or {}).get(k, []) + (eq.get(str(i)) or {}).get(k, []) + (eq_res.get(k) or [])
                 e[k] = list(dict.fromkeys(v.strip() for v in vals if isinstance(v, str) and v.strip()))
             specs[f"{f['marca']}|{f['modelo']}|{f['version']}"] = dict(
                 d=d, eq=e, fotos=fotos, pdf=f.get("ficha") or (pdfs[0] if pdfs else None), txt=txt,

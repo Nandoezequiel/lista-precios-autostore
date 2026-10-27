@@ -1,0 +1,88 @@
+{
+ "43": {
+  "velocidad_max_kmh": 172,
+  "aceleracion_0_100_s": 7.6
+ },
+ "44": {
+  "velocidad_max_kmh": 172,
+  "aceleracion_0_100_s": 7.6
+ },
+ "45": {
+  "velocidad_max_kmh": 172,
+  "aceleracion_0_100_s": 7.6
+ },
+ "48": {
+  "carga_ac_kw": 11
+ },
+ "49": {
+  "carga_ac_kw": 11
+ },
+ "94": {
+  "autonomia_ciclo": "NEDC eléctrica 133 km; combinada 1.031 km",
+  "garantia": "5 años o 100.000 km (vehículo); batería 8 años o 120.000 km",
+  "cilindrada_cc": 1998
+ },
+ "95": {
+  "autonomia_ciclo": "NEDC eléctrica 131 km; combinada 1.031 km",
+  "garantia": "5 años o 100.000 km (vehículo); batería 8 años o 120.000 km",
+  "cilindrada_cc": 1998
+ },
+ "96": {
+  "plazas": 5,
+  "puertas": 4,
+  "baul_l": 500,
+  "tanque_l": 48,
+  "velocidad_max_kmh": 185
+ },
+ "97": {
+  "plazas": 5,
+  "puertas": 4,
+  "baul_l": 500,
+  "tanque_l": 48,
+  "velocidad_max_kmh": 185
+ },
+ "98": {
+  "tanque_l": 55
+ },
+ "99": {
+  "plazas": 4,
+  "baul_l": 104,
+  "carga_dc_kw": null
+ },
+ "127": {
+  "garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)"
+ },
+ "128": {
+  "garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)"
+ },
+ "129": {
+  "peso_kg": 1950,
+  "aceleracion_0_100_s": 8.5,
+  "consumo": "5,4 L/100 km NEDC",
+  "cilindrada_cc": 1500
+ },
+ "130": {
+  "peso_kg": 1980,
+  "aceleracion_0_100_s": 7.5
+ },
+ "132": {
+  "garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)",
+  "airbags": 6
+ },
+ "148": {
+  "motor": "Un motor eléctrico (single motor) 200 kW"
+ },
+ "178": {
+  "motor": "Dos motores: delantero de inducción 140 kW + trasero síncrono de imán permanente 210 kW (350 kW)",
+  "garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
+ },
+ "179": {
+  "garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
+ },
+ "180": {
+  "garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
+ },
+ "181": {
+  "motor": "Dos motores (delantero de inducción, trasero síncrono), 405 kW"
+ }
+}

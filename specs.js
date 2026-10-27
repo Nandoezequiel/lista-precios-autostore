@@ -188,7 +188,10 @@ window.SPECS = {
 "potencia_hp": 174,
 "torque_nm": 320,
 "autonomia_km": 133,
-"alto_mm": 1885
+"alto_mm": 1885,
+"autonomia_ciclo": "NEDC eléctrica 133 km; combinada 1.031 km",
+"garantia": "5 años o 100.000 km (vehículo); batería 8 años o 120.000 km",
+"cilindrada_cc": 1998
 },
 "eq": {
 "seguridad": [
@@ -279,7 +282,10 @@ window.SPECS = {
 "potencia_hp": 268,
 "torque_nm": 470,
 "autonomia_km": 131,
-"alto_mm": 1875
+"alto_mm": 1875,
+"autonomia_ciclo": "NEDC eléctrica 131 km; combinada 1.031 km",
+"garantia": "5 años o 100.000 km (vehículo); batería 8 años o 120.000 km",
+"cilindrada_cc": 1998
 },
 "eq": {
 "seguridad": [
@@ -369,7 +375,12 @@ window.SPECS = {
 "entre_ejes_mm": 2765,
 "traccion": "4x2",
 "airbags": 6,
-"neumaticos": "R17 (llantas de aleación 17\")"
+"neumaticos": "R17 (llantas de aleación 17\")",
+"plazas": 5,
+"puertas": 4,
+"baul_l": 500,
+"tanque_l": 48,
+"velocidad_max_kmh": 185
 },
 "eq": {
 "seguridad": [
@@ -443,7 +454,12 @@ window.SPECS = {
 "entre_ejes_mm": 2765,
 "traccion": "4x2",
 "airbags": 6,
-"neumaticos": "R18 (llantas de aleación 18\")"
+"neumaticos": "R18 (llantas de aleación 18\")",
+"plazas": 5,
+"puertas": 4,
+"baul_l": 500,
+"tanque_l": 48,
+"velocidad_max_kmh": 185
 },
 "eq": {
 "seguridad": [
@@ -527,7 +543,8 @@ window.SPECS = {
 "peso_kg": 1465,
 "baul_l": 350,
 "neumaticos": "245/45 R20",
-"airbags": 6
+"airbags": 6,
+"tanque_l": 55
 },
 "eq": {
 "seguridad": [
@@ -620,7 +637,10 @@ window.SPECS = {
 "peso_kg": 855,
 "neumaticos": "165/70 R14 (llantas de acero)",
 "puertas": 3,
-"airbags": 2
+"airbags": 2,
+"plazas": 4,
+"baul_l": 104,
+"carga_dc_kw": null
 },
 "eq": {
 "seguridad": [
@@ -796,7 +816,8 @@ window.SPECS = {
 "torque_nm": 320,
 "bateria_kwh": 67,
 "autonomia_km": 620,
-"autonomia_ciclo": "CLTC 620 km"
+"autonomia_ciclo": "CLTC 620 km",
+"cilindrada_cc": null
 },
 "eq": {
 "seguridad": [
@@ -1212,7 +1233,9 @@ window.SPECS = {
 "bateria_kwh": 50.6,
 "autonomia_km": 350,
 "autonomia_ciclo": "WLTP 350 km (web: 401 km NEDC)",
-"baul_l": 370
+"baul_l": 370,
+"velocidad_max_kmh": 172,
+"aceleracion_0_100_s": 7.6
 },
 "eq": {
 "seguridad": [
@@ -1296,7 +1319,9 @@ window.SPECS = {
 "bateria_kwh": 50.6,
 "autonomia_km": 350,
 "autonomia_ciclo": "WLTP 350 km (web: 401 km NEDC)",
-"baul_l": 370
+"baul_l": 370,
+"velocidad_max_kmh": 172,
+"aceleracion_0_100_s": 7.6
 },
 "eq": {
 "seguridad": [
@@ -1391,7 +1416,9 @@ window.SPECS = {
 "bateria_kwh": 58.9,
 "autonomia_km": 430,
 "autonomia_ciclo": "WLTP 430 km (web: 505 km NEDC)",
-"baul_l": 370
+"baul_l": 370,
+"velocidad_max_kmh": 172,
+"aceleracion_0_100_s": 7.6
 },
 "eq": {
 "seguridad": [
@@ -1691,7 +1718,8 @@ window.SPECS = {
 "plazas": 5,
 "puertas": 5,
 "airbags": 6,
-"garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+"garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km",
+"carga_ac_kw": 11
 },
 "eq": {
 "seguridad": [
@@ -1788,7 +1816,8 @@ window.SPECS = {
 "plazas": 5,
 "puertas": 5,
 "airbags": 6,
-"garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km"
+"garantia": "Vehículo 5 años o 150.000 km; batería 8 años o 150.000 km",
+"carga_ac_kw": 11
 },
 "eq": {
 "seguridad": [
@@ -2247,7 +2276,8 @@ window.SPECS = {
 "plazas": 5,
 "transmision": "Manual 6 vel.",
 "pbt_kg": 1740,
-"airbags": 4
+"airbags": 4,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2328,7 +2358,8 @@ window.SPECS = {
 "plazas": 5,
 "transmision": "Automática DCT 7 vel.",
 "pbt_kg": 1765,
-"airbags": 6
+"airbags": 6,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2415,7 +2446,8 @@ window.SPECS = {
 "ancho_mm": 1886,
 "alto_mm": 1730,
 "entre_ejes_mm": 2738,
-"airbags": 6
+"airbags": 6,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2512,7 +2544,12 @@ window.SPECS = {
 "ancho_mm": 1886,
 "alto_mm": 1730,
 "entre_ejes_mm": 2738,
-"airbags": 6
+"airbags": 6,
+"bateria_kwh": 19,
+"baul_l": 407,
+"despeje_mm": 145,
+"tanque_l": 61,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2610,7 +2647,12 @@ window.SPECS = {
 "ancho_mm": 1886,
 "alto_mm": 1730,
 "entre_ejes_mm": 2738,
-"airbags": 6
+"airbags": 6,
+"bateria_kwh": 19,
+"baul_l": 407,
+"despeje_mm": 145,
+"tanque_l": 61,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2714,7 +2756,9 @@ window.SPECS = {
 "despeje_mm": 172,
 "velocidad_max_kmh": 180,
 "aceleracion_0_100_s": 4.9,
-"airbags": 6
+"airbags": 6,
+"entre_ejes_mm": 2738,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2810,7 +2854,8 @@ window.SPECS = {
 "potencia_hp": 322,
 "torque_nm": 540,
 "consumo": "6,0 L/100 km mixto",
-"neumaticos": "265/60 R18"
+"neumaticos": "265/60 R18",
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2879,7 +2924,8 @@ window.SPECS = {
 "potencia_hp": 359,
 "torque_nm": 760,
 "consumo": "6,3 L/100 km mixto",
-"neumaticos": "255/60 R19"
+"neumaticos": "255/60 R19",
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -2955,7 +3001,8 @@ window.SPECS = {
 "entre_ejes_mm": 2750,
 "airbags": 6,
 "garantia": "5 años o 150.000 km",
-"consumo": "9,1 L/100 km mixto (10,6 ciudad / 7,4 carretera)"
+"consumo": "9,1 L/100 km mixto (10,6 ciudad / 7,4 carretera)",
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -3037,7 +3084,8 @@ window.SPECS = {
 "entre_ejes_mm": 2750,
 "airbags": 6,
 "garantia": "5 años o 150.000 km",
-"consumo": "9,1 L/100 km mixto (10,6 ciudad / 7,4 carretera)"
+"consumo": "9,1 L/100 km mixto (10,6 ciudad / 7,4 carretera)",
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -3114,7 +3162,11 @@ window.SPECS = {
 "baul_l": 422,
 "garantia": "5 años o 150.000 km",
 "plazas": 5,
-"consumo": "Carga rápida en ~20 min"
+"consumo": "Carga rápida en ~20 min",
+"puertas": 5,
+"potencia_hp": 201,
+"torque_nm": 260,
+"bateria_kwh": 58.3
 },
 "eq": {
 "seguridad": [
@@ -3184,7 +3236,11 @@ window.SPECS = {
 "baul_l": 422,
 "garantia": "5 años o 150.000 km",
 "plazas": 5,
-"consumo": "Carga rápida en ~20 min"
+"consumo": "Carga rápida en ~20 min",
+"puertas": 5,
+"potencia_hp": 201,
+"torque_nm": 260,
+"bateria_kwh": 58.3
 },
 "eq": {
 "seguridad": [
@@ -3276,7 +3332,8 @@ window.SPECS = {
 "bateria_kwh": 61.13,
 "autonomia_km": 420,
 "autonomia_ciclo": "WLTP (NEDC 500 km)",
-"peso_kg": 1580
+"peso_kg": 1580,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -3365,7 +3422,8 @@ window.SPECS = {
 "neumaticos": "235/70 R16",
 "plazas": 5,
 "garantia": "3 años o 100.000 km",
-"airbags": 2
+"airbags": 2,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3497,7 +3555,8 @@ window.SPECS = {
 "combustible": "Diésel",
 "potencia_hp": 161,
 "torque_nm": 400,
-"traccion": "4x2"
+"traccion": "4x2",
+"puertas": 2
 },
 "eq": {
 "seguridad": [
@@ -3563,7 +3622,8 @@ window.SPECS = {
 "combustible": "Nafta",
 "potencia_hp": 190,
 "torque_nm": 360,
-"traccion": "4x4"
+"traccion": "4x4",
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3630,7 +3690,8 @@ window.SPECS = {
 "combustible": "Nafta",
 "potencia_hp": 190,
 "torque_nm": 360,
-"airbags": 2
+"airbags": 2,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3706,7 +3767,8 @@ window.SPECS = {
 "combustible": "Nafta",
 "potencia_hp": 190,
 "torque_nm": 360,
-"airbags": 4
+"airbags": 4,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3787,7 +3849,8 @@ window.SPECS = {
 "combustible": "Diésel",
 "potencia_hp": 161,
 "torque_nm": 400,
-"airbags": 2
+"airbags": 2,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3863,7 +3926,8 @@ window.SPECS = {
 "combustible": "Diésel",
 "potencia_hp": 161,
 "torque_nm": 400,
-"airbags": 4
+"airbags": 4,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -3947,7 +4011,8 @@ window.SPECS = {
 "combustible": "Diésel",
 "potencia_hp": 161,
 "torque_nm": 400,
-"airbags": 6
+"airbags": 6,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -4023,7 +4088,8 @@ window.SPECS = {
 "airbags": 7,
 "potencia_hp": 147,
 "garantia": "3 años o 100.000 km",
-"plazas": 5
+"plazas": 5,
+"puertas": 5
 },
 "eq": {
 "seguridad": [
@@ -4109,7 +4175,9 @@ window.SPECS = {
 "despeje_mm": 214,
 "airbags": 6,
 "garantia": "3 años o 100.000 km",
-"peso_kg": 1450
+"peso_kg": 1450,
+"puertas": 5,
+"cilindrada_cc": 1499
 },
 "eq": {
 "seguridad": [
@@ -4203,7 +4271,9 @@ window.SPECS = {
 "despeje_mm": 214,
 "airbags": 6,
 "garantia": "3 años o 100.000 km",
-"peso_kg": 1460
+"peso_kg": 1460,
+"puertas": 5,
+"cilindrada_cc": 1499
 },
 "eq": {
 "seguridad": [
@@ -4303,7 +4373,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "traccion": "4x2 (2WD)",
 "peso_kg": 1686,
-"ancho_mm": 1862
+"ancho_mm": 1862,
+"plazas": 7,
+"puertas": 5,
+"torque_nm": 245
 },
 "eq": {
 "seguridad": [
@@ -4380,7 +4453,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "traccion": "4WD",
 "peso_kg": 1686,
-"ancho_mm": 1862
+"ancho_mm": 1862,
+"plazas": 7,
+"puertas": 5,
+"torque_nm": 245
 },
 "eq": {
 "seguridad": [
@@ -4458,7 +4534,9 @@ window.SPECS = {
 "traccion": "4x2 (2WD)",
 "plazas": 5,
 "peso_kg": 1686,
-"ancho_mm": 1862
+"ancho_mm": 1862,
+"puertas": 5,
+"torque_nm": 245
 },
 "eq": {
 "seguridad": [
@@ -4536,7 +4614,9 @@ window.SPECS = {
 "traccion": "4WD",
 "plazas": 7,
 "peso_kg": 1757,
-"ancho_mm": 1862
+"ancho_mm": 1862,
+"puertas": 5,
+"torque_nm": 245
 },
 "eq": {
 "seguridad": [
@@ -4629,7 +4709,8 @@ window.SPECS = {
 "peso_kg": 1975,
 "pbt_kg": 3000,
 "carga_util_kg": 1025,
-"remolque_kg": 3500
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -4716,7 +4797,8 @@ window.SPECS = {
 "peso_kg": 2056,
 "pbt_kg": 3000,
 "carga_util_kg": 1035,
-"remolque_kg": 3500
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -4805,7 +4887,8 @@ window.SPECS = {
 "peso_kg": 1690,
 "pbt_kg": 2635,
 "carga_util_kg": 945,
-"remolque_kg": 1800
+"remolque_kg": 1800,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -4874,7 +4957,23 @@ window.SPECS = {
 "entre_ejes_mm": 3130,
 "plazas": 5,
 "airbags": 7,
-"garantia": "3 años o 100.000 km"
+"garantia": "3 años o 100.000 km",
+"combustible": "Nafta",
+"motor": "2.4 nafta 4G64",
+"cilindrada_cc": 2351,
+"potencia_hp": 126,
+"torque_nm": 194,
+"transmision": "Manual 5 vel.",
+"traccion": "4x4 (4WD)",
+"velocidad_max_kmh": 152,
+"neumaticos": "265/70 R16",
+"despeje_mm": 212,
+"alto_mm": 1775,
+"peso_kg": 1690,
+"pbt_kg": 2635,
+"carga_util_kg": 945,
+"remolque_kg": 1800,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -4954,7 +5053,8 @@ window.SPECS = {
 "peso_kg": 1800,
 "pbt_kg": 2910,
 "carga_util_kg": 1110,
-"remolque_kg": 3500
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -5038,7 +5138,8 @@ window.SPECS = {
 "peso_kg": 1975,
 "pbt_kg": 3000,
 "carga_util_kg": 1025,
-"remolque_kg": 3500
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -5125,7 +5226,8 @@ window.SPECS = {
 "peso_kg": 2056,
 "pbt_kg": 3000,
 "carga_util_kg": 1035,
-"remolque_kg": 3500
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -5199,7 +5301,23 @@ window.SPECS = {
 "entre_ejes_mm": 3130,
 "plazas": 5,
 "airbags": 7,
-"garantia": "3 años o 100.000 km"
+"garantia": "3 años o 100.000 km",
+"combustible": "Diésel",
+"motor": "2.4 diésel biturbo 4N16",
+"cilindrada_cc": 2442,
+"potencia_hp": 201,
+"torque_nm": 470,
+"transmision": "Automática 6 vel.",
+"traccion": "4x4 (Super Select 4WD-II)",
+"velocidad_max_kmh": 180,
+"neumaticos": "265/60 R18",
+"despeje_mm": 222,
+"alto_mm": 1795,
+"peso_kg": 2056,
+"pbt_kg": 3000,
+"carga_util_kg": 1035,
+"remolque_kg": 3500,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -5275,7 +5393,12 @@ window.SPECS = {
 "motor": "2.3 diésel turbo 4 cil. 130 CV",
 "potencia_hp": 128,
 "cilindrada_cc": 2287,
-"nota": "Versión de acceso, rueda simple"
+"nota": "Versión de acceso, rueda simple",
+"torque_nm": 320,
+"norma_emisiones": "Euro V",
+"velocidad_max_kmh": 130,
+"airbags": 2,
+"neumaticos": "195/75 R16"
 },
 "eq": {
 "seguridad": [
@@ -5384,7 +5507,11 @@ window.SPECS = {
 "tanque_l": 100,
 "neumaticos": "195/75 R16 rodado doble",
 "velocidad_max_kmh": 130,
-"airbags": 2
+"airbags": 2,
+"pbt_kg": 5300,
+"carga_util_kg": 2580,
+"peso_kg": 2720,
+"remolque_kg": 8000
 },
 "eq": {
 "seguridad": [
@@ -5578,7 +5705,11 @@ window.SPECS = {
 "remolque_kg": 6500,
 "tanque_l": 70,
 "velocidad_max_kmh": 130,
-"neumaticos": "225/75 R16"
+"neumaticos": "225/75 R16",
+"alto_mm": 2195,
+"carga_util_kg": 1510,
+"peso_kg": 1990,
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5636,7 +5767,8 @@ window.SPECS = {
 "remolque_kg": 8840,
 "tanque_l": 100,
 "velocidad_max_kmh": 120,
-"neumaticos": "215/75 R17.5"
+"neumaticos": "215/75 R17.5",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5695,7 +5827,8 @@ window.SPECS = {
 "tanque_l": 100,
 "velocidad_max_kmh": 90,
 "neumaticos": "215/75 R17.5",
-"nota": "Cabina doble (nº de plazas no figura en el PDF)"
+"nota": "Cabina doble (nº de plazas no figura en el PDF)",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5752,7 +5885,11 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 11-190",
 "combustible": "Diésel",
 "carroceria": "Chasis cabina",
-"nota": "Entre ejes 4.455 mm (el PDF trae también 3.900 mm: largo 6.414, carga útil 7.400, peso 3.200 kg)"
+"nota": "Entre ejes 4.455 mm (el PDF trae también 3.900 mm: largo 6.414, carga útil 7.400, peso 3.200 kg)",
+"ancho_mm": 2181,
+"alto_mm": 2507,
+"despeje_mm": 233,
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5813,7 +5950,8 @@ window.SPECS = {
 "plazas": 3,
 "modelo_real": "Iveco Tector 15-210 (150E21 Attack)",
 "combustible": "Diésel",
-"carroceria": "Chasis cabina"
+"carroceria": "Chasis cabina",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5872,7 +6010,8 @@ window.SPECS = {
 "plazas": 3,
 "modelo_real": "Iveco Tector 17-210 (170E21 Attack)",
 "combustible": "Diésel",
-"carroceria": "Chasis cabina"
+"carroceria": "Chasis cabina",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5931,7 +6070,8 @@ window.SPECS = {
 "plazas": 3,
 "modelo_real": "Iveco Tector 17-280 (170E28) cabina simple",
 "combustible": "Diésel",
-"carroceria": "Chasis cabina"
+"carroceria": "Chasis cabina",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -5993,7 +6133,8 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 17-280 (170E28) cabina con dormitorio / doble",
 "combustible": "Diésel",
 "carroceria": "Chasis cabina",
-"nota": "Cabina con dormitorio (larga). El PDF solo trae un juego de cifras (cabina corta); el largo/peso con cabina doble y 5.670 mm entre ejes pueden variar"
+"nota": "Cabina con dormitorio (larga). El PDF solo trae un juego de cifras (cabina corta); el largo/peso con cabina doble y 5.670 mm entre ejes pueden variar",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6095,7 +6236,9 @@ window.SPECS = {
 "plazas": 3,
 "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
 "combustible": "Diésel",
-"traccion": "4x2"
+"traccion": "4x2",
+"carga_util_kg": null,
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6159,7 +6302,9 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 17-300 Tracto Autoshift (170E30T)",
 "combustible": "Diésel",
 "traccion": "6x2",
-"nota": "La lista indica 6x2; el PDF del sitio solo cubre el 170E30T 4x2 (Autoshift). Datos del 6x2 (PBT, CMT) no verificados."
+"nota": "La lista indica 6x2; el PDF del sitio solo cubre el 170E30T 4x2 (Autoshift). Datos del 6x2 (PBT, CMT) no verificados.",
+"carga_util_kg": null,
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6224,7 +6369,8 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
 "combustible": "Diésel",
 "carroceria": "Chasis cabina",
-"nota": "Cabina corta (simple): carga útil 18.140 kg, peso en orden de marcha 6.960 kg, tanque 275 L"
+"nota": "Cabina corta (simple): carga útil 18.140 kg, peso en orden de marcha 6.960 kg, tanque 275 L",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6289,7 +6435,8 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 24-280 (240E28) 6x2",
 "combustible": "Diésel",
 "carroceria": "Chasis cabina",
-"nota": "Cabina larga (doble/dormitorio): peso en orden de marcha 7.157 kg; 2 tanques de 275 L; espejos calefaccionados y telecomandados, climatizador, neblineros, cierre centralizado"
+"nota": "Cabina larga (doble/dormitorio): peso en orden de marcha 7.157 kg; 2 tanques de 275 L; espejos calefaccionados y telecomandados, climatizador, neblineros, cierre centralizado",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6356,7 +6503,8 @@ window.SPECS = {
 "plazas": 3,
 "modelo_real": "Iveco Tector 24-280 RSU automático (240E28 RSU) 6x2",
 "combustible": "Diésel",
-"nota": "Peso en orden de marcha 6.730 kg (del. 3.300 / tras. 3.430); eje trasero tándem 18.000 kg"
+"nota": "Peso en orden de marcha 6.730 kg (del. 3.300 / tras. 3.430); eje trasero tándem 18.000 kg",
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6407,7 +6555,12 @@ window.SPECS = {
 "modelo_real": "Iveco Tector 27-320 6x4",
 "combustible": "Diésel",
 "carroceria": "Chasis cabina",
-"nota": "PDF con dos entre ejes (3.690 mm y 4.185/4.815 mm); la lista no indica cuál. Peso en orden de marcha 7.230-7.350 kg."
+"nota": "PDF con dos entre ejes (3.690 mm y 4.185/4.815 mm); la lista no indica cuál. Peso en orden de marcha 7.230-7.350 kg.",
+"alto_mm": 2830,
+"entre_ejes_mm": 3690,
+"largo_mm": 7766,
+"peso_kg": 7230,
+"volumen_carga_m3": null
 },
 "eq": {
 "seguridad": [
@@ -6465,7 +6618,8 @@ window.SPECS = {
 "largo_mm": 6749,
 "tanque_l": 685,
 "velocidad_max_kmh": 90,
-"nota": "La lista dice 'Tracto Doble (Brasil)': versión brasileña de la S-Way 480 6x2 neumática; se usó la ficha de Uruguay como base"
+"nota": "La lista dice 'Tracto Doble (Brasil)': versión brasileña de la S-Way 480 6x2 neumática; se usó la ficha de Uruguay como base",
+"carga_util_kg": null
 },
 "eq": {
 "seguridad": [
@@ -6530,7 +6684,9 @@ window.SPECS = {
 "entre_ejes_mm": 3500,
 "largo_mm": 7156,
 "peso_kg": 9060,
-"tanque_l": 820
+"tanque_l": 820,
+"alto_mm": 3897,
+"carga_util_kg": null
 },
 "eq": {
 "seguridad": [
@@ -6599,7 +6755,9 @@ window.SPECS = {
 "nota": "Suspensión neumática (4 pulmones por eje)",
 "entre_ejes_mm": 3200,
 "largo_mm": 6749,
-"tanque_l": 685
+"tanque_l": 685,
+"alto_mm": 3887,
+"carga_util_kg": null
 },
 "eq": {
 "seguridad": [
@@ -6671,7 +6829,8 @@ window.SPECS = {
 "plazas": 3,
 "ancho_mm": 2490,
 "velocidad_max_kmh": 90,
-"nota": "Versión 'Europea' de la lista: no hay ficha específica; se asume mecánica base de la S-Way 480 6x2 neumática. Sin datos propios verificados."
+"nota": "Versión 'Europea' de la lista: no hay ficha específica; se asume mecánica base de la S-Way 480 6x2 neumática. Sin datos propios verificados.",
+"carga_util_kg": null
 },
 "eq": {
 "seguridad": [
@@ -6742,7 +6901,8 @@ window.SPECS = {
 "carga_ac_kw": 6.6,
 "traccion": "4x2 (trasera)",
 "neumaticos": "195/70 R15 LT",
-"garantia": "4 años o 100.000 km; batería 5 años o 200.000 km"
+"garantia": "4 años o 100.000 km; batería 5 años o 200.000 km",
+"motor": "Motor eléctrico trasero, 100 kW"
 },
 "eq": {
 "seguridad": [
@@ -6844,7 +7004,9 @@ window.SPECS = {
 "neumaticos": "215/75 R16C",
 "consumo": "29 kWh/100 km WLTP",
 "garantia": "4 años o 100.000 km; batería 5 años o 200.000 km",
-"nota": "Versión 11,82 m3 (catálogo; el Autoblog 2024 y otras tablas dicen 11,22). Existe también la versión 7,92 m3: largo 4.990, alto 2.180, entre ejes 3.100, carga útil 1.265, peso 2.235 kg, 320 km"
+"nota": "Versión 11,82 m3 (catálogo; el Autoblog 2024 y otras tablas dicen 11,22). Existe también la versión 7,92 m3: largo 4.990, alto 2.180, entre ejes 3.100, carga útil 1.265, peso 2.235 kg, 320 km",
+"motor": "Eléctrico síncrono de imán permanente, 170 kW",
+"transmision": "Automática (reductor de 1 vel.)"
 },
 "eq": {
 "seguridad": [
@@ -6929,7 +7091,10 @@ window.SPECS = {
 "alto_mm": 2875,
 "peso_kg": 3500,
 "carga_util_kg": 4495,
-"velocidad_max_kmh": 90
+"velocidad_max_kmh": 90,
+"volumen_carga_m3": null,
+"motor": "Eléctrico síncrono de imanes permanentes, 130 kW",
+"transmision": "Reductor fijo"
 },
 "eq": {
 "seguridad": [
@@ -7002,7 +7167,9 @@ window.SPECS = {
 "peso_kg": 3380,
 "carga_util_kg": 4615,
 "volumen_carga_m3": 21,
-"velocidad_max_kmh": 85
+"velocidad_max_kmh": 85,
+"motor": "Eléctrico síncrono de imanes permanentes, 130 kW",
+"transmision": "Reductor fijo"
 },
 "eq": {
 "seguridad": [
@@ -7074,7 +7241,8 @@ window.SPECS = {
 "largo_mm": 5995,
 "neumaticos": "205/75 R17.5",
 "volumen_carga_m3": 18.3,
-"garantia": "3 años o 100.000 km; batería 5 años o 200.000 km"
+"garantia": "3 años o 100.000 km; batería 5 años o 200.000 km",
+"motor": "Eléctrico síncrono de imán permanente, 140 kW"
 },
 "eq": {
 "seguridad": [
@@ -7140,7 +7308,8 @@ window.SPECS = {
 "peso_kg": 1030,
 "velocidad_max_kmh": 110,
 "neumaticos": "165/65 R15",
-"precio_usd": 15990
+"precio_usd": 15990,
+"motor": "Eléctrico 50 kW"
 },
 "eq": {
 "seguridad": [
@@ -7223,7 +7392,8 @@ window.SPECS = {
 "peso_kg": 890,
 "velocidad_max_kmh": 100,
 "neumaticos": "165/65 R14",
-"precio_usd": 13990
+"precio_usd": 13990,
+"motor": "Eléctrico síncrono de imanes permanentes 30 kW"
 },
 "eq": {
 "seguridad": [
@@ -7815,12 +7985,21 @@ window.SPECS = {
 "traccion": "4x2 trasera",
 "garantia": "3 años o 100.000 km",
 "entre_ejes_mm": 2800,
-"norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019"
+"norma_emisiones": "Euro IV (versión actual); Euro II en el lanzamiento 2019",
+"caja_carga_mm": null
 },
 "eq": {
 "seguridad": [],
-"confort": [],
-"multimedia": []
+"confort": [
+"Aire acondicionado",
+"Levantavidrios eléctricos",
+"Cierre centralizado",
+"Volante regulable en altura",
+"Faros antiniebla delanteros"
+],
+"multimedia": [
+"Radio"
+]
 },
 "fotos": [],
 "pdf": null,
@@ -7851,8 +8030,16 @@ window.SPECS = {
 },
 "eq": {
 "seguridad": [],
-"confort": [],
-"multimedia": []
+"confort": [
+"Aire acondicionado",
+"Levantavidrios eléctricos",
+"Cierre centralizado",
+"Volante regulable en altura",
+"Faros antiniebla delanteros"
+],
+"multimedia": [
+"Radio"
+]
 },
 "fotos": [],
 "pdf": null,
@@ -7885,8 +8072,16 @@ window.SPECS = {
 },
 "eq": {
 "seguridad": [],
-"confort": [],
-"multimedia": []
+"confort": [
+"Aire acondicionado",
+"Levantavidrios eléctricos",
+"Cierre centralizado",
+"Volante regulable en altura",
+"Faros antiniebla delanteros"
+],
+"multimedia": [
+"Radio"
+]
 },
 "fotos": [],
 "pdf": null,
@@ -7925,8 +8120,16 @@ window.SPECS = {
 },
 "eq": {
 "seguridad": [],
-"confort": [],
-"multimedia": []
+"confort": [
+"Aire acondicionado",
+"Levantavidrios eléctricos",
+"Cierre centralizado",
+"Volante regulable en altura",
+"Faros antiniebla delanteros"
+],
+"multimedia": [
+"Radio"
+]
 },
 "fotos": [],
 "pdf": null,
@@ -7966,8 +8169,16 @@ window.SPECS = {
 },
 "eq": {
 "seguridad": [],
-"confort": [],
-"multimedia": []
+"confort": [
+"Aire acondicionado",
+"Levantavidrios eléctricos",
+"Cierre centralizado",
+"Volante regulable en altura",
+"Faros antiniebla delanteros"
+],
+"multimedia": [
+"Radio"
+]
 },
 "fotos": [],
 "pdf": null,
@@ -8721,7 +8932,8 @@ window.SPECS = {
 "autonomia_ciclo": "WLTP",
 "carga_dc_kw": 140,
 "peso_kg": 1780,
-"consumo": "17,2 kWh/100 km"
+"consumo": "17,2 kWh/100 km",
+"garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)"
 },
 "eq": {
 "seguridad": [
@@ -8806,7 +9018,8 @@ window.SPECS = {
 "autonomia_ciclo": "WLTP",
 "carga_dc_kw": 168,
 "peso_kg": 1845,
-"consumo": "17,3 kWh/100 km"
+"consumo": "17,3 kWh/100 km",
+"garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)"
 },
 "eq": {
 "seguridad": [
@@ -8884,7 +9097,7 @@ window.SPECS = {
 "velocidad_max_kmh": 170,
 "airbags": 7,
 "neumaticos": "245/45 R20",
-"garantia": "4 años o 100.000 km (vehículo) / 8 años o 160.000 km (batería)",
+"garantia": "3 años/100.000 km; motor y batería 5 años/100.000 km (Uruguay)",
 "combustible": "Eléctrico de autonomía extendida (REEV)",
 "motor": "Eléctrico + generador 1.5 L inyección directa",
 "potencia_hp": 212,
@@ -8894,7 +9107,11 @@ window.SPECS = {
 "tanque_l": 50,
 "carga_ac_kw": 6.6,
 "carga_dc_kw": 65,
-"baul_l": 450
+"baul_l": 400,
+"peso_kg": 1950,
+"aceleracion_0_100_s": 8.5,
+"consumo": "5,4 L/100 km NEDC",
+"cilindrada_cc": 1500
 },
 "eq": {
 "seguridad": [
@@ -8965,14 +9182,19 @@ window.SPECS = {
 "velocidad_max_kmh": 170,
 "airbags": 7,
 "neumaticos": "245/45 R20",
-"garantia": "4 años o 100.000 km (vehículo) / 8 años o 160.000 km (batería)",
+"garantia": "3 años/100.000 km; motor y batería 5 años/100.000 km (Uruguay)",
 "combustible": "Eléctrico",
 "potencia_hp": 215,
 "bateria_kwh": 69.9,
 "autonomia_km": 480,
 "autonomia_ciclo": "NEDC",
 "carga_ac_kw": 11,
-"carga_dc_kw": 84
+"carga_dc_kw": 84,
+"baul_l": 400,
+"motor": "Motor eléctrico síncrono de imanes permanentes (PMSM)",
+"tanque_l": null,
+"peso_kg": 1980,
+"aceleracion_0_100_s": 7.5
 },
 "eq": {
 "seguridad": [
@@ -9129,7 +9351,9 @@ window.SPECS = {
 "traccion": "RWD (trasera)",
 "neumaticos": "245/45 R21 (del.) / 255/45 R21 (tras.)",
 "carga_ac_kw": 6.6,
-"carga_dc_kw": 35
+"carga_dc_kw": 35,
+"garantia": "3 años o 100.000 km (vehículo); 5 años o 100.000 km (motor eléctrico y batería)",
+"airbags": 6
 },
 "eq": {
 "seguridad": [
@@ -9201,7 +9425,8 @@ window.SPECS = {
 "carga_dc_kw": 120,
 "carga_ac_kw": 11,
 "neumaticos": "235/55 R18",
-"peso_kg": 1855
+"peso_kg": 1855,
+"motor": "Un motor eléctrico (single motor) 200 kW"
 },
 "eq": {
 "seguridad": [
@@ -9701,7 +9926,9 @@ window.SPECS = {
 "peso_kg": 2025,
 "consumo": "19,5 kWh/100 km",
 "neumaticos": "255/45 R20",
-"velocidad_max_kmh": 202
+"velocidad_max_kmh": 202,
+"motor": "Dos motores: delantero de inducción 140 kW + trasero síncrono de imán permanente 210 kW (350 kW)",
+"garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
 },
 "eq": {
 "seguridad": [
@@ -9779,7 +10006,12 @@ window.SPECS = {
 "torque_nm": 440,
 "autonomia_km": 570,
 "autonomia_ciclo": "WLTP",
-"aceleracion_0_100_s": 6.2
+"aceleracion_0_100_s": 6.2,
+"bateria_kwh": 87.5,
+"consumo": "15,4 kWh/100 km",
+"neumaticos": "255/45 R20",
+"velocidad_max_kmh": 200,
+"garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
 },
 "eq": {
 "seguridad": [
@@ -9856,7 +10088,11 @@ window.SPECS = {
 "potencia_hp": 255,
 "autonomia_km": 435,
 "autonomia_ciclo": "WLTP",
-"aceleracion_0_100_s": 6.6
+"aceleracion_0_100_s": 6.6,
+"bateria_kwh": 66,
+"torque_nm": 440,
+"velocidad_max_kmh": 200,
+"garantia": "5 años o 120.000 km (vehículo); batería 8 años o 160.000 km"
 },
 "eq": {
 "seguridad": [
@@ -9937,7 +10173,8 @@ window.SPECS = {
 "baul_l": 660,
 "carga_ac_kw": 11,
 "carga_dc_kw": 300,
-"consumo": "21,3 kWh/100 km"
+"consumo": "21,3 kWh/100 km",
+"motor": "Dos motores (delantero de inducción, trasero síncrono), 405 kW"
 },
 "eq": {
 "seguridad": [
@@ -10592,7 +10829,8 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "neumaticos": "215/60 R17",
 "peso_kg": 1321,
-"pbt_kg": 1719
+"pbt_kg": 1719,
+"consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
 },
 "eq": {
 "seguridad": [
@@ -10676,7 +10914,8 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "neumaticos": "215/60 R17",
 "peso_kg": 1328,
-"pbt_kg": 1726
+"pbt_kg": 1726,
+"consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
 },
 "eq": {
 "seguridad": [
@@ -10760,7 +10999,8 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "neumaticos": "225/45 R19",
 "peso_kg": 1362,
-"pbt_kg": 1760
+"pbt_kg": 1760,
+"consumo": "17,0 km/L mixto (etiqueta eficiencia UNIT 1130 Uruguay)"
 },
 "eq": {
 "seguridad": [
@@ -10849,7 +11089,8 @@ window.SPECS = {
 "alto_mm": 1465,
 "despeje_mm": 138,
 "peso_kg": 1092,
-"pbt_kg": 1532
+"pbt_kg": 1532,
+"entre_ejes_mm": 2620
 },
 "eq": {
 "seguridad": [
@@ -10923,7 +11164,8 @@ window.SPECS = {
 "alto_mm": 1465,
 "despeje_mm": 138,
 "peso_kg": 1114,
-"pbt_kg": 1532
+"pbt_kg": 1532,
+"entre_ejes_mm": 2620
 },
 "eq": {
 "seguridad": [
@@ -11000,7 +11242,8 @@ window.SPECS = {
 "alto_mm": 1465,
 "despeje_mm": 138,
 "peso_kg": 1104,
-"pbt_kg": 1644
+"pbt_kg": 1644,
+"entre_ejes_mm": 2620
 },
 "eq": {
 "seguridad": [
@@ -11072,7 +11315,8 @@ window.SPECS = {
 "tanque_l": 41,
 "airbags": 6,
 "garantia": "3 años o 100.000 km",
-"transmision": "Automática CVT Xtronic"
+"transmision": "Automática CVT Xtronic",
+"entre_ejes_mm": 2620
 },
 "eq": {
 "seguridad": [
@@ -11141,7 +11385,8 @@ window.SPECS = {
 "baul_l": 482,
 "alto_mm": 1475,
 "peso_kg": 1148,
-"pbt_kg": 1644
+"pbt_kg": 1644,
+"entre_ejes_mm": 2620
 },
 "eq": {
 "seguridad": [
@@ -12093,7 +12338,8 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "18,3 km/L combinado (ficha MX)",
 "neumaticos": "215/50 R17",
-"peso_kg": 1416
+"peso_kg": 1416,
+"despeje_mm": 119
 },
 "eq": {
 "seguridad": [
@@ -12167,7 +12413,8 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "18,3 km/L combinado (ficha MX)",
 "neumaticos": "215/45 R18",
-"peso_kg": 1453
+"peso_kg": 1453,
+"despeje_mm": 119
 },
 "eq": {
 "seguridad": [
@@ -12251,7 +12498,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "~5,3 L/100 km combinado (ficha MX 18,8 km/L)",
 "transmision": "Manual 5 vel.",
-"neumaticos": "195/65 R15"
+"neumaticos": "195/65 R15",
+"alto_mm": 1470,
+"entre_ejes_mm": 2620,
+"peso_kg": 1110
 },
 "eq": {
 "seguridad": [
@@ -12313,7 +12563,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "~5,3 L/100 km combinado (ficha MX 18,8 km/L)",
 "transmision": "Automática CVT Xtronic",
-"neumaticos": "205/55 R16"
+"neumaticos": "205/55 R16",
+"alto_mm": 1470,
+"entre_ejes_mm": 2620,
+"peso_kg": 1131
 },
 "eq": {
 "seguridad": [
@@ -12375,7 +12628,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "~5,3 L/100 km combinado (ficha MX 18,8 km/L)",
 "transmision": "Automática CVT Xtronic",
-"neumaticos": "205/55 R16"
+"neumaticos": "205/55 R16",
+"alto_mm": 1470,
+"entre_ejes_mm": 2620,
+"peso_kg": 1147
 },
 "eq": {
 "seguridad": [
@@ -12437,7 +12693,10 @@ window.SPECS = {
 "garantia": "3 años o 100.000 km",
 "consumo": "~5,3 L/100 km combinado (ficha MX 18,8 km/L)",
 "transmision": "Automática CVT Xtronic",
-"neumaticos": "205/50 R17"
+"neumaticos": "205/50 R17",
+"alto_mm": 1475,
+"entre_ejes_mm": 2620,
+"peso_kg": 1170
 },
 "eq": {
 "seguridad": [
@@ -12512,7 +12771,8 @@ window.SPECS = {
 "peso_kg": 1708,
 "pbt_kg": 2550,
 "carga_util_kg": 842,
-"remolque_kg": 1588
+"remolque_kg": 1588,
+"puertas": 2
 },
 "eq": {
 "seguridad": [
@@ -12585,7 +12845,8 @@ window.SPECS = {
 "pbt_kg": 2550,
 "carga_util_kg": 762,
 "remolque_kg": 1588,
-"airbags": 6
+"airbags": 6,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -12661,7 +12922,8 @@ window.SPECS = {
 "pbt_kg": 2550,
 "carga_util_kg": 749,
 "remolque_kg": 1588,
-"airbags": 6
+"airbags": 6,
+"puertas": 4
 },
 "eq": {
 "seguridad": [
@@ -12737,7 +12999,8 @@ window.SPECS = {
 "pbt_kg": 2990,
 "carga_util_kg": 1135,
 "remolque_kg": 3500,
-"airbags": 6
+"airbags": 6,
+"puertas": 4
 },
 "eq": {
 "seguridad": [

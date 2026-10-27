@@ -1,0 +1,14 @@
+# huecos_jmc2 notas
+- 59 JMEV 3: motor = "Eléctrico 50 kW" (ficha oficial JMEV 3.pdf, p.1: tipo Eléctrico, 50 kW/67 hp). Carga: la ficha solo dice "AC+DC, CCS2"; kW (50 DC / 5,5 AC) solo en Autoblog 2026 (1 fuente) -> sin dato. Baúl, despeje, 0-100: sin dato (ficha da 0-50 en 4,5 s, no 0-100).
+- 60 JMEV 2: motor = síncrono de imanes permanentes 30 kW (JMEV 2.pdf p.1). Carga AC 3,3 kW solo en Autoblog (1 fuente) -> sin dato. Resto sin dato.
+- 61 JMEV GSE: motor/carga solo en Autoblog 2024 (1 fuente, no oficial) -> sin dato.
+- 62-66 Grand Avenue: despeje/baúl/vel.máx/0-100/consumo no figuran en ficha PDF; Autoblog UY 08/2026 dice que el fabricante no publica consumo/0-100/vel.máx. Autocosmos CO da 203 km/h (otro mercado, 1 fuente) -> sin dato. Despeje 62-64: sin dato.
+- 67 L536: largo/ancho/tanque/consumo no están en ficha ni en prensa -> sin dato.
+- 68-72 N720 (sin equipamiento): _eq completado con 2 fuentes que coinciden (Autoblog 2019 https://www.autoblog.com.uy/2019/07/lanzamiento-jmc-n720.html y Montevideo Portal https://www.montevideo.com.uy/Airbag/Lanzamiento-JMC-presenta-su-nueva-linea-de-camiones-livianos-N720-uc723726): A/C, levantavidrios y bloqueo eléctricos, volante regulable, faros antiniebla, radio. Seguridad vacío: cinturones 3 puntas solo en Autoblog (1 fuente); Autoblog dice que NO tienen airbags/ABS/ESC. Datos del lanzamiento 2019. Plazas, potencia/torque actuales (92 cv Euro II en 2019 vs 107 hp Euro IV actual), largo/ancho/alto (la prensa da "ancho de chasis" y "alto de cabina", no totales), neumáticos (solo "16 pulgadas"), PBT, tanque, consumo: sin dato. Largo 5460 (68/69) solo 1 fuente.
+- 73 Carrying EV: largo/ancho/carga kW sin dato (1 sola fuente o ninguna).
+- 74,75,77,81,82 N822: largo/ancho/tanque/consumo no están en las fichas PDF oficiales -> sin dato.
+- 76, 78, 79, 80 N822 (sin equipamiento): no hay ficha de esas versiones. Las fichas oficiales de 2850 Caja/Volcadoras muestran cinturón 3 puntas, calefacción, A/C, ABS, pero no se copió a estas versiones (regla). La página jmc.com.uy/modelos/n822-2850-caja muestra una lista de equipamiento tipo auto (ESC, airbags, cámara 360) que parece plantilla genérica: no usada. Sugerencia al revisor: aplicar a 76/78-80 si acepta "común a la familia N822". Medidas/pesos/PBT sin dato (las URLs de 3360 y 2850 DC dan 404).
+- 83-88 NHR (sin equipamiento): sin ficha; solo Montevideo Portal dice diésel + ABS para Box y Doble cabina caja (1 fuente) -> sin dato; _eq no completado.
+- 89 N800 Wrecker: no hay fuentes -> sin dato.
+- 90 Workshop: tanque/consumo no están en la ficha -> sin dato.
+- 91 N720 volcadora DC: sin fuentes propias -> sin dato; _eq no completado.

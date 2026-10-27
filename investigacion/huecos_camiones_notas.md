@@ -1,0 +1,18 @@
+# Huecos camiones - notas
+- Iveco Daily 154 (30-130): torque 320, Euro V, 130 km/h, 2 airbags, 195/75 R16 de Autoblog UY 2021 (lanzamiento; fuente de prensa, no ficha vigente). Sin dato: peso, remolque, despeje (la ficha 30-160 es otro modelo).
+- Daily 155: sin dato airbags/garantia/nota (la ficha PDF no los trae).
+- Daily 156: PBT 5300, carga util 2580, peso 2720, CMT 8000 (PDF daily-furgon-55-170, pag. 2, leido a ojo). Sin dato: despeje (el PDF solo da "altura del chasis al suelo"), garantia.
+- Daily 157/158: velocidad max y garantia no figuran en la ficha del minibus. Sin dato.
+- Daily 159: alto cabina 2195, carga util 1510, peso orden de marcha 1990 (PDF); volumen null (chasis). Sin dato despeje, garantia.
+- Daily 160/161: volumen null (chasis cabina). 161 plazas sin verificar en ficha: sin dato. Despeje sin dato.
+- Tector 162: ancho max trasero 2181, alto cabina 2507, despeje 233 (= "vano libre delantero" del PDF, interpretacion), volumen null (chasis). 
+- Tector 163-166, 170-172: volumen null (chasis sin carroceria). Sin dato: airbags, despeje, garantia, plazas de 166, carga util/remolque/norma de 172 (ficha RSU no los da).
+- Tector 167 (17-280 RSU 4x2): no existe ficha de ese camion (solo 240E28 RSU 6x2, otro camion); no se completo nada.
+- Tector 168/169 (tractos): carga util null (no aplica a tracto); volumen null. 169 es 6x2 y la ficha solo cubre el 4x2: sin completar mas.
+- Tector 173 (27-320): alto cabina 2830 (comun a todas las variantes); entre ejes 3690 / largo 7766 / peso 7230 corresponden a la variante de 3690 mm, la misma con la que ya estaba cargada la carga util 19960 (la lista no aclara entre ejes: verificar). Volumen null.
+- S-Way 176: peso en vacio no figura en la ficha neumatica. 177 (Europea): sin ficha propia, sin dato (peso, entre ejes, largo, tanque).
+- Farizon H9E 56 (chasis): volumen null (no tiene caja).
+- JMC Grand Avenue 62/63: tara 1825 y carga 800 solo conocidas para la 4x4 AT; la web da 870 kg de carga sin version. Sin dato.
+- JMC N720 2800 (68): caja_carga null (chasis). Carga util/peso: datos 2019 de otra generacion y con caja; sin dato.
+- JMC N720 3360 (70/71), NHR (83-87): plazas sin fuente. Peso y caja de 70 sin dato en las fuentes.
+- JMC N822 volcadora 81: medidas de caja de la cabina simple no publicadas (jmc.com.uy y PDF). Sin dato.
